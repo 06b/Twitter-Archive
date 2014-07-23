@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_07 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -259,7 +259,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dan Kubb",
@@ -276,7 +276,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "230121541692698625",
   "text" : "RT @dkubb: It's funny that companies will trust devs with million dollar systems, yet not trust them enough to work well from home",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -754,7 +754,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Snook",
@@ -815,7 +815,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -972,7 +972,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "teleject",
       "protected" : false,
       "id_str" : "34543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1782058245\/photo_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483748387074740224\/mhaynl3r_normal.jpeg",
       "id" : 34543,
       "verified" : false
     }
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "228182512243970048",
   "text" : "RT @zeldman: \u2729 Proposed standards for the protection of user-generated content. http:\/\/t.co\/e05M1fub",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1055,7 +1055,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421007790031646720\/wc3Wtcul_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476494929946877952\/zUGvWrIJ_normal.png",
       "id" : 61133,
       "verified" : true
     }
@@ -1094,7 +1094,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "228181997779046400",
   "text" : "RT @adactio: 1. Treat our data like it matters.\n2. No upload without download.\n3. If you close a system, support data rescue.\n\nhttp:\/\/t. ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1116,7 +1116,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "adactio",
       "protected" : false,
       "id_str" : "11250",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458195714196008961\/I3LwKels_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477375893183033344\/xPth0Xgn_normal.png",
       "id" : 11250,
       "verified" : true
     }
@@ -1180,7 +1180,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ryan cayabyab",
@@ -1216,7 +1216,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jin Yang",
@@ -1267,7 +1267,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marc Grabanski",
@@ -1340,7 +1340,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1362,7 +1362,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marc Grabanski",
@@ -1513,7 +1513,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "227480294003978241",
   "text" : "RT @makeusabrew: Just completed a form where the DOB input was a text field. You know what? It was the quickest &amp; easiest such field ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1632,7 +1632,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420242074198224896\/xrbpXC7x_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477931840750108672\/1RetXHl-_normal.jpeg",
       "id" : 202571491,
       "verified" : false
     }
@@ -1649,7 +1649,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1671,7 +1671,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448456142990356481\/2Dy0_15N_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489453224743936001\/g3M3S12r_normal.jpeg",
       "id" : 34163,
       "verified" : false
     }
@@ -1815,7 +1815,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "226393696319459328",
   "text" : "RT @idiot: Had a spare half hour, so I wrote a blog article: http:\/\/t.co\/AgPmnk8x",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1837,7 +1837,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420242074198224896\/xrbpXC7x_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477931840750108672\/1RetXHl-_normal.jpeg",
       "id" : 202571491,
       "verified" : false
     }
@@ -1962,7 +1962,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "226334031107743744",
   "text" : "RT @Ideopia: Museum of Endangered Sounds: for weirdos who miss cassettes, typewriters and tamagotchis (R.I.P. best toy ever) http:\/\/t.co ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neven Mrgan",
@@ -2249,7 +2249,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "226004928890544128",
   "text" : "RT @cindyli: Dear internet, we &lt;3 you too!Come work with us! http:\/\/t.co\/ZOH5AQ3X  #dearinternet #dearmarissamayer @flickr",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Flickr",
@@ -2283,7 +2283,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "cindyli",
       "protected" : false,
       "id_str" : "29733",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1803788750\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480102443070406658\/z6BEwT4c_normal.jpeg",
       "id" : 29733,
       "verified" : false
     }
@@ -2418,7 +2418,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2532,7 +2532,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "5530472",
       "id" : 5530472
     }, {
-      "name" : "beyonce_taco_war",
+      "name" : "Benjamin W. Smith",
       "screen_name" : "benjaminws",
       "indices" : [ 61, 72 ],
       "id_str" : "14188391",
@@ -2554,7 +2554,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "beyonce_taco_war",
+        "name" : "Benjamin W. Smith",
         "screen_name" : "benjaminws",
         "indices" : [ 45, 56 ],
         "id_str" : "14188391",
@@ -2579,7 +2579,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -2596,7 +2596,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2640,7 +2640,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ryan cayabyab",
@@ -2673,7 +2673,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2711,7 +2711,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "223887012468506624",
   "text" : "RT @laurenmae4: Hahaha. http:\/\/t.co\/Nvbv3qfz",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2784,7 +2784,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -2801,7 +2801,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2845,7 +2845,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "223506871217168388",
   "text" : "RT @trammell: Waitwhaaaaat?! \"Mitt Romney used to dress up like a police officer in college and pull people over. For fun.\" http:\/\/t.co\/ ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2867,7 +2867,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "trammell",
       "protected" : false,
       "id_str" : "666073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2856914747\/07a3e543f28d2b732a0161e99358503a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479778647444692992\/inahCiKL_normal.png",
       "id" : 666073,
       "verified" : false
     }
@@ -2884,7 +2884,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Francisco Inchauste",
@@ -3005,7 +3005,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421007790031646720\/wc3Wtcul_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476494929946877952\/zUGvWrIJ_normal.png",
       "id" : 61133,
       "verified" : true
     }
@@ -3159,7 +3159,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iya Rockiez.",
+      "name" : "Queer.",
       "screen_name" : "simileolu",
       "indices" : [ 3, 13 ],
       "id_str" : "66268421",
@@ -3196,11 +3196,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 220458955963502592,
     "created_at" : "2012-07-04 10:08:05 +0000",
     "user" : {
-      "name" : "Iya Rockiez.",
+      "name" : "Queer.",
       "screen_name" : "simileolu",
       "protected" : false,
       "id_str" : "66268421",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463823032427896833\/HXzqKuHD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/485339912850661376\/pLW35hpe_normal.jpeg",
       "id" : 66268421,
       "verified" : false
     }
@@ -3239,7 +3239,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "222676022406025217",
   "text" : "RT @danwellman: I look forward to the day when I visit this site and it says 'Use' on every single one :) \nhttp:\/\/t.co\/j8ViDukR",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3378,7 +3378,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dee Sadler",
@@ -3435,7 +3435,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lea Verou",
@@ -3463,7 +3463,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "222115434781081600",
   "text" : "RT @LeaVerou: Useful for debugging: safeQuery - Warns you when jQuery calls return zero elements http:\/\/t.co\/mTS4S05O via @ReallyGoodTeam",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Really Good",
@@ -3491,7 +3491,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "LeaVerou",
       "protected" : false,
       "id_str" : "22199970",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1716232467\/avatar-logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476531283862884353\/x0m-0MlO_normal.png",
       "id" : 22199970,
       "verified" : false
     }
@@ -3528,7 +3528,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "221305299754160128",
   "text" : "RT @obiwankimberly: I really want to slap designers who rasterize type or flatten layers before sending me their PSDs. #webdeveloperproblems",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3548,7 +3548,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3221391493\/da9a647b3a3bdf3021d4c606cf6b6b7a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481220472772640768\/p-cYc6kO_normal.jpeg",
       "id" : 279713,
       "verified" : false
     }
@@ -3565,7 +3565,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3620,7 +3620,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Smashing Magazine",
@@ -3642,7 +3642,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "221250544457621504",
   "text" : "RT @smashingmag: The Codeless Code: An illustrated collection of fables concerning the art and philosophy of software development - http ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3664,7 +3664,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -3681,7 +3681,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Paulina Tsolova",
@@ -3807,7 +3807,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3888,7 +3888,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -4060,7 +4060,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tristan Phipps",
@@ -4080,7 +4080,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "220570765723041792",
   "text" : "RT @pixelplaster: Dear Adobe. I think I've fallen in love with Fireworks CS6. Finally it seems stable. Thank you for fixing this. &lt;3  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4224,7 +4224,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -4241,7 +4241,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4263,7 +4263,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ryan cayabyab",
@@ -4314,7 +4314,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4339,7 +4339,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ryan cayabyab",
@@ -4372,7 +4372,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ryan cayabyab",
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -4560,7 +4560,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -4671,7 +4671,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -4732,7 +4732,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "codylindley",
       "protected" : false,
       "id_str" : "12078532",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000218069250\/91222084dc1959ba699460c09c132032_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477412903155298305\/14hcFjcJ_normal.jpeg",
       "id" : 12078532,
       "verified" : false
     }

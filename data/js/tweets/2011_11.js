@@ -133,7 +133,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "142046043620642816",
   "text" : "RT @codinghorror: \"I recommend that you do what you love because you love doing it.\" http:\/\/t.co\/t4FydfBn",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -665,7 +665,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "141537043334430721",
   "text" : "RT @danwellman: Been building an HTML email all day now. Just about ready to kill someone",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -824,7 +824,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "161035197",
       "id" : 161035197
     }, {
-      "name" : "Phil Haack",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 14, 22 ],
       "id_str" : "768197",
@@ -841,7 +841,7 @@ Grailbird.data.tweets_2011_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Phil Haack",
+        "name" : "Boom Haackalacka",
         "screen_name" : "haacked",
         "indices" : [ 0, 8 ],
         "id_str" : "768197",
@@ -1098,7 +1098,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "happycog",
       "protected" : false,
       "id_str" : "14117434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000821505941\/5cefe509ae6cf7afa7700b003cb0148c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477235063436742656\/ZzyJRrlT_normal.png",
       "id" : 14117434,
       "verified" : false
     }
@@ -1531,7 +1531,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138975786148433920",
   "text" : "RT @estellevw: For those of you visiting relatives for Thanksgiving, can you do all us web developers a favor? Please update their brows ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1548,7 +1548,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3460226226\/dc4dfaa2d2e11080c28e8502ca5eaea0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477485068416348161\/GLTpZptD_normal.jpeg",
       "id" : 6320592,
       "verified" : false
     }
@@ -1723,7 +1723,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Office",
@@ -2178,7 +2178,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448456142990356481\/2Dy0_15N_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489453224743936001\/g3M3S12r_normal.jpeg",
       "id" : 34163,
       "verified" : false
     }
@@ -2577,7 +2577,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000727389627\/46dacd92037d23a7203bdc20188b8141_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477104207162789889\/bxs3MU5L_normal.jpeg",
       "id" : 18247541,
       "verified" : false
     }
@@ -3006,7 +3006,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421007790031646720\/wc3Wtcul_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476494929946877952\/zUGvWrIJ_normal.png",
       "id" : 61133,
       "verified" : true
     }
@@ -3149,7 +3149,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -3210,7 +3210,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448194726743666688\/LWYLtdTA_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489313061539282945\/1Op85d07_normal.jpeg",
       "id" : 82433,
       "verified" : false
     }
@@ -3264,7 +3264,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "A List Apart",
@@ -3806,7 +3806,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "136070499821301760",
   "text" : "RT @JackieBurtnette: i dont understand why some girls get mad at their boyfriends for playing video games?? just shut up & play too",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3823,7 +3823,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "JackieBurtnette",
       "protected" : false,
       "id_str" : "82238630",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468136042084962304\/zJyLTijW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480766411417993217\/BA6Hs3B8_normal.jpeg",
       "id" : 82238630,
       "verified" : false
     }
@@ -3890,7 +3890,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4011,7 +4011,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "benschwarz",
       "protected" : false,
       "id_str" : "14431882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000787427480\/a5782116df96280751a9e453e392db51_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477417312081813504\/ow7QC_8h_normal.jpeg",
       "id" : 14431882,
       "verified" : false
     }
@@ -4215,7 +4215,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1668242002\/greg_santorini-sm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489198422432301056\/evokeR9__normal.png",
       "id" : 662533,
       "verified" : false
     }
@@ -4388,7 +4388,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Harry Roberts",
@@ -4439,7 +4439,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "AIGA Cincinnati",
@@ -4495,7 +4495,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -4512,7 +4512,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "sergio A. garcia",
@@ -4546,7 +4546,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4769,7 +4769,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Eccra",
       "protected" : false,
       "id_str" : "17231467",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000775135113\/d830541441862c2bad4f88a0bc376687_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476882160599965697\/AFPFufqa_normal.jpeg",
       "id" : 17231467,
       "verified" : false
     }
@@ -5230,7 +5230,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134309503524016128",
   "text" : "RT @mollydotcom: Flash folks: Start strategizing now. Grow skills, find new answers, shift perspective. Part of our jobs in Web is to ad ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5247,7 +5247,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "mollydotcom",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461869327449198592\/75Bh-roW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489418738861486080\/vQdQ8EzI_normal.jpeg",
       "id" : 5827,
       "verified" : false
     }
@@ -5322,7 +5322,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134300727387496449",
   "text" : "RT @aigacincinnati: Watch this video and tell us you aren't psyched for #InkBleeds3 - http:\/\/t.co\/bABKH7VC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5347,7 +5347,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -5795,7 +5795,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -5812,7 +5812,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5868,7 +5868,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6591,7 +6591,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "EFF",
@@ -6948,7 +6948,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "132451372980383745",
   "text" : "RT @Durf: Search for \"do a barrel roll\" at http:\/\/t.co\/FpXJbAuH. Marvel at engineers that create this crap while gutting real search fun ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7021,7 +7021,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -7220,7 +7220,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "132153446756397057",
   "text" : "RT @AuthorSupport: FACT: Creative people need to nap throughout the day to recharge.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7669,7 +7669,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7691,7 +7691,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "sergio A. garcia",

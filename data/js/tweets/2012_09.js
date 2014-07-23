@@ -412,7 +412,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dirk Ginader",
+      "name" : "\u300CDirk Ginader\u300D",
       "screen_name" : "ginader",
       "indices" : [ 3, 11 ],
       "id_str" : "756927",
@@ -449,7 +449,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 250649972771540992,
     "created_at" : "2012-09-25 17:36:25 +0000",
     "user" : {
-      "name" : "Dirk Ginader",
+      "name" : "\u300CDirk Ginader\u300D",
       "screen_name" : "ginader",
       "protected" : false,
       "id_str" : "756927",
@@ -581,7 +581,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "jmspool",
       "protected" : false,
       "id_str" : "849101",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440837870354313216\/NIn73B9s_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482467787927871488\/3pK8cQzW_normal.jpeg",
       "id" : 849101,
       "verified" : false
     }
@@ -752,7 +752,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "hakimel",
       "protected" : false,
       "id_str" : "73339662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439336191226155008\/M7vJ9Jlb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480609011834699776\/Pp4FRN74_normal.png",
       "id" : 73339662,
       "verified" : false
     }
@@ -954,62 +954,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 95, 115 ],
-      "url" : "http:\/\/t.co\/qB0LhCsa",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/wiki\/IBM_Simon",
-      "display_url" : "en.wikipedia.org\/wiki\/IBM_Simon"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "249724112640032769",
-  "text" : "RT @MikkoVartio: IBM Simon, world's 1st smartphone (1994) had rounded corners and touch screen http:\/\/t.co\/qB0LhCsa",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 78, 98 ],
-        "url" : "http:\/\/t.co\/qB0LhCsa",
-        "expanded_url" : "http:\/\/en.wikipedia.org\/wiki\/IBM_Simon",
-        "display_url" : "en.wikipedia.org\/wiki\/IBM_Simon"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "249574463807561730",
-    "text" : "IBM Simon, world's 1st smartphone (1994) had rounded corners and touch screen http:\/\/t.co\/qB0LhCsa",
-    "id" : 249574463807561730,
-    "created_at" : "2012-09-22 18:22:43 +0000",
-    "user" : {
-      "name" : "Mikko Vartio",
-      "screen_name" : "vart_io",
-      "protected" : false,
-      "id_str" : "33465793",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436498749628493824\/k-QH-y53_normal.png",
-      "id" : 33465793,
-      "verified" : false
-    }
-  },
-  "id" : 249724112640032769,
-  "created_at" : "2012-09-23 04:17:22 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425341177533976576\/tqhDkUh__normal.jpeg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1121,7 +1066,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1138,7 +1083,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1417,7 +1362,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "nikicastello",
       "protected" : false,
       "id_str" : "17324222",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431906322137616385\/bZJLVdd-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484222588629946370\/INOOJLS6_normal.jpeg",
       "id" : 17324222,
       "verified" : false
     }
@@ -1660,7 +1605,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "grigs",
       "protected" : false,
       "id_str" : "5774462",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452104382322970624\/XKWXiZvo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478672550969348096\/AOKArwPW_normal.jpeg",
       "id" : 5774462,
       "verified" : false
     }
@@ -1845,7 +1790,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248042147427799040",
   "text" : "RT @brad_frost: Rigid waterfall processes needs to fucking die.  UX &gt; Visual &gt; Development &gt; Implementation doesn't work for  # ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mr. Andrew Clarke",
@@ -1874,7 +1819,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1995,7 +1940,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "247757651541360642",
   "text" : "RT @brad_frost: The design process is weird and complicated because it involves people, who are weird and complicated. @markboulton #sma ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mark Boulton",
@@ -2021,7 +1966,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2090,7 +2035,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2107,7 +2052,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ethan Marcotte",
@@ -2141,7 +2086,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -2202,7 +2147,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2593,7 +2538,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -2735,7 +2680,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "odannyboy",
       "protected" : false,
       "id_str" : "3252",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454024532152438784\/dcc73oro_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477328081057619968\/rKaB5tsc_normal.jpeg",
       "id" : 3252,
       "verified" : false
     }
@@ -2752,7 +2697,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2865,7 +2810,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244088257137213440",
   "text" : "RT @lukelewis: When the name of your magazine is 'Where', you really ought to be more careful with the layout http:\/\/t.co\/4WN39qg9",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2887,7 +2832,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "lukelewis",
       "protected" : false,
       "id_str" : "18309653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000815614478\/9af5352735cf928ab95dcb1b74dc1ab9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481837211592056832\/2dnA1-ew_normal.jpeg",
       "id" : 18309653,
       "verified" : true
     }
@@ -3007,7 +2952,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243806655328956416",
   "text" : "RT @peterritchie: \"Your Dropbox password has expired because you haven't changed it in a while\".  If you don't leak passwords, I don't n ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3107,7 +3052,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243693012750848000",
   "text" : "RT @smashingmag: A good reminder: it's often a good idea to have autofocus=\"on\" for Web forms - http:\/\/t.co\/hWOY2Olj",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3129,7 +3074,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -3188,7 +3133,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Haack",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 3, 11 ],
       "id_str" : "768197",
@@ -3215,11 +3160,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 243491975075094528,
     "created_at" : "2012-09-05 23:33:05 +0000",
     "user" : {
-      "name" : "Phil Haack",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469576733935824896\/HT4zp2ll_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473578835569831936\/jCxdP8Gl_normal.jpeg",
       "id" : 768197,
       "verified" : false
     }
@@ -3421,7 +3366,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243345904873136129",
   "text" : "RT @floopily: \"I don't give a shit about IE.... until I have to fix things for it\" ~ @idiot",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Visual Idiot",
@@ -3595,7 +3540,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1668242002\/greg_santorini-sm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489198422432301056\/evokeR9__normal.png",
       "id" : 662533,
       "verified" : false
     }
@@ -3656,7 +3601,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "lukew",
       "protected" : false,
       "id_str" : "13889622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2924627654\/c28337b0191a03064ba289db29564dc8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477610446917103616\/_cjU3_ga_normal.png",
       "id" : 13889622,
       "verified" : false
     }
@@ -3695,7 +3640,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "242971541099405312",
   "text" : "RT @smashingmag: A quick reminder about the different mobile input types for virtual keyboards on mobile devices - http:\/\/t.co\/jmccXcuf  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3717,7 +3662,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }

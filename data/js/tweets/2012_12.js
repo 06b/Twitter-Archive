@@ -175,7 +175,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -234,7 +234,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -345,7 +345,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -682,7 +682,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Deidre Evans",
@@ -781,7 +781,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -891,7 +891,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "282973800923029504",
   "text" : "RT @DaveHogue: When the word \"design\" is used instead of \"decoration,\" it just makes it harder to explain what I do. I do not decorate - ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "DaveHogue",
       "protected" : false,
       "id_str" : "18826637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000724969693\/2db2b8dc55bc633782e544a8b1dda35d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477454035285311489\/cUnxdNI4_normal.jpeg",
       "id" : 18826637,
       "verified" : false
     }
@@ -976,7 +976,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dan Rubin",
@@ -1054,7 +1054,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "282498807600644096",
   "text" : "RT @JensenClan88: America had 11,000 gun-related homicides in 2008. Japan had 11. Does anyone know if they play video games in Japan?",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1122,7 +1122,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dudley Storey",
@@ -1150,7 +1150,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "282161709316206594",
   "text" : "RT @dudleystorey: 18-min doc on the future of interaction design and UX from some of the industry's best and brightest: http:\/\/t.co\/6AHr ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Smashing Magazine",
@@ -1283,7 +1283,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1339,7 +1339,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -1403,7 +1403,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "281829467427594240",
   "text" : "RT @TarteAdvrtsng: We need a web developer to start on a job TODAY! Any takers? DM me!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1462,7 +1462,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1577,7 +1577,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "281061591842168832",
   "text" : "RT @aigacincinnati: The dead line to sign up for our Mentoring Program is 12\/28! Students &amp; Professionals, hurry before it fills up! ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1599,7 +1599,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -1808,7 +1808,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1875,7 +1875,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "280683206330679297",
   "text" : "RT @chunwui: 8 die-hard Fireworks user so far.\nAre you a die-hard Fireworks user? If yes please RT #adobefireworks",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2074,7 +2074,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "278971428487958528",
   "text" : "RT @slicknet: Please, if you are using Eric Meyer's CSS Reset, upgrade to v2.0. I'm tired of finding sites without focus rectangles due  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2516,7 +2516,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "webmonkey",
       "protected" : false,
       "id_str" : "14288386",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/791365946\/twitter_profile_webmonkey_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480877915324682240\/eu7F-z0M_normal.jpeg",
       "id" : 14288386,
       "verified" : false
     }
@@ -2533,7 +2533,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Paul Lloyd",
@@ -2601,7 +2601,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "paulrobertlloyd",
       "protected" : false,
       "id_str" : "12582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1363846057\/Avatar_2011_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478639810287243264\/NJ4oKjyZ_normal.jpeg",
       "id" : 12582,
       "verified" : false
     }
@@ -2673,7 +2673,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "278537983051825153",
   "text" : "RT @aigacincinnati: Our student mentoring program is back! Learn how to be either a Mentor or a Mentee this year: http:\/\/t.co\/MxAOMoU9",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2695,7 +2695,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820312661\/aigacincysq_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484319632254189569\/ps3o_HMu_normal.jpeg",
       "id" : 18202661,
       "verified" : false
     }
@@ -2768,7 +2768,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -2785,7 +2785,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hacker News",
@@ -2968,7 +2968,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "timbalzer",
@@ -3099,7 +3099,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "276364795358359552",
   "text" : "RT @usdp: We are looking for another great person to join our developer team (that's a programmer...you know, code!).  http:\/\/t.co\/i8KdWdpX",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3228,7 +3228,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "276129417116413953",
   "text" : "RT @nickf: The second you or you're company describes you as an \"expert,\" you lose. Roll a d20 for damage.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3340,7 +3340,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420242074198224896\/xrbpXC7x_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477931840750108672\/1RetXHl-_normal.jpeg",
       "id" : 202571491,
       "verified" : false
     }
@@ -3478,7 +3478,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "linus lim",
@@ -3500,7 +3500,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "274896674248351745",
   "text" : "RT @chunwui: Now is time to do your part! Fireworks now has a Github for you to post issues and feedback to the team. https:\/\/t.co\/Rfbcx ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

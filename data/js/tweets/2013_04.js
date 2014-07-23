@@ -30,7 +30,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -52,7 +52,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Boulton",
@@ -86,7 +86,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "markboulton",
       "protected" : false,
       "id_str" : "14112756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440536821626204161\/vAlfmfi4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477379861615374337\/PixX_htk_normal.png",
       "id" : 14112756,
       "verified" : false
     }
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay.",
@@ -427,7 +427,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "329013646573318145",
   "text" : "RT @codinghorror: If it takes more effort to complain about something than fix it, just frigging fix it.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -505,7 +505,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -778,7 +778,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "328517677876383746",
   "text" : "RT @heiditron3000: Okay, who do you think would win in a fight between a baby with a fork glued to its hand and a ferret? Hurry, my bookie'\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -812,7 +812,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nicolas Gallagher",
@@ -859,7 +859,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327843943477809153",
   "text" : "RT @necolas: How to catch a cat\u2026 http:\/\/t.co\/3W4zZ7JwJK",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1025,7 +1025,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "LeaVerou",
       "protected" : false,
       "id_str" : "22199970",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1716232467\/avatar-logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476531283862884353\/x0m-0MlO_normal.png",
       "id" : 22199970,
       "verified" : false
     }
@@ -1042,7 +1042,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Felicia Day",
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327485396063760385",
   "text" : "RT @feliciaday: Cool Tumblr: Little Girls are Better at Designing Superheroes than You: http:\/\/t.co\/Dax2DIMnPE",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1184,7 +1184,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327394504078397441",
   "text" : "RT @boutell: Little known fact: #mysql retains at least 10K of RAM per table that exists, even in a db you're not touching right now.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1204,7 +1204,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "boutell",
       "protected" : false,
       "id_str" : "14190767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3678364873\/86701317bdaa61a89cd4f1d7704ddc1e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/490485711280570368\/QnWK28Zr_normal.jpeg",
       "id" : 14190767,
       "verified" : false
     }
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327240078571212800",
   "text" : "RT @rupl: Next time you think JS is weighing your page down, take some advice from @ajpiano and just drop a JPG: http:\/\/t.co\/Wl9RZP87ZH #we\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "adam j. sontag",
@@ -1331,7 +1331,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "662533",
       "id" : 662533
     }, {
-      "name" : "Luke Dorny",
+      "name" : "Luke Dorny ",
       "screen_name" : "luxuryluke",
       "indices" : [ 93, 104 ],
       "id_str" : "12587",
@@ -1353,7 +1353,7 @@ Grailbird.data.tweets_2013_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Luke Dorny",
+        "name" : "Luke Dorny ",
         "screen_name" : "luxuryluke",
         "indices" : [ 81, 92 ],
         "id_str" : "12587",
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1668242002\/greg_santorini-sm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489198422432301056\/evokeR9__normal.png",
       "id" : 662533,
       "verified" : false
     }
@@ -1450,7 +1450,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327126657460736000",
   "text" : "RT @zeldman: \u201CI\u2019m using a browser. Of course I want the web version.\u201D http:\/\/t.co\/B52m6d3Tyv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1472,7 +1472,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421007790031646720\/wc3Wtcul_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476494929946877952\/zUGvWrIJ_normal.png",
       "id" : 61133,
       "verified" : true
     }
@@ -1697,7 +1697,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "teleject",
       "protected" : false,
       "id_str" : "34543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1782058245\/photo_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483748387074740224\/mhaynl3r_normal.jpeg",
       "id" : 34543,
       "verified" : false
     }
@@ -1783,7 +1783,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "326444196594593792",
   "text" : "RT @brad_frost: LADIES AND GENTLEMEN: I present to you a website that weighs 85.9MB. WTF. W. T. F. http:\/\/t.co\/yUfStWfF63",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1947,7 +1947,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "326375819406614528",
   "text" : "RT @JesyHerron: Love this quote, \"The best way to get better at what you do is to teach others how to do it, too.\"",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2037,7 +2037,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "tkadlec",
       "protected" : false,
       "id_str" : "13182702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000082608539\/3e91883d8726ea20d7c0564d909f206c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478537432103538688\/ZCyWGyJs_normal.jpeg",
       "id" : 13182702,
       "verified" : false
     }
@@ -2110,7 +2110,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "nternetinspired",
       "protected" : false,
       "id_str" : "132566924",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421567602003955712\/5QV5-Yof_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477360259645059072\/vjgiJrtS_normal.jpeg",
       "id" : 132566924,
       "verified" : false
     }
@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "kylebarrow",
       "protected" : false,
       "id_str" : "8718932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1534239776\/2011-09-08_300x300_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484666609244438529\/njBiVNcS_normal.jpeg",
       "id" : 8718932,
       "verified" : false
     }
@@ -2440,7 +2440,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jurassic Park Quotes",
+      "name" : "Jurassic Park",
       "screen_name" : "JurassicQuotes",
       "indices" : [ 3, 18 ],
       "id_str" : "364455348",
@@ -2527,11 +2527,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 325356764243582977,
     "created_at" : "2013-04-19 21:14:32 +0000",
     "user" : {
-      "name" : "Jurassic Park Quotes",
+      "name" : "Jurassic Park",
       "screen_name" : "JurassicQuotes",
       "protected" : false,
       "id_str" : "364455348",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1635871966\/jurassic-park-logo__1__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489164948291854337\/wc8ZqM5N_normal.jpeg",
       "id" : 364455348,
       "verified" : false
     }
@@ -2720,7 +2720,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "325312064484687874",
   "text" : "RT @brad_frost: A cat in a shark costume on a Roomba chasing a duck: http:\/\/t.co\/5ZroXWi9aJ\n\nBecause we need a good laugh today.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2742,7 +2742,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2803,7 +2803,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "325027642690633730",
   "text" : "RT @jquery: jQuery 2.0 has been released &amp; it's 12% smaller with 12 excludable modules! What's in, what's out, and how to use it: ht ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2881,7 +2881,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "324985555945414657",
   "text" : "RT @shanselman: Whatchadoin? Oh, just Updating the Adobe Application Updater via the Adobe Application Updater Automatic Updater Updater.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2994,7 +2994,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "markboulton",
       "protected" : false,
       "id_str" : "14112756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440536821626204161\/vAlfmfi4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477379861615374337\/PixX_htk_normal.png",
       "id" : 14112756,
       "verified" : false
     }
@@ -3101,7 +3101,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "leslie hiller",
@@ -3146,7 +3146,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "sergio A. garcia",
@@ -3407,7 +3407,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "324709957163425792",
   "text" : "RT @timbalzer: Teaching Dramatic Lit I again this summer at the @WilmingtonColl Cin. State branch if anyone is looking to spend time wit ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Wilmington College",
@@ -3447,7 +3447,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Harry Roberts",
@@ -3480,7 +3480,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Harry Roberts",
@@ -3563,7 +3563,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3610,7 +3610,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "323769493161656320",
   "text" : "RT @scottjenson: 1993 vs 2013 http:\/\/t.co\/zHwSQinhH0",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3632,7 +3632,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "scottjenson",
       "protected" : false,
       "id_str" : "730373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467692907156094976\/RQsBqF13_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/490510402535452672\/Mh8DOREw_normal.png",
       "id" : 730373,
       "verified" : false
     }
@@ -3762,7 +3762,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jessicaivins",
       "protected" : false,
       "id_str" : "14625678",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458981527724908544\/OGTYCm3f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483634838616829953\/5h752tJ8_normal.jpeg",
       "id" : 14625678,
       "verified" : false
     }
@@ -3896,7 +3896,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4054,7 +4054,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "timbalzer",
@@ -4227,7 +4227,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "322708238049107968",
   "text" : "RT @CaffSec: #Security #Protip: Change your default passwords...or this will happen. http:\/\/t.co\/Cpc285bhCs",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -4405,7 +4405,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "322042566084284416",
   "text" : "RT @GaryGJohnson: Scariest thing about Jurassic Park - single dev deploying \"2 million lines of code\" directly into production environme ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4439,7 +4439,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brandon Clapp",
@@ -4456,7 +4456,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "321827026833117186",
   "text" : "RT @BrandonClapp: I don't always test my code, but when I do, I do it in production.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4925,7 +4925,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "321235653968932864",
   "text" : "RT @aRealLiveGhost: break into strangers' homes and train their dogs to stare obediently at a blank section of the wall",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5009,7 +5009,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "320954519552929792",
   "text" : "RT @jcolman: Best. Flowchart. EVER! #ias13 http:\/\/t.co\/nuk68H2DJp",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5059,7 +5059,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jcolman",
       "protected" : false,
       "id_str" : "76373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1348737453\/jdc_twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478535684790030336\/EgsbHp6T_normal.jpeg",
       "id" : 76373,
       "verified" : false
     }
@@ -5093,7 +5093,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "320704798477402113",
   "text" : "RT @rogerjohansson: If you make something (dropdown menu, dialog, lightbox) go away when you click outside it, also make it go away when ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5110,7 +5110,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "rogerjohansson",
       "protected" : false,
       "id_str" : "80351444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456195013\/456_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477319739081904128\/0K5zL5oJ_normal.png",
       "id" : 80351444,
       "verified" : false
     }
@@ -5144,7 +5144,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "320540889221066753",
   "text" : "RT @jduck: Remember kids, Android devices are like snowflakes. No two are identical.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5161,7 +5161,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jduck",
       "protected" : false,
       "id_str" : "100564168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2760443947\/7d5d5b6e5654cce2860cf49caf2e0e99_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482801491472678913\/4GdmsdfQ_normal.png",
       "id" : 100564168,
       "verified" : false
     }
@@ -5302,7 +5302,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jurassic Park Quotes",
+      "name" : "Jurassic Park",
       "screen_name" : "JurassicQuotes",
       "indices" : [ 3, 18 ],
       "id_str" : "364455348",
@@ -5335,11 +5335,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 320209439124774912,
     "created_at" : "2013-04-05 16:20:54 +0000",
     "user" : {
-      "name" : "Jurassic Park Quotes",
+      "name" : "Jurassic Park",
       "screen_name" : "JurassicQuotes",
       "protected" : false,
       "id_str" : "364455348",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1635871966\/jurassic-park-logo__1__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489164948291854337\/wc8ZqM5N_normal.jpeg",
       "id" : 364455348,
       "verified" : false
     }

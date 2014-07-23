@@ -100,7 +100,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -156,7 +156,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "306784793092300802",
   "text" : "RT @sqorgar: I have a theory. Everybody who has ever learned to program, did so to make games. No games, no programmers. Better games, m ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -232,7 +232,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "306747017210761216",
   "text" : "RT @itomicwebdesign: Client ever sent you multiple images embedded in a .docx file? Fear not. Change extension to .zip, and extract from ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -438,7 +438,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hacker News",
@@ -499,7 +499,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -728,7 +728,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420242074198224896\/xrbpXC7x_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477931840750108672\/1RetXHl-_normal.jpeg",
       "id" : 202571491,
       "verified" : false
     }
@@ -820,7 +820,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brad Colbow",
@@ -1230,7 +1230,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1313,7 +1313,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jurassic Park Quotes",
+      "name" : "Jurassic Park",
       "screen_name" : "JurassicQuotes",
       "indices" : [ 22, 37 ],
       "id_str" : "364455348",
@@ -1553,7 +1553,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jurassic Park Quotes",
+      "name" : "Jurassic Park",
       "screen_name" : "JurassicQuotes",
       "indices" : [ 3, 18 ],
       "id_str" : "364455348",
@@ -1580,11 +1580,11 @@ Grailbird.data.tweets_2013_02 =
     "id" : 302091558700867584,
     "created_at" : "2013-02-14 16:26:54 +0000",
     "user" : {
-      "name" : "Jurassic Park Quotes",
+      "name" : "Jurassic Park",
       "screen_name" : "JurassicQuotes",
       "protected" : false,
       "id_str" : "364455348",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1635871966\/jurassic-park-logo__1__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489164948291854337\/wc8ZqM5N_normal.jpeg",
       "id" : 364455348,
       "verified" : false
     }
@@ -1604,7 +1604,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa",
+      "name" : "\u202E\u2608 assileM",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -1637,7 +1637,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa",
+      "name" : "\u202E\u2608 assileM",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -1736,7 +1736,7 @@ Grailbird.data.tweets_2013_02 =
     "id" : 302052607256584195,
     "created_at" : "2013-02-14 13:52:08 +0000",
     "user" : {
-      "name" : "Melissa",
+      "name" : "\u202E\u2608 assileM",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -1813,7 +1813,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -1861,7 +1861,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "301806338026127361",
   "text" : "RT @gogogigit: @pep_promotions is hiring a Production Designer in Cincinnati #jobs http:\/\/t.co\/abWwkcc9",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Pep Promotions",
@@ -2021,7 +2021,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "LeaVerou",
       "protected" : false,
       "id_str" : "22199970",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1716232467\/avatar-logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476531283862884353\/x0m-0MlO_normal.png",
       "id" : 22199970,
       "verified" : false
     }
@@ -2229,7 +2229,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Frutiger",
@@ -2285,7 +2285,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/rowiapp.com\" rel=\"nofollow\"\u003Erowi for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eliz Sarobhasa",
+      "name" : "Eliz B. Sarobhasa",
       "screen_name" : "gravitydrift",
       "indices" : [ 3, 16 ],
       "id_str" : "162923199",
@@ -2324,7 +2324,7 @@ Grailbird.data.tweets_2013_02 =
     "id" : 300869338070663168,
     "created_at" : "2013-02-11 07:30:14 +0000",
     "user" : {
-      "name" : "Eliz Sarobhasa",
+      "name" : "Eliz B. Sarobhasa",
       "screen_name" : "gravitydrift",
       "protected" : false,
       "id_str" : "162923199",
@@ -2430,7 +2430,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sara Kowatch",
@@ -2581,7 +2581,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "299993818890117120",
   "text" : "RT @stevewerby: Credit card company: What's your mother's maiden name? Me: Donkey Kong Bumper Boat. Them: Uh, yes. What? Me: I'm in secu ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2893,7 +2893,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }

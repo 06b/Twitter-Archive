@@ -195,7 +195,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -222,7 +222,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mispy \u2600",
@@ -283,7 +283,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -305,7 +305,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Frutiger",
@@ -328,7 +328,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "395739353961353218",
   "text" : "RT @AFrutiger: @06b Quoth the pigeon, \u201CFrutiger.\u201D",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Adrian D. Alvarez",
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -451,7 +451,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420242074198224896\/xrbpXC7x_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477931840750108672\/1RetXHl-_normal.jpeg",
       "id" : 202571491,
       "verified" : false
     }
@@ -468,7 +468,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -507,7 +507,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "395315288444395520",
   "text" : "RT @jzy: I find myself calling all my kids' portable gaming devices \"Gameboy.\" I've become my mother.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "395159592013135872",
   "text" : "RT @_booto: Wait a minute... https:\/\/t.co\/gNDhpRRLYj http:\/\/t.co\/wf1FQm5N3C",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -885,7 +885,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "394939604807471104",
   "text" : "RT @df07: We're off to another productive week at #StackExchange http:\/\/t.co\/OzevvZ4Czl",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1150,7 +1150,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "wilto",
       "protected" : false,
       "id_str" : "12602932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735074258\/280a4207a8cce4afc6ce7a18429a537c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477441227986444289\/KHCUqTis_normal.png",
       "id" : 12602932,
       "verified" : false
     }
@@ -1209,7 +1209,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "393448774858600448",
   "text" : "RT @cameronmoll: In general, I've found that 'autocapitalize=\"off\"' present in the username field is a good way to determine if a company r\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1226,7 +1226,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "cameronmoll",
       "protected" : false,
       "id_str" : "33923",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436216397677330433\/6Wg2NAEF_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477449945708912640\/f3TsWgjq_normal.jpeg",
       "id" : 33923,
       "verified" : false
     }
@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "41035489",
       "id" : 41035489
     }, {
-      "name" : "Melissa",
+      "name" : "\u202E\u2608 assileM",
       "screen_name" : "0xabad1dea",
       "indices" : [ 33, 44 ],
       "id_str" : "126030998",
@@ -1279,7 +1279,7 @@ Grailbird.data.tweets_2013_10 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Melissa",
+        "name" : "\u202E\u2608 assileM",
         "screen_name" : "0xabad1dea",
         "indices" : [ 20, 31 ],
         "id_str" : "126030998",
@@ -1309,7 +1309,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "0xmchow",
       "protected" : false,
       "id_str" : "41035489",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439267450744369153\/f0QvuWgG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476912086355050496\/7hUZZ4m2_normal.jpeg",
       "id" : 41035489,
       "verified" : false
     }
@@ -1326,7 +1326,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa",
+      "name" : "\u202E\u2608 assileM",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -1365,7 +1365,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "393072350406533120",
   "text" : "RT @0xabad1dea: Is it okay to play pokemon at work if the internal website you need is down",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393069499756204032,
     "created_at" : "2013-10-23 17:40:46 +0000",
     "user" : {
-      "name" : "Melissa",
+      "name" : "\u202E\u2608 assileM",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -1399,7 +1399,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1424,7 +1424,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Edward Muller",
+      "name" : "Donut Face",
       "screen_name" : "freeformz",
       "indices" : [ 3, 13 ],
       "id_str" : "11647562",
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392115760341848064,
     "created_at" : "2013-10-21 02:30:57 +0000",
     "user" : {
-      "name" : "Edward Muller",
+      "name" : "Donut Face",
       "screen_name" : "freeformz",
       "protected" : false,
       "id_str" : "11647562",
@@ -1569,7 +1569,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -1625,7 +1625,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "392261231475957761",
   "text" : "RT @omervk: Did you know? The collective noun for a group of programmers is a merge-conflict.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1739,7 +1739,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1873,7 +1873,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "391373581017292800",
   "text" : "RT @AgileSue: Roses are red.\nViolets are red.\nLilacs are red.\nWe've run out of cyan toner.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1907,7 +1907,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1932,7 +1932,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2117,7 +2117,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2139,7 +2139,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Christopher Schmitt",
@@ -2257,7 +2257,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -2297,7 +2297,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "390450165686890496",
   "text" : "RT @weatherchannel: Oops...you misspelled \"baller.\" RT @larissat18: I'm sitting here drinking coffee and watching the weather channel...I f\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Larissa ",
@@ -2529,7 +2529,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2551,7 +2551,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brad Colbow",
@@ -2598,7 +2598,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Haack",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 3, 11 ],
       "id_str" : "768197",
@@ -2625,11 +2625,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 389770270476468224,
     "created_at" : "2013-10-14 15:10:48 +0000",
     "user" : {
-      "name" : "Phil Haack",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469576733935824896\/HT4zp2ll_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473578835569831936\/jCxdP8Gl_normal.jpeg",
       "id" : 768197,
       "verified" : false
     }
@@ -2646,7 +2646,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2702,7 +2702,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa",
+      "name" : "Melissa \u2608",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2729,7 +2729,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 389083509408931840,
     "created_at" : "2013-10-12 17:41:52 +0000",
     "user" : {
-      "name" : "Melissa",
+      "name" : "\u202E\u2608 assileM",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2890,7 +2890,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "388638539921235968",
   "text" : "RT @uxmag: A quote by Charles Eames serves as daily inspiration for @kerrybodine: \"The details are not the details. They make the design\" -\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Kerry Bodine",
@@ -2933,7 +2933,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andy O",
@@ -2964,7 +2964,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Professor Oak ",
@@ -3021,7 +3021,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Professor Oak ",
@@ -3098,7 +3098,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459723759193059328\/DL-gzuE__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477437377321791488\/0WEJuCyc_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -3201,7 +3201,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -3235,7 +3235,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "387626311898124289",
   "text" : "RT @qerub: We programmers should ask our prospective employers for code samples so that we know what we're getting into. It's only fair.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3269,7 +3269,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3388,7 +3388,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "anonimews",
       "protected" : false,
       "id_str" : "1443614275",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462811717806731264\/58CywEqy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482662486680670208\/g5bdGrzp_normal.png",
       "id" : 1443614275,
       "verified" : false
     }
@@ -3405,10 +3405,10 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dang-ass Mako",
+      "name" : "420 Blaise It",
       "screen_name" : "Samsonese",
       "indices" : [ 3, 13 ],
       "id_str" : "142425701",
@@ -3441,11 +3441,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 385847630607024128,
     "created_at" : "2013-10-03 19:23:38 +0000",
     "user" : {
-      "name" : "Dang-ass Mako",
+      "name" : "420 Blaise It",
       "screen_name" : "Samsonese",
       "protected" : false,
       "id_str" : "142425701",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470278982194044928\/H2iFc69l_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480621356883537920\/FL0iYjbc_normal.png",
       "id" : 142425701,
       "verified" : false
     }
@@ -3462,7 +3462,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3487,7 +3487,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3512,7 +3512,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3709,7 +3709,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3799,7 +3799,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "385807766784593920",
   "text" : "RT @timb_machine: \/\/ We do an \"evil eval\" so that our tester doesn't see a function here, and therefore doesn't complain. &lt; Hi guys, just l\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3961,7 +3961,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "385509962883276800",
   "text" : "RT @jgoldberg_: Moral of the SilkRoad bust: Don't ask PHP questions on Stack Overflow",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4077,7 +4077,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "385252328174911488",
   "text" : "RT @gyro: What Beer and Coffee Do To Your Brain (And Which Makes You More Creative) http:\/\/t.co\/7KO3z4jpLa via @FastCoCreate #humanlyreleva\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Co.Create",
@@ -4326,7 +4326,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "385162495616634880",
   "text" : "RT @rogerjohansson: CSS rule of thumb: whenever you use :hover, also use :focus.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4343,7 +4343,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "rogerjohansson",
       "protected" : false,
       "id_str" : "80351444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456195013\/456_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477319739081904128\/0K5zL5oJ_normal.png",
       "id" : 80351444,
       "verified" : false
     }

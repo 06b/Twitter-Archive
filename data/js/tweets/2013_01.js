@@ -249,7 +249,7 @@ Grailbird.data.tweets_2013_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -1257,7 +1257,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "292342823150301184",
   "text" : "RT @brad_frost: \"I THOUGHT HTML WAS HOTMAIL!\" \n-My mom.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1817,7 +1817,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420242074198224896\/xrbpXC7x_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477931840750108672\/1RetXHl-_normal.jpeg",
       "id" : 202571491,
       "verified" : false
     }
@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "289535353579253760",
   "text" : "RT @rolldiggity: 1. Sit down next to stranger on park bench.\n2. Place an envelope beside him.\n3. Whisper, \"It has to look like an accide ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2013,7 +2013,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "289534064266973184",
   "text" : "RT @jester12345: trying out f.lux... don't know if I should thank or curse @06b yet.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Adrian D. Alvarez",
@@ -2768,7 +2768,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "ryanchris",
       "protected" : false,
       "id_str" : "13349",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460216331405492225\/_evDmjvo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484003358882009089\/mSyvvCYM_normal.jpeg",
       "id" : 13349,
       "verified" : false
     }
@@ -2976,7 +2976,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -3403,7 +3403,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "286851912672878595",
   "text" : "RT @HAL9000_: 2013 is the first time since 1987 that all four digits have been different. This represents a 25% increase in password sec ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3504,7 +3504,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "286842976141979648",
   "text" : "RT @jontangerine: Haha! Love this; \u2018If Twitter was around 50 years ago and used by design greats\u2019: http:\/\/t.co\/a1c2NRN9 \/v @flyosity ht  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mike Rundle",
@@ -3538,7 +3538,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "jontangerine",
       "protected" : false,
       "id_str" : "7629722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459259087750836225\/2pUPOmwV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477754528813432832\/cezJ8iwh_normal.png",
       "id" : 7629722,
       "verified" : false
     }
@@ -3699,7 +3699,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "286583819073626112",
   "text" : "RT @jkruessel: Wait, what does your startup do? http:\/\/t.co\/DUt61HrJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3841,7 +3841,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "286563137623298050",
   "text" : "RT @bryanrieger: Progressive jpegs: a new best practice - http:\/\/t.co\/okoPyMFA \"\u2026perceived speed is more important that actual speed.\" #ux",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3998,7 +3998,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "TrentWalton",
       "protected" : false,
       "id_str" : "14477161",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/344513261573189658\/fb5ebed57d55a42f85c9c40b156e7b41_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478158346935992320\/1eLeGKmQ_normal.jpeg",
       "id" : 14477161,
       "verified" : false
     }

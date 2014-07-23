@@ -105,7 +105,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "13135847336",
   "text" : "RT @paul_irish: Three years-worth of front-end development recommendations, guidelines, and goodness: http:\/\/j.mp\/isobarstandards",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -313,7 +313,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "13124332906",
   "text" : "RT @Creativesuite: Guess what?! the wait is over. Download #CS5 today, play this weekend and impress on Monday. http:\/\/bit.ly\/buycs5",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -803,7 +803,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -875,7 +875,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "13097625400",
   "text" : "RT @fiddlestyx: Thanks, Adobe updater, for continually reminding me of updates that you won't allow me to install.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "13001395163",
   "text" : "RT @smashingmag: Flash and Standards: The Cold War of the Web - http:\/\/bit.ly\/a1Fsrk",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1053,7 +1053,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "13001547492",
   "text" : "RT @A_Crutch: A bridge on 275 that disappears http:\/\/tweetphoto.com\/20230699",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1873,7 +1873,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "sergio A. garcia",
@@ -1896,7 +1896,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12887415703",
   "text" : "RT @SergioAG10: @06b should be a video game character",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Adrian D. Alvarez",
@@ -1939,7 +1939,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "sergio A. garcia",
@@ -2300,7 +2300,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12703263106",
   "text" : "RT @jrjdesign: New in CS5 Content Aware Fill - fills based upon surrounding image colors and picture #AdobeWKShop10",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2631,7 +2631,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12704979927",
   "text" : "RT @leslie_hiller: I think so too! RT @SergioAG10: dudes adobe must have witches because they keep doing black magic AHHH puppet warp!!! ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "sergio A. garcia",
@@ -2930,7 +2930,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12708498108",
   "text" : "RT @JasonSpeaking: RT @fluidwebtype: subliminal messages these fonts are feeding you\u2026 http:\/\/tinyurl.com\/y6s7lam",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "NEW Web Typography",
@@ -2953,7 +2953,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "JasonSpeaking",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000375082277\/9573324edfb7ce7bd019cc32283cbc55_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489078787082944514\/uagXhEbU_normal.jpeg",
       "id" : 14123301,
       "verified" : false
     }
@@ -3088,7 +3088,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12709308132",
   "text" : "RT @leslie_hiller: Epic RT @SergioAG10: @diornotwar  just got PWND hard CORE hahahahah you got rejected girl #AdobeWKShop10",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "sergio A. garcia",
@@ -3577,7 +3577,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12672601535",
   "text" : "RT @SergioAG10: Adobe Workshops tomorrow! Intense times dudes",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3823,7 +3823,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12702582847",
   "text" : "RT @jrjdesign: Hooray for Adobe trying to stop the use of PowerPoint :) InDesign page transitions for presentations in CS5 #AdobeWKShop10",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4062,7 +4062,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12555713451",
   "text" : "RT @cindyli: listening to @brucebowman (product manager of Adobe's Fireworks) discuss the new CS5 version.It'll be stable! w00t! :)",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Bruce Bowman",
@@ -4085,7 +4085,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "cindyli",
       "protected" : false,
       "id_str" : "29733",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1803788750\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480102443070406658\/z6BEwT4c_normal.jpeg",
       "id" : 29733,
       "verified" : false
     }
@@ -4141,7 +4141,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12573003853",
   "text" : "RT @leslie_hiller: Why morning, do I need to be awake to be dealing with you? I want to be back in bed...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4449,7 +4449,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "15736190",
       "id" : 15736190
     }, {
-      "name" : "\u0424\u0438\u043B\u0438\u043F\u043F\u043E\u0432 \u041C\u0430\u0442\u0432\u0435\u0439",
+      "name" : "designinformer",
       "screen_name" : "designinformer",
       "indices" : [ 71, 86 ],
       "id_str" : "2484586813",
@@ -4463,10 +4463,10 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12513014845",
   "text" : "RT @smashingmag: The future of wireframes? - http:\/\/bit.ly\/2oX3eo (via @designinformer)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u0424\u0438\u043B\u0438\u043F\u043F\u043E\u0432 \u041C\u0430\u0442\u0432\u0435\u0439",
+        "name" : "designinformer",
         "screen_name" : "designinformer",
         "indices" : [ 54, 69 ],
         "id_str" : "2484586813",
@@ -4486,7 +4486,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -4575,7 +4575,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12426870392",
   "text" : "RT @smashingmag: Beginners Guide to OpenType - http:\/\/bit.ly\/a7OUmM",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4592,7 +4592,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -4648,7 +4648,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12432107782",
   "text" : "RT @danrubin: soon, we will have IE9, Opera 10.5, Firefox 3.7, and Safari 4 as our \"modern\" browsers, and they will all render our CSS a ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4781,7 +4781,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4987,7 +4987,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12316319575",
   "text" : "RT @ilovetypography: Baskerville might have said, Don\u2018t \u017Fuck with my type. #longs",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5024,7 +5024,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5282,7 +5282,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "leslie hiller",
@@ -5315,7 +5315,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5698,7 +5698,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12166223771",
   "text" : "RT @deidreevans: Designing the circle of trust: brand values for the new economy. #fuse2010 http:\/\/twitpic.com\/1fjqrg",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5934,7 +5934,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6186,7 +6186,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12126424546",
   "text" : "RT @danrubin: We can't hope to evolve as an industry until we stop using terms like \"fold\" to describe issues that are unique to the web ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6251,7 +6251,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kathryn Rucker",
@@ -6279,7 +6279,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kathryn Rucker",
@@ -6307,7 +6307,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Snook",
@@ -6324,7 +6324,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12060413948",
   "text" : "RT @snookca: I've been using display: inline-block like it's going out of style. Or maybe like it's coming into style.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6358,7 +6358,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sara Kowatch",
@@ -6391,7 +6391,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6607,7 +6607,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12049017251",
   "text" : "RT @danrubin: I wonder if CS5 will crash faster?",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6666,7 +6666,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Limb",
@@ -6706,7 +6706,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "catmachine",
       "protected" : false,
       "id_str" : "788525",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417264865900650496\/HtY0GFsN_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484020906675548161\/hDI5soy7_normal.png",
       "id" : 788525,
       "verified" : false
     }
@@ -6723,7 +6723,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Christopher",
@@ -6743,7 +6743,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12051348992",
   "text" : "RT @jchristopher: It freakin' stinks that we can't go three minutes not hearing \"without writing code\" #CS5",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6805,7 +6805,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ConstantinEhrenstein",
@@ -6940,7 +6940,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eric Draven",
@@ -6961,7 +6961,7 @@ Grailbird.data.tweets_2010_04 =
   "id" : 12052344384,
   "in_reply_to_status_id" : 12052276928,
   "created_at" : "2010-04-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "LikeMau5",
+  "in_reply_to_screen_name" : "MausHax",
   "in_reply_to_user_id_str" : "9435382",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -6973,7 +6973,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Greg Rewis",
@@ -7024,7 +7024,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12052552820",
   "text" : "RT @brucebowman: What's in #Fireworks CS5? Plenty to love. Check out my new Adobe Developer Center article http:\/\/bit.ly\/96TrCW.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7107,7 +7107,7 @@ Grailbird.data.tweets_2010_04 =
   "id" : 12052754089,
   "in_reply_to_status_id" : 12052581800,
   "created_at" : "2010-04-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "LikeMau5",
+  "in_reply_to_screen_name" : "MausHax",
   "in_reply_to_user_id_str" : "9435382",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -7119,7 +7119,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "rhuk",
@@ -7142,7 +7142,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12052799335",
   "text" : "RT @rhuk: Nope, confirmed #Fireworks is he \"red headed step child\" of Adobe #CS5 :(",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7182,7 +7182,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "rhuk",
@@ -7344,7 +7344,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11937287005",
   "text" : "RT @ilovetypography: For those of you who missed Matthew Carter\u2019s live-streamed talk yesterday, here is a recording: http:\/\/bit.ly\/cnDGd ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Kunihiko Okano",
@@ -7609,7 +7609,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "leslie hiller",
@@ -7626,7 +7626,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11856573828",
   "text" : "RT @leslie_hiller: All I want right now is a nap.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7772,7 +7772,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11891807980",
   "text" : "RT @brucebowman: RT Adobe'll keep working to reduce costs to developers. (via @jdowdell)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "John Dowdell",
@@ -7985,7 +7985,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11799892109",
   "text" : "RT @brucebowman: RT Why we love Adobe #Fireworks - http:\/\/bit.ly\/cFjA30 (via @DaveHogue)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Dave Hogue",
@@ -8234,7 +8234,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11756952732",
   "text" : "RT @snookca: Geek pick up line: I'll be your controller if you'll be my model.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -8285,7 +8285,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11695310006",
   "text" : "RT @danrubin: CSS3 is wonderful. For us. Users don't care if you use CSS, Flash, images or pixie dust to build a site, only that it is e ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -8419,7 +8419,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11718532187",
   "text" : "RT @MSExpression: Download: Microsoft #Expression #Web 3 Service Pack 2 - http:\/\/bit.ly\/doRR93 - Description of Expression Web 3 SP2 - h ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bit.ly\" rel=\"nofollow\"\u003Ebit.ly\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -8647,7 +8647,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11543437296",
   "text" : "RT @cindyli: Design Geekery magnets!: http:\/\/photojojo.com\/store\/awesomeness\/photoshop-fridge-magnets",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -8664,7 +8664,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "cindyli",
       "protected" : false,
       "id_str" : "29733",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1803788750\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480102443070406658\/z6BEwT4c_normal.jpeg",
       "id" : 29733,
       "verified" : false
     }

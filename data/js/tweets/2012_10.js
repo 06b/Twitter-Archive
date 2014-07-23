@@ -103,7 +103,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -272,7 +272,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "263650457342337026",
   "text" : "RT @brad_frost: \"I have a great idea! Let's force people to write emails in tiny boxes instead of utilizing the whole screen! Awesome!\"  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -319,7 +319,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -434,7 +434,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "263470669428314112",
   "text" : "RT @smashingmag: Useful, and quite surprising: Default CSS Display Values for Different HTML Elements - http:\/\/t.co\/MTGlS71d",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -554,7 +554,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -579,7 +579,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -810,7 +810,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "262717980381691905",
   "text" : "RT @jedwhedon: Joss comments on Mitt Romney's vision for our future. http:\/\/t.co\/YaxmVdFJ",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -883,7 +883,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "joseph_carney",
       "protected" : false,
       "id_str" : "14121095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451990936797474816\/iIqbbEdG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483199417248649216\/m_YaZM5M_normal.jpeg",
       "id" : 14121095,
       "verified" : false
     }
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "timbalzer",
@@ -1107,7 +1107,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "261641755894620161",
   "text" : "RT @brad_frost: Current strategy: copy and paste from Stackoverflow until it works.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1124,7 +1124,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -1507,7 +1507,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468568731988160512\/RdPiApZh_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477553267191201792\/9QaFN-gf_normal.jpeg",
       "id" : 22253,
       "verified" : false
     }
@@ -1702,7 +1702,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1786,7 +1786,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "260837378090995712",
   "text" : "RT @laurenmae4: You're welcome. http:\/\/t.co\/UjTR28B8",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1825,7 +1825,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1913,7 +1913,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "soulwire",
       "protected" : false,
       "id_str" : "16389046",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2823499363\/9c51944205604bbe1af697168596b8dc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480248644340162560\/ziFUi718_normal.png",
       "id" : 16389046,
       "verified" : false
     }
@@ -1974,7 +1974,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000708386471\/695b9647662501d59c805fe12b063935_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2105,7 +2105,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468568731988160512\/RdPiApZh_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477553267191201792\/9QaFN-gf_normal.jpeg",
       "id" : 22253,
       "verified" : false
     }
@@ -2350,7 +2350,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258917395278741504",
   "text" : "RT @mountain_goats: when I get the \"Sorry! We did something wrong\" message from Twitter I picture a couple of people arguing about how t ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2506,7 +2506,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "tkadlec",
       "protected" : false,
       "id_str" : "13182702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000082608539\/3e91883d8726ea20d7c0564d909f206c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478537432103538688\/ZCyWGyJs_normal.jpeg",
       "id" : 13182702,
       "verified" : false
     }
@@ -3265,7 +3265,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Craig Hinkel",
@@ -3443,7 +3443,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "256430873824608257",
   "text" : "RT @ArtJonak: Sorry, but your password must contain an uppercase letter, a number, a punctuation mark, a gang sign, an extinct reptile a ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3704,7 +3704,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255666845628112896",
   "text" : "RT @ericvelleman: Check #a11y and #ux of website: Check if if everything is available if you only use the keyboard #10secondcheck #nomouse",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3789,7 +3789,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255472197597003776",
   "text" : "RT @vuokko: \"The internet is a lot like ancient Egypt: people writing on walls and worshipping cats.\"",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3930,7 +3930,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "pixelworkers",
       "protected" : false,
       "id_str" : "135201019",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1766804877\/United-Pixelworkers_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477449425069932544\/z2484c0t_normal.jpeg",
       "id" : 135201019,
       "verified" : false
     }
@@ -3994,7 +3994,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255325704961540096",
   "text" : "RT @kylebarrow: Chibi, my JavaScript micro-framework, has reached 1.0, adds JSONP support, still only 5k: https:\/\/t.co\/1eyt1Y9n",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4016,7 +4016,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "kylebarrow",
       "protected" : false,
       "id_str" : "8718932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1534239776\/2011-09-08_300x300_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484666609244438529\/njBiVNcS_normal.jpeg",
       "id" : 8718932,
       "verified" : false
     }
@@ -4242,7 +4242,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -4565,7 +4565,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253175919487881217",
   "text" : "RT @paul_irish: TIL: IE6-7 shipped with a color picker widget: http:\/\/t.co\/x0kd7zEK",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4648,7 +4648,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "vpieters",
       "protected" : false,
       "id_str" : "12815",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1207349892\/avatar-me-short-hair-300x300_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477485649268711425\/0WoUY5wK_normal.png",
       "id" : 12815,
       "verified" : false
     }
@@ -4704,7 +4704,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Visual Idiot",
@@ -4738,7 +4738,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420242074198224896\/xrbpXC7x_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477931840750108672\/1RetXHl-_normal.jpeg",
       "id" : 202571491,
       "verified" : false
     }
@@ -4755,7 +4755,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kevin Purdy",
@@ -4772,7 +4772,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "252866198717476864",
   "text" : "RT @kevinpurdy: Our spouses and parents will never understand the tight-wire rope we walk every day, having Ctrl\/Cmd-W so very, very clo ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4806,7 +4806,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "sergio A. garcia",
@@ -4837,7 +4837,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
