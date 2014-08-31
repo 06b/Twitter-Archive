@@ -1,8 +1,14 @@
 var tweet_index =  [ {
+  "file_name" : "data\/js\/tweets\/2014_08.js",
+  "year" : 2014,
+  "var_name" : "tweets_2014_08",
+  "tweet_count" : 757,
+  "month" : 8
+}, {
   "file_name" : "data\/js\/tweets\/2014_07.js",
   "year" : 2014,
   "var_name" : "tweets_2014_07",
-  "tweet_count" : 144,
+  "tweet_count" : 230,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2014_06.js",
@@ -74,7 +80,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2013_07.js",
   "year" : 2013,
   "var_name" : "tweets_2013_07",
-  "tweet_count" : 106,
+  "tweet_count" : 107,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2013_06.js",
@@ -122,7 +128,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2012_11.js",
   "year" : 2012,
   "var_name" : "tweets_2012_11",
-  "tweet_count" : 95,
+  "tweet_count" : 96,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2012_10.js",
@@ -236,7 +242,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2011_04.js",
   "year" : 2011,
   "var_name" : "tweets_2011_04",
-  "tweet_count" : 558,
+  "tweet_count" : 557,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2011_03.js",
@@ -308,7 +314,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2010_04.js",
   "year" : 2010,
   "var_name" : "tweets_2010_04",
-  "tweet_count" : 272,
+  "tweet_count" : 270,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2010_03.js",
