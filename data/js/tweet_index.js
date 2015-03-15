@@ -1,8 +1,20 @@
 var tweet_index =  [ {
+  "file_name" : "data\/js\/tweets\/2015_03.js",
+  "year" : 2015,
+  "var_name" : "tweets_2015_03",
+  "tweet_count" : 113,
+  "month" : 3
+}, {
+  "file_name" : "data\/js\/tweets\/2015_02.js",
+  "year" : 2015,
+  "var_name" : "tweets_2015_02",
+  "tweet_count" : 244,
+  "month" : 2
+}, {
   "file_name" : "data\/js\/tweets\/2015_01.js",
   "year" : 2015,
   "var_name" : "tweets_2015_01",
-  "tweet_count" : 81,
+  "tweet_count" : 168,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2014_12.js",
@@ -14,7 +26,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2014_11.js",
   "year" : 2014,
   "var_name" : "tweets_2014_11",
-  "tweet_count" : 146,
+  "tweet_count" : 144,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2014_10.js",
@@ -44,13 +56,13 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2014_06.js",
   "year" : 2014,
   "var_name" : "tweets_2014_06",
-  "tweet_count" : 222,
+  "tweet_count" : 221,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2014_05.js",
   "year" : 2014,
   "var_name" : "tweets_2014_05",
-  "tweet_count" : 130,
+  "tweet_count" : 128,
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2014_04.js",
@@ -62,7 +74,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2014_03.js",
   "year" : 2014,
   "var_name" : "tweets_2014_03",
-  "tweet_count" : 90,
+  "tweet_count" : 89,
   "month" : 3
 }, {
   "file_name" : "data\/js\/tweets\/2014_02.js",
@@ -206,7 +218,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2012_03.js",
   "year" : 2012,
   "var_name" : "tweets_2012_03",
-  "tweet_count" : 128,
+  "tweet_count" : 127,
   "month" : 3
 }, {
   "file_name" : "data\/js\/tweets\/2012_02.js",
@@ -254,7 +266,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2011_07.js",
   "year" : 2011,
   "var_name" : "tweets_2011_07",
-  "tweet_count" : 443,
+  "tweet_count" : 442,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2011_06.js",
@@ -272,7 +284,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2011_04.js",
   "year" : 2011,
   "var_name" : "tweets_2011_04",
-  "tweet_count" : 558,
+  "tweet_count" : 557,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2011_03.js",
