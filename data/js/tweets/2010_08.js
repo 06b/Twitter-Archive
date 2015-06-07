@@ -1472,7 +1472,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emily miller",
+      "name" : "Emily Lyn",
       "screen_name" : "emily_lyn",
       "indices" : [ 0, 10 ],
       "id_str" : "30580889",
@@ -3519,7 +3519,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "HuffPostComedy",
+      "name" : "HuffPost Comedy",
       "screen_name" : "HuffPostComedy",
       "indices" : [ 49, 64 ],
       "id_str" : "16232843",
@@ -3536,7 +3536,7 @@ Grailbird.data.tweets_2010_08 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "HuffPostComedy",
+        "name" : "HuffPost Comedy",
         "screen_name" : "HuffPostComedy",
         "indices" : [ 34, 49 ],
         "id_str" : "16232843",

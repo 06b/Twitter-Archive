@@ -677,7 +677,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "uniondesign",
       "protected" : false,
       "id_str" : "21794594",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470189673822695424\/iwKPZ0qQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585903151338754049\/v_xpn9PB_normal.jpg",
       "id" : 21794594,
       "verified" : false
     }
@@ -1992,7 +1992,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576474983431540736\/8f4dN_JO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605873291849367554\/nixajH3l_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
@@ -4645,7 +4645,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14117434",
       "id" : 14117434
     }, {
-      "name" : "Andy \u25CE'Dore",
+      "name" : "Andy O'Dore",
       "screen_name" : "andyodore",
       "indices" : [ 90, 100 ],
       "id_str" : "16643550",
@@ -4673,7 +4673,7 @@ Grailbird.data.tweets_2011_04 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Andy \u25CE'Dore",
+        "name" : "Andy O'Dore",
         "screen_name" : "andyodore",
         "indices" : [ 76, 86 ],
         "id_str" : "16643550",
@@ -16245,7 +16245,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "Ste_Allan",
       "protected" : false,
       "id_str" : "86386771",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455688687385587712\/m5m-UMag_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586479545550635008\/9ebmqNO8_normal.jpg",
       "id" : 86386771,
       "verified" : false
     }

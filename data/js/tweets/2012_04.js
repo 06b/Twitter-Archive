@@ -3243,7 +3243,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "ferology",
       "protected" : false,
       "id_str" : "20917421",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544818874189770753\/PxIZ4mKL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580283578312953856\/n4ydyAuo_normal.jpg",
       "id" : 20917421,
       "verified" : false
     }

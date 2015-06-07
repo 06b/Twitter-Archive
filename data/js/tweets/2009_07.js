@@ -244,7 +244,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "altendo",
+      "name" : "Nick A",
       "screen_name" : "altendo",
       "indices" : [ 3, 11 ],
       "id_str" : "14987029",

@@ -135,7 +135,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "9445012",
       "id" : 9445012
     }, {
-      "name" : "Rian van der Merwe",
+      "name" : "Rian Van Der Merwe",
       "screen_name" : "RianVDM",
       "indices" : [ 18, 26 ],
       "id_str" : "14218310",
@@ -157,7 +157,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Rian van der Merwe",
+        "name" : "Rian Van Der Merwe",
         "screen_name" : "RianVDM",
         "indices" : [ 3, 11 ],
         "id_str" : "14218310",
@@ -947,7 +947,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "meyerweb",
       "protected" : false,
       "id_str" : "646533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539094743133614080\/cj8fsBZE_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607649383211892736\/WmA7ipHX_normal.png",
       "id" : 646533,
       "verified" : false
     }
@@ -3512,7 +3512,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571815486883516416\/42vPV3rZ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601160603600822273\/kZR6UkuZ_normal.png",
       "id" : 21491212,
       "verified" : false
     }

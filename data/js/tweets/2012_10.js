@@ -243,21 +243,21 @@ Grailbird.data.tweets_2012_10 =
       "id" : 263639549467586560,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6iixf7CcAAvtvW.png",
       "sizes" : [ {
-        "h" : 186,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 784,
+        "h" : 186,
         "resize" : "fit",
-        "w" : 1427
+        "w" : 340
       }, {
         "h" : 329,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 784,
+        "resize" : "fit",
+        "w" : 1427
       }, {
         "h" : 562,
         "resize" : "fit",
@@ -284,21 +284,21 @@ Grailbird.data.tweets_2012_10 =
         "id" : 263639549467586560,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6iixf7CcAAvtvW.png",
         "sizes" : [ {
-          "h" : 186,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 784,
+          "h" : 186,
           "resize" : "fit",
-          "w" : 1427
+          "w" : 340
         }, {
           "h" : 329,
           "resize" : "fit",
           "w" : 600
+        }, {
+          "h" : 784,
+          "resize" : "fit",
+          "w" : 1427
         }, {
           "h" : 562,
           "resize" : "fit",
@@ -1023,17 +1023,17 @@ Grailbird.data.tweets_2012_10 =
       "id" : 261662776823529473,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6Gc6L-CQAEOMYW.jpg",
       "sizes" : [ {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 400
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 400
-      }, {
         "h" : 255,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 300,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 300,
+        "resize" : "fit",
+        "w" : 400
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -1313,17 +1313,17 @@ Grailbird.data.tweets_2012_10 =
         "resize" : "fit",
         "w" : 423
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 513,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 640,
         "resize" : "fit",
         "w" : 424
       }, {
-        "h" : 513,
-        "resize" : "fit",
-        "w" : 340
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 640,
         "resize" : "fit",
@@ -1354,17 +1354,17 @@ Grailbird.data.tweets_2012_10 =
           "resize" : "fit",
           "w" : 423
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
+          "h" : 513,
+          "resize" : "fit",
+          "w" : 340
         }, {
           "h" : 640,
           "resize" : "fit",
           "w" : 424
         }, {
-          "h" : 513,
-          "resize" : "fit",
-          "w" : 340
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 640,
           "resize" : "fit",
@@ -1814,7 +1814,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "heylaurenmae",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/573957679363715072\/J2p6rZW7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591473254142844929\/TmQOAVpB_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }
@@ -3812,7 +3812,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "vuokko",
       "protected" : false,
       "id_str" : "10832152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576856670195748864\/NA61JLQI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595675235996794881\/7mWFjRCB_normal.png",
       "id" : 10832152,
       "verified" : false
     }
@@ -4795,7 +4795,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "kevinpurdy",
       "protected" : false,
       "id_str" : "14687182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563319164790513664\/GEmp2Ijj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596078393604460544\/3riM1gtM_normal.jpg",
       "id" : 14687182,
       "verified" : false
     }

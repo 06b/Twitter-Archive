@@ -360,7 +360,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "shapingthepage",
       "protected" : false,
       "id_str" : "15200486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514919042344181760\/g9avzSs8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604297441698041856\/PORx3cV4_normal.jpg",
       "id" : 15200486,
       "verified" : false
     }
@@ -583,7 +583,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "shapingthepage",
       "protected" : false,
       "id_str" : "15200486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514919042344181760\/g9avzSs8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604297441698041856\/PORx3cV4_normal.jpg",
       "id" : 15200486,
       "verified" : false
     }
@@ -1110,7 +1110,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "danwagoner",
       "protected" : false,
       "id_str" : "90247642",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483644311548862466\/A7DFB9In_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582352641809842176\/NhRK6mhc_normal.jpg",
       "id" : 90247642,
       "verified" : false
     }
@@ -1175,11 +1175,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96985354053238784,
     "created_at" : "2011-07-29 16:48:04 +0000",
     "user" : {
-      "name" : "( \u0361\u00B0 \u035C\u0296 \u0361\u00B0)",
+      "name" : "\u2551\u2588\u2551\u258C\u2551\u2588\u2551\u258C\u2502\u2551\u258C\u2588\u2551\u258C\u2551",
       "screen_name" : "pixelmelter",
       "protected" : false,
       "id_str" : "15020422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/561560772095258624\/r0XA0LhD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603410589277229057\/9kBUiW1e_normal.jpg",
       "id" : 15020422,
       "verified" : false
     }
@@ -2155,7 +2155,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "kendallmiller",
       "protected" : false,
       "id_str" : "18351635",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/575325404161908736\/VkyDWGlN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605444906807521280\/zu46r9kl_normal.jpg",
       "id" : 18351635,
       "verified" : false
     }
@@ -3663,7 +3663,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572178112282288128\/Flc4RgbD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -4266,12 +4266,6 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 0, 11 ],
       "id_str" : "112919156",
       "id" : 112919156
-    }, {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 65, 73 ],
-      "id_str" : "143622776",
-      "id" : 143622776
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -6532,7 +6526,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "lauramgardner",
       "protected" : false,
       "id_str" : "219083108",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534742467178803202\/O-ljgrlM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588769110290472960\/8KV9zgod_normal.jpg",
       "id" : 219083108,
       "verified" : false
     }
@@ -7001,7 +6995,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "18749783",
       "id" : 18749783
     }, {
-      "name" : "Stephanie ",
+      "name" : "Stephanie",
       "screen_name" : "Gemini_Minx",
       "indices" : [ 95, 107 ],
       "id_str" : "52593573",
@@ -7536,7 +7530,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "JPBarlow",
       "protected" : false,
       "id_str" : "14274132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459060964617224192\/iQFeuS8__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593246930014064640\/zvByG4sa_normal.jpg",
       "id" : 14274132,
       "verified" : false
     }
@@ -10672,12 +10666,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 58, 66 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 68, 79 ],
@@ -11370,13 +11358,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -11389,7 +11371,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 89403865534963714,
   "in_reply_to_status_id" : 89402607919038464,
   "created_at" : "2011-07-08 18:41:57 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -11403,13 +11385,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -11422,7 +11398,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 89402811187605504,
   "in_reply_to_status_id" : 89402607919038464,
   "created_at" : "2011-07-08 18:37:45 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -11436,13 +11412,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "YouAreU",
@@ -11456,7 +11426,7 @@ Grailbird.data.tweets_2011_07 =
   "text" : "@Lchmela did you ever figure out what's your motivation to life? #YouAreU",
   "id" : 89402037271404545,
   "created_at" : "2011-07-08 18:34:41 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -13028,7 +12998,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "trammell",
       "protected" : false,
       "id_str" : "666073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479778647444692992\/inahCiKL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587690037535358976\/dtZEenHf_normal.jpg",
       "id" : 666073,
       "verified" : false
     }
@@ -14638,12 +14608,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    }, {
       "name" : "Christopher Gajus",
       "screen_name" : "gajuscd",
       "indices" : [ 16, 24 ],
@@ -14662,7 +14626,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 87291210020032512,
   "in_reply_to_status_id" : 87290087179685888,
   "created_at" : "2011-07-02 22:47:00 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -14676,13 +14640,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -14695,7 +14653,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 87288967405375488,
   "in_reply_to_status_id" : 87286945067184128,
   "created_at" : "2011-07-02 22:38:06 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -14710,12 +14668,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    }, {
       "name" : "Christopher Gajus",
       "screen_name" : "gajuscd",
       "indices" : [ 38, 46 ],
@@ -14734,7 +14686,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 87287964165607424,
   "in_reply_to_status_id" : 87286945067184128,
   "created_at" : "2011-07-02 22:34:07 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -14781,13 +14733,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -14798,7 +14744,7 @@ Grailbird.data.tweets_2011_07 =
   "text" : "@Lchmela would you be interested in joining a community that promotes creative discussions?",
   "id" : 87285869479854080,
   "created_at" : "2011-07-02 22:25:47 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -15039,13 +14985,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Liz Rose Chmela",
-      "screen_name" : "Lchmela",
-      "indices" : [ 0, 8 ],
-      "id_str" : "143622776",
-      "id" : 143622776
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -15058,7 +14998,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 86856674748538880,
   "in_reply_to_status_id" : 86856551847047169,
   "created_at" : "2011-07-01 18:00:19 +0000",
-  "in_reply_to_screen_name" : "Lchmela",
+  "in_reply_to_screen_name" : "heylizrose",
   "in_reply_to_user_id_str" : "143622776",
   "user" : {
     "name" : "Adrian D. Alvarez",

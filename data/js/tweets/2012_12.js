@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572178112282288128\/Flc4RgbD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -2258,7 +2258,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555781838606979072\/6gYOQHmO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598573552586104832\/ZthEzk3G_normal.jpg",
       "id" : 15947967,
       "verified" : false
     }
@@ -2351,10 +2351,6 @@ Grailbird.data.tweets_2012_12 =
       "id" : 278583748650479618,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
       "sizes" : [ {
-        "h" : 592,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 697,
         "resize" : "fit",
         "w" : 400
@@ -2366,6 +2362,10 @@ Grailbird.data.tweets_2012_12 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 592,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 697,
         "resize" : "fit",
@@ -2398,10 +2398,6 @@ Grailbird.data.tweets_2012_12 =
         "id" : 278583748650479618,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
         "sizes" : [ {
-          "h" : 592,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 697,
           "resize" : "fit",
           "w" : 400
@@ -2413,6 +2409,10 @@ Grailbird.data.tweets_2012_12 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 592,
+          "resize" : "fit",
+          "w" : 340
         }, {
           "h" : 697,
           "resize" : "fit",

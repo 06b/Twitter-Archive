@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicolas Gallagher",
+      "name" : "Nicolas",
       "screen_name" : "necolas",
       "indices" : [ 3, 11 ],
       "id_str" : "24974216",
@@ -30,11 +30,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 241517235779276800,
     "created_at" : "2012-08-31 12:46:10 +0000",
     "user" : {
-      "name" : "Nicolas Gallagher",
+      "name" : "Nicolas",
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529444560179449857\/eKdCJhvp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605757358673784833\/m_scxnbP_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -672,7 +672,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555781838606979072\/6gYOQHmO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598573552586104832\/ZthEzk3G_normal.jpg",
       "id" : 15947967,
       "verified" : false
     }
@@ -1101,7 +1101,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "bitchwhocodes",
       "protected" : false,
       "id_str" : "1325411",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/574689657339781120\/bBZmcggB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596112741120638977\/ggVL3fkj_normal.jpg",
       "id" : 1325411,
       "verified" : false
     }
@@ -1160,7 +1160,7 @@ Grailbird.data.tweets_2012_08 =
     "user" : {
       "name" : "Michael Dixon II",
       "screen_name" : "mdixonii",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "17020986",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493022138522025986\/77hiDYhi_normal.png",
       "id" : 17020986,
@@ -1530,7 +1530,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555781838606979072\/6gYOQHmO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598573552586104832\/ZthEzk3G_normal.jpg",
       "id" : 15947967,
       "verified" : false
     }
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens 3.02",
+      "name" : "rstevens ",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -2088,7 +2088,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236304911594295297,
     "created_at" : "2012-08-17 03:34:15 +0000",
     "user" : {
-      "name" : "rstevens 3.02",
+      "name" : "rstevens ",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -3427,7 +3427,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Ryan_M_Scott",
       "protected" : false,
       "id_str" : "288334653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1326900039\/ryan_avatar_01_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592689334798651392\/NXUxnNRe_normal.jpg",
       "id" : 288334653,
       "verified" : false
     }
@@ -4528,6 +4528,10 @@ Grailbird.data.tweets_2012_08 =
         "resize" : "fit",
         "w" : 471
       }, {
+        "h" : 72,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 101,
         "resize" : "crop",
         "w" : 150
@@ -4539,10 +4543,6 @@ Grailbird.data.tweets_2012_08 =
         "h" : 101,
         "resize" : "fit",
         "w" : 471
-      }, {
-        "h" : 72,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/0RfYH4f3"
     } ],
