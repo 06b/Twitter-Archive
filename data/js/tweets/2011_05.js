@@ -6450,7 +6450,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "brianshaler",
       "protected" : false,
       "id_str" : "6114312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/567095085859237891\/C6KYHHvG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608057496209657857\/Mw0gANfY_normal.jpg",
       "id" : 6114312,
       "verified" : false
     }
@@ -8636,7 +8636,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "iA",
       "protected" : false,
       "id_str" : "2087371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510071324580909056\/PGyJp57__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612988926047985664\/TvJw7c-B_normal.jpg",
       "id" : 2087371,
       "verified" : false
     }
@@ -11338,7 +11338,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -11558,7 +11558,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -12100,7 +12100,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -12401,7 +12401,7 @@ Grailbird.data.tweets_2011_05 =
     "user" : {
       "name" : "Sara Kowatch",
       "screen_name" : "diornotwar",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "20627121",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552785656775450625\/908f1Fnq_normal.jpeg",
       "id" : 20627121,

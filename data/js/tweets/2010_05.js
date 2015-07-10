@@ -2291,7 +2291,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -4961,7 +4961,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "1671811",
       "id" : 1671811
     }, {
-      "name" : "Ben Schwarz",
+      "name" : "\u3030",
       "screen_name" : "benschwarz",
       "indices" : [ 56, 67 ],
       "id_str" : "14431882",
@@ -4978,7 +4978,7 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ben Schwarz",
+        "name" : "\u3030",
         "screen_name" : "benschwarz",
         "indices" : [ 40, 51 ],
         "id_str" : "14431882",
@@ -7935,7 +7935,7 @@ Grailbird.data.tweets_2010_05 =
     "user" : {
       "name" : "Sara Kowatch",
       "screen_name" : "diornotwar",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "20627121",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552785656775450625\/908f1Fnq_normal.jpeg",
       "id" : 20627121,

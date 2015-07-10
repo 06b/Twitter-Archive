@@ -400,7 +400,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Keri",
+      "name" : "keri",
       "screen_name" : "kerihw",
       "indices" : [ 3, 10 ],
       "id_str" : "43328711",
@@ -427,11 +427,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 538244426695729152,
     "created_at" : "2014-11-28 08:14:06 +0000",
     "user" : {
-      "name" : "Keri",
+      "name" : "keri",
       "screen_name" : "kerihw",
       "protected" : false,
       "id_str" : "43328711",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/567372374601760768\/BCA1yflr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614691805259546624\/aVoodwVj_normal.jpg",
       "id" : 43328711,
       "verified" : false
     }
@@ -1741,7 +1741,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "karlou",
       "protected" : false,
       "id_str" : "20137884",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478878424128577536\/a0-PjVIZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617971089910669312\/GJBeRw4F_normal.jpg",
       "id" : 20137884,
       "verified" : false
     }
@@ -1843,7 +1843,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "xanmurai",
       "protected" : false,
       "id_str" : "386774413",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604590473643094016\/zcYz3xGx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618046294255235073\/lwXQD_Ay_normal.jpg",
       "id" : 386774413,
       "verified" : false
     }
@@ -2750,7 +2750,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DawnRivers",
       "protected" : false,
       "id_str" : "18093468",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556483043033382913\/-TdjWZfW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613825898618429440\/FZ0yZv2Q_normal.jpg",
       "id" : 18093468,
       "verified" : false
     }
@@ -3683,7 +3683,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "meyerweb",
       "protected" : false,
       "id_str" : "646533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607649383211892736\/WmA7ipHX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614774374596382720\/bkOqkobp_normal.png",
       "id" : 646533,
       "verified" : false
     }
@@ -4946,7 +4946,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -5278,7 +5278,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "Blue10StangGirl",
       "protected" : false,
       "id_str" : "134660958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590518397831634944\/RItwgtGe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613426671924940800\/K-lr2QUk_normal.jpg",
       "id" : 134660958,
       "verified" : false
     }
@@ -6872,117 +6872,6 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ma femme",
-      "screen_name" : "VotezNon",
-      "indices" : [ 3, 12 ],
-      "id_str" : "1282683962",
-      "id" : 1282683962
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/VotezNon\/status\/493521721950240768\/photo\/1",
-      "indices" : [ 93, 115 ],
-      "url" : "http:\/\/t.co\/YrxTdPxeM6",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BtlXXGbCcAAgYqS.jpg",
-      "id_str" : "493521688546406400",
-      "id" : 493521688546406400,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BtlXXGbCcAAgYqS.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 890,
-        "resize" : "fit",
-        "w" : 593
-      }, {
-        "h" : 510,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 890,
-        "resize" : "fit",
-        "w" : 593
-      }, {
-        "h" : 890,
-        "resize" : "fit",
-        "w" : 593
-      } ],
-      "display_url" : "pic.twitter.com\/YrxTdPxeM6"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "529999023760240640",
-  "text" : "RT @VotezNon: That awkward moment when Satan is a perfectly acceptable option for your kids. http:\/\/t.co\/YrxTdPxeM6",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/VotezNon\/status\/493521721950240768\/photo\/1",
-        "indices" : [ 79, 101 ],
-        "url" : "http:\/\/t.co\/YrxTdPxeM6",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BtlXXGbCcAAgYqS.jpg",
-        "id_str" : "493521688546406400",
-        "id" : 493521688546406400,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BtlXXGbCcAAgYqS.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 890,
-          "resize" : "fit",
-          "w" : 593
-        }, {
-          "h" : 510,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 890,
-          "resize" : "fit",
-          "w" : 593
-        }, {
-          "h" : 890,
-          "resize" : "fit",
-          "w" : 593
-        } ],
-        "display_url" : "pic.twitter.com\/YrxTdPxeM6"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "493521721950240768",
-    "text" : "That awkward moment when Satan is a perfectly acceptable option for your kids. http:\/\/t.co\/YrxTdPxeM6",
-    "id" : 493521721950240768,
-    "created_at" : "2014-07-27 22:22:02 +0000",
-    "user" : {
-      "name" : "ma femme",
-      "screen_name" : "VotezNon",
-      "protected" : false,
-      "id_str" : "1282683962",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/589518835356663808\/-0fRflP2_normal.jpg",
-      "id" : 1282683962,
-      "verified" : false
-    }
-  },
-  "id" : 529999023760240640,
-  "created_at" : "2014-11-05 14:09:48 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528287657009217536\/3VDuBc61_normal.jpeg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Ryan Parsley",
       "screen_name" : "ryanparsley",
       "indices" : [ 3, 15 ],
@@ -7529,7 +7418,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458823751417610241\/8YSR2JGI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615723349969272836\/s2zBF4m6_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -8223,7 +8112,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "girlie_mac",
       "protected" : false,
       "id_str" : "7103272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540023421090816002\/kGkGx8mm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616086942761906177\/1fjjxXuw_normal.jpg",
       "id" : 7103272,
       "verified" : false
     }

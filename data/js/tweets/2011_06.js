@@ -8132,12 +8132,6 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "112919156",
       "id" : 112919156
     }, {
-      "name" : "Bethany Rainbolt",
-      "screen_name" : "B_Bolt",
-      "indices" : [ 16, 23 ],
-      "id_str" : "246415204",
-      "id" : 246415204
-    }, {
       "name" : "Kerri Thomas",
       "screen_name" : "kerrirainbolt",
       "indices" : [ 38, 52 ],
@@ -10954,7 +10948,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -11638,6 +11632,69 @@ Grailbird.data.tweets_2011_06 =
   },
   "id" : 80001535454613504,
   "created_at" : "2011-06-12 20:00:27 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528287657009217536\/3VDuBc61_normal.jpeg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jacklyn Cremer",
+      "screen_name" : "jacklyn",
+      "indices" : [ 3, 11 ],
+      "id_str" : "14120587",
+      "id" : 14120587
+    }, {
+      "name" : "EnvatoWebDev",
+      "screen_name" : "envatowebdev",
+      "indices" : [ 114, 127 ],
+      "id_str" : "223770428",
+      "id" : 223770428
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "80001366055071744",
+  "text" : "RT @jacklyn: \"Web developers are nice people, we don't talk to you [in real life] but we are nice.\" - Jeffrey Way @envatowebdev",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "EnvatoWebDev",
+        "screen_name" : "envatowebdev",
+        "indices" : [ 101, 114 ],
+        "id_str" : "223770428",
+        "id" : 223770428
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "79947558297944064",
+    "text" : "\"Web developers are nice people, we don't talk to you [in real life] but we are nice.\" - Jeffrey Way @envatowebdev",
+    "id" : 79947558297944064,
+    "created_at" : "2011-06-12 16:25:57 +0000",
+    "user" : {
+      "name" : "Jacklyn Cremer",
+      "screen_name" : "jacklyn",
+      "protected" : false,
+      "id_str" : "14120587",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564123931833933824\/0dG5bxWI_normal.png",
+      "id" : 14120587,
+      "verified" : false
+    }
+  },
+  "id" : 80001366055071744,
+  "created_at" : "2011-06-12 19:59:46 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -12495,7 +12552,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "ameetchimote",
       "protected" : false,
       "id_str" : "63396669",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593393735834148864\/IQvr15JL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615946452846706688\/57mxCMKH_normal.jpg",
       "id" : 63396669,
       "verified" : false
     }
@@ -16055,7 +16112,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "andrettibrown",
       "protected" : false,
       "id_str" : "25306021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603773408241823744\/gFtNJyJu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608808311509659648\/_VJC-aA3_normal.png",
       "id" : 25306021,
       "verified" : false
     }

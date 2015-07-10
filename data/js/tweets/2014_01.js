@@ -1572,7 +1572,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "FivdaAurion",
       "protected" : false,
       "id_str" : "1530982214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606063232915226624\/HU5jWUkR_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619289100403757057\/MU85Wvvf_normal.png",
       "id" : 1530982214,
       "verified" : false
     }
@@ -1874,7 +1874,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605203797519020032\/wHr1cwks_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617864129999675393\/LoN_ffKr_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "meyerweb",
       "protected" : false,
       "id_str" : "646533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607649383211892736\/WmA7ipHX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614774374596382720\/bkOqkobp_normal.png",
       "id" : 646533,
       "verified" : false
     }
@@ -3396,7 +3396,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "jordanmoore",
       "protected" : false,
       "id_str" : "9398872",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604419153173344257\/TyvIu7Si_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611922982525607936\/1MGkXRqw_normal.jpg",
       "id" : 9398872,
       "verified" : false
     }
@@ -4406,7 +4406,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dennis collective",
+      "name" : "\uFFFD",
       "screen_name" : "dnscollective",
       "indices" : [ 3, 17 ],
       "id_str" : "30498562",
@@ -4433,7 +4433,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 412855470294962176,
     "created_at" : "2013-12-17 08:03:09 +0000",
     "user" : {
-      "name" : "dennis collective",
+      "name" : "\uFFFD",
       "screen_name" : "dnscollective",
       "protected" : false,
       "id_str" : "30498562",

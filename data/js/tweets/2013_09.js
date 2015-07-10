@@ -1103,7 +1103,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607313791177605120\/1979A-vH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619272804786171904\/ozTAPWCp_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }
@@ -2407,7 +2407,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "bakadesuyo",
       "protected" : false,
       "id_str" : "21424637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/80769311\/MyPicture_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618301535965937664\/6x_Rd2Ur_normal.jpg",
       "id" : 21424637,
       "verified" : false
     }
@@ -2849,7 +2849,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2740\u2741 eevee \u2741\u2740",
+      "name" : "\u2600\u2742 eevee \u2742\u2600",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2876,11 +2876,11 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377934228543270912,
     "created_at" : "2013-09-11 23:18:36 +0000",
     "user" : {
-      "name" : "\u2740\u2741 eevee \u2741\u2740",
+      "name" : "\u2600\u2742 eevee \u2742\u2600",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580035210743447552\/3IKbbSId_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618291291206520832\/k-fpusRc_normal.png",
       "id" : 14412937,
       "verified" : false
     }

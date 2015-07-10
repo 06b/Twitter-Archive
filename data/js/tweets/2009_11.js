@@ -904,7 +904,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul (friends only)",
+      "name" : "Paul",
       "screen_name" : "nicepaul",
       "indices" : [ 3, 12 ],
       "id_str" : "20137367",
