@@ -133,7 +133,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "tvtag",
+      "name" : "GetGlue",
       "screen_name" : "getglue",
       "indices" : [ 88, 96 ],
       "id_str" : "1571579137",
@@ -153,7 +153,7 @@ Grailbird.data.tweets_2010_12 =
     "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "tvtag",
+        "name" : "GetGlue",
         "screen_name" : "getglue",
         "indices" : [ 73, 81 ],
         "id_str" : "1571579137",
@@ -255,7 +255,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "ilovetypography",
       "protected" : false,
       "id_str" : "9779032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1180684634\/ilt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615556744589127680\/YRL2j2Wa_normal.png",
       "id" : 9779032,
       "verified" : true
     }

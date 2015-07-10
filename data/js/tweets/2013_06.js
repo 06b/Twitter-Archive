@@ -507,7 +507,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the grugq",
+      "name" : "the grugq ",
       "screen_name" : "thegrugq",
       "indices" : [ 3, 12 ],
       "id_str" : "18983429",
@@ -525,7 +525,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "76980293",
       "id" : 76980293
     }, {
-      "name" : "the grugq",
+      "name" : "the grugq ",
       "screen_name" : "thegrugq",
       "indices" : [ 30, 39 ],
       "id_str" : "18983429",
@@ -554,7 +554,7 @@ Grailbird.data.tweets_2013_06 =
         "id_str" : "76980293",
         "id" : 76980293
       }, {
-        "name" : "the grugq",
+        "name" : "the grugq ",
         "screen_name" : "thegrugq",
         "indices" : [ 16, 25 ],
         "id_str" : "18983429",
@@ -570,7 +570,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 350300675680387077,
     "created_at" : "2013-06-27 17:12:44 +0000",
     "user" : {
-      "name" : "the grugq",
+      "name" : "the grugq ",
       "screen_name" : "thegrugq",
       "protected" : false,
       "id_str" : "18983429",

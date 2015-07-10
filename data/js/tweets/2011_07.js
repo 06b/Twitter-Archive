@@ -149,7 +149,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617145943025127424\/XPlKadXR_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -2155,7 +2155,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "kendallmiller",
       "protected" : false,
       "id_str" : "18351635",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605444906807521280\/zu46r9kl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611909427407392768\/oAAjPemu_normal.jpg",
       "id" : 18351635,
       "verified" : false
     }
@@ -5475,7 +5475,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "ilovetypography",
       "protected" : false,
       "id_str" : "9779032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1180684634\/ilt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615556744589127680\/YRL2j2Wa_normal.png",
       "id" : 9779032,
       "verified" : true
     }
@@ -7343,7 +7343,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Landor Associates",
+      "name" : "Landor",
       "screen_name" : "landor_dot_com",
       "indices" : [ 3, 18 ],
       "id_str" : "13909352",
@@ -7370,7 +7370,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 91894427504742400,
     "created_at" : "2011-07-15 15:38:33 +0000",
     "user" : {
-      "name" : "Landor Associates",
+      "name" : "Landor",
       "screen_name" : "landor_dot_com",
       "protected" : false,
       "id_str" : "13909352",
@@ -10566,12 +10566,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Feoshia H. Davis",
-      "screen_name" : "feoshiawrites",
-      "indices" : [ 3, 17 ],
-      "id_str" : "18101869",
-      "id" : 18101869
-    }, {
       "name" : "Michelle Spelman",
       "screen_name" : "JukemFootball",
       "indices" : [ 22, 36 ],
@@ -10618,10 +10612,10 @@ Grailbird.data.tweets_2011_07 =
     "created_at" : "2011-07-11 15:06:01 +0000",
     "user" : {
       "name" : "Feoshia H. Davis",
-      "screen_name" : "feoshiawrites",
+      "screen_name" : "feoshiabrands",
       "protected" : false,
       "id_str" : "18101869",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538139540578242562\/_fhq-b5p_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613019777334775808\/51Uva18q_normal.jpg",
       "id" : 18101869,
       "verified" : false
     }

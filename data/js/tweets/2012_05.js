@@ -3984,7 +3984,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "WeirdFacts",
       "protected" : false,
       "id_str" : "370419168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2178147501\/SoMindBlowing-PP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615329553347555328\/rGM2C8-b_normal.jpg",
       "id" : 370419168,
       "verified" : false
     }

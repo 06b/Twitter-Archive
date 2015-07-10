@@ -786,7 +786,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liz Morrison Smith",
+      "name" : "Liz Morrison",
       "screen_name" : "lizbmorrison",
       "indices" : [ 3, 16 ],
       "id_str" : "160107416",
@@ -825,7 +825,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 239658719212879874,
     "created_at" : "2012-08-26 09:41:05 +0000",
     "user" : {
-      "name" : "Liz Morrison Smith",
+      "name" : "Liz Morrison",
       "screen_name" : "lizbmorrison",
       "protected" : false,
       "id_str" : "160107416",
@@ -957,7 +957,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Adobe",
       "protected" : false,
       "id_str" : "63786611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576494487129616384\/nS92g9ip_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618106877700739072\/MewPPbPl_normal.png",
       "id" : 63786611,
       "verified" : true
     }
@@ -1929,7 +1929,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458823751417610241\/8YSR2JGI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615723349969272836\/s2zBF4m6_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "LawrieCape",
       "protected" : false,
       "id_str" : "15317131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000420529567\/26e9020164f6469cbf5e414a7bccdffb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609045933192568832\/ZacVJO28_normal.jpg",
       "id" : 15317131,
       "verified" : false
     }
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens ",
+      "name" : "rstevens \u2116 \u00B3",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -2088,11 +2088,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236304911594295297,
     "created_at" : "2012-08-17 03:34:15 +0000",
     "user" : {
-      "name" : "rstevens ",
+      "name" : "rstevens \u2116 \u00B3",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552258901958475776\/aNzACLOf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614523068149596161\/hIHWftui_normal.jpg",
       "id" : 643653,
       "verified" : false
     }

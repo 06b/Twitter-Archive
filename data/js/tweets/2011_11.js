@@ -1104,7 +1104,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "happycog",
       "protected" : false,
       "id_str" : "14117434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477235063436742656\/ZzyJRrlT_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616212122482135041\/9ITImo0P_normal.jpg",
       "id" : 14117434,
       "verified" : false
     }
@@ -1323,12 +1323,6 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 14, 25 ],
       "id_str" : "112919156",
       "id" : 112919156
-    }, {
-      "name" : "Bethany Rainbolt",
-      "screen_name" : "B_Bolt",
-      "indices" : [ 43, 50 ],
-      "id_str" : "246415204",
-      "id" : 246415204
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1545,7 +1539,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514069294137634818\/fmVcpqiz_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609034157369327616\/NB9lyF_F_normal.jpg",
       "id" : 6320592,
       "verified" : false
     }
@@ -1570,12 +1564,6 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 17, 31 ],
       "id_str" : "31818854",
       "id" : 31818854
-    }, {
-      "name" : "Bethany Rainbolt",
-      "screen_name" : "B_Bolt",
-      "indices" : [ 65, 72 ],
-      "id_str" : "246415204",
-      "id" : 246415204
     }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
@@ -2150,7 +2138,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr. Andrew Clarke",
+      "name" : "Andrew Clarke",
       "screen_name" : "Malarkey",
       "indices" : [ 3, 12 ],
       "id_str" : "34163",
@@ -2177,11 +2165,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 137889774911492097,
     "created_at" : "2011-11-19 13:47:38 +0000",
     "user" : {
-      "name" : "Mr. Andrew Clarke",
+      "name" : "Andrew Clarke",
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588316246820651008\/Xk3DCPbo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615219384114638848\/_eXnc6EJ_normal.jpg",
       "id" : 34163,
       "verified" : false
     }
@@ -2586,7 +2574,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607628872100806656\/OVWSXA4q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609215086188560384\/Qvg0YlB0_normal.png",
       "id" : 18247541,
       "verified" : false
     }
@@ -3012,7 +3000,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -3155,7 +3143,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617145943025127424\/XPlKadXR_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -4022,7 +4010,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Schwarz",
+      "name" : "\u3030",
       "screen_name" : "benschwarz",
       "indices" : [ 3, 14 ],
       "id_str" : "14431882",
@@ -4049,7 +4037,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 135849708575916032,
     "created_at" : "2011-11-13 22:41:09 +0000",
     "user" : {
-      "name" : "Ben Schwarz",
+      "name" : "\u3030",
       "screen_name" : "benschwarz",
       "protected" : false,
       "id_str" : "14431882",

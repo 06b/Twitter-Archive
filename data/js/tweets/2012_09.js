@@ -1770,7 +1770,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "11855482",
       "id" : 11855482
     }, {
-      "name" : "Mr. Andrew Clarke",
+      "name" : "Andrew Clarke",
       "screen_name" : "Malarkey",
       "indices" : [ 139, 140 ],
       "id_str" : "34163",
@@ -1793,7 +1793,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mr. Andrew Clarke",
+        "name" : "Andrew Clarke",
         "screen_name" : "Malarkey",
         "indices" : [ 124, 133 ],
         "id_str" : "34163",
@@ -2538,7 +2538,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484475570059612161\/calZWEyY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617145943025127424\/XPlKadXR_normal.png",
       "id" : 5530472,
       "verified" : false
     }
@@ -2832,7 +2832,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "lukelewis",
       "protected" : false,
       "id_str" : "18309653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481837211592056832\/2dnA1-ew_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609844676431081473\/zHFYbYo1_normal.jpg",
       "id" : 18309653,
       "verified" : true
     }
@@ -3164,7 +3164,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605873291849367554\/nixajH3l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616472933486174208\/7It-twNo_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
