@@ -2365,7 +2365,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "concentrmedia",
       "protected" : false,
       "id_str" : "73943407",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428905631018672128\/iR0mdcbn_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628994506377932800\/3XUOgVLg_normal.jpg",
       "id" : 73943407,
       "verified" : false
     }
@@ -3036,7 +3036,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[dem Caspers seins]",
+      "name" : "[dem Caspers seins]\u2122",
       "screen_name" : "tcaspers",
       "indices" : [ 3, 12 ],
       "id_str" : "29883",
@@ -3063,7 +3063,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15063491241054208,
     "created_at" : "2010-12-15 15:19:50 +0000",
     "user" : {
-      "name" : "[dem Caspers seins]",
+      "name" : "[dem Caspers seins]\u2122",
       "screen_name" : "tcaspers",
       "protected" : false,
       "id_str" : "29883",
@@ -4517,7 +4517,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "AFrutiger",
       "protected" : false,
       "id_str" : "138592935",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000193640030\/2c04146a8a4a682af32bf5da4b9c2e9c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634908289659195392\/Fz-aWg6i_normal.png",
       "id" : 138592935,
       "verified" : false
     }

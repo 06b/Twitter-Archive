@@ -4633,12 +4633,6 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 0, 11 ],
       "id_str" : "540255575",
       "id" : 540255575
-    }, {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 70, 73 ],
-      "id_str" : "19315174",
-      "id" : 19315174
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4779,7 +4773,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }

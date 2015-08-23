@@ -617,7 +617,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "coi mochi taco",
+      "name" : "#fef",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
@@ -766,13 +766,7 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 111, 114 ],
-      "id_str" : "19315174",
-      "id" : 19315174
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "Childofthe90s",
@@ -4004,7 +3998,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "TrentWalton",
       "protected" : false,
       "id_str" : "14477161",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611638769406472192\/HAtdLX_9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625681074442506240\/Kf_KHLAx_normal.jpg",
       "id" : 14477161,
       "verified" : false
     }

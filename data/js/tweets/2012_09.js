@@ -825,7 +825,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "47494539",
       "id" : 47494539
     }, {
-      "name" : "Matthew Weihl",
+      "name" : "matt",
       "screen_name" : "mattweihl",
       "indices" : [ 79, 89 ],
       "id_str" : "216516419",
@@ -853,7 +853,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Matthew Weihl",
+        "name" : "matt",
         "screen_name" : "mattweihl",
         "indices" : [ 64, 74 ],
         "id_str" : "216516419",
@@ -2832,7 +2832,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "lukelewis",
       "protected" : false,
       "id_str" : "18309653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609844676431081473\/zHFYbYo1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628902208386560000\/HRLIwYfK_normal.jpg",
       "id" : 18309653,
       "verified" : true
     }
@@ -3164,7 +3164,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616472933486174208\/7It-twNo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630832517189386241\/XNNRaISa_normal.jpg",
       "id" : 768197,
       "verified" : false
     }

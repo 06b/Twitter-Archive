@@ -459,7 +459,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615723349969272836\/s2zBF4m6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633784478184267776\/Se5mteSH_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -520,7 +520,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "codinghorror",
       "protected" : false,
       "id_str" : "5637652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2052442590\/coding-horror-official-logo-medium_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632821853627678720\/zPKK7jql_normal.png",
       "id" : 5637652,
       "verified" : true
     }
@@ -783,7 +783,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "codinghorror",
       "protected" : false,
       "id_str" : "5637652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2052442590\/coding-horror-official-logo-medium_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632821853627678720\/zPKK7jql_normal.png",
       "id" : 5637652,
       "verified" : true
     }
@@ -1118,13 +1118,13 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lvl80 Feminist Witch",
+      "name" : "ashe dryden",
       "screen_name" : "ashedryden",
       "indices" : [ 3, 14 ],
       "id_str" : "9510922",
       "id" : 9510922
     }, {
-      "name" : "Relly Annett-Baker",
+      "name" : "Relly Annett-Baker  ",
       "screen_name" : "RellyAB",
       "indices" : [ 83, 91 ],
       "id_str" : "17673",
@@ -1146,7 +1146,7 @@ Grailbird.data.tweets_2013_05 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Relly Annett-Baker",
+        "name" : "Relly Annett-Baker  ",
         "screen_name" : "RellyAB",
         "indices" : [ 67, 75 ],
         "id_str" : "17673",
@@ -1167,11 +1167,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 336991210063413248,
     "created_at" : "2013-05-21 23:45:40 +0000",
     "user" : {
-      "name" : "Lvl80 Feminist Witch",
+      "name" : "ashe dryden",
       "screen_name" : "ashedryden",
       "protected" : false,
       "id_str" : "9510922",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568990886835404800\/eWG_A-yu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632557850372493312\/FWon-6QL_normal.jpg",
       "id" : 9510922,
       "verified" : false
     }
@@ -2022,7 +2022,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -2088,7 +2088,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2115,7 +2115,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 336502502268739584,
     "created_at" : "2013-05-20 15:23:43 +0000",
     "user" : {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2855,7 +2855,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "codinghorror",
       "protected" : false,
       "id_str" : "5637652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2052442590\/coding-horror-official-logo-medium_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632821853627678720\/zPKK7jql_normal.png",
       "id" : 5637652,
       "verified" : true
     }
@@ -3793,7 +3793,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "mrdaveturner",
       "protected" : false,
       "id_str" : "188716376",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601767134792962048\/MHz6P840_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633747503746170882\/b6wFBc1L_normal.jpg",
       "id" : 188716376,
       "verified" : false
     }
@@ -4014,7 +4014,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -4558,7 +4558,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "gabrielwebbDev",
       "protected" : false,
       "id_str" : "161810083",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603596636418396161\/A2SC5vGV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631560574258835456\/G-h5qJ9__normal.jpg",
       "id" : 161810083,
       "verified" : false
     }
@@ -5625,7 +5625,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605757358673784833\/m_scxnbP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620364770592583680\/oCYDJz8x_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -6688,7 +6688,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }

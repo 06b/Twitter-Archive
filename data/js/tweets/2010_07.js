@@ -679,7 +679,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChrisEppstein \u2764\uFE0F\u263A\uFE0F",
+      "name" : "\u263A\uFE0Fchriseppstein",
       "screen_name" : "chriseppstein",
       "indices" : [ 9, 23 ],
       "id_str" : "14148091",
@@ -2313,7 +2313,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "58802066",
       "id" : 58802066
     }, {
-      "name" : "Estelle Weyl",
+      "name" : "[object Object]",
       "screen_name" : "estellevw",
       "indices" : [ 15, 25 ],
       "id_str" : "6320592",
@@ -4835,7 +4835,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "dklimke",
       "protected" : false,
       "id_str" : "15583100",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1563814416\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634830991513796608\/IIhDyIl2_normal.jpg",
       "id" : 15583100,
       "verified" : false
     }

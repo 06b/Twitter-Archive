@@ -1080,12 +1080,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 3, 10 ],
       "id_str" : "757903",
       "id" : 757903
-    }, {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 100, 103 ],
-      "id_str" : "19315174",
-      "id" : 19315174
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4783,7 +4777,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "brucefloyd",
       "protected" : false,
       "id_str" : "9972002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619223965563793417\/TtfvIM_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630096034094534656\/_Saax84p_normal.jpg",
       "id" : 9972002,
       "verified" : false
     }
@@ -5522,7 +5516,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "behoff",
       "protected" : false,
       "id_str" : "15396961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542850155301851137\/4QaKg9fz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629004552914665472\/g_nnf8ib_normal.jpg",
       "id" : 15396961,
       "verified" : false
     }
@@ -5566,7 +5560,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "58802066",
       "id" : 58802066
     }, {
-      "name" : "Estelle Weyl",
+      "name" : "[object Object]",
       "screen_name" : "estellevw",
       "indices" : [ 67, 77 ],
       "id_str" : "6320592",
@@ -5601,7 +5595,7 @@ Grailbird.data.tweets_2010_06 =
         "id_str" : "58802066",
         "id" : 58802066
       }, {
-        "name" : "Estelle Weyl",
+        "name" : "[object Object]",
         "screen_name" : "estellevw",
         "indices" : [ 53, 63 ],
         "id_str" : "6320592",
@@ -5924,7 +5918,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609041906153172992\/Vkv_j218_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634024915885236224\/TLjHq3oV_normal.png",
       "id" : 19619047,
       "verified" : true
     }
@@ -5987,7 +5981,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "NeenahPaper",
       "protected" : false,
       "id_str" : "23964382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555106328335511552\/XsSZ7dOa_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631192252711178240\/xLLUfZEZ_normal.png",
       "id" : 23964382,
       "verified" : true
     }

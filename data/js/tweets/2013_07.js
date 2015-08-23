@@ -685,7 +685,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "teiwaz",
       "protected" : false,
       "id_str" : "1660111",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460676837018853376\/Hpa3LS90_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623234386226384896\/2FDhY6Yb_normal.jpg",
       "id" : 1660111,
       "verified" : false
     }
@@ -1240,7 +1240,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "hypatiadotca",
       "protected" : false,
       "id_str" : "6742522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/579891155220897792\/FD-WAigT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631555478749736960\/MeduJQ_U_normal.jpg",
       "id" : 6742522,
       "verified" : false
     }
@@ -2115,7 +2115,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2154,7 +2154,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357511939888398337,
     "created_at" : "2013-07-17 14:47:43 +0000",
     "user" : {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2529,7 +2529,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "hcatlin",
       "protected" : false,
       "id_str" : "12986052",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612431881254998017\/beuWtvcA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632625044447883264\/uBbX7E5Y_normal.jpg",
       "id" : 12986052,
       "verified" : false
     }
@@ -4255,7 +4255,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "selenamarie",
       "protected" : false,
       "id_str" : "8859592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423239760212025344\/L5un-zSj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626083465188917249\/qp1YqumV_normal.jpg",
       "id" : 8859592,
       "verified" : false
     }

@@ -126,7 +126,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "SaltineJustine",
       "protected" : false,
       "id_str" : "18210275",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618034220888387584\/1A9XMl7Z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622367034890817536\/pujTvuZJ_normal.png",
       "id" : 18210275,
       "verified" : false
     }
@@ -2225,7 +2225,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/559895684023738368\/LzvEUFI__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624710140537753600\/UaYZfDvu_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -2294,7 +2294,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/559895684023738368\/LzvEUFI__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624710140537753600\/UaYZfDvu_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -2726,63 +2726,6 @@ Grailbird.data.tweets_2013_03 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ohio Problems",
-      "screen_name" : "OhioProbz",
-      "indices" : [ 3, 13 ],
-      "id_str" : "776968879",
-      "id" : 776968879
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "OhioProbz",
-      "indices" : [ 76, 86 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "309101711790862337",
-  "text" : "RT @OhioProbz: Welcome to Ohio. The people are drunk and so is the weather. #OhioProbz",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "OhioProbz",
-        "indices" : [ 61, 71 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "309086484223381505",
-    "text" : "Welcome to Ohio. The people are drunk and so is the weather. #OhioProbz",
-    "id" : 309086484223381505,
-    "created_at" : "2013-03-05 23:42:15 +0000",
-    "user" : {
-      "name" : "Ohio Problems",
-      "screen_name" : "OhioProbz",
-      "protected" : false,
-      "id_str" : "776968879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550072841170083840\/zRwfrVXD_normal.jpeg",
-      "id" : 776968879,
-      "verified" : false
-    }
-  },
-  "id" : 309101711790862337,
-  "created_at" : "2013-03-06 00:42:45 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528287657009217536\/3VDuBc61_normal.jpeg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2955,7 +2898,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2982,7 +2925,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 308697186915459072,
     "created_at" : "2013-03-04 21:55:19 +0000",
     "user" : {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -3223,7 +3166,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -3262,7 +3205,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 308370448318615552,
     "created_at" : "2013-03-04 00:16:58 +0000",
     "user" : {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",

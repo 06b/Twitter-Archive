@@ -140,10 +140,10 @@ Grailbird.data.tweets_2013_08 =
       "expanded_url" : "http:\/\/twitter.com\/mdixonii\/status\/373586879704489984\/photo\/1",
       "indices" : [ 125, 140 ],
       "url" : "http:\/\/t.co\/E9oFljrWkY",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA2uYR.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA-K50.jpg",
       "id_str" : "373586879528337408",
       "id" : 373586879528337408,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA2uYR.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA-K50.jpg",
       "sizes" : [ {
         "h" : 764,
         "resize" : "fit",
@@ -181,10 +181,10 @@ Grailbird.data.tweets_2013_08 =
         "expanded_url" : "http:\/\/twitter.com\/mdixonii\/status\/373586879704489984\/photo\/1",
         "indices" : [ 111, 133 ],
         "url" : "http:\/\/t.co\/E9oFljrWkY",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA2uYR.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA-K50.jpg",
         "id_str" : "373586879528337408",
         "id" : 373586879528337408,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA2uYR.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BS8_SZ8IgAA-K50.jpg",
         "sizes" : [ {
           "h" : 764,
           "resize" : "fit",
@@ -219,7 +219,7 @@ Grailbird.data.tweets_2013_08 =
     "user" : {
       "name" : "Michael Dixon II",
       "screen_name" : "mdixonii",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "17020986",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493022138522025986\/77hiDYhi_normal.png",
       "id" : 17020986,
@@ -1094,7 +1094,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#EvanRachelWould ",
+      "name" : "#EvanRachelWould",
       "screen_name" : "evanrachelwood",
       "indices" : [ 3, 18 ],
       "id_str" : "366010246",
@@ -1187,11 +1187,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 372246648807636992,
     "created_at" : "2013-08-27 06:38:11 +0000",
     "user" : {
-      "name" : "#EvanRachelWould ",
+      "name" : "#EvanRachelWould",
       "screen_name" : "evanrachelwood",
       "protected" : false,
       "id_str" : "366010246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581202512243376129\/ZCee4WOp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625491632654295041\/4ngUea8f_normal.jpg",
       "id" : 366010246,
       "verified" : true
     }
@@ -2393,7 +2393,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "PenmanRoss",
       "protected" : false,
       "id_str" : "485076559",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614557223201689600\/7I9dLORW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632314558569390080\/nIZzNF9F_normal.jpg",
       "id" : 485076559,
       "verified" : false
     }
@@ -3550,7 +3550,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616472933486174208\/7It-twNo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630832517189386241\/XNNRaISa_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
@@ -4339,7 +4339,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "22199970",
       "id" : 22199970
     }, {
-      "name" : "The Data Incarnate",
+      "name" : "Ken Keiter",
       "screen_name" : "kenkeiter",
       "indices" : [ 103, 113 ],
       "id_str" : "14478837",
@@ -4364,7 +4364,7 @@ Grailbird.data.tweets_2013_08 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The Data Incarnate",
+        "name" : "Ken Keiter",
         "screen_name" : "kenkeiter",
         "indices" : [ 89, 99 ],
         "id_str" : "14478837",

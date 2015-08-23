@@ -947,7 +947,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "meyerweb",
       "protected" : false,
       "id_str" : "646533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614774374596382720\/bkOqkobp_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630223687434633217\/UkBcOszj_normal.png",
       "id" : 646533,
       "verified" : false
     }
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Estelle Weyl",
+      "name" : "[object Object]",
       "screen_name" : "estellevw",
       "indices" : [ 3, 13 ],
       "id_str" : "6320592",
@@ -1312,7 +1312,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 272029354081533953,
     "created_at" : "2012-11-23 17:30:26 +0000",
     "user" : {
-      "name" : "Estelle Weyl",
+      "name" : "[object Object]",
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
@@ -1412,7 +1412,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "AFrutiger",
       "protected" : false,
       "id_str" : "138592935",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000193640030\/2c04146a8a4a682af32bf5da4b9c2e9c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634908289659195392\/Fz-aWg6i_normal.png",
       "id" : 138592935,
       "verified" : false
     }
@@ -2725,7 +2725,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -3512,7 +3512,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601160603600822273\/kZR6UkuZ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631264526474854400\/5FO7siGX_normal.png",
       "id" : 21491212,
       "verified" : false
     }

@@ -1992,7 +1992,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616472933486174208\/7It-twNo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630832517189386241\/XNNRaISa_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
@@ -14127,18 +14127,6 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 3, 9 ],
       "id_str" : "25600857",
       "id" : 25600857
-    }, {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 50, 53 ],
-      "id_str" : "19315174",
-      "id" : 19315174
-    }, {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 59, 62 ],
-      "id_str" : "19315174",
-      "id" : 19315174
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -14150,19 +14138,7 @@ Grailbird.data.tweets_2011_04 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Internet Explorer",
-        "screen_name" : "IE",
-        "indices" : [ 39, 42 ],
-        "id_str" : "19315174",
-        "id" : 19315174
-      }, {
-        "name" : "Internet Explorer",
-        "screen_name" : "IE",
-        "indices" : [ 48, 51 ],
-        "id_str" : "19315174",
-        "id" : 19315174
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -14240,7 +14216,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "behoff",
       "protected" : false,
       "id_str" : "15396961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542850155301851137\/4QaKg9fz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629004552914665472\/g_nnf8ib_normal.jpg",
       "id" : 15396961,
       "verified" : false
     }

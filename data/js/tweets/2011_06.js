@@ -8132,6 +8132,12 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "112919156",
       "id" : 112919156
     }, {
+      "name" : "Bruna Oliveira",
+      "screen_name" : "b_bolt",
+      "indices" : [ 16, 23 ],
+      "id_str" : "3297939559",
+      "id" : 3297939559
+    }, {
       "name" : "Kerri Thomas",
       "screen_name" : "kerrirainbolt",
       "indices" : [ 38, 52 ],
@@ -10948,7 +10954,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -11473,6 +11479,12 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 17, 25 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
+    }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 61, 72 ],
@@ -12552,7 +12564,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "ameetchimote",
       "protected" : false,
       "id_str" : "63396669",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615946452846706688\/57mxCMKH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629776260449832961\/uVq8vvwD_normal.jpg",
       "id" : 63396669,
       "verified" : false
     }
@@ -12652,7 +12664,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "ShannanB",
       "protected" : false,
       "id_str" : "14398481",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463845846375620608\/8CLeOOoe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626368714414399488\/56D29DK6_normal.jpg",
       "id" : 14398481,
       "verified" : false
     }
@@ -12931,7 +12943,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -12984,6 +13002,12 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
+    }, {
       "name" : "SEGA",
       "screen_name" : "SEGA",
       "indices" : [ 52, 57 ],
@@ -13115,7 +13139,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -13143,6 +13173,12 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 4, 12 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
+    }, {
       "name" : "AIGA Cincinnati",
       "screen_name" : "aigacincinnati",
       "indices" : [ 57, 72 ],
@@ -14076,7 +14112,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -14103,7 +14145,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -14352,6 +14400,12 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 11 ],
       "id_str" : "112919156",
       "id" : 112919156
+    }, {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 34, 42 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -15642,7 +15696,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "22173192",
       "id" : 22173192
     }, {
-      "name" : "\u2665\u2606\u273FCyndi\u2665\u2606\u273F",
+      "name" : "cyndi",
       "screen_name" : "Princesscyndi21",
       "indices" : [ 16, 32 ],
       "id_str" : "14034272",
@@ -15659,7 +15713,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u2665\u2606\u273FCyndi\u2665\u2606\u273F",
+        "name" : "cyndi",
         "screen_name" : "Princesscyndi21",
         "indices" : [ 3, 19 ],
         "id_str" : "14034272",

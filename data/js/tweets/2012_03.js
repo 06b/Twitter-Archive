@@ -313,13 +313,7 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 0, 3 ],
-      "id_str" : "19315174",
-      "id" : 19315174
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "ie6countdown",
@@ -333,7 +327,7 @@ Grailbird.data.tweets_2012_03 =
   "text" : "@IE any chance of having the #ie6countdown shirts for sale?",
   "id" : 184702385132814336,
   "created_at" : "2012-03-27 18:04:14 +0000",
-  "in_reply_to_screen_name" : "IE",
+  "in_reply_to_screen_name" : "MicrosoftEdge",
   "in_reply_to_user_id_str" : "19315174",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2108,7 +2102,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "kristianindy",
       "protected" : false,
       "id_str" : "16378727",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608700098130931712\/wvhH1nUU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629759973036130304\/xson4KwX_normal.png",
       "id" : 16378727,
       "verified" : false
     }
@@ -3180,7 +3174,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615723349969272836\/s2zBF4m6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633784478184267776\/Se5mteSH_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -3648,7 +3642,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "meyerweb",
       "protected" : false,
       "id_str" : "646533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614774374596382720\/bkOqkobp_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630223687434633217\/UkBcOszj_normal.png",
       "id" : 646533,
       "verified" : false
     }
@@ -4825,7 +4819,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615723349969272836\/s2zBF4m6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633784478184267776\/Se5mteSH_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -4876,7 +4870,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "karlgroves",
       "protected" : false,
       "id_str" : "14781056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549958127454416898\/C82ZF50G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631897511008051201\/of1lk7iw_normal.jpg",
       "id" : 14781056,
       "verified" : false
     }
@@ -5414,7 +5408,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }

@@ -161,7 +161,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "codinghorror",
       "protected" : false,
       "id_str" : "5637652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2052442590\/coding-horror-official-logo-medium_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632821853627678720\/zPKK7jql_normal.png",
       "id" : 5637652,
       "verified" : true
     }
@@ -637,7 +637,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "jeresig",
       "protected" : false,
       "id_str" : "752673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453551474711097345\/tXmNE9Cj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628273703587975168\/YorO7ort_normal.png",
       "id" : 752673,
       "verified" : true
     }
@@ -1323,6 +1323,12 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 14, 25 ],
       "id_str" : "112919156",
       "id" : 112919156
+    }, {
+      "name" : "Bruna Oliveira",
+      "screen_name" : "b_bolt",
+      "indices" : [ 43, 50 ],
+      "id_str" : "3297939559",
+      "id" : 3297939559
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1508,7 +1514,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Estelle Weyl",
+      "name" : "[object Object]",
       "screen_name" : "estellevw",
       "indices" : [ 3, 13 ],
       "id_str" : "6320592",
@@ -1535,7 +1541,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138789476259463168,
     "created_at" : "2011-11-22 01:22:44 +0000",
     "user" : {
-      "name" : "Estelle Weyl",
+      "name" : "[object Object]",
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
@@ -1564,6 +1570,12 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 17, 31 ],
       "id_str" : "31818854",
       "id" : 31818854
+    }, {
+      "name" : "Bruna Oliveira",
+      "screen_name" : "b_bolt",
+      "indices" : [ 65, 72 ],
+      "id_str" : "3297939559",
+      "id" : 3297939559
     }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
@@ -2169,7 +2181,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615219384114638848\/_eXnc6EJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635005544923824128\/6W1G26al_normal.jpg",
       "id" : 34163,
       "verified" : false
     }
@@ -2703,7 +2715,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#EvanRachelWould ",
+      "name" : "#EvanRachelWould",
       "screen_name" : "evanrachelwood",
       "indices" : [ 3, 18 ],
       "id_str" : "366010246",
@@ -2736,11 +2748,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 137452545458188288,
     "created_at" : "2011-11-18 08:50:15 +0000",
     "user" : {
-      "name" : "#EvanRachelWould ",
+      "name" : "#EvanRachelWould",
       "screen_name" : "evanrachelwood",
       "protected" : false,
       "id_str" : "366010246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581202512243376129\/ZCee4WOp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625491632654295041\/4ngUea8f_normal.jpg",
       "id" : 366010246,
       "verified" : true
     }
@@ -3000,7 +3012,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -3847,7 +3859,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "JackieBurtnette",
       "protected" : false,
       "id_str" : "82238630",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/561381599431122944\/XRSIVlV1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634782867902603265\/LljanQyo_normal.jpg",
       "id" : 82238630,
       "verified" : false
     }
@@ -4010,7 +4022,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3030",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "indices" : [ 3, 14 ],
       "id_str" : "14431882",
@@ -4037,11 +4049,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 135849708575916032,
     "created_at" : "2011-11-13 22:41:09 +0000",
     "user" : {
-      "name" : "\u3030",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "protected" : false,
       "id_str" : "14431882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600039267348283392\/-DPzRyy9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622315210443878401\/TRDs800x_normal.jpg",
       "id" : 14431882,
       "verified" : false
     }

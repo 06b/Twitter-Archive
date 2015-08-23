@@ -158,7 +158,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "Golnaz89",
       "protected" : false,
       "id_str" : "125553890",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563549545481510912\/T_SjRkO9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622159088705626112\/Z2MIIFjW_normal.jpg",
       "id" : 125553890,
       "verified" : false
     }
@@ -532,7 +532,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -775,7 +775,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 460581500753154048,
     "created_at" : "2014-04-28 00:49:21 +0000",
     "user" : {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -1877,7 +1877,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "15055740",
       "id" : 15055740
     }, {
-      "name" : "The Noun Project",
+      "name" : "Noun Project",
       "screen_name" : "nounproject",
       "indices" : [ 27, 39 ],
       "id_str" : "88996186",
@@ -1930,7 +1930,7 @@ Grailbird.data.tweets_2014_04 =
     "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The Noun Project",
+        "name" : "Noun Project",
         "screen_name" : "nounproject",
         "indices" : [ 16, 28 ],
         "id_str" : "88996186",
@@ -2939,7 +2939,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456566521322426369,
     "created_at" : "2014-04-16 22:55:15 +0000",
     "user" : {
-      "name" : "Randi Harper",
+      "name" : "Randi Lee Harper",
       "screen_name" : "randileeharper",
       "protected" : false,
       "id_str" : "13857342",
@@ -4728,7 +4728,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -4755,7 +4755,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 453574282623594497,
     "created_at" : "2014-04-08 16:45:10 +0000",
     "user" : {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -4881,7 +4881,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -4968,7 +4968,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 453378702014177280,
     "created_at" : "2014-04-08 03:48:00 +0000",
     "user" : {
-      "name" : "Melissa \u2407",
+      "name" : "Melissa[glory emoji]",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -5557,12 +5557,6 @@ Grailbird.data.tweets_2014_04 =
       "indices" : [ 3, 11 ],
       "id_str" : "13567",
       "id" : 13567
-    }, {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 17, 20 ],
-      "id_str" : "19315174",
-      "id" : 19315174
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5579,13 +5573,7 @@ Grailbird.data.tweets_2014_04 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Internet Explorer",
-        "screen_name" : "IE",
-        "indices" : [ 4, 7 ],
-        "id_str" : "19315174",
-        "id" : 19315174
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
@@ -5789,7 +5777,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "erikaheidi",
       "protected" : false,
       "id_str" : "19625601",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611947495590109185\/6SXkRj2C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635117695663480832\/lG5dzML__normal.jpg",
       "id" : 19625601,
       "verified" : false
     }
@@ -6330,7 +6318,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617114156051775488\/XqovsILJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }

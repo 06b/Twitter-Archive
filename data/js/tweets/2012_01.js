@@ -1407,7 +1407,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/559895684023738368\/LzvEUFI__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624710140537753600\/UaYZfDvu_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -2245,7 +2245,7 @@ Grailbird.data.tweets_2012_01 =
     "user" : {
       "name" : "Michael Dixon II",
       "screen_name" : "mdixonii",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "17020986",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493022138522025986\/77hiDYhi_normal.png",
       "id" : 17020986,
@@ -2820,6 +2820,12 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 14, 25 ],
       "id_str" : "112919156",
       "id" : 112919156
+    }, {
+      "name" : "Louise Chmela",
+      "screen_name" : "LChmela",
+      "indices" : [ 56, 64 ],
+      "id_str" : "3432883738",
+      "id" : 3432883738
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4922,96 +4928,13 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "JasonSpeaking",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588690163364147200\/by9koa2O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627476769629712385\/sSX3Fw1q_normal.jpg",
       "id" : 14123301,
       "verified" : false
     }
   },
   "id" : 154266692682391552,
   "created_at" : "2012-01-03 18:23:40 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528287657009217536\/3VDuBc61_normal.jpeg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 3, 6 ],
-      "id_str" : "19315174",
-      "id" : 19315174
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "IE6",
-      "indices" : [ 29, 33 ]
-    }, {
-      "text" : "ie6countdown",
-      "indices" : [ 93, 106 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 72, 92 ],
-      "url" : "http:\/\/t.co\/5SuLCSLo",
-      "expanded_url" : "http:\/\/bit.ly\/s2voLh",
-      "display_url" : "bit.ly\/s2voLh"
-    }, {
-      "indices" : [ 107, 127 ],
-      "url" : "http:\/\/t.co\/kHu2n4FS",
-      "expanded_url" : "http:\/\/ie6countdown.com",
-      "display_url" : "ie6countdown.com"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "154250251052650496",
-  "text" : "RT @IE: Good start to 2012 - #IE6 share in the US has dropped below 1%: http:\/\/t.co\/5SuLCSLo #ie6countdown http:\/\/t.co\/kHu2n4FS",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "IE6",
-        "indices" : [ 21, 25 ]
-      }, {
-        "text" : "ie6countdown",
-        "indices" : [ 85, 98 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 64, 84 ],
-        "url" : "http:\/\/t.co\/5SuLCSLo",
-        "expanded_url" : "http:\/\/bit.ly\/s2voLh",
-        "display_url" : "bit.ly\/s2voLh"
-      }, {
-        "indices" : [ 99, 119 ],
-        "url" : "http:\/\/t.co\/kHu2n4FS",
-        "expanded_url" : "http:\/\/ie6countdown.com",
-        "display_url" : "ie6countdown.com"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "154240004246343680",
-    "text" : "Good start to 2012 - #IE6 share in the US has dropped below 1%: http:\/\/t.co\/5SuLCSLo #ie6countdown http:\/\/t.co\/kHu2n4FS",
-    "id" : 154240004246343680,
-    "created_at" : "2012-01-03 16:37:37 +0000",
-    "user" : {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "protected" : false,
-      "id_str" : "19315174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000859413957\/H7zBWwEm_normal.png",
-      "id" : 19315174,
-      "verified" : true
-    }
-  },
-  "id" : 154250251052650496,
-  "created_at" : "2012-01-03 17:18:20 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

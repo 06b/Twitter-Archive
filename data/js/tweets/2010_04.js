@@ -2429,7 +2429,7 @@ Grailbird.data.tweets_2010_04 =
     "user" : {
       "name" : "Sara Kowatch",
       "screen_name" : "diornotwar",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "20627121",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552785656775450625\/908f1Fnq_normal.jpeg",
       "id" : 20627121,
@@ -2909,7 +2909,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "JasonSpeaking",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588690163364147200\/by9koa2O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627476769629712385\/sSX3Fw1q_normal.jpg",
       "id" : 14123301,
       "verified" : false
     }
@@ -6569,7 +6569,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "catmachine",
       "protected" : false,
       "id_str" : "788525",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/574591121990414336\/o2vt4ghY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634679659276443648\/Y6yb90Kg_normal.png",
       "id" : 788525,
       "verified" : false
     }

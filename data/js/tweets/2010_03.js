@@ -775,7 +775,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615723349969272836\/s2zBF4m6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633784478184267776\/Se5mteSH_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -1808,7 +1808,7 @@ Grailbird.data.tweets_2010_03 =
     "user" : {
       "name" : "Sara Kowatch",
       "screen_name" : "diornotwar",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "20627121",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552785656775450625\/908f1Fnq_normal.jpeg",
       "id" : 20627121,
