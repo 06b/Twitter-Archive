@@ -589,7 +589,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552494111085707264\/3nugwEjV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
       "id" : 18202661,
       "verified" : false
     }
@@ -2652,7 +2652,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "iamjamesmartin",
       "protected" : false,
       "id_str" : "23719439",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/597396704044933120\/G3LOlg8N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652615775291707392\/TmvCsNDS_normal.jpg",
       "id" : 23719439,
       "verified" : false
     }
@@ -4176,7 +4176,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552494111085707264\/3nugwEjV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
       "id" : 18202661,
       "verified" : false
     }
@@ -4350,7 +4350,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552494111085707264\/3nugwEjV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
       "id" : 18202661,
       "verified" : false
     }
@@ -5266,7 +5266,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552494111085707264\/3nugwEjV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
       "id" : 18202661,
       "verified" : false
     }
@@ -5960,7 +5960,7 @@ Grailbird.data.tweets_2010_05 =
     "user" : {
       "name" : "Travis Estell",
       "screen_name" : "taestell",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "13524672",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566945981803925504\/Aw4apQSI_normal.png",
       "id" : 13524672,
@@ -6011,7 +6011,7 @@ Grailbird.data.tweets_2010_05 =
     "user" : {
       "name" : "Travis Estell",
       "screen_name" : "taestell",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "13524672",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566945981803925504\/Aw4apQSI_normal.png",
       "id" : 13524672,
@@ -6120,7 +6120,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "behoff",
       "protected" : false,
       "id_str" : "15396961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629004552914665472\/g_nnf8ib_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638731027150675968\/YlrC2GJi_normal.jpg",
       "id" : 15396961,
       "verified" : false
     }
@@ -7267,7 +7267,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "litzinger",
       "protected" : false,
       "id_str" : "22495652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089663872\/twitter_brian_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648605849863241728\/uak9j_j2_normal.jpg",
       "id" : 22495652,
       "verified" : false
     }
@@ -8021,7 +8021,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "indices" : [ 3, 12 ],
       "id_str" : "82433",
@@ -8048,7 +8048,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 13376760433,
     "created_at" : "2010-05-04 18:07:09 +0000",
     "user" : {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",

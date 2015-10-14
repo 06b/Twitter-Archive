@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#fef",
+      "name" : "Judi the bird lady",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
@@ -654,7 +654,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 294894779593015297,
     "created_at" : "2013-01-25 19:49:28 +0000",
     "user" : {
-      "name" : "Jordan Kay",
+      "name" : "Either\u1438Trick, Treat\u1433",
       "screen_name" : "_Jordan",
       "protected" : false,
       "id_str" : "14166065",
@@ -1400,7 +1400,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }

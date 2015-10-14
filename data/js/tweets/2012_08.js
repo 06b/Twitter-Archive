@@ -957,7 +957,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Adobe",
       "protected" : false,
       "id_str" : "63786611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634051139164504064\/Bi-P4gUb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638750367916822528\/XJK63N9F_normal.jpg",
       "id" : 63786611,
       "verified" : true
     }
@@ -1226,7 +1226,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "indices" : [ 3, 12 ],
       "id_str" : "82433",
@@ -1253,7 +1253,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 238723142246334467,
     "created_at" : "2012-08-23 19:43:27 +0000",
     "user" : {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
@@ -1929,7 +1929,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633784478184267776\/Se5mteSH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638823996721491969\/r9FanbfP_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -2041,7 +2041,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "BehanceJobs",
       "protected" : false,
       "id_str" : "61040719",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2962376163\/ff949b72888fa4b8eb3dec99f2e3d98a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636661884372959232\/cCizXc77_normal.jpg",
       "id" : 61040719,
       "verified" : false
     }
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens \u221B",
+      "name" : "rstevens  \u2985\u2043\u2299\u2299\u2043\u2986",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -2088,7 +2088,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236304911594295297,
     "created_at" : "2012-08-17 03:34:15 +0000",
     "user" : {
-      "name" : "rstevens \u221B",
+      "name" : "rstevens  \u2985\u2043\u2299\u2299\u2043\u2986",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -3030,7 +3030,7 @@ Grailbird.data.tweets_2012_08 =
     "user" : {
       "name" : "Travis Estell",
       "screen_name" : "taestell",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "13524672",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566945981803925504\/Aw4apQSI_normal.png",
       "id" : 13524672,
@@ -3933,7 +3933,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1760541135\/2010-profile-medium_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636231358268837888\/0zuy-UJ__normal.jpg",
       "id" : 635543,
       "verified" : false
     }
@@ -4051,7 +4051,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "pvm",
       "protected" : false,
       "id_str" : "76852610",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509141644604477440\/awZcc_C9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651282093469659136\/tJz-abGk_normal.jpg",
       "id" : 76852610,
       "verified" : false
     }
@@ -5118,7 +5118,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "aigacleveland",
       "protected" : false,
       "id_str" : "16667426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553205853117878273\/887WiTya_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641304823279718401\/DAiMD7g0_normal.png",
       "id" : 16667426,
       "verified" : false
     }

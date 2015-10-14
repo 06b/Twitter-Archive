@@ -1153,7 +1153,7 @@ Grailbird.data.tweets_2010_04 =
     "user" : {
       "name" : "Travis Estell",
       "screen_name" : "taestell",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "13524672",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566945981803925504\/Aw4apQSI_normal.png",
       "id" : 13524672,
@@ -6569,7 +6569,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "catmachine",
       "protected" : false,
       "id_str" : "788525",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634679659276443648\/Y6yb90Kg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652776688737234944\/L01sf9x8_normal.png",
       "id" : 788525,
       "verified" : false
     }

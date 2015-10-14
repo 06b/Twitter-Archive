@@ -1193,7 +1193,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "11855482",
       "id" : 11855482
     }, {
-      "name" : "Dave Rupert",
+      "name" : "Dave GHOULpert",
       "screen_name" : "davatron5000",
       "indices" : [ 75, 88 ],
       "id_str" : "14839862",
@@ -1210,7 +1210,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dave Rupert",
+        "name" : "Dave GHOULpert",
         "screen_name" : "davatron5000",
         "indices" : [ 59, 72 ],
         "id_str" : "14839862",
@@ -1455,7 +1455,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633784478184267776\/Se5mteSH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638823996721491969\/r9FanbfP_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -1595,7 +1595,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa[glory emoji]",
+      "name" : "Melissa \u2407",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -1628,7 +1628,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa[glory emoji]",
+      "name" : "Melissa \u2407",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -1727,11 +1727,11 @@ Grailbird.data.tweets_2013_02 =
     "id" : 302052607256584195,
     "created_at" : "2013-02-14 13:52:08 +0000",
     "user" : {
-      "name" : "Melissa[glory emoji]",
+      "name" : "Melissa \u2407",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605456342539599872\/Y5XnHMa2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649568117039861760\/eduIJfEu_normal.png",
       "id" : 126030998,
       "verified" : false
     }
@@ -1757,7 +1757,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "12534",
       "id" : 12534
     }, {
-      "name" : "Mat Marquis",
+      "name" : "Mat MarqDRACULAS",
       "screen_name" : "wilto",
       "indices" : [ 121, 127 ],
       "id_str" : "12602932",
@@ -1779,7 +1779,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mat Marquis",
+        "name" : "Mat MarqDRACULAS",
         "screen_name" : "wilto",
         "indices" : [ 111, 117 ],
         "id_str" : "12602932",
@@ -1804,95 +1804,13 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/561270834401382400\/AJ669BlB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
       "id" : 12534,
       "verified" : false
     }
   },
   "id" : 302060663885426688,
   "created_at" : "2013-02-14 14:24:08 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528287657009217536\/3VDuBc61_normal.jpeg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gigit Jobs",
-      "screen_name" : "gogogigit",
-      "indices" : [ 3, 13 ],
-      "id_str" : "348753671",
-      "id" : 348753671
-    }, {
-      "name" : "Pep Promotions",
-      "screen_name" : "pep_promotions",
-      "indices" : [ 15, 30 ],
-      "id_str" : "943670089",
-      "id" : 943670089
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "jobs",
-      "indices" : [ 77, 82 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 83, 103 ],
-      "url" : "http:\/\/t.co\/abWwkcc9",
-      "expanded_url" : "http:\/\/ow.ly\/hGVni",
-      "display_url" : "ow.ly\/hGVni"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "301806338026127361",
-  "text" : "RT @gogogigit: @pep_promotions is hiring a Production Designer in Cincinnati #jobs http:\/\/t.co\/abWwkcc9",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Pep Promotions",
-        "screen_name" : "pep_promotions",
-        "indices" : [ 0, 15 ],
-        "id_str" : "943670089",
-        "id" : 943670089
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "jobs",
-        "indices" : [ 62, 67 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 68, 88 ],
-        "url" : "http:\/\/t.co\/abWwkcc9",
-        "expanded_url" : "http:\/\/ow.ly\/hGVni",
-        "display_url" : "ow.ly\/hGVni"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "301799326164844544",
-    "in_reply_to_user_id" : 943670089,
-    "text" : "@pep_promotions is hiring a Production Designer in Cincinnati #jobs http:\/\/t.co\/abWwkcc9",
-    "id" : 301799326164844544,
-    "created_at" : "2013-02-13 21:05:41 +0000",
-    "in_reply_to_screen_name" : "pep_promotions",
-    "in_reply_to_user_id_str" : "943670089",
-    "user" : {
-      "name" : "Gigit Jobs",
-      "screen_name" : "gogogigit",
-      "protected" : false,
-      "id_str" : "348753671",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1478424101\/GIGIT_TWITTER_ICON5_normal.png",
-      "id" : 348753671,
-      "verified" : false
-    }
-  },
-  "id" : 301806338026127361,
-  "created_at" : "2013-02-13 21:33:32 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2109,13 +2027,7 @@ Grailbird.data.tweets_2013_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jenny Kessler",
-      "screen_name" : "jenlkessler",
-      "indices" : [ 3, 15 ],
-      "id_str" : "28834092",
-      "id" : 28834092
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "job",
@@ -2171,8 +2083,8 @@ Grailbird.data.tweets_2013_02 =
     "id" : 300970697801494528,
     "created_at" : "2013-02-11 14:13:00 +0000",
     "user" : {
-      "name" : "Jenny Kessler",
-      "screen_name" : "jenlkessler",
+      "name" : "Jenny Kessler Klump",
+      "screen_name" : "JennyKessKlump",
       "protected" : false,
       "id_str" : "28834092",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555398873527504896\/VNgEJOyK_normal.jpeg",
@@ -2404,7 +2316,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "markstewie",
       "protected" : false,
       "id_str" : "15596177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000035621149\/5122b30edf4be5d47b53be7a665c01e8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642216589849325568\/g9YwfLWj_normal.jpg",
       "id" : 15596177,
       "verified" : false
     }
@@ -2589,7 +2501,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635217965932244992\/HnPz2E3B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/654062222365315072\/h11Q-Rpq_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }

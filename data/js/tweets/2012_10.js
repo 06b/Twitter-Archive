@@ -988,7 +988,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -1722,7 +1722,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pea53",
+      "name" : "Tim Pease",
       "screen_name" : "pea53",
       "indices" : [ 3, 9 ],
       "id_str" : "17429985",
@@ -1749,7 +1749,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 260811745721982977,
     "created_at" : "2012-10-23 18:35:40 +0000",
     "user" : {
-      "name" : "pea53",
+      "name" : "Tim Pease",
       "screen_name" : "pea53",
       "protected" : false,
       "id_str" : "17429985",
@@ -3011,7 +3011,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }

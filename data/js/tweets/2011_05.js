@@ -540,7 +540,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -4130,12 +4130,6 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "2860626197",
       "id" : 2860626197
     }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 40, 53 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 94, 105 ],
@@ -4879,7 +4873,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552494111085707264\/3nugwEjV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
       "id" : 18202661,
       "verified" : false
     }
@@ -5174,7 +5168,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "indices" : [ 22, 31 ],
       "id_str" : "82433",
@@ -6680,7 +6674,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "662533",
       "id" : 662533
     }, {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "indices" : [ 88, 97 ],
       "id_str" : "82433",
@@ -6700,7 +6694,7 @@ Grailbird.data.tweets_2011_05 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Stef. Sullivan Rewis",
+        "name" : "Stephanie Rewis",
         "screen_name" : "stefsull",
         "indices" : [ 76, 85 ],
         "id_str" : "82433",
@@ -6941,7 +6935,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "realart",
       "protected" : false,
       "id_str" : "18188665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629021703595659264\/4dxTj64f_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636263162145304577\/a_wpuvrL_normal.png",
       "id" : 18188665,
       "verified" : false
     }
@@ -12683,7 +12677,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "whitneyhess",
       "protected" : false,
       "id_str" : "11963132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572583188242948096\/9cRQOwTw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651178664969699328\/c0-veLOL_normal.jpg",
       "id" : 11963132,
       "verified" : false
     }

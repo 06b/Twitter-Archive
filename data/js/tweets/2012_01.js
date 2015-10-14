@@ -107,7 +107,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -1055,7 +1055,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/561270834401382400\/AJ669BlB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -1163,57 +1163,6 @@ Grailbird.data.tweets_2012_01 =
   "text" : "Chances of making it to a scrum at 8:30 am are slim to none.",
   "id" : 162164020068093952,
   "created_at" : "2012-01-25 13:24:49 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528287657009217536\/3VDuBc61_normal.jpeg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aurove",
-      "screen_name" : "Aurove",
-      "indices" : [ 3, 10 ],
-      "id_str" : "83203853",
-      "id" : 83203853
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "162013297607065603",
-  "text" : "RT @Aurove: Photoshop is a privilege, not a right.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "161992130527625216",
-    "text" : "Photoshop is a privilege, not a right.",
-    "id" : 161992130527625216,
-    "created_at" : "2012-01-25 02:01:48 +0000",
-    "user" : {
-      "name" : "Aurove",
-      "screen_name" : "Aurove",
-      "protected" : false,
-      "id_str" : "83203853",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/567477038924046336\/fOUGLn00_normal.png",
-      "id" : 83203853,
-      "verified" : false
-    }
-  },
-  "id" : 162013297607065603,
-  "created_at" : "2012-01-25 03:25:54 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2606,7 +2555,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "Rude",
       "protected" : false,
       "id_str" : "2711641",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540427333673291776\/xryFZJP4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641185740743921664\/1Ll9J9VT_normal.jpg",
       "id" : 2711641,
       "verified" : false
     }
@@ -3240,7 +3189,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mat Marquis",
+      "name" : "Mat MarqDRACULAS",
       "screen_name" : "wilto",
       "indices" : [ 3, 9 ],
       "id_str" : "12602932",
@@ -3279,7 +3228,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 157216271409221632,
     "created_at" : "2012-01-11 21:44:14 +0000",
     "user" : {
-      "name" : "Mat Marquis",
+      "name" : "Mat MarqDRACULAS",
       "screen_name" : "wilto",
       "protected" : false,
       "id_str" : "12602932",

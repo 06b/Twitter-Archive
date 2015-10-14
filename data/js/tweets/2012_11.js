@@ -56,7 +56,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "slicknet",
       "protected" : false,
       "id_str" : "17633960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3571535163\/5c8b3a253c28fa35c943108282c20c50_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637638517770752000\/tejK-Ehv_normal.jpg",
       "id" : 17633960,
       "verified" : false
     }
@@ -372,7 +372,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1760541135\/2010-profile-medium_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636231358268837888\/0zuy-UJ__normal.jpg",
       "id" : 635543,
       "verified" : false
     }
@@ -967,67 +967,6 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@maxfenton \u2730",
-      "screen_name" : "maxfenton",
-      "indices" : [ 3, 13 ],
-      "id_str" : "6223132",
-      "id" : 6223132
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 85, 105 ],
-      "url" : "http:\/\/t.co\/NwwHkQ1V",
-      "expanded_url" : "http:\/\/bit.ly\/Tg8Ljw",
-      "display_url" : "bit.ly\/Tg8Ljw"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "273184343344693248",
-  "text" : "RT @maxfenton: There are now seven separate Twitter email lists to unsubscribe from: http:\/\/t.co\/NwwHkQ1V",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 70, 90 ],
-        "url" : "http:\/\/t.co\/NwwHkQ1V",
-        "expanded_url" : "http:\/\/bit.ly\/Tg8Ljw",
-        "display_url" : "bit.ly\/Tg8Ljw"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "273179221063528448",
-    "text" : "There are now seven separate Twitter email lists to unsubscribe from: http:\/\/t.co\/NwwHkQ1V",
-    "id" : 273179221063528448,
-    "created_at" : "2012-11-26 21:39:36 +0000",
-    "user" : {
-      "name" : "@maxfenton \u2730",
-      "screen_name" : "maxfenton",
-      "protected" : false,
-      "id_str" : "6223132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538560916485595137\/-7SMqO9t_normal.jpeg",
-      "id" : 6223132,
-      "verified" : false
-    }
-  },
-  "id" : 273184343344693248,
-  "created_at" : "2012-11-26 21:59:57 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528287657009217536\/3VDuBc61_normal.jpeg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Everything Microsoft",
       "screen_name" : "EverythingMS",
       "indices" : [ 3, 16 ],
@@ -1285,7 +1224,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[object Object]",
+      "name" : "IE8lle",
       "screen_name" : "estellevw",
       "indices" : [ 3, 13 ],
       "id_str" : "6320592",
@@ -1312,11 +1251,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 272029354081533953,
     "created_at" : "2012-11-23 17:30:26 +0000",
     "user" : {
-      "name" : "[object Object]",
+      "name" : "IE8lle",
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609034157369327616\/NB9lyF_F_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650039500291203072\/3oSCQ_S1_normal.jpg",
       "id" : 6320592,
       "verified" : false
     }
@@ -1969,7 +1908,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -2497,7 +2436,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552494111085707264\/3nugwEjV_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
       "id" : 18202661,
       "verified" : false
     }
@@ -3481,7 +3420,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "You just got Sue'd",
+      "name" : "You just got Boo'd",
       "screen_name" : "deathbearbrown",
       "indices" : [ 3, 18 ],
       "id_str" : "21491212",
@@ -3508,11 +3447,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 265808217098047488,
     "created_at" : "2012-11-06 13:29:52 +0000",
     "user" : {
-      "name" : "You just got Sue'd",
+      "name" : "You just got Boo'd",
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631264526474854400\/5FO7siGX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650144479287058432\/JGrQFaMg_normal.png",
       "id" : 21491212,
       "verified" : false
     }
@@ -3573,7 +3512,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/561270834401382400\/AJ669BlB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
       "id" : 12534,
       "verified" : false
     }

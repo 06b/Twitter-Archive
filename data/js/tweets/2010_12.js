@@ -176,7 +176,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -755,7 +755,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/561270834401382400\/AJ669BlB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
       "id" : 12534,
       "verified" : false
     }
@@ -2204,13 +2204,7 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "CiCi's Pizza",
-      "screen_name" : "CiCis_Pizza",
-      "indices" : [ 15, 27 ],
-      "id_str" : "83952959",
-      "id" : 83952959
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2623,7 +2617,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605718803809304576\/x-M10xLe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/640119589700005889\/YMzwljiL_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -3036,7 +3030,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[dem Caspers seins]\u2122",
+      "name" : "\u2026zweite Runde Rom,",
       "screen_name" : "tcaspers",
       "indices" : [ 3, 12 ],
       "id_str" : "29883",
@@ -3063,7 +3057,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15063491241054208,
     "created_at" : "2010-12-15 15:19:50 +0000",
     "user" : {
-      "name" : "[dem Caspers seins]\u2122",
+      "name" : "\u2026zweite Runde Rom,",
       "screen_name" : "tcaspers",
       "protected" : false,
       "id_str" : "29883",
@@ -3918,7 +3912,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -4737,7 +4731,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weightshift",
+      "name" : "Naz Hamid",
       "screen_name" : "weightshift",
       "indices" : [ 3, 15 ],
       "id_str" : "757502",
@@ -4764,11 +4758,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 4324702536,
     "created_at" : "2009-09-23 20:45:17 +0000",
     "user" : {
-      "name" : "Weightshift",
+      "name" : "Naz Hamid",
       "screen_name" : "weightshift",
       "protected" : false,
       "id_str" : "757502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601783863493308417\/TnR7rqjR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/644973531210477568\/GxIJzh5J_normal.jpg",
       "id" : 757502,
       "verified" : false
     }
@@ -5396,7 +5390,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -6389,7 +6383,7 @@ Grailbird.data.tweets_2010_12 =
     "user" : {
       "name" : "Travis Estell",
       "screen_name" : "taestell",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "13524672",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566945981803925504\/Aw4apQSI_normal.png",
       "id" : 13524672,
@@ -6411,7 +6405,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "indices" : [ 3, 12 ],
       "id_str" : "82433",
@@ -6456,7 +6450,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 10424381926801408,
     "created_at" : "2010-12-02 20:05:40 +0000",
     "user" : {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",

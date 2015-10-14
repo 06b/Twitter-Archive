@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "opera",
       "protected" : false,
       "id_str" : "1541461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523033985920692224\/3vIbVXJo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646248136222990337\/QyAcg0kw_normal.png",
       "id" : 1541461,
       "verified" : true
     }
@@ -3610,12 +3610,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 15 ],
       "id_str" : "90223016",
       "id" : 90223016
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 54, 67 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4093,12 +4087,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 10, 24 ],
       "id_str" : "30206462",
       "id" : 30206462
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 25, 38 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4429,12 +4417,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 38, 51 ],
       "id_str" : "2860626197",
       "id" : 2860626197
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4511,12 +4493,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 38, 51 ],
       "id_str" : "2860626197",
       "id" : 2860626197
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4626,12 +4602,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 38, 51 ],
       "id_str" : "2860626197",
       "id" : 2860626197
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4666,12 +4636,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 0, 13 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 14, 25 ],
@@ -4708,7 +4672,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 83182699329761281,
   "in_reply_to_status_id" : 83181925635866625,
   "created_at" : "2011-06-21 14:41:15 +0000",
-  "in_reply_to_screen_name" : "nikkipfahler",
+  "in_reply_to_screen_name" : "nikki_ridenour",
   "in_reply_to_user_id_str" : "259492694",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -4774,12 +4738,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 38, 51 ],
       "id_str" : "2860626197",
       "id" : 2860626197
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4834,12 +4792,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 58, 71 ],
       "id_str" : "2860626197",
       "id" : 2860626197
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 72, 85 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4880,12 +4832,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 30, 40 ],
       "id_str" : "19198505",
       "id" : 19198505
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 54, 67 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
@@ -4938,12 +4884,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 38, 51 ],
       "id_str" : "2860626197",
       "id" : 2860626197
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -5004,12 +4944,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 44, 58 ],
       "id_str" : "30206462",
       "id" : 30206462
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 59, 72 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5045,12 +4979,6 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 28, 42 ],
         "id_str" : "30206462",
         "id" : 30206462
-      }, {
-        "name" : "Nikki Pfahler",
-        "screen_name" : "nikkipfahler",
-        "indices" : [ 43, 56 ],
-        "id_str" : "259492694",
-        "id" : 259492694
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -5140,12 +5068,6 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "2860626197",
       "id" : 2860626197
     }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 40, 53 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 54, 65 ],
@@ -5196,12 +5118,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 25, 39 ],
       "id_str" : "30206462",
       "id" : 30206462
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 40, 53 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
@@ -5254,12 +5170,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 37, 51 ],
       "id_str" : "30206462",
       "id" : 30206462
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5300,12 +5210,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 26, 39 ],
       "id_str" : "2860626197",
       "id" : 2860626197
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 40, 53 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
@@ -5422,12 +5326,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 40, 51 ],
       "id_str" : "112919156",
       "id" : 112919156
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5479,12 +5377,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 40, 51 ],
       "id_str" : "112919156",
       "id" : 112919156
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -6156,13 +6048,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 39, 52 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "Awesome",
@@ -6193,12 +6079,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 0, 10 ],
       "id_str" : "19198505",
       "id" : 19198505
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 48, 61 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6227,12 +6107,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 28, 41 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    }, {
       "name" : "AIGA Cincinnati",
       "screen_name" : "aigacincinnati",
       "indices" : [ 45, 60 ],
@@ -6260,13 +6134,7 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 34, 47 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6294,12 +6162,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 28, 39 ],
       "id_str" : "112919156",
       "id" : 112919156
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 45, 58 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7033,12 +6895,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 37, 51 ],
       "id_str" : "30206462",
       "id" : 30206462
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8945,7 +8801,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420187128023113728\/qqnVWzQ5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653033043314253825\/smOcEiQx_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -9364,12 +9220,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 40, 51 ],
       "id_str" : "112919156",
       "id" : 112919156
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 52, 65 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -11020,12 +10870,6 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 46, 59 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    }, {
       "name" : "Andrea Kozakewich",
       "screen_name" : "kozakcreative",
       "indices" : [ 60, 74 ],
@@ -11074,12 +10918,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 51, 65 ],
       "id_str" : "30206462",
       "id" : 30206462
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 68, 81 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -11117,12 +10955,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 84, 94 ],
       "id_str" : "19198505",
       "id" : 19198505
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 95, 108 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     }, {
       "name" : "Miker",
       "screen_name" : "mikeranochak",
@@ -11172,12 +11004,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 29, 39 ],
       "id_str" : "19198505",
       "id" : 19198505
-    }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 40, 53 ],
-      "id_str" : "259492694",
-      "id" : 259492694
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -11700,7 +11526,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "jacklyn",
       "protected" : false,
       "id_str" : "14120587",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564123931833933824\/0dG5bxWI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651428186312413184\/ILvHGRog_normal.jpg",
       "id" : 14120587,
       "verified" : false
     }
@@ -11801,7 +11627,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "indices" : [ 3, 12 ],
       "id_str" : "82433",
@@ -11834,7 +11660,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 79450094990131200,
     "created_at" : "2011-06-11 07:29:13 +0000",
     "user" : {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
@@ -12564,7 +12390,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "ameetchimote",
       "protected" : false,
       "id_str" : "63396669",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629776260449832961\/uVq8vvwD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653994200745308162\/1USpzXpp_normal.jpg",
       "id" : 63396669,
       "verified" : false
     }
@@ -13459,12 +13285,6 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "30206462",
       "id" : 30206462
     }, {
-      "name" : "Nikki Pfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 26, 39 ],
-      "id_str" : "259492694",
-      "id" : 259492694
-    }, {
       "name" : "Miker",
       "screen_name" : "mikeranochak",
       "indices" : [ 40, 53 ],
@@ -13772,7 +13592,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "indices" : [ 3, 12 ],
       "id_str" : "82433",
@@ -13799,7 +13619,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 77852020563910656,
     "created_at" : "2011-06-06 21:39:02 +0000",
     "user" : {
-      "name" : "Stef. Sullivan Rewis",
+      "name" : "Stephanie Rewis",
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
@@ -15538,7 +15358,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "geeksaresexy",
       "protected" : false,
       "id_str" : "3678391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545269925032366080\/M5WpDBgZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636626467212804096\/Htz5DJXr_normal.jpg",
       "id" : 3678391,
       "verified" : false
     }
@@ -16166,7 +15986,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "andrettibrown",
       "protected" : false,
       "id_str" : "25306021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608808311509659648\/_VJC-aA3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650696272505122816\/ymrYZ2H0_normal.jpg",
       "id" : 25306021,
       "verified" : false
     }
