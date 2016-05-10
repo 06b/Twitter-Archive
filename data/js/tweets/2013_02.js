@@ -1250,7 +1250,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -1595,7 +1595,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2606",
+      "name" : "Melissa \u2407 \u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -1628,13 +1628,13 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2606",
+      "name" : "Melissa \u2407 \u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
       "id" : 126030998
     }, {
-      "name" : "Nasha Hiramiya",
+      "name" : "Nasha Hiramika",
       "screen_name" : "hiramiyaa",
       "indices" : [ 139, 140 ],
       "id_str" : "18446424",
@@ -1649,10 +1649,6 @@ Grailbird.data.tweets_2013_02 =
       "id" : 302051785818902528,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BDEaf7WCEAAD_Ha.png",
       "sizes" : [ {
-        "h" : 179,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -1664,6 +1660,10 @@ Grailbird.data.tweets_2013_02 =
         "h" : 283,
         "resize" : "fit",
         "w" : 535
+      }, {
+        "h" : 180,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 283,
         "resize" : "fit",
@@ -1681,7 +1681,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nasha Hiramiya",
+        "name" : "Nasha Hiramika",
         "screen_name" : "hiramiyaa",
         "indices" : [ 120, 130 ],
         "id_str" : "18446424",
@@ -1696,10 +1696,6 @@ Grailbird.data.tweets_2013_02 =
         "id" : 302051785818902528,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BDEaf7WCEAAD_Ha.png",
         "sizes" : [ {
-          "h" : 179,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -1711,6 +1707,10 @@ Grailbird.data.tweets_2013_02 =
           "h" : 283,
           "resize" : "fit",
           "w" : 535
+        }, {
+          "h" : 180,
+          "resize" : "fit",
+          "w" : 340
         }, {
           "h" : 283,
           "resize" : "fit",
@@ -1727,11 +1727,11 @@ Grailbird.data.tweets_2013_02 =
     "id" : 302052607256584195,
     "created_at" : "2013-02-14 13:52:08 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2606",
+      "name" : "Melissa \u2407 \u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660844914301734912\/fZe3pgET_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699301335712321537\/Zs84L56P_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -2087,7 +2087,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "JennyKessKlump",
       "protected" : false,
       "id_str" : "28834092",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555398873527504896\/VNgEJOyK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671445925571596288\/2AZthXzw_normal.png",
       "id" : 28834092,
       "verified" : false
     }
@@ -2336,7 +2336,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 3, 14 ],
       "id_str" : "20627121",
@@ -2363,7 +2363,7 @@ Grailbird.data.tweets_2013_02 =
     "id" : 300716004869283841,
     "created_at" : "2013-02-10 21:20:57 +0000",
     "user" : {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "protected" : false,
       "id_str" : "20627121",
@@ -2501,7 +2501,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/670021951990145024\/D6cqAq9G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719654197260472320\/4KGmHKFL_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }

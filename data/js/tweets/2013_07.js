@@ -1033,13 +1033,13 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 249,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 250,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 391,
         "resize" : "fit",
@@ -1074,13 +1074,13 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 340
         }, {
-          "h" : 249,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 250,
+          "resize" : "fit",
+          "w" : 600
         }, {
           "h" : 391,
           "resize" : "fit",
@@ -1240,7 +1240,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "hypatiadotca",
       "protected" : false,
       "id_str" : "6742522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658144281429839872\/ubkbJxYg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682884474342789120\/MFnNuAvl_normal.jpg",
       "id" : 6742522,
       "verified" : false
     }
@@ -1313,7 +1313,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "TechnicallyRon",
       "protected" : false,
       "id_str" : "108140114",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615998971400617986\/xZYWb72T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683972064781463552\/94h64ztN_normal.jpg",
       "id" : 108140114,
       "verified" : false
     }
@@ -2115,7 +2115,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2606",
+      "name" : "Melissa \u2407 \u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2154,11 +2154,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357511939888398337,
     "created_at" : "2013-07-17 14:47:43 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2606",
+      "name" : "Melissa \u2407 \u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660844914301734912\/fZe3pgET_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699301335712321537\/Zs84L56P_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -2492,7 +2492,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hormpton",
+      "name" : "Hampton on Hampton",
       "screen_name" : "hcatlin",
       "indices" : [ 3, 11 ],
       "id_str" : "12986052",
@@ -2525,7 +2525,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356926842160164864,
     "created_at" : "2013-07-16 00:02:45 +0000",
     "user" : {
-      "name" : "Hormpton",
+      "name" : "Hampton on Hampton",
       "screen_name" : "hcatlin",
       "protected" : false,
       "id_str" : "12986052",
@@ -2830,7 +2830,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -3073,7 +3073,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 689
       }, {
-        "h" : 547,
+        "h" : 548,
         "resize" : "fit",
         "w" : 600
       }, {
@@ -3114,7 +3114,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 689
         }, {
-          "h" : 547,
+          "h" : 548,
           "resize" : "fit",
           "w" : 600
         }, {
@@ -4182,7 +4182,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "ahow",
       "protected" : false,
       "id_str" : "18075954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638948718083969024\/ESbSmcGD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696812041726791681\/fxdjLDZL_normal.jpg",
       "id" : 18075954,
       "verified" : false
     }
@@ -4211,57 +4211,6 @@ Grailbird.data.tweets_2013_07 =
   "text" : "The problem with reading code late at night is it cuts into valuable sleep time, you would think I would've learned by now.",
   "id" : 352284289997615107,
   "created_at" : "2013-07-03 04:34:54 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "selena",
-      "screen_name" : "selenamarie",
-      "indices" : [ 3, 15 ],
-      "id_str" : "8859592",
-      "id" : 8859592
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "352149407405314048",
-  "text" : "RT @selenamarie: In 2005, I named a mysql table 'database'. That person found me to \"thank\" me today.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "351821545850675201",
-    "text" : "In 2005, I named a mysql table 'database'. That person found me to \"thank\" me today.",
-    "id" : 351821545850675201,
-    "created_at" : "2013-07-01 21:56:07 +0000",
-    "user" : {
-      "name" : "selena",
-      "screen_name" : "selenamarie",
-      "protected" : false,
-      "id_str" : "8859592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626083465188917249\/qp1YqumV_normal.jpg",
-      "id" : 8859592,
-      "verified" : false
-    }
-  },
-  "id" : 352149407405314048,
-  "created_at" : "2013-07-02 19:38:56 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4308,7 +4257,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Van Enk",
+      "name" : "INTERNET OF JOHNS",
       "screen_name" : "sw17ch",
       "indices" : [ 3, 10 ],
       "id_str" : "21629944",
@@ -4345,7 +4294,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 351768453939601408,
     "created_at" : "2013-07-01 18:25:09 +0000",
     "user" : {
-      "name" : "John Van Enk",
+      "name" : "INTERNET OF JOHNS",
       "screen_name" : "sw17ch",
       "protected" : false,
       "id_str" : "21629944",
@@ -4505,7 +4454,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "joshwalsh",
       "protected" : false,
       "id_str" : "12449232",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508086298322927616\/HHE_xd2c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716234350107500544\/ZdLuZLiT_normal.jpg",
       "id" : 12449232,
       "verified" : false
     }

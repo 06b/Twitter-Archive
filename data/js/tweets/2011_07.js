@@ -709,13 +709,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cassie Carter",
-      "screen_name" : "CassieMCarter",
-      "indices" : [ 0, 14 ],
-      "id_str" : "167571619",
-      "id" : 167571619
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -728,7 +722,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 97022659598102528,
   "in_reply_to_status_id" : 97022372225359872,
   "created_at" : "2011-07-29 19:16:19 +0000",
-  "in_reply_to_screen_name" : "CassieMCarter",
+  "in_reply_to_screen_name" : "WinterlandRose",
   "in_reply_to_user_id_str" : "167571619",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -835,7 +829,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Brainer-Banker",
+      "name" : "David Brainer",
       "screen_name" : "TweetTypography",
       "indices" : [ 3, 19 ],
       "id_str" : "2927281",
@@ -880,11 +874,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 97010222807269376,
     "created_at" : "2011-07-29 18:26:54 +0000",
     "user" : {
-      "name" : "David Brainer-Banker",
+      "name" : "David Brainer",
       "screen_name" : "TweetTypography",
       "protected" : false,
       "id_str" : "2927281",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442464383399362560\/r3hoc6mT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710857933274230785\/8DimMixr_normal.jpg",
       "id" : 2927281,
       "verified" : false
     }
@@ -1110,7 +1104,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "danwagoner",
       "protected" : false,
       "id_str" : "90247642",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582352641809842176\/NhRK6mhc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697795718371766272\/Rq2xvepV_normal.jpg",
       "id" : 90247642,
       "verified" : false
     }
@@ -1175,11 +1169,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96985354053238784,
     "created_at" : "2011-07-29 16:48:04 +0000",
     "user" : {
-      "name" : "alan hoUSER",
+      "name" : "Alan Houser",
       "screen_name" : "pixelmelter",
       "protected" : false,
       "id_str" : "15020422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/657219584689213440\/zVhW44nS_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719512550837084161\/l80Z17Eb_normal.jpg",
       "id" : 15020422,
       "verified" : false
     }
@@ -2175,7 +2169,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 37, 48 ],
       "id_str" : "20627121",
@@ -2661,7 +2655,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "61772204",
       "id" : 61772204
     }, {
-      "name" : "Grazi ",
+      "name" : "Grazi",
       "screen_name" : "grazi",
       "indices" : [ 23, 29 ],
       "id_str" : "54063541",
@@ -2681,7 +2675,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Grazi ",
+        "name" : "Grazi",
         "screen_name" : "grazi",
         "indices" : [ 4, 10 ],
         "id_str" : "54063541",
@@ -2890,7 +2884,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636231358268837888\/0zuy-UJ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708363316154925056\/deXwIhn8_normal.jpg",
       "id" : 635543,
       "verified" : false
     }
@@ -3192,7 +3186,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -3663,7 +3657,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -5481,7 +5475,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "ilovetypography",
       "protected" : false,
       "id_str" : "9779032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615556744589127680\/YRL2j2Wa_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698823056412659712\/kJcgNyD7_normal.png",
       "id" : 9779032,
       "verified" : true
     }
@@ -6461,84 +6455,6 @@ Grailbird.data.tweets_2011_07 =
   "text" : "Wearing my green chucks and my sonic the hedgehog t-shirt at work. One of the many reasons I love my job.",
   "id" : 93020321774448641,
   "created_at" : "2011-07-18 18:12:27 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rockfish",
-      "screen_name" : "Rockfish",
-      "indices" : [ 21, 30 ],
-      "id_str" : "16810823",
-      "id" : 16810823
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Cincinnati",
-      "indices" : [ 56, 67 ]
-    }, {
-      "text" : "jobs",
-      "indices" : [ 119, 124 ]
-    }, {
-      "text" : "werehiring",
-      "indices" : [ 125, 136 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "93020072070750209",
-  "text" : "RT @laura_m_gardner: @Rockfish is looking for talent in #Cincinnati, including strategists, developers, & copywriters. #jobs #werehiring ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Rockfish",
-        "screen_name" : "Rockfish",
-        "indices" : [ 0, 9 ],
-        "id_str" : "16810823",
-        "id" : 16810823
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Cincinnati",
-        "indices" : [ 35, 46 ]
-      }, {
-        "text" : "jobs",
-        "indices" : [ 98, 103 ]
-      }, {
-        "text" : "werehiring",
-        "indices" : [ 104, 115 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "93019748748627968",
-    "in_reply_to_user_id" : 16810823,
-    "text" : "@Rockfish is looking for talent in #Cincinnati, including strategists, developers, & copywriters. #jobs #werehiring - http:\/\/ow.ly\/5Hj2r",
-    "id" : 93019748748627968,
-    "created_at" : "2011-07-18 18:10:10 +0000",
-    "in_reply_to_screen_name" : "Rockfish",
-    "in_reply_to_user_id_str" : "16810823",
-    "user" : {
-      "name" : "Laura Gardner",
-      "screen_name" : "lauramgardner",
-      "protected" : false,
-      "id_str" : "219083108",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588769110290472960\/8KV9zgod_normal.jpg",
-      "id" : 219083108,
-      "verified" : false
-    }
-  },
-  "id" : 93020072070750209,
-  "created_at" : "2011-07-18 18:11:28 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -8642,7 +8558,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -10565,19 +10481,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Michelle Spelman",
-      "screen_name" : "JukemFootball",
-      "indices" : [ 22, 36 ],
-      "id_str" : "16301806",
-      "id" : 16301806
-    }, {
-      "name" : "Michelle Spelman",
-      "screen_name" : "JukemFootball",
-      "indices" : [ 139, 140 ],
-      "id_str" : "16301806",
-      "id" : 16301806
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10588,19 +10492,7 @@ Grailbird.data.tweets_2011_07 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Michelle Spelman",
-        "screen_name" : "JukemFootball",
-        "indices" : [ 3, 17 ],
-        "id_str" : "16301806",
-        "id" : 16301806
-      }, {
-        "name" : "Michelle Spelman",
-        "screen_name" : "JukemFootball",
-        "indices" : [ 113, 127 ],
-        "id_str" : "16301806",
-        "id" : 16301806
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -11512,75 +11404,6 @@ Grailbird.data.tweets_2011_07 =
   "created_at" : "2011-07-08 18:30:12 +0000",
   "in_reply_to_screen_name" : "SergioAG10",
   "in_reply_to_user_id_str" : "112919156",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MSExpression",
-      "screen_name" : "MSExpression",
-      "indices" : [ 3, 16 ],
-      "id_str" : "17448186",
-      "id" : 17448186
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Expression",
-      "indices" : [ 30, 41 ]
-    }, {
-      "text" : "Web",
-      "indices" : [ 42, 46 ]
-    }, {
-      "text" : "msexp",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "89398696839622656",
-  "text" : "RT @MSExpression: Great news, #Expression #Web aficionados: Expression Web SP2 has been released and is now ready for download! http:\/\/b ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly bitlink\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Expression",
-        "indices" : [ 12, 23 ]
-      }, {
-        "text" : "Web",
-        "indices" : [ 24, 28 ]
-      }, {
-        "text" : "msexp",
-        "indices" : [ 133, 139 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "89396755858337793",
-    "text" : "Great news, #Expression #Web aficionados: Expression Web SP2 has been released and is now ready for download! http:\/\/bit.ly\/n5RZYr - #msexp",
-    "id" : 89396755858337793,
-    "created_at" : "2011-07-08 18:13:42 +0000",
-    "user" : {
-      "name" : "MSExpression",
-      "screen_name" : "MSExpression",
-      "protected" : false,
-      "id_str" : "17448186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716648463\/TwitterAvatar_normal.png",
-      "id" : 17448186,
-      "verified" : false
-    }
-  },
-  "id" : 89398696839622656,
-  "created_at" : "2011-07-08 18:21:24 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

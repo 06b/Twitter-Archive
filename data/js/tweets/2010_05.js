@@ -1128,7 +1128,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -1596,7 +1596,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -2203,11 +2203,11 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Molly E. Holzschlag",
+      "name" : "Gwendolyn Rogers",
       "screen_name" : "mollydotcom",
       "indices" : [ 3, 15 ],
-      "id_str" : "5827",
-      "id" : 5827
+      "id_str" : "4655355813",
+      "id" : 4655355813
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2230,11 +2230,11 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14718399334,
     "created_at" : "2010-05-25 21:26:29 +0000",
     "user" : {
-      "name" : "Molly E. Holzschlag",
-      "screen_name" : "mollydotcom",
+      "name" : "mols",
+      "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/663370556704579585\/s97t9eGu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681353202206248961\/aUFYvw4z_normal.png",
       "id" : 5827,
       "verified" : false
     }
@@ -2510,7 +2510,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "e4h",
       "protected" : false,
       "id_str" : "27832575",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000699039186\/06756edf5bbe62cd8bc322ffcfbd93f5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671416384199364608\/EYwm-GYl_normal.jpg",
       "id" : 27832575,
       "verified" : false
     }
@@ -2899,7 +2899,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "snookca",
       "protected" : false,
       "id_str" : "12591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603985134715596800\/0T7u8aB4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717669500917682176\/_huneE84_normal.jpg",
       "id" : 12591,
       "verified" : false
     }
@@ -3454,7 +3454,13 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Minna Pyyhkala",
+      "screen_name" : "JRJDesign",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2735161446",
+      "id" : 2735161446
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3507,6 +3513,12 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 0, 14 ],
       "id_str" : "121884957",
       "id" : 121884957
+    }, {
+      "name" : "Minna Pyyhkala",
+      "screen_name" : "JRJDesign",
+      "indices" : [ 15, 25 ],
+      "id_str" : "2735161446",
+      "id" : 2735161446
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3705,7 +3717,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -4401,7 +4413,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "snookca",
       "protected" : false,
       "id_str" : "12591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603985134715596800\/0T7u8aB4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717669500917682176\/_huneE84_normal.jpg",
       "id" : 12591,
       "verified" : false
     }
@@ -4881,6 +4893,12 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Minna Pyyhkala",
+      "screen_name" : "JRJDesign",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2735161446",
+      "id" : 2735161446
+    }, {
       "name" : "leslie hiller",
       "screen_name" : "leslie_hiller",
       "indices" : [ 11, 25 ],
@@ -4909,6 +4927,12 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Minna Pyyhkala",
+      "screen_name" : "JRJDesign",
+      "indices" : [ 26, 36 ],
+      "id_str" : "2735161446",
+      "id" : 2735161446
+    }, {
       "name" : "leslie hiller",
       "screen_name" : "leslie_hiller",
       "indices" : [ 37, 51 ],
@@ -4961,7 +4985,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "1671811",
       "id" : 1671811
     }, {
-      "name" : "Ben Schwarz",
+      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
       "screen_name" : "benschwarz",
       "indices" : [ 56, 67 ],
       "id_str" : "14431882",
@@ -4978,7 +5002,7 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ben Schwarz",
+        "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
         "screen_name" : "benschwarz",
         "indices" : [ 40, 51 ],
         "id_str" : "14431882",
@@ -5107,75 +5131,6 @@ Grailbird.data.tweets_2010_05 =
   "id_str" : "13989590841",
   "text" : "@shewholaughs I read that as \"My bf just got a chemical pee\" :\/",
   "id" : 13989590841,
-  "created_at" : "2010-05-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MSExpression",
-      "screen_name" : "MSExpression",
-      "indices" : [ 3, 16 ],
-      "id_str" : "17448186",
-      "id" : 17448186
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Expression",
-      "indices" : [ 32, 43 ]
-    }, {
-      "text" : "Web",
-      "indices" : [ 44, 48 ]
-    }, {
-      "text" : "msexp",
-      "indices" : [ 80, 86 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13989611481",
-  "text" : "RT @MSExpression: Resources for #Expression #Web Users - http:\/\/bit.ly\/dA7G4d - #msexp",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Expression",
-        "indices" : [ 14, 25 ]
-      }, {
-        "text" : "Web",
-        "indices" : [ 26, 30 ]
-      }, {
-        "text" : "msexp",
-        "indices" : [ 62, 68 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "13988143769",
-    "text" : "Resources for #Expression #Web Users - http:\/\/bit.ly\/dA7G4d - #msexp",
-    "id" : 13988143769,
-    "created_at" : "2010-05-14 17:36:50 +0000",
-    "user" : {
-      "name" : "MSExpression",
-      "screen_name" : "MSExpression",
-      "protected" : false,
-      "id_str" : "17448186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716648463\/TwitterAvatar_normal.png",
-      "id" : 17448186,
-      "verified" : false
-    }
-  },
-  "id" : 13989611481,
   "created_at" : "2010-05-14 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -5395,6 +5350,34 @@ Grailbird.data.tweets_2010_05 =
   "text" : "\"I want to 'Ctrl + x' your face\" - 5\/13\/2010 - 4:10 PM Copyright - Adrian D. Alvarez",
   "id" : 13932285662,
   "created_at" : "2010-05-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "katy rucker",
+      "screen_name" : "katyrucker",
+      "indices" : [ 0, 11 ],
+      "id_str" : "540255575",
+      "id" : 540255575
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13823820271",
+  "text" : "@katyrucker It's only creepy if you try to watch him from far away",
+  "id" : 13823820271,
+  "created_at" : "2010-05-12 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -5652,34 +5635,6 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "katy rucker",
-      "screen_name" : "katyrucker",
-      "indices" : [ 0, 11 ],
-      "id_str" : "540255575",
-      "id" : 540255575
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13823820271",
-  "text" : "@katyrucker It's only creepy if you try to watch him from far away",
-  "id" : 13823820271,
-  "created_at" : "2010-05-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5889,7 +5844,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -6168,7 +6123,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "121884957",
       "id" : 121884957
     }, {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 15, 26 ],
       "id_str" : "20627121",
@@ -6185,6 +6140,12 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 40, 51 ],
       "id_str" : "112919156",
       "id" : 112919156
+    }, {
+      "name" : "Minna Pyyhkala",
+      "screen_name" : "JRJDesign",
+      "indices" : [ 52, 62 ],
+      "id_str" : "2735161446",
+      "id" : 2735161446
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6359,7 +6320,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -6759,7 +6720,13 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Minna Pyyhkala",
+      "screen_name" : "JRJDesign",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2735161446",
+      "id" : 2735161446
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6981,6 +6948,28 @@ Grailbird.data.tweets_2010_05 =
   "created_at" : "2010-05-07 00:00:00 +0000",
   "in_reply_to_screen_name" : "SergioAG10",
   "in_reply_to_user_id_str" : "112919156",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13463235138",
+  "text" : "It seems I've been named as an award recipient for academic achievement and service to the RWC community. I'm honestly confused about this.",
+  "id" : 13463235138,
+  "created_at" : "2010-05-06 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -7292,28 +7281,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "13463235138",
-  "text" : "It seems I've been named as an award recipient for academic achievement and service to the RWC community. I'm honestly confused about this.",
-  "id" : 13463235138,
-  "created_at" : "2010-05-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "13403092592",
   "text" : "Nothing like watching Jackie Chan as Chun-Li http:\/\/is.gd\/bUwuV",
   "id" : 13403092592,
@@ -7531,7 +7498,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586068477133398016\/MRWNHBtc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
       "verified" : false
     }
@@ -7653,7 +7620,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -7673,81 +7640,6 @@ Grailbird.data.tweets_2010_05 =
   "created_at" : "2010-05-04 00:00:00 +0000",
   "in_reply_to_screen_name" : "diornotwar",
   "in_reply_to_user_id_str" : "20627121",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MSExpression",
-      "screen_name" : "MSExpression",
-      "indices" : [ 3, 16 ],
-      "id_str" : "17448186",
-      "id" : 17448186
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Microsoft",
-      "indices" : [ 57, 67 ]
-    }, {
-      "text" : "Expression",
-      "indices" : [ 125, 136 ]
-    }, {
-      "text" : "WP7",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "msexp",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13361766328",
-  "text" : "RT @MSExpression: DreamSpark: it\u2019s about giving students #Microsoft professional tools at no charge - http:\/\/bit.ly\/butLlN - #Expression ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Microsoft",
-        "indices" : [ 39, 49 ]
-      }, {
-        "text" : "Expression",
-        "indices" : [ 107, 118 ]
-      }, {
-        "text" : "WP7",
-        "indices" : [ 119, 123 ]
-      }, {
-        "text" : "msexp",
-        "indices" : [ 124, 130 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "13345825545",
-    "text" : "DreamSpark: it\u2019s about giving students #Microsoft professional tools at no charge - http:\/\/bit.ly\/butLlN - #Expression #WP7 #msexp",
-    "id" : 13345825545,
-    "created_at" : "2010-05-04 04:05:26 +0000",
-    "user" : {
-      "name" : "MSExpression",
-      "screen_name" : "MSExpression",
-      "protected" : false,
-      "id_str" : "17448186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716648463\/TwitterAvatar_normal.png",
-      "id" : 17448186,
-      "verified" : false
-    }
-  },
-  "id" : 13361766328,
-  "created_at" : "2010-05-04 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -7900,7 +7792,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 3, 14 ],
       "id_str" : "20627121",
@@ -7933,7 +7825,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 13371856781,
     "created_at" : "2010-05-04 16:12:50 +0000",
     "user" : {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "protected" : false,
       "id_str" : "20627121",
@@ -7988,7 +7880,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -8052,7 +7944,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660887888393957376\/OeScPvuP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -8239,7 +8131,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

@@ -346,7 +346,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -379,7 +379,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -798,7 +798,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "snookca",
       "protected" : false,
       "id_str" : "12591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603985134715596800\/0T7u8aB4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717669500917682176\/_huneE84_normal.jpg",
       "id" : 12591,
       "verified" : false
     }
@@ -1270,7 +1270,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "14465898",
       "id" : 14465898
     }, {
-      "name" : "Tane Piper",
+      "name" : "Shaver of Yaks",
       "screen_name" : "tanepiper",
       "indices" : [ 12, 22 ],
       "id_str" : "20693",
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Tane Piper",
+        "name" : "Shaver of Yaks",
         "screen_name" : "tanepiper",
         "indices" : [ 1, 11 ],
         "id_str" : "20693",
@@ -1770,7 +1770,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666540318356021248\/AjQUhojV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694129445645467648\/1EacIZPu_normal.jpg",
       "id" : 34163,
       "verified" : false
     }
@@ -2192,7 +2192,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "davidmohara",
       "protected" : false,
       "id_str" : "12757",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658340780185026560\/UlmYbkRl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/673641547083071488\/NuZP70GI_normal.jpg",
       "id" : 12757,
       "verified" : false
     }
@@ -2526,7 +2526,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "5530472",
       "id" : 5530472
     }, {
-      "name" : "the art of logging",
+      "name" : "insidious mercenary",
       "screen_name" : "benjaminws",
       "indices" : [ 61, 72 ],
       "id_str" : "14188391",
@@ -2548,7 +2548,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "the art of logging",
+        "name" : "insidious mercenary",
         "screen_name" : "benjaminws",
         "indices" : [ 45, 56 ],
         "id_str" : "14188391",
@@ -2733,7 +2733,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "heylaurenmae",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/610314760819576832\/fGfTLDfk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704200485473882112\/QubNPsDf_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }
@@ -3024,27 +3024,16 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rdio Support",
-      "screen_name" : "RdioHelp",
-      "indices" : [ 0, 9 ],
-      "id_str" : "144950141",
-      "id" : 144950141
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "223114340436414464",
   "geo" : { },
   "id_str" : "223115315498844160",
-  "in_reply_to_user_id" : 144950141,
   "text" : "@RdioHelp When using the facebook signup the only error message is Invalid username when using 3 characters.",
   "id" : 223115315498844160,
-  "in_reply_to_status_id" : 223114340436414464,
   "created_at" : "2012-07-11 18:03:31 +0000",
-  "in_reply_to_screen_name" : "RdioHelp",
-  "in_reply_to_user_id_str" : "144950141",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3200,7 +3189,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "simileolu",
       "protected" : false,
       "id_str" : "66268421",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631036590983409664\/O2ysXQ21_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710148799126249473\/KgDiAkJl_normal.jpg",
       "id" : 66268421,
       "verified" : false
     }
@@ -3548,7 +3537,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668147827692867585\/KJsPhu3__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718768070945325057\/LYxej1QA_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -4285,7 +4274,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }

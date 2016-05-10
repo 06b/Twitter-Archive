@@ -355,9 +355,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3867369317",
-  "text" : "Watching Howl's Moving Castle",
-  "id" : 3867369317,
+  "id_str" : "3857443109",
+  "text" : "Microsoft Expression Studio 3 review via .net - http:\/\/www.hurl.ws\/4wk8",
+  "id" : 3857443109,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -377,9 +377,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3857443109",
-  "text" : "Microsoft Expression Studio 3 review via .net - http:\/\/www.hurl.ws\/4wk8",
-  "id" : 3857443109,
+  "id_str" : "3867369317",
+  "text" : "Watching Howl's Moving Castle",
+  "id" : 3867369317,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

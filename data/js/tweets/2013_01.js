@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -273,13 +273,13 @@ Grailbird.data.tweets_2013_01 =
         "resize" : "fit",
         "w" : 433
       }, {
-        "h" : 38,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 29,
+        "h" : 30,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 38,
+        "resize" : "crop",
+        "w" : 38
       } ],
       "display_url" : "pic.twitter.com\/pzUweRWN"
     } ],
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gomphus",
+      "name" : "Monocle Lewinsky",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
@@ -658,7 +658,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "_Jordan",
       "protected" : false,
       "id_str" : "14166065",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615561979000782848\/of9imhau_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711633937399873536\/uFMISEN3_normal.jpg",
       "id" : 14166065,
       "verified" : false
     }
@@ -1400,7 +1400,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -3249,7 +3249,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "14206068",
       "id" : 14206068
     }, {
-      "name" : "reddit",
+      "name" : "Reddit",
       "screen_name" : "reddit",
       "indices" : [ 97, 104 ],
       "id_str" : "811377",
@@ -3271,7 +3271,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "reddit",
+        "name" : "Reddit",
         "screen_name" : "reddit",
         "indices" : [ 81, 88 ],
         "id_str" : "811377",
@@ -3422,7 +3422,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9673 Jon Tan",
+      "name" : "Jon Tan",
       "screen_name" : "jontangerine",
       "indices" : [ 3, 16 ],
       "id_str" : "7629722",
@@ -3483,11 +3483,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 286763174613626880,
     "created_at" : "2013-01-03 09:17:23 +0000",
     "user" : {
-      "name" : "\u9673 Jon Tan",
+      "name" : "Jon Tan",
       "screen_name" : "jontangerine",
       "protected" : false,
       "id_str" : "7629722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/669626927158816768\/YSp5GqU9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671628274728964096\/ld0Y66hV_normal.jpg",
       "id" : 7629722,
       "verified" : false
     }

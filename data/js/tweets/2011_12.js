@@ -246,7 +246,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nurse Elkins",
+      "name" : "Ales Kot",
       "screen_name" : "ales_kot",
       "indices" : [ 3, 12 ],
       "id_str" : "17885562",
@@ -273,11 +273,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 152415782922485761,
     "created_at" : "2011-12-29 15:48:49 +0000",
     "user" : {
-      "name" : "Nurse Elkins",
+      "name" : "Ales Kot",
       "screen_name" : "ales_kot",
       "protected" : false,
       "id_str" : "17885562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664609661463711745\/GRgwgazZ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700020194396143616\/-J9AY9hH_normal.jpg",
       "id" : 17885562,
       "verified" : false
     }
@@ -1147,7 +1147,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "capricecrane",
       "protected" : false,
       "id_str" : "27479039",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648913402698424321\/eTXRWwGZ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709488575864119297\/TqgCBdZP_normal.jpg",
       "id" : 27479039,
       "verified" : true
     }
@@ -1347,7 +1347,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666342105816543232\/Kgw0iNcp_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689146297471782913\/P3QUD3aA_normal.png",
       "id" : 21491212,
       "verified" : false
     }
@@ -1395,7 +1395,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "697163",
       "id" : 697163
     }, {
-      "name" : "reddit",
+      "name" : "Reddit",
       "screen_name" : "reddit",
       "indices" : [ 78, 85 ],
       "id_str" : "811377",
@@ -1417,7 +1417,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "reddit",
+        "name" : "Reddit",
         "screen_name" : "reddit",
         "indices" : [ 63, 70 ],
         "id_str" : "811377",
@@ -1521,7 +1521,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "mpbranigan",
       "protected" : false,
       "id_str" : "212110673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1160055053\/mpb_red_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711596528268402694\/C8d1BySD_normal.jpg",
       "id" : 212110673,
       "verified" : false
     }
@@ -1582,7 +1582,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "TimMoore",
       "protected" : false,
       "id_str" : "14073438",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/663825303647580160\/E_9XRwwy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714014692537139200\/GUKP7PsY_normal.jpg",
       "id" : 14073438,
       "verified" : false
     }
@@ -1920,7 +1920,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "111783",
       "id" : 111783
     }, {
-      "name" : "Christian Heilmann ",
+      "name" : "Christian Heilmann",
       "screen_name" : "codepo8",
       "indices" : [ 70, 78 ],
       "id_str" : "13567",
@@ -1942,7 +1942,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Christian Heilmann ",
+        "name" : "Christian Heilmann",
         "screen_name" : "codepo8",
         "indices" : [ 55, 63 ],
         "id_str" : "13567",
@@ -2330,7 +2330,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "CarolynLKent",
       "protected" : false,
       "id_str" : "14289304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/644943066424569856\/ZuPV6yte_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717532538701479937\/RjrtZEFa_normal.jpg",
       "id" : 14289304,
       "verified" : false
     }
@@ -2495,7 +2495,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "112919156",
       "id" : 112919156
     }, {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 36, 47 ],
       "id_str" : "20627121",
@@ -2587,7 +2587,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668147827692867585\/KJsPhu3__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718768070945325057\/LYxej1QA_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -2648,7 +2648,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668147827692867585\/KJsPhu3__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718768070945325057\/LYxej1QA_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -3864,7 +3864,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -4073,7 +4073,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "s.",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -4535,7 +4535,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }

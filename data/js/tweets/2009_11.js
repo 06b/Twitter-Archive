@@ -725,9 +725,9 @@ Grailbird.data.tweets_2009_11 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "5655006200",
-  "text" : "Current balance on my credit card - 4.04... I'm a dork for being amused.",
-  "id" : 5655006200,
+  "id_str" : "5641428388",
+  "text" : "was playing with the idea of making his resume look like markup",
+  "id" : 5641428388,
   "created_at" : "2009-11-12 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -747,9 +747,9 @@ Grailbird.data.tweets_2009_11 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "5641428388",
-  "text" : "was playing with the idea of making his resume look like markup",
-  "id" : 5641428388,
+  "id_str" : "5655006200",
+  "text" : "Current balance on my credit card - 4.04... I'm a dork for being amused.",
+  "id" : 5655006200,
   "created_at" : "2009-11-12 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -806,6 +806,28 @@ Grailbird.data.tweets_2009_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "5570376478",
+  "text" : "Back from the dentist, had to get a root canal.",
+  "id" : 5570376478,
+  "created_at" : "2009-11-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "5548187066",
   "text" : "Just finished watching the animation Paprika with Heather",
   "id" : 5548187066,
@@ -843,28 +865,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5549724806",
   "text" : "Congratulations to @cindyli and @themattharris!",
   "id" : 5549724806,
-  "created_at" : "2009-11-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5570376478",
-  "text" : "Back from the dentist, had to get a root canal.",
-  "id" : 5570376478,
   "created_at" : "2009-11-09 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

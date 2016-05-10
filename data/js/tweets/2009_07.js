@@ -244,6 +244,90 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nicole Sullivan",
+      "screen_name" : "stubbornella",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15629200",
+      "id" : 15629200
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2707332150",
+  "in_reply_to_user_id" : 15629200,
+  "text" : "@stubbornella the content?",
+  "id" : 2707332150,
+  "created_at" : "2009-07-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "stubbornella",
+  "in_reply_to_user_id_str" : "15629200",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CSSsummit",
+      "indices" : [ 40, 50 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2707739049",
+  "text" : "Dave McFarland and his basement on CSS3 #CSSsummit",
+  "id" : 2707739049,
+  "created_at" : "2009-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CSS3",
+      "indices" : [ 47, 52 ]
+    }, {
+      "text" : "CSSsummit",
+      "indices" : [ 53, 63 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2707953965",
+  "text" : "nth-child(...) is some crazy stuff, very cool. #CSS3 #CSSsummit",
+  "id" : 2707953965,
+  "created_at" : "2009-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Nick A",
       "screen_name" : "altendo",
       "indices" : [ 3, 11 ],
@@ -520,90 +604,6 @@ Grailbird.data.tweets_2009_07 =
   "id_str" : "2706480565",
   "text" : "Figures Firefox would freeze during Object-Oriented CSS  #CSSsummit",
   "id" : 2706480565,
-  "created_at" : "2009-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicole Sullivan",
-      "screen_name" : "stubbornella",
-      "indices" : [ 0, 13 ],
-      "id_str" : "15629200",
-      "id" : 15629200
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2707332150",
-  "in_reply_to_user_id" : 15629200,
-  "text" : "@stubbornella the content?",
-  "id" : 2707332150,
-  "created_at" : "2009-07-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "stubbornella",
-  "in_reply_to_user_id_str" : "15629200",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "CSSsummit",
-      "indices" : [ 40, 50 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2707739049",
-  "text" : "Dave McFarland and his basement on CSS3 #CSSsummit",
-  "id" : 2707739049,
-  "created_at" : "2009-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "CSS3",
-      "indices" : [ 47, 52 ]
-    }, {
-      "text" : "CSSsummit",
-      "indices" : [ 53, 63 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2707953965",
-  "text" : "nth-child(...) is some crazy stuff, very cool. #CSS3 #CSSsummit",
-  "id" : 2707953965,
   "created_at" : "2009-07-18 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

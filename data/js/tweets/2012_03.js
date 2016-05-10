@@ -963,7 +963,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -1276,7 +1276,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "snookca",
       "protected" : false,
       "id_str" : "12591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603985134715596800\/0T7u8aB4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717669500917682176\/_huneE84_normal.jpg",
       "id" : 12591,
       "verified" : false
     }
@@ -3599,7 +3599,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eric A. Meyer",
+      "name" : "Eric Meyer",
       "screen_name" : "meyerweb",
       "indices" : [ 3, 12 ],
       "id_str" : "646533",
@@ -3638,11 +3638,11 @@ Grailbird.data.tweets_2012_03 =
     "id" : 177792211591774208,
     "created_at" : "2012-03-08 16:25:41 +0000",
     "user" : {
-      "name" : "Eric A. Meyer",
+      "name" : "Eric Meyer",
       "screen_name" : "meyerweb",
       "protected" : false,
       "id_str" : "646533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630223687434633217\/UkBcOszj_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671335262459334657\/O6oMcV8M_normal.png",
       "id" : 646533,
       "verified" : false
     }
@@ -3710,57 +3710,6 @@ Grailbird.data.tweets_2012_03 =
   },
   "id" : 177513403118661632,
   "created_at" : "2012-03-07 21:57:48 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Alexander Williams",
-      "screen_name" : "alexandermensa",
-      "indices" : [ 3, 18 ],
-      "id_str" : "50211764",
-      "id" : 50211764
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "177513330100023296",
-  "text" : "RT @alexandermensa: For those who aren't sure, YES we're (GitHub) auditing all SSH keys.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "177466581876621316",
-    "text" : "For those who aren't sure, YES we're (GitHub) auditing all SSH keys.",
-    "id" : 177466581876621316,
-    "created_at" : "2012-03-07 18:51:44 +0000",
-    "user" : {
-      "name" : "Alexander Williams",
-      "screen_name" : "alexandermensa",
-      "protected" : false,
-      "id_str" : "50211764",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3387792689\/6ebfedbbe389ab952b9dc28260e54537_normal.jpeg",
-      "id" : 50211764,
-      "verified" : false
-    }
-  },
-  "id" : 177513330100023296,
-  "created_at" : "2012-03-07 21:57:30 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4019,7 +3968,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "redgate",
       "protected" : false,
       "id_str" : "18316863",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1693217995\/RG1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708301658866974720\/b8woIKEs_normal.jpg",
       "id" : 18316863,
       "verified" : true
     }
@@ -4603,7 +4552,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660887888393957376\/OeScPvuP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -4870,7 +4819,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "karlgroves",
       "protected" : false,
       "id_str" : "14781056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648882890407813122\/XfGr-fbI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717808635267706880\/nMtMN3t-_normal.jpg",
       "id" : 14781056,
       "verified" : false
     }
@@ -5291,57 +5240,6 @@ Grailbird.data.tweets_2012_03 =
   "text" : "Considering I write code and listen to 8-bit music I'm starting to think I am a robot",
   "id" : 175324262993899521,
   "created_at" : "2012-03-01 20:58:56 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Building Windows 8",
-      "screen_name" : "BuildWindows8",
-      "indices" : [ 3, 17 ],
-      "id_str" : "353466012",
-      "id" : 353466012
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "175323948244934656",
-  "text" : "RT @BuildWindows8: One day later...one million downloads of the consumer preview",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "175296911966875649",
-    "text" : "One day later...one million downloads of the consumer preview",
-    "id" : 175296911966875649,
-    "created_at" : "2012-03-01 19:10:15 +0000",
-    "user" : {
-      "name" : "Building Windows 8",
-      "screen_name" : "BuildWindows8",
-      "protected" : false,
-      "id_str" : "353466012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2601607383\/0wc34gqfn6dgayfx75xn_normal.png",
-      "id" : 353466012,
-      "verified" : false
-    }
-  },
-  "id" : 175323948244934656,
-  "created_at" : "2012-03-01 20:57:41 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

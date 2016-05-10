@@ -372,7 +372,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636231358268837888\/0zuy-UJ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708363316154925056\/deXwIhn8_normal.jpg",
       "id" : 635543,
       "verified" : false
     }
@@ -688,7 +688,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "andrewphelps",
       "protected" : false,
       "id_str" : "4628121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459172125484396544\/XEVXbisn_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707781415119802369\/yWwNL1Jx_normal.jpg",
       "id" : 4628121,
       "verified" : true
     }
@@ -916,7 +916,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eric A. Meyer",
+      "name" : "Eric Meyer",
       "screen_name" : "meyerweb",
       "indices" : [ 3, 12 ],
       "id_str" : "646533",
@@ -943,11 +943,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 272730462563209216,
     "created_at" : "2012-11-25 15:56:24 +0000",
     "user" : {
-      "name" : "Eric A. Meyer",
+      "name" : "Eric Meyer",
       "screen_name" : "meyerweb",
       "protected" : false,
       "id_str" : "646533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630223687434633217\/UkBcOszj_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671335262459334657\/O6oMcV8M_normal.png",
       "id" : 646533,
       "verified" : false
     }
@@ -1224,7 +1224,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Partially Estelle",
+      "name" : "Estelle Weyl",
       "screen_name" : "estellevw",
       "indices" : [ 3, 13 ],
       "id_str" : "6320592",
@@ -1251,7 +1251,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 272029354081533953,
     "created_at" : "2012-11-23 17:30:26 +0000",
     "user" : {
-      "name" : "Partially Estelle",
+      "name" : "Estelle Weyl",
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
@@ -1908,7 +1908,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655802176707670016\/d4-91SJB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -2621,7 +2621,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "61133",
       "id" : 61133
     }, {
-      "name" : "\u9673 Jon Tan",
+      "name" : "Jon Tan",
       "screen_name" : "jontangerine",
       "indices" : [ 86, 99 ],
       "id_str" : "7629722",
@@ -2641,7 +2641,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/afeedapart.com\/\" rel=\"nofollow\"\u003EA Feed Apart\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u9673 Jon Tan",
+        "name" : "Jon Tan",
         "screen_name" : "jontangerine",
         "indices" : [ 73, 86 ],
         "id_str" : "7629722",
@@ -3451,7 +3451,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666342105816543232\/Kgw0iNcp_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689146297471782913\/P3QUD3aA_normal.png",
       "id" : 21491212,
       "verified" : false
     }
