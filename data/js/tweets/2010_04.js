@@ -1639,7 +1639,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -1678,7 +1678,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "121884957",
       "id" : 121884957
     }, {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 26, 37 ],
       "id_str" : "20627121",
@@ -2419,7 +2419,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 3, 14 ],
       "id_str" : "20627121",
@@ -2452,11 +2452,11 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12703711356,
     "created_at" : "2010-04-23 14:04:16 +0000",
     "user" : {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "protected" : false,
       "id_str" : "20627121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552785656775450625\/908f1Fnq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728711710866059264\/QEC_xyAU_normal.jpg",
       "id" : 20627121,
       "verified" : false
     }
@@ -3004,7 +3004,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -3052,7 +3052,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "112919156",
       "id" : 112919156
     }, {
-      "name" : "Sara Kowatch",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 40, 51 ],
       "id_str" : "20627121",
@@ -3078,7 +3078,7 @@ Grailbird.data.tweets_2010_04 =
         "id_str" : "112919156",
         "id" : 112919156
       }, {
-        "name" : "Sara Kowatch",
+        "name" : "sara kowatch",
         "screen_name" : "diornotwar",
         "indices" : [ 21, 32 ],
         "id_str" : "20627121",
@@ -3626,7 +3626,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -3818,7 +3818,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -4228,7 +4228,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -4767,7 +4767,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -6303,7 +6303,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -7274,7 +7274,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

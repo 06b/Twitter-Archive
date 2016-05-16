@@ -73,7 +73,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -3466,7 +3466,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "ArtJonak",
       "protected" : false,
       "id_str" : "12392822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1317701011\/wedding_magazine_150x150_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722524394682130433\/YHgL1bYe_normal.jpg",
       "id" : 12392822,
       "verified" : false
     }

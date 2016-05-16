@@ -149,7 +149,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -389,7 +389,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "brucefloyd",
       "protected" : false,
       "id_str" : "9972002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708017661431701504\/CER7ucXZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727965899349590016\/nM40Rx5h_normal.jpg",
       "id" : 9972002,
       "verified" : false
     }

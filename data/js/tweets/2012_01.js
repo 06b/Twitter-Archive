@@ -628,6 +628,57 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sa\u0161a Tomislav Matai\u0107",
+      "screen_name" : "quarkon",
+      "indices" : [ 3, 11 ],
+      "id_str" : "19468426",
+      "id" : 19468426
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "162587617949519873",
+  "text" : "RT @quarkon: 99 bugs in the legacy code, 99 bugs in the code.\nTake one down, pass it around.\n102 bugs in the legacy code.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "162532505629634561",
+    "text" : "99 bugs in the legacy code, 99 bugs in the code.\nTake one down, pass it around.\n102 bugs in the legacy code.",
+    "id" : 162532505629634561,
+    "created_at" : "2012-01-26 13:49:03 +0000",
+    "user" : {
+      "name" : "Sa\u0161a Tomislav Matai\u0107",
+      "screen_name" : "quarkon",
+      "protected" : false,
+      "id_str" : "19468426",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730454365752983554\/TXLHvUkq_normal.jpg",
+      "id" : 19468426,
+      "verified" : false
+    }
+  },
+  "id" : 162587617949519873,
+  "created_at" : "2012-01-26 17:28:03 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1795,7 +1846,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

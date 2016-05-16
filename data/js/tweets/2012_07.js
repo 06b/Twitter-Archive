@@ -346,7 +346,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -379,7 +379,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -1110,7 +1110,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "adactio",
       "protected" : false,
       "id_str" : "11250",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477375893183033344\/xPth0Xgn_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727173860764844032\/0hGX9DZG_normal.jpg",
       "id" : 11250,
       "verified" : true
     }
@@ -2526,7 +2526,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "5530472",
       "id" : 5530472
     }, {
-      "name" : "insidious mercenary",
+      "name" : "Banjammin",
       "screen_name" : "benjaminws",
       "indices" : [ 61, 72 ],
       "id_str" : "14188391",
@@ -2548,7 +2548,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "insidious mercenary",
+        "name" : "Banjammin",
         "screen_name" : "benjaminws",
         "indices" : [ 45, 56 ],
         "id_str" : "14188391",
@@ -2867,7 +2867,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "trammell",
       "protected" : false,
       "id_str" : "666073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587690037535358976\/dtZEenHf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729795669565706240\/iPuCrzpl_normal.jpg",
       "id" : 666073,
       "verified" : false
     }

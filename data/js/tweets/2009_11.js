@@ -102,7 +102,7 @@ Grailbird.data.tweets_2009_11 =
       "screen_name" : "trammell",
       "protected" : false,
       "id_str" : "666073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587690037535358976\/dtZEenHf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729795669565706240\/iPuCrzpl_normal.jpg",
       "id" : 666073,
       "verified" : false
     }

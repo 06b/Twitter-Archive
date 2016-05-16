@@ -265,7 +265,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "qrush",
       "protected" : false,
       "id_str" : "5743852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/669012344031154176\/dzdia1pF_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726100452106854401\/Ul0dlgGu_normal.jpg",
       "id" : 5743852,
       "verified" : false
     }
@@ -1144,11 +1144,11 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan \/ Avalonstar",
+      "name" : "Bryan Veloso",
       "screen_name" : "bryanveloso",
       "indices" : [ 3, 15 ],
-      "id_str" : "615403",
-      "id" : 615403
+      "id_str" : "14209069",
+      "id" : 14209069
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1171,11 +1171,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 214895970935242752,
     "created_at" : "2012-06-19 01:42:46 +0000",
     "user" : {
-      "name" : "Bryan \/ Avalonstar",
-      "screen_name" : "bryanveloso",
+      "name" : "Bryan Veloso",
+      "screen_name" : "avalonstar",
       "protected" : false,
       "id_str" : "615403",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713929524472385536\/u4hkEQHl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729054724754804736\/azZSkWgA_normal.jpg",
       "id" : 615403,
       "verified" : false
     }
@@ -2669,7 +2669,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 2414096995
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/bendoscopy\/status\/211796435623092225\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/utterben\/status\/211796435623092225\/photo\/1",
       "indices" : [ 38, 58 ],
       "url" : "http:\/\/t.co\/7nSmchzM",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AvBzvG5CIAA6LMs.jpg",
@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2012_06 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/bendoscopy\/status\/211796435623092225\/photo\/1",
+        "expanded_url" : "http:\/\/twitter.com\/utterben\/status\/211796435623092225\/photo\/1",
         "indices" : [ 24, 44 ],
         "url" : "http:\/\/t.co\/7nSmchzM",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/AvBzvG5CIAA6LMs.jpg",
@@ -3273,7 +3273,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "wimremes",
       "protected" : false,
       "id_str" : "14932408",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678096313301381121\/nlVcFpHS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729950754019086336\/cQbxZxF7_normal.jpg",
       "id" : 14932408,
       "verified" : false
     }

@@ -2169,7 +2169,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 37, 48 ],
       "id_str" : "20627121",
@@ -6455,6 +6455,84 @@ Grailbird.data.tweets_2011_07 =
   "text" : "Wearing my green chucks and my sonic the hedgehog t-shirt at work. One of the many reasons I love my job.",
   "id" : 93020321774448641,
   "created_at" : "2011-07-18 18:12:27 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rockfish",
+      "screen_name" : "Rockfish",
+      "indices" : [ 21, 30 ],
+      "id_str" : "16810823",
+      "id" : 16810823
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Cincinnati",
+      "indices" : [ 56, 67 ]
+    }, {
+      "text" : "jobs",
+      "indices" : [ 119, 124 ]
+    }, {
+      "text" : "werehiring",
+      "indices" : [ 125, 136 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "93020072070750209",
+  "text" : "RT @laura_m_gardner: @Rockfish is looking for talent in #Cincinnati, including strategists, developers, & copywriters. #jobs #werehiring ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Rockfish",
+        "screen_name" : "Rockfish",
+        "indices" : [ 0, 9 ],
+        "id_str" : "16810823",
+        "id" : 16810823
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "Cincinnati",
+        "indices" : [ 35, 46 ]
+      }, {
+        "text" : "jobs",
+        "indices" : [ 98, 103 ]
+      }, {
+        "text" : "werehiring",
+        "indices" : [ 104, 115 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "93019748748627968",
+    "in_reply_to_user_id" : 16810823,
+    "text" : "@Rockfish is looking for talent in #Cincinnati, including strategists, developers, & copywriters. #jobs #werehiring - http:\/\/ow.ly\/5Hj2r",
+    "id" : 93019748748627968,
+    "created_at" : "2011-07-18 18:10:10 +0000",
+    "in_reply_to_screen_name" : "Rockfish",
+    "in_reply_to_user_id_str" : "16810823",
+    "user" : {
+      "name" : "Laura Gardner",
+      "screen_name" : "lauramgardner",
+      "protected" : false,
+      "id_str" : "219083108",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588769110290472960\/8KV9zgod_normal.jpg",
+      "id" : 219083108,
+      "verified" : false
+    }
+  },
+  "id" : 93020072070750209,
+  "created_at" : "2011-07-18 18:11:28 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -12839,7 +12917,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "trammell",
       "protected" : false,
       "id_str" : "666073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587690037535358976\/dtZEenHf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729795669565706240\/iPuCrzpl_normal.jpg",
       "id" : 666073,
       "verified" : false
     }

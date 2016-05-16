@@ -34,7 +34,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692200947016138759\/L8rBtUHY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726464213862899712\/GspoBQc2_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -957,7 +957,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Adobe",
       "protected" : false,
       "id_str" : "63786611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714485413524672512\/Q3F7939P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724642349809180672\/Orgg8uOg_normal.jpg",
       "id" : 63786611,
       "verified" : true
     }
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens 3.01 gold",
+      "name" : "rstevens DS9",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -2088,7 +2088,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236304911594295297,
     "created_at" : "2012-08-17 03:34:15 +0000",
     "user" : {
-      "name" : "rstevens 3.01 gold",
+      "name" : "rstevens DS9",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -2928,7 +2928,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "johnhenrymuller",
       "protected" : false,
       "id_str" : "15092672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477492183365218305\/rEzdR7dX_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722019570551095297\/6NXtu3lL_normal.jpg",
       "id" : 15092672,
       "verified" : false
     }

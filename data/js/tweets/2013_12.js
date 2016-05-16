@@ -94,7 +94,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 417771413789868032,
     "created_at" : "2013-12-30 21:37:21 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2175,7 +2175,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -2208,7 +2208,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2235,7 +2235,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 412665052312121344,
     "created_at" : "2013-12-16 19:26:30 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2290,7 +2290,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719680159222263812\/1hBU7GJv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728887439989874688\/Ow2eY1Lh_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
@@ -2398,7 +2398,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "Malecopywriter",
       "protected" : false,
       "id_str" : "37676790",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/218917552\/MaleCopywriter_twitter2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728212607312760832\/jKAsDEql_normal.jpg",
       "id" : 37676790,
       "verified" : false
     }
@@ -3273,7 +3273,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410198652695478272,
     "created_at" : "2013-12-10 00:05:54 +0000",
     "user" : {
-      "name" : "Mike Metcalf",
+      "name" : "Mike \u201CViper\u201D Metcalf",
       "screen_name" : "mikemetcalf",
       "protected" : false,
       "id_str" : "27032389",
@@ -3564,7 +3564,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "kelsroaach",
       "protected" : false,
       "id_str" : "2182871491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717894505609969664\/znxLh1qg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731710600213110784\/nIx89FGp_normal.jpg",
       "id" : 2182871491,
       "verified" : false
     }
@@ -4509,7 +4509,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -4596,7 +4596,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 407363713440956417,
     "created_at" : "2013-12-02 04:20:52 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",

@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "41035489",
       "id" : 41035489
     }, {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 33, 44 ],
       "id_str" : "126030998",
@@ -1279,7 +1279,7 @@ Grailbird.data.tweets_2013_10 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Melissa \u2407 \u2B50\uFE0F",
+        "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
         "screen_name" : "0xabad1dea",
         "indices" : [ 20, 31 ],
         "id_str" : "126030998",
@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393069499756204032,
     "created_at" : "2013-10-23 17:40:46 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2320,7 +2320,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "weatherchannel",
       "protected" : false,
       "id_str" : "20998647",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591072949165129728\/mHeUBRSj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723292584001462272\/o8EWtnVE_normal.jpg",
       "id" : 20998647,
       "verified" : true
     }
@@ -2635,7 +2635,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719680159222263812\/1hBU7GJv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728887439989874688\/Ow2eY1Lh_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
@@ -2708,7 +2708,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2735,7 +2735,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 389083509408931840,
     "created_at" : "2013-10-12 17:41:52 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -3640,7 +3640,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692200947016138759\/L8rBtUHY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726464213862899712\/GspoBQc2_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }

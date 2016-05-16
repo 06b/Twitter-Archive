@@ -2115,7 +2115,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2154,7 +2154,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357511939888398337,
     "created_at" : "2013-07-17 14:47:43 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -3782,7 +3782,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Berry",
+      "name" : "Dan Berry TCAF 238",
       "screen_name" : "thingsbydan",
       "indices" : [ 3, 15 ],
       "id_str" : "54858527",
@@ -3809,7 +3809,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353174727394725888,
     "created_at" : "2013-07-05 15:33:11 +0000",
     "user" : {
-      "name" : "Dan Berry",
+      "name" : "Dan Berry TCAF 238",
       "screen_name" : "thingsbydan",
       "protected" : false,
       "id_str" : "54858527",
@@ -4257,7 +4257,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "INTERNET OF JOHNS",
+      "name" : "John Van Enk",
       "screen_name" : "sw17ch",
       "indices" : [ 3, 10 ],
       "id_str" : "21629944",
@@ -4294,7 +4294,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 351768453939601408,
     "created_at" : "2013-07-01 18:25:09 +0000",
     "user" : {
-      "name" : "INTERNET OF JOHNS",
+      "name" : "John Van Enk",
       "screen_name" : "sw17ch",
       "protected" : false,
       "id_str" : "21629944",

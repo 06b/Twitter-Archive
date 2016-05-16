@@ -906,7 +906,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692200947016138759\/L8rBtUHY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726464213862899712\/GspoBQc2_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -2057,7 +2057,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2022CSSeth",
+      "name" : "CSSeth",
       "screen_name" : "nternetinspired",
       "indices" : [ 3, 19 ],
       "id_str" : "132566924",
@@ -2106,7 +2106,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 326285297564413952,
     "created_at" : "2013-04-22 10:44:11 +0000",
     "user" : {
-      "name" : "\u2022CSSeth",
+      "name" : "CSSeth",
       "screen_name" : "nternetinspired",
       "protected" : false,
       "id_str" : "132566924",
@@ -5015,7 +5015,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jcolman",
       "protected" : false,
       "id_str" : "76373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617453782381629440\/HdERRbKB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725893683883560960\/vx7pewBD_normal.jpg",
       "id" : 76373,
       "verified" : false
     }
@@ -5117,7 +5117,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jduck",
       "protected" : false,
       "id_str" : "100564168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482801491472678913\/4GdmsdfQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720299589606055938\/FzUzllzQ_normal.jpg",
       "id" : 100564168,
       "verified" : false
     }
@@ -5137,7 +5137,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

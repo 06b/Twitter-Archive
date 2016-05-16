@@ -255,7 +255,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 383771225006170112,
     "created_at" : "2013-09-28 01:52:44 +0000",
     "user" : {
-      "name" : "Melissa \u2407 \u2B50\uFE0F",
+      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -1103,7 +1103,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719654197260472320\/4KGmHKFL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731975268915679233\/iNFobf0c_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -2186,7 +2186,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "FredericJacobs",
       "protected" : false,
       "id_str" : "18018877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563824930580865024\/Sy07lk0E_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724499902974308352\/OlAsZT0O_normal.jpg",
       "id" : 18018877,
       "verified" : false
     }
@@ -2843,7 +2843,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2614\u26C8 eevee \u26C8\u2614",
+      "name" : "\u273E\u2741 eevee \u2741\u273E",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2870,11 +2870,11 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377934228543270912,
     "created_at" : "2013-09-11 23:18:36 +0000",
     "user" : {
-      "name" : "\u2614\u26C8 eevee \u26C8\u2614",
+      "name" : "\u273E\u2741 eevee \u2741\u273E",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713876920878964736\/7inhYQWs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726625282463932416\/MoU8ckZM_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -3974,7 +3974,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "ceejoyner",
       "protected" : false,
       "id_str" : "535849334",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682367788539899905\/MwAr5A3-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727844209621905408\/zcYy61ic_normal.jpg",
       "id" : 535849334,
       "verified" : false
     }

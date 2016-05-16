@@ -1001,11 +1001,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 19772114588409856,
     "created_at" : "2010-12-28 15:10:14 +0000",
     "user" : {
-      "name" : "mols",
+      "name" : "molly",
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681353202206248961\/aUFYvw4z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732000722259058689\/OHw16Vpv_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -3030,7 +3030,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dem Caspers seins",
+      "name" : "Full Stack Manager",
       "screen_name" : "tcaspers",
       "indices" : [ 3, 12 ],
       "id_str" : "29883",
@@ -3057,7 +3057,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15063491241054208,
     "created_at" : "2010-12-15 15:19:50 +0000",
     "user" : {
-      "name" : "Dem Caspers seins",
+      "name" : "Full Stack Manager",
       "screen_name" : "tcaspers",
       "protected" : false,
       "id_str" : "29883",

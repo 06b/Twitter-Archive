@@ -2230,11 +2230,11 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14718399334,
     "created_at" : "2010-05-25 21:26:29 +0000",
     "user" : {
-      "name" : "mols",
+      "name" : "molly",
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681353202206248961\/aUFYvw4z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732000722259058689\/OHw16Vpv_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -2393,7 +2393,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "LPK",
       "protected" : false,
       "id_str" : "27054711",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592740774321790977\/mKdo2HTr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724588041231327232\/nnL9hoYZ_normal.jpg",
       "id" : 27054711,
       "verified" : false
     }
@@ -4985,7 +4985,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "1671811",
       "id" : 1671811
     }, {
-      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "indices" : [ 56, 67 ],
       "id_str" : "14431882",
@@ -5002,7 +5002,7 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+        "name" : "Ben Schwarz",
         "screen_name" : "benschwarz",
         "indices" : [ 40, 51 ],
         "id_str" : "14431882",
@@ -6123,7 +6123,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "121884957",
       "id" : 121884957
     }, {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 15, 26 ],
       "id_str" : "20627121",
@@ -7620,7 +7620,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -7792,7 +7792,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 3, 14 ],
       "id_str" : "20627121",
@@ -7825,11 +7825,11 @@ Grailbird.data.tweets_2010_05 =
     "id" : 13371856781,
     "created_at" : "2010-05-04 16:12:50 +0000",
     "user" : {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "protected" : false,
       "id_str" : "20627121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552785656775450625\/908f1Fnq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728711710866059264\/QEC_xyAU_normal.jpg",
       "id" : 20627121,
       "verified" : false
     }
@@ -7849,7 +7849,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Kowatch",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -7880,7 +7880,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -8131,7 +8131,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

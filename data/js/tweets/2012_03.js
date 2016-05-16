@@ -2586,7 +2586,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "trammell",
       "protected" : false,
       "id_str" : "666073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587690037535358976\/dtZEenHf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729795669565706240\/iPuCrzpl_normal.jpg",
       "id" : 666073,
       "verified" : false
     }
@@ -4819,7 +4819,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "karlgroves",
       "protected" : false,
       "id_str" : "14781056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717808635267706880\/nMtMN3t-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722788805351055360\/KpXSwEhl_normal.jpg",
       "id" : 14781056,
       "verified" : false
     }
@@ -5120,7 +5120,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "pbakaus",
       "protected" : false,
       "id_str" : "12999402",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611876973695107075\/f9zeOFRw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726039476070408196\/LsWUCTDQ_normal.jpg",
       "id" : 12999402,
       "verified" : false
     }
@@ -5259,7 +5259,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "61133",
       "id" : 61133
     }, {
-      "name" : "Scott Kellum",
+      "name" : "scott kellum",
       "screen_name" : "ScottKellum",
       "indices" : [ 81, 93 ],
       "id_str" : "14958412",
@@ -5281,7 +5281,7 @@ Grailbird.data.tweets_2012_03 =
     "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Scott Kellum",
+        "name" : "scott kellum",
         "screen_name" : "ScottKellum",
         "indices" : [ 68, 80 ],
         "id_str" : "14958412",

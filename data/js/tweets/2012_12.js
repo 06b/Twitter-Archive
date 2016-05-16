@@ -2932,7 +2932,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "15947967",
       "id" : 15947967
     }, {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 14, 25 ],
       "id_str" : "20627121",

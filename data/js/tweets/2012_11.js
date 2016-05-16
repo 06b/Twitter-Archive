@@ -790,7 +790,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jan van Hellemond",
+      "name" : "Full Snack Developer",
       "screen_name" : "jvhellemond",
       "indices" : [ 3, 15 ],
       "id_str" : "14921195",
@@ -892,7 +892,7 @@ Grailbird.data.tweets_2012_11 =
     "in_reply_to_screen_name" : "annevk",
     "in_reply_to_user_id_str" : "3616991",
     "user" : {
-      "name" : "Jan van Hellemond",
+      "name" : "Full Snack Developer",
       "screen_name" : "jvhellemond",
       "protected" : false,
       "id_str" : "14921195",
@@ -3451,7 +3451,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689146297471782913\/P3QUD3aA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726270142942838784\/aIjuJJKj_normal.jpg",
       "id" : 21491212,
       "verified" : false
     }

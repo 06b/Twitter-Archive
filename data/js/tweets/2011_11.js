@@ -2701,7 +2701,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "evanrachelwood",
       "protected" : false,
       "id_str" : "366010246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687482449593421824\/3AbATEJj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725871587845533697\/CWwvHXjO_normal.jpg",
       "id" : 366010246,
       "verified" : true
     }
@@ -3746,7 +3746,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 59, 70 ],
       "id_str" : "20627121",
@@ -3971,7 +3971,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "indices" : [ 3, 14 ],
       "id_str" : "14431882",
@@ -3998,11 +3998,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 135849708575916032,
     "created_at" : "2011-11-13 22:41:09 +0000",
     "user" : {
-      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "protected" : false,
       "id_str" : "14431882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712198340084178944\/a-KWDIis_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720362620650266624\/CgJH0nOi_normal.jpg",
       "id" : 14431882,
       "verified" : false
     }
@@ -5240,11 +5240,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 134304553314164736,
     "created_at" : "2011-11-09 16:21:15 +0000",
     "user" : {
-      "name" : "mols",
+      "name" : "molly",
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681353202206248961\/aUFYvw4z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732000722259058689\/OHw16Vpv_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -6683,7 +6683,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 73, 84 ],
       "id_str" : "20627121",
@@ -6733,7 +6733,7 @@ Grailbird.data.tweets_2011_11 =
     "source" : "\u003Ca href=\"http:\/\/www.crowdbooster.com\" rel=\"nofollow\"\u003ECrowdbooster\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "s.",
+        "name" : "sara kowatch",
         "screen_name" : "diornotwar",
         "indices" : [ 58, 69 ],
         "id_str" : "20627121",
@@ -6964,7 +6964,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Durf",
       "protected" : false,
       "id_str" : "5514712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712500923260514304\/gv-bSDCm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724483603296452609\/oLN-IL8L_normal.jpg",
       "id" : 5514712,
       "verified" : false
     }
@@ -7573,7 +7573,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "s.",
+      "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

@@ -12564,7 +12564,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "ameetchimote",
       "protected" : false,
       "id_str" : "63396669",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713913919715282948\/vBM25wGn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723475907034357761\/D7gG_n2x_normal.jpg",
       "id" : 63396669,
       "verified" : false
     }

@@ -338,7 +338,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "brian_pearce",
       "protected" : false,
       "id_str" : "23118393",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000663748481\/2f2e8d1c99a8e4e9783fdcdabb8f36ba_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731571040300630016\/q8LMhKrE_normal.jpg",
       "id" : 23118393,
       "verified" : false
     }
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Monocle Lewinsky",
+      "name" : "Sarah Garcia Weeks",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
