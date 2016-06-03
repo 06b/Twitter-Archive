@@ -3325,7 +3325,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "csteinert",
       "protected" : false,
       "id_str" : "14800831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/688483509732691972\/dPChSZby_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732320379780366337\/NQaSisyT_normal.jpg",
       "id" : 14800831,
       "verified" : false
     }
@@ -9505,7 +9505,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "robertjbennett",
       "protected" : false,
       "id_str" : "27477803",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716717580958863360\/Wz-JFOLw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738476479676219392\/m1_Otwe-_normal.jpg",
       "id" : 27477803,
       "verified" : false
     }
@@ -13031,7 +13031,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydotbiz",
+      "name" : "jennmoneykroner",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -13118,11 +13118,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 484368731653799937,
     "created_at" : "2014-07-02 16:11:19 +0000",
     "user" : {
-      "name" : "jennmoneydotbiz",
+      "name" : "jennmoneykroner",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731553360231419904\/AAhMdVvN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738704778025439232\/_K_BxOCq_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

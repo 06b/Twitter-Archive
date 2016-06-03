@@ -6412,7 +6412,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "heylaurenmae",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704200485473882112\/QubNPsDf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736612383594938368\/36QX6z8B_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }

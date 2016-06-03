@@ -2249,6 +2249,57 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Can Duruk",
+      "screen_name" : "can",
+      "indices" : [ 3, 7 ],
+      "id_str" : "14911337",
+      "id" : 14911337
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "369529969833025537",
+  "text" : "RT @can: \/\/ This hard codes the assumption that a week is 7 days",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "369521179163234304",
+    "text" : "\/\/ This hard codes the assumption that a week is 7 days",
+    "id" : 369521179163234304,
+    "created_at" : "2013-08-19 18:08:09 +0000",
+    "user" : {
+      "name" : "Can Duruk",
+      "screen_name" : "can",
+      "protected" : false,
+      "id_str" : "14911337",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727375285289517060\/-ogTDOt5_normal.jpg",
+      "id" : 14911337,
+      "verified" : false
+    }
+  },
+  "id" : 369529969833025537,
+  "created_at" : "2013-08-19 18:43:05 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2277,7 +2328,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ross Penman",
+      "name" : "Ross @ ScotlandJS",
       "screen_name" : "PenmanRoss",
       "indices" : [ 3, 14 ],
       "id_str" : "485076559",
@@ -2326,7 +2377,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 368733458144563200,
     "created_at" : "2013-08-17 13:58:01 +0000",
     "user" : {
-      "name" : "Ross Penman",
+      "name" : "Ross @ ScotlandJS",
       "screen_name" : "PenmanRoss",
       "protected" : false,
       "id_str" : "485076559",
@@ -4958,6 +5009,57 @@ Grailbird.data.tweets_2013_08 =
   "text" : "\"Hold on to your balls\" http:\/\/t.co\/ECGQ5pNyx8 #PokemonSnap",
   "id" : 362990621377564672,
   "created_at" : "2013-08-01 17:38:02 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Can Duruk",
+      "screen_name" : "can",
+      "indices" : [ 3, 7 ],
+      "id_str" : "14911337",
+      "id" : 14911337
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "362982853602058242",
+  "text" : "RT @can: \u201CPretty\u201D comes pretty low on the requirements for a good user interface.\n\nFunctional, responsive, robust, smart and many things fi\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "362970444552339456",
+    "text" : "\u201CPretty\u201D comes pretty low on the requirements for a good user interface.\n\nFunctional, responsive, robust, smart and many things first.",
+    "id" : 362970444552339456,
+    "created_at" : "2013-08-01 16:17:52 +0000",
+    "user" : {
+      "name" : "Can Duruk",
+      "screen_name" : "can",
+      "protected" : false,
+      "id_str" : "14911337",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727375285289517060\/-ogTDOt5_normal.jpg",
+      "id" : 14911337,
+      "verified" : false
+    }
+  },
+  "id" : 362982853602058242,
+  "created_at" : "2013-08-01 17:07:10 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

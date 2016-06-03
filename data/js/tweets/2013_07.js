@@ -2640,7 +2640,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "socdf",
       "protected" : false,
       "id_str" : "531703765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617985174580506624\/igsxqLHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736760095967719424\/YVES4AZZ_normal.jpg",
       "id" : 531703765,
       "verified" : false
     }
@@ -3782,7 +3782,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Berry TCAF 238",
+      "name" : "Dan Berry",
       "screen_name" : "thingsbydan",
       "indices" : [ 3, 15 ],
       "id_str" : "54858527",
@@ -3809,7 +3809,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353174727394725888,
     "created_at" : "2013-07-05 15:33:11 +0000",
     "user" : {
-      "name" : "Dan Berry TCAF 238",
+      "name" : "Dan Berry",
       "screen_name" : "thingsbydan",
       "protected" : false,
       "id_str" : "54858527",

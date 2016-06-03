@@ -10603,7 +10603,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "ShelbyWhite",
       "protected" : false,
       "id_str" : "7233772",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698218277193973760\/WQzeSdkA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735881580304945152\/7ocILZOf_normal.jpg",
       "id" : 7233772,
       "verified" : false
     }

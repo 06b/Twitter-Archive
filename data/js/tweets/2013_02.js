@@ -1947,6 +1947,57 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Can Duruk",
+      "screen_name" : "can",
+      "indices" : [ 3, 7 ],
+      "id_str" : "14911337",
+      "id" : 14911337
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "301680117271392257",
+  "text" : "RT @can: I think technology can and should form new habits, change social behavior.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "301607881864794112",
+    "text" : "I think technology can and should form new habits, change social behavior.",
+    "id" : 301607881864794112,
+    "created_at" : "2013-02-13 08:24:57 +0000",
+    "user" : {
+      "name" : "Can Duruk",
+      "screen_name" : "can",
+      "protected" : false,
+      "id_str" : "14911337",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727375285289517060\/-ogTDOt5_normal.jpg",
+      "id" : 14911337,
+      "verified" : false
+    }
+  },
+  "id" : 301680117271392257,
+  "created_at" : "2013-02-13 13:11:59 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2450,7 +2501,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731975268915679233\/iNFobf0c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738498529950375936\/2o3af73Z_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }

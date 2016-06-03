@@ -2130,7 +2130,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694129445645467648\/1EacIZPu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734102276273508352\/2cu45Yvk_normal.jpg",
       "id" : 34163,
       "verified" : false
     }

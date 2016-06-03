@@ -867,7 +867,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "indices" : [ 3, 19 ],
       "id_str" : "2735246778",
@@ -954,7 +954,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 725346935759056897,
     "created_at" : "2016-04-27 15:32:40 +0000",
     "user" : {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "protected" : false,
       "id_str" : "2735246778",
@@ -1126,7 +1126,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 725098467618476033,
     "created_at" : "2016-04-26 23:05:21 +0000",
     "user" : {
-      "name" : "Sampson on Edge",
+      "name" : "Jonathan Sampson",
       "screen_name" : "SampsonMSFT",
       "protected" : false,
       "id_str" : "3904360429",
@@ -2154,7 +2154,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "indices" : [ 3, 19 ],
       "id_str" : "2735246778",
@@ -2241,7 +2241,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 723150640139108352,
     "created_at" : "2016-04-21 14:05:22 +0000",
     "user" : {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "protected" : false,
       "id_str" : "2735246778",
@@ -2650,7 +2650,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "AMC_TV",
       "protected" : false,
       "id_str" : "148807607",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3596316281\/35711eb8d303753a76ce79e5b5705470_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737657926840668160\/BdAUQ3wh_normal.jpg",
       "id" : 148807607,
       "verified" : true
     }
@@ -2749,7 +2749,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "102898834",
       "id" : 102898834
     }, {
-      "name" : "NAKAM\u00DC@WCS2016\u6771\u4EAC\u4EE3\u8868\uFF01",
+      "name" : "NAKAM\u00DC@\u3046\u305F\u308F\u308C\u308B\u3082\u306E\u5927\u578B",
       "screen_name" : "nightrain1024",
       "indices" : [ 22, 36 ],
       "id_str" : "46112871",
@@ -2799,7 +2799,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NAKAM\u00DC@WCS2016\u6771\u4EAC\u4EE3\u8868\uFF01",
+        "name" : "NAKAM\u00DC@\u3046\u305F\u308F\u308C\u308B\u3082\u306E\u5927\u578B",
         "screen_name" : "nightrain1024",
         "indices" : [ 9, 23 ],
         "id_str" : "46112871",
@@ -4176,7 +4176,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 720257210161311744,
     "created_at" : "2016-04-13 14:27:55 +0000",
     "user" : {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "protected" : false,
       "id_str" : "2735246778",
@@ -5088,7 +5088,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jim Lynch",
+      "name" : "Jim Lynch \u26F7",
       "screen_name" : "JimLynch_",
       "indices" : [ 3, 13 ],
       "id_str" : "46747791",
@@ -5187,7 +5187,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 718854411385192448,
     "created_at" : "2016-04-09 17:33:42 +0000",
     "user" : {
-      "name" : "Jim Lynch",
+      "name" : "Jim Lynch \u26F7",
       "screen_name" : "JimLynch_",
       "protected" : false,
       "id_str" : "46747791",
@@ -7749,7 +7749,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "TheSavArmy",
       "protected" : false,
       "id_str" : "632612101",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711058210862399488\/ZDjJiG2__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736590490288656384\/3EV1gPyt_normal.jpg",
       "id" : 632612101,
       "verified" : false
     }
@@ -7791,7 +7791,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "indices" : [ 3, 19 ],
       "id_str" : "2735246778",
@@ -7878,7 +7878,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 715623065078644738,
     "created_at" : "2016-03-31 19:33:29 +0000",
     "user" : {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "protected" : false,
       "id_str" : "2735246778",
@@ -8008,7 +8008,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "nicholascloud",
       "protected" : false,
       "id_str" : "69656882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686233508881141761\/uruCreZm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734025784117977089\/6TBbCqYW_normal.jpg",
       "id" : 69656882,
       "verified" : false
     }
@@ -8178,7 +8178,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "indices" : [ 3, 19 ],
       "id_str" : "2735246778",
@@ -8265,7 +8265,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 716390583217029124,
     "created_at" : "2016-04-02 22:23:19 +0000",
     "user" : {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "protected" : false,
       "id_str" : "2735246778",

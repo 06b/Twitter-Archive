@@ -17707,7 +17707,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "Airheads",
       "protected" : false,
       "id_str" : "175769976",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708319496021352450\/GDvwVvOB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732627083382378497\/jz30Hu77_normal.jpg",
       "id" : 175769976,
       "verified" : true
     }

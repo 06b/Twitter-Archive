@@ -1118,7 +1118,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ashe",
+      "name" : "ashe dryden",
       "screen_name" : "ashedryden",
       "indices" : [ 3, 14 ],
       "id_str" : "9510922",
@@ -1167,7 +1167,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 336991210063413248,
     "created_at" : "2013-05-21 23:45:40 +0000",
     "user" : {
-      "name" : "ashe",
+      "name" : "ashe dryden",
       "screen_name" : "ashedryden",
       "protected" : false,
       "id_str" : "9510922",
@@ -3793,7 +3793,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "mrdaveturner",
       "protected" : false,
       "id_str" : "188716376",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716546293200457729\/ULzhM3Kx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734101225986240516\/5w8zWdk3_normal.jpg",
       "id" : 188716376,
       "verified" : false
     }
@@ -6404,7 +6404,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "willkesling",
       "protected" : false,
       "id_str" : "35737363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635866351454695424\/Lj3rTwMW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737693925742235648\/J70ZghHV_normal.jpg",
       "id" : 35737363,
       "verified" : false
     }

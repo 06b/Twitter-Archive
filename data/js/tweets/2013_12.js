@@ -3564,7 +3564,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "kelsroaach",
       "protected" : false,
       "id_str" : "2182871491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731710600213110784\/nIx89FGp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738397156621574149\/mtgUKzMx_normal.jpg",
       "id" : 2182871491,
       "verified" : false
     }

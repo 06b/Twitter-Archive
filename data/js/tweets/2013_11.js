@@ -504,7 +504,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lapsus linguae",
+      "name" : "Trey Darley",
       "screen_name" : "treyka",
       "indices" : [ 3, 10 ],
       "id_str" : "14115995",
@@ -560,11 +560,11 @@ Grailbird.data.tweets_2013_11 =
     "in_reply_to_screen_name" : "sergeybratus",
     "in_reply_to_user_id_str" : "354406010",
     "user" : {
-      "name" : "lapsus linguae",
+      "name" : "Trey Darley",
       "screen_name" : "treyka",
       "protected" : false,
       "id_str" : "14115995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000758704576\/b568fd9e77df0d499f2db649f61fc9d8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736130048529293313\/KF773xTR_normal.jpg",
       "id" : 14115995,
       "verified" : false
     }
@@ -3259,117 +3259,6 @@ Grailbird.data.tweets_2013_11 =
   },
   "id" : 397877176998961153,
   "created_at" : "2013-11-06 00:04:45 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MonkeyDog",
-      "screen_name" : "monkeydogify",
-      "indices" : [ 3, 16 ],
-      "id_str" : "25977505",
-      "id" : 25977505
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/monkeydogify\/status\/396950337749549056\/photo\/1",
-      "indices" : [ 124, 140 ],
-      "url" : "http:\/\/t.co\/o1PMj8571x",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
-      "id_str" : "396950337598545920",
-      "id" : 396950337598545920,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
-      "sizes" : [ {
-        "h" : 166,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 94,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 284,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 284,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/o1PMj8571x"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "397719172852875266",
-  "text" : "RT @monkeydogify: It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1P\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/monkeydogify\/status\/396950337749549056\/photo\/1",
-        "indices" : [ 106, 128 ],
-        "url" : "http:\/\/t.co\/o1PMj8571x",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
-        "id_str" : "396950337598545920",
-        "id" : 396950337598545920,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
-        "sizes" : [ {
-          "h" : 166,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 94,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 284,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 284,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/o1PMj8571x"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "396950337749549056",
-    "text" : "It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1PMj8571x",
-    "id" : 396950337749549056,
-    "created_at" : "2013-11-03 10:41:50 +0000",
-    "user" : {
-      "name" : "MonkeyDog",
-      "screen_name" : "monkeydogify",
-      "protected" : false,
-      "id_str" : "25977505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723631884027199488\/Q0SjVRwt_normal.jpg",
-      "id" : 25977505,
-      "verified" : false
-    }
-  },
-  "id" : 397719172852875266,
-  "created_at" : "2013-11-05 13:36:54 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

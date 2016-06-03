@@ -12683,7 +12683,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "whitneyhess",
       "protected" : false,
       "id_str" : "11963132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720271062135607296\/t5ZfUfDi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735166110396481536\/Ya0vGaJ6_normal.jpg",
       "id" : 11963132,
       "verified" : false
     }

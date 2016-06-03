@@ -487,7 +487,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "indices" : [ 3, 9 ],
       "id_str" : "6326912",
@@ -591,7 +591,7 @@ Grailbird.data.tweets_2014_02 =
     "in_reply_to_screen_name" : "0xabad1dea",
     "in_reply_to_user_id_str" : "126030998",
     "user" : {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "protected" : false,
       "id_str" : "6326912",

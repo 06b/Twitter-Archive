@@ -519,7 +519,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706161399345451008\/_7RuWdnt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738144986684760065\/f7EC8wnO_normal.jpg",
       "id" : 1153,
       "verified" : false
     }

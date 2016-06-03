@@ -1524,7 +1524,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "makeusabrew",
       "protected" : false,
       "id_str" : "20183346",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562463802185097216\/r_ry4eGp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737952099464577024\/BrK4psMv_normal.jpg",
       "id" : 20183346,
       "verified" : false
     }
@@ -1770,7 +1770,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694129445645467648\/1EacIZPu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734102276273508352\/2cu45Yvk_normal.jpg",
       "id" : 34163,
       "verified" : false
     }
@@ -2526,7 +2526,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "5530472",
       "id" : 5530472
     }, {
-      "name" : "Banjammin",
+      "name" : "Benjamin W. Smith",
       "screen_name" : "benjaminws",
       "indices" : [ 61, 72 ],
       "id_str" : "14188391",
@@ -2548,7 +2548,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Banjammin",
+        "name" : "Benjamin W. Smith",
         "screen_name" : "benjaminws",
         "indices" : [ 45, 56 ],
         "id_str" : "14188391",
@@ -2733,7 +2733,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "heylaurenmae",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704200485473882112\/QubNPsDf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736612383594938368\/36QX6z8B_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }
@@ -4077,7 +4077,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "pixelplaster",
       "protected" : false,
       "id_str" : "20941969",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595531324456185857\/vrUHIXVR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733804602777341952\/O6wGzsZn_normal.jpg",
       "id" : 20941969,
       "verified" : false
     }

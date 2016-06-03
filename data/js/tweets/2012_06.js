@@ -1171,7 +1171,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 214895970935242752,
     "created_at" : "2012-06-19 01:42:46 +0000",
     "user" : {
-      "name" : "Bryan Veloso",
+      "name" : "Bryan",
       "screen_name" : "avalonstar",
       "protected" : false,
       "id_str" : "615403",
@@ -3533,7 +3533,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "BarackObama",
       "protected" : false,
       "id_str" : "813286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451007105391022080\/iu1f7brY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738744285101580288\/OUoCVEXG_normal.jpg",
       "id" : 813286,
       "verified" : true
     }

@@ -3669,7 +3669,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens DS9",
+      "name" : "rstevens 3.01 gold",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -3696,7 +3696,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 29984686663016448,
     "created_at" : "2011-01-25 19:31:21 +0000",
     "user" : {
-      "name" : "rstevens DS9",
+      "name" : "rstevens 3.01 gold",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",

@@ -89,117 +89,6 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Skulldog\/ ON A BOAT!",
-      "screen_name" : "skulldog",
-      "indices" : [ 3, 12 ],
-      "id_str" : "11847702",
-      "id" : 11847702
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/skulldog\/status\/703738755442712576\/photo\/1",
-      "indices" : [ 93, 116 ],
-      "url" : "https:\/\/t.co\/KCQI8sOcxF",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CcQukScWIAIALZT.jpg",
-      "id_str" : "703738642737537026",
-      "id" : 703738642737537026,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CcQukScWIAIALZT.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 806,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1048,
-        "resize" : "fit",
-        "w" : 780
-      }, {
-        "h" : 1048,
-        "resize" : "fit",
-        "w" : 780
-      }, {
-        "h" : 457,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/KCQI8sOcxF"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "704015808280842240",
-  "text" : "RT @skulldog: Of course, let's all remember some of the fun 'errors' with stats in Gen 1. ;) https:\/\/t.co\/KCQI8sOcxF",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/skulldog\/status\/703738755442712576\/photo\/1",
-        "indices" : [ 79, 102 ],
-        "url" : "https:\/\/t.co\/KCQI8sOcxF",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CcQukScWIAIALZT.jpg",
-        "id_str" : "703738642737537026",
-        "id" : 703738642737537026,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CcQukScWIAIALZT.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 806,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 1048,
-          "resize" : "fit",
-          "w" : 780
-        }, {
-          "h" : 1048,
-          "resize" : "fit",
-          "w" : 780
-        }, {
-          "h" : 457,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/KCQI8sOcxF"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "703738755442712576",
-    "text" : "Of course, let's all remember some of the fun 'errors' with stats in Gen 1. ;) https:\/\/t.co\/KCQI8sOcxF",
-    "id" : 703738755442712576,
-    "created_at" : "2016-02-28 00:29:28 +0000",
-    "user" : {
-      "name" : "Skulldog\/ ON A BOAT!",
-      "screen_name" : "skulldog",
-      "protected" : false,
-      "id_str" : "11847702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714986574677745665\/GRrJ9qrL_normal.jpg",
-      "id" : 11847702,
-      "verified" : false
-    }
-  },
-  "id" : 704015808280842240,
-  "created_at" : "2016-02-28 18:50:23 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "sara kowatch",
       "screen_name" : "diornotwar",
       "indices" : [ 3, 14 ],
@@ -970,7 +859,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "AmberLynnO",
       "protected" : false,
       "id_str" : "129191934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703243089369034752\/M1NmWe7i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732770043805765632\/-39z63KI_normal.jpg",
       "id" : 129191934,
       "verified" : false
     }
@@ -1759,7 +1648,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "mcclure111",
       "protected" : false,
       "id_str" : "312426579",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607946459552432128\/zHqpuH4d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735285077358182400\/OLGCm0x__normal.jpg",
       "id" : 312426579,
       "verified" : false
     }
@@ -3085,7 +2974,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "thatdankent",
       "protected" : false,
       "id_str" : "68892114",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627511788444123136\/LfDj0uDU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734211401703657472\/Bw7Msxf9_normal.jpg",
       "id" : 68892114,
       "verified" : false
     }
@@ -3529,7 +3418,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins \u2614",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 3, 7 ],
       "id_str" : "24500377",
@@ -3566,11 +3455,11 @@ Grailbird.data.tweets_2016_02 =
     "id" : 698244786025660417,
     "created_at" : "2016-02-12 20:38:24 +0000",
     "user" : {
-      "name" : "Parker Higgins \u2614",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "protected" : false,
       "id_str" : "24500377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728713055400431616\/m5s_diYG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737149756468658176\/_5r5bGlH_normal.jpg",
       "id" : 24500377,
       "verified" : false
     }
@@ -4960,7 +4849,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "MikeWehner",
       "protected" : false,
       "id_str" : "15356454",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730550474844200960\/n-iszSx__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734528327600349185\/Mx7k1nLv_normal.jpg",
       "id" : 15356454,
       "verified" : true
     }
@@ -5215,7 +5104,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bizkev w da gud hair",
+      "name" : "#bizkev aka YungDude",
       "screen_name" : "FiveOutOfKevin",
       "indices" : [ 3, 18 ],
       "id_str" : "12920542",
@@ -5302,7 +5191,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 695614835900477440,
     "created_at" : "2016-02-05 14:27:55 +0000",
     "user" : {
-      "name" : "bizkev w da gud hair",
+      "name" : "#bizkev aka YungDude",
       "screen_name" : "FiveOutOfKevin",
       "protected" : false,
       "id_str" : "12920542",
@@ -5528,7 +5417,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "aloadofhupla",
       "protected" : false,
       "id_str" : "52322143",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720171705822359552\/otMUwOwd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738655750109683712\/2MWegm3Q_normal.jpg",
       "id" : 52322143,
       "verified" : false
     }

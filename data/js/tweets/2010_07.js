@@ -172,7 +172,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Syfy",
       "protected" : false,
       "id_str" : "18957524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719951523548164096\/_tIA0g7U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732623113574223872\/3gsu1RUZ_normal.jpg",
       "id" : 18957524,
       "verified" : true
     }
@@ -4835,7 +4835,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "dklimke",
       "protected" : false,
       "id_str" : "15583100",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729665949192888320\/4Md9F5Du_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732937041206513664\/j0wPFoAP_normal.jpg",
       "id" : 15583100,
       "verified" : false
     }

@@ -1375,67 +1375,6 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dawn Casey",
-      "screen_name" : "sdawncasey",
-      "indices" : [ 3, 14 ],
-      "id_str" : "2216727840",
-      "id" : 2216727840
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 119, 140 ],
-      "url" : "http:\/\/t.co\/PVcX5lTRfH",
-      "expanded_url" : "http:\/\/www.avclub.com\/article\/facebook-tinkered-users-feeds-massive-psychology-e-206324",
-      "display_url" : "avclub.com\/article\/facebo\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "482942258845872128",
-  "text" : "RT @sdawncasey: Not surprised in the slightest that Facebook decided to do a Science experiment with users as lab rats http:\/\/t.co\/PVcX5lTR\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 103, 125 ],
-        "url" : "http:\/\/t.co\/PVcX5lTRfH",
-        "expanded_url" : "http:\/\/www.avclub.com\/article\/facebook-tinkered-users-feeds-massive-psychology-e-206324",
-        "display_url" : "avclub.com\/article\/facebo\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "482796417333735426",
-    "text" : "Not surprised in the slightest that Facebook decided to do a Science experiment with users as lab rats http:\/\/t.co\/PVcX5lTRfH",
-    "id" : 482796417333735426,
-    "created_at" : "2014-06-28 08:03:30 +0000",
-    "user" : {
-      "name" : "Dawn Casey",
-      "screen_name" : "sdawncasey",
-      "protected" : false,
-      "id_str" : "2216727840",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723296439443443712\/ek7d_ECv_normal.jpg",
-      "id" : 2216727840,
-      "verified" : false
-    }
-  },
-  "id" : 482942258845872128,
-  "created_at" : "2014-06-28 17:43:01 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Erin Kissane",
       "screen_name" : "kissane",
       "indices" : [ 3, 11 ],
@@ -2331,7 +2270,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "tottinge",
       "protected" : false,
       "id_str" : "17308319",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/445278293760045056\/mcaOXOOf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736005724124254208\/oG10Q3cp_normal.jpg",
       "id" : 17308319,
       "verified" : false
     }
@@ -3218,8 +3157,8 @@ Grailbird.data.tweets_2014_06 =
       "name" : "Bob Ross",
       "screen_name" : "BobRoss",
       "indices" : [ 3, 11 ],
-      "id_str" : "313657292",
-      "id" : 313657292
+      "id_str" : "736575861810286592",
+      "id" : 736575861810286592
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3243,7 +3182,7 @@ Grailbird.data.tweets_2014_06 =
     "created_at" : "2014-06-22 18:59:22 +0000",
     "user" : {
       "name" : "Bob Ross",
-      "screen_name" : "BobRoss",
+      "screen_name" : "HappyBobRoss",
       "protected" : false,
       "id_str" : "313657292",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664160452809625600\/QW8ptQmw_normal.jpg",
@@ -8111,7 +8050,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u273E\u2741 eevee \u2741\u273E",
+      "name" : "\u2600\u26F1 eevee \u26F1\u2600",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -8148,11 +8087,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 476632233113960449,
     "created_at" : "2014-06-11 07:49:14 +0000",
     "user" : {
-      "name" : "\u273E\u2741 eevee \u2741\u273E",
+      "name" : "\u2600\u26F1 eevee \u26F1\u2600",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726625282463932416\/MoU8ckZM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737947056472358912\/j6AvJy2K_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -10119,7 +10058,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u273E\u2741 eevee \u2741\u273E",
+      "name" : "\u2600\u26F1 eevee \u26F1\u2600",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -10151,11 +10090,11 @@ Grailbird.data.tweets_2014_06 =
     "in_reply_to_screen_name" : "eevee",
     "in_reply_to_user_id_str" : "14412937",
     "user" : {
-      "name" : "\u273E\u2741 eevee \u2741\u273E",
+      "name" : "\u2600\u26F1 eevee \u26F1\u2600",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726625282463932416\/MoU8ckZM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737947056472358912\/j6AvJy2K_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -11802,7 +11741,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "indices" : [ 3, 9 ],
       "id_str" : "6326912",
@@ -11889,7 +11828,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473494940530376704,
     "created_at" : "2014-06-02 16:02:45 +0000",
     "user" : {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "protected" : false,
       "id_str" : "6326912",

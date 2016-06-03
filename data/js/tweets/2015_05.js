@@ -303,7 +303,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "glyp'h",
+      "name" : "__glyph__",
       "screen_name" : "glyph",
       "indices" : [ 3, 9 ],
       "id_str" : "9859562",
@@ -330,7 +330,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 604374789105438720,
     "created_at" : "2015-05-29 19:52:33 +0000",
     "user" : {
-      "name" : "glyp'h",
+      "name" : "__glyph__",
       "screen_name" : "glyph",
       "protected" : false,
       "id_str" : "9859562",
@@ -4962,11 +4962,11 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "24765829",
       "id" : 24765829
     }, {
-      "name" : "Tom Ashworth",
+      "name" : "try @tgvashworth",
       "screen_name" : "phuunet",
       "indices" : [ 108, 116 ],
-      "id_str" : "7054122",
-      "id" : 7054122
+      "id_str" : "733424276691398656",
+      "id" : 733424276691398656
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4984,11 +4984,11 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Tom Ashworth",
+        "name" : "try @tgvashworth",
         "screen_name" : "phuunet",
         "indices" : [ 91, 99 ],
-        "id_str" : "7054122",
-        "id" : 7054122
+        "id_str" : "733424276691398656",
+        "id" : 733424276691398656
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -5747,7 +5747,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "JeremiahLee",
       "protected" : false,
       "id_str" : "14538587",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674129747215970305\/G4M5aV--_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735547234402471936\/LfFiosKO_normal.jpg",
       "id" : 14538587,
       "verified" : false
     }

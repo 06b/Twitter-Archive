@@ -3096,7 +3096,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "mcclure111",
       "protected" : false,
       "id_str" : "312426579",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607946459552432128\/zHqpuH4d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735285077358182400\/OLGCm0x__normal.jpg",
       "id" : 312426579,
       "verified" : false
     }
@@ -4602,7 +4602,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "dog_rates",
       "protected" : false,
       "id_str" : "4196983835",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666010777334235136\/ep9hOykz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732392645792804864\/fqfriU7X_normal.jpg",
       "id" : 4196983835,
       "verified" : false
     }
@@ -4830,7 +4830,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sinthetic Labs",
+      "name" : "Nathan",
       "screen_name" : "sintheticlabs",
       "indices" : [ 3, 17 ],
       "id_str" : "2788383706",
@@ -4917,11 +4917,11 @@ Grailbird.data.tweets_2015_12 =
     "id" : 653009024934408192,
     "created_at" : "2015-10-11 00:47:38 +0000",
     "user" : {
-      "name" : "Sinthetic Labs",
+      "name" : "Nathan",
       "screen_name" : "sintheticlabs",
       "protected" : false,
       "id_str" : "2788383706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521269578882490369\/KfSpmUut_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736385276856176640\/WR7q77XB_normal.jpg",
       "id" : 2788383706,
       "verified" : false
     }
@@ -6643,12 +6643,6 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thomy McThomface",
-      "screen_name" : "thom_wong",
-      "indices" : [ 3, 13 ],
-      "id_str" : "15842422",
-      "id" : 15842422
-    }, {
       "name" : "Twitter",
       "screen_name" : "twitter",
       "indices" : [ 27, 35 ],
@@ -6743,7 +6737,7 @@ Grailbird.data.tweets_2015_12 =
     "created_at" : "2015-12-11 15:30:49 +0000",
     "user" : {
       "name" : "Thomy McThomface",
-      "screen_name" : "thom_wong",
+      "screen_name" : "7homwon6",
       "protected" : false,
       "id_str" : "15842422",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707148990282862592\/UJuzebBe_normal.jpg",
@@ -7145,14 +7139,39 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "843112550",
       "id" : 843112550
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/RealTouchingPic\/status\/518799725961572353\/photo\/1",
       "indices" : [ 73, 96 ],
       "url" : "https:\/\/t.co\/DAAYptR6NP",
-      "expanded_url" : "http:\/\/twitter.com\/RealTouchingPic\/status\/518799725961572353\/photo\/1",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/BzMlmLPCUAAUho0.png",
+      "id_str" : "518799719858851840",
+      "id" : 518799719858851840,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/BzMlmLPCUAAUho0.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 186,
+        "resize" : "fit",
+        "w" : 254
+      }, {
+        "h" : 186,
+        "resize" : "fit",
+        "w" : 254
+      }, {
+        "h" : 186,
+        "resize" : "fit",
+        "w" : 254
+      }, {
+        "h" : 186,
+        "resize" : "fit",
+        "w" : 254
+      } ],
       "display_url" : "pic.twitter.com\/DAAYptR6NP"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "675307598548238336",
@@ -7161,14 +7180,39 @@ Grailbird.data.tweets_2015_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/RealTouchingPic\/status\/518799725961572353\/photo\/1",
         "indices" : [ 54, 77 ],
         "url" : "https:\/\/t.co\/DAAYptR6NP",
-        "expanded_url" : "http:\/\/twitter.com\/RealTouchingPic\/status\/518799725961572353\/photo\/1",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/BzMlmLPCUAAUho0.png",
+        "id_str" : "518799719858851840",
+        "id" : 518799719858851840,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/BzMlmLPCUAAUho0.png",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 186,
+          "resize" : "fit",
+          "w" : 254
+        }, {
+          "h" : 186,
+          "resize" : "fit",
+          "w" : 254
+        }, {
+          "h" : 186,
+          "resize" : "fit",
+          "w" : 254
+        }, {
+          "h" : 186,
+          "resize" : "fit",
+          "w" : 254
+        } ],
         "display_url" : "pic.twitter.com\/DAAYptR6NP"
-      } ]
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
     },
     "geo" : { },
     "id_str" : "673014545040826368",
@@ -7934,7 +7978,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "Ankaman616",
       "protected" : false,
       "id_str" : "344729527",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715899777549017088\/fGutmEzD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735091748293246977\/YHx5GaUW_normal.jpg",
       "id" : 344729527,
       "verified" : true
     }
@@ -8738,7 +8782,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "boagworld",
       "protected" : false,
       "id_str" : "12830",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715049304696758272\/Lb2JtMjo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734923729944358915\/g_3Z5T5w_normal.png",
       "id" : 12830,
       "verified" : false
     }
@@ -9465,7 +9509,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "SamGrittner",
       "protected" : false,
       "id_str" : "24272129",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676269068446523397\/in2jJJyS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735286933493014528\/FCuZmsz6_normal.jpg",
       "id" : 24272129,
       "verified" : false
     }
@@ -10204,7 +10248,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "dog_rates",
       "protected" : false,
       "id_str" : "4196983835",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666010777334235136\/ep9hOykz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732392645792804864\/fqfriU7X_normal.jpg",
       "id" : 4196983835,
       "verified" : false
     }
@@ -10262,67 +10306,6 @@ Grailbird.data.tweets_2015_12 =
   },
   "id" : 672407234958262272,
   "created_at" : "2015-12-03 13:29:12 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "KStreetHipster",
-      "screen_name" : "KStreetHipster",
-      "indices" : [ 3, 18 ],
-      "id_str" : "415162673",
-      "id" : 415162673
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 69, 92 ],
-      "url" : "https:\/\/t.co\/whcYQJMLJx",
-      "expanded_url" : "http:\/\/www.statutes.legis.state.tx.us\/docs\/PE\/htm\/PE.43.htm",
-      "display_url" : "statutes.legis.state.tx.us\/docs\/PE\/htm\/PE\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "672404337021308929",
-  "text" : "RT @KStreetHipster: It's illegal to own more than 6 dildos in Texas. https:\/\/t.co\/whcYQJMLJx\n\nBut you can have as many guns as you want.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 49, 72 ],
-        "url" : "https:\/\/t.co\/whcYQJMLJx",
-        "expanded_url" : "http:\/\/www.statutes.legis.state.tx.us\/docs\/PE\/htm\/PE.43.htm",
-        "display_url" : "statutes.legis.state.tx.us\/docs\/PE\/htm\/PE\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "672251776196730880",
-    "text" : "It's illegal to own more than 6 dildos in Texas. https:\/\/t.co\/whcYQJMLJx\n\nBut you can have as many guns as you want.",
-    "id" : 672251776196730880,
-    "created_at" : "2015-12-03 03:11:27 +0000",
-    "user" : {
-      "name" : "KStreetHipster",
-      "screen_name" : "KStreetHipster",
-      "protected" : false,
-      "id_str" : "415162673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718100602408992768\/YijDERTt_normal.jpg",
-      "id" : 415162673,
-      "verified" : false
-    }
-  },
-  "id" : 672404337021308929,
-  "created_at" : "2015-12-03 13:17:41 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -11373,7 +11356,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "1Password",
       "protected" : false,
       "id_str" : "793926",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728216719060176896\/uTtY20e9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738722872903016448\/ZsaCW8Ci_normal.jpg",
       "id" : 793926,
       "verified" : true
     }

@@ -1721,7 +1721,7 @@ Grailbird.data.tweets_2010_10 =
     "in_reply_to_screen_name" : "beep",
     "in_reply_to_user_id_str" : "12534",
     "user" : {
-      "name" : "...Ryan?",
+      "name" : ":joy:",
       "screen_name" : "rynbtmn",
       "protected" : false,
       "id_str" : "6790312",
@@ -9313,7 +9313,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dalecruse",
       "protected" : false,
       "id_str" : "7006712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717736887805345792\/dN2aXz_X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736973303160573953\/w4YoVfxb_normal.jpg",
       "id" : 7006712,
       "verified" : false
     }

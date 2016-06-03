@@ -1814,7 +1814,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "heylaurenmae",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704200485473882112\/QubNPsDf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736612383594938368\/36QX6z8B_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }
@@ -3190,7 +3190,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Telerik",
+      "name" : "Telerik by Progress",
       "screen_name" : "Telerik",
       "indices" : [ 40, 48 ],
       "id_str" : "44608081",
@@ -3812,7 +3812,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "vuokko",
       "protected" : false,
       "id_str" : "10832152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595675235996794881\/7mWFjRCB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737015560970604545\/LUqSN9I8_normal.jpg",
       "id" : 10832152,
       "verified" : false
     }

@@ -2253,7 +2253,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "indices" : [ 3, 9 ],
       "id_str" : "6326912",
@@ -2340,7 +2340,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 514095691627388928,
     "created_at" : "2014-09-22 16:55:38 +0000",
     "user" : {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "protected" : false,
       "id_str" : "6326912",
@@ -3037,7 +3037,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "126030998",
       "id" : 126030998
     }, {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "indices" : [ 17, 23 ],
       "id_str" : "6326912",
@@ -3054,7 +3054,7 @@ Grailbird.data.tweets_2014_09 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "banana randomizer",
+        "name" : "young labor memelord",
         "screen_name" : "vogon",
         "indices" : [ 1, 7 ],
         "id_str" : "6326912",
@@ -8384,7 +8384,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helter Starchy",
+      "name" : "Pretty Good Starchy",
       "screen_name" : "starchy",
       "indices" : [ 3, 11 ],
       "id_str" : "7842382",
@@ -8411,7 +8411,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 500071586133594112,
     "created_at" : "2014-08-15 00:08:51 +0000",
     "user" : {
-      "name" : "Helter Starchy",
+      "name" : "Pretty Good Starchy",
       "screen_name" : "starchy",
       "protected" : false,
       "id_str" : "7842382",

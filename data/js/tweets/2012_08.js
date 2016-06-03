@@ -957,7 +957,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Adobe",
       "protected" : false,
       "id_str" : "63786611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724642349809180672\/Orgg8uOg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734779625495138304\/FECMmdRu_normal.jpg",
       "id" : 63786611,
       "verified" : true
     }
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens DS9",
+      "name" : "rstevens 3.01 gold",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -2088,7 +2088,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236304911594295297,
     "created_at" : "2012-08-17 03:34:15 +0000",
     "user" : {
-      "name" : "rstevens DS9",
+      "name" : "rstevens 3.01 gold",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -2153,7 +2153,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "kerem",
       "protected" : false,
       "id_str" : "18359862",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709813481000738816\/4smqqTXU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733997992668205056\/ox1kaUWe_normal.jpg",
       "id" : 18359862,
       "verified" : false
     }

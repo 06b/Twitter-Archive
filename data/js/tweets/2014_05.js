@@ -2800,7 +2800,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Some(@steveklabnik)",
+      "name" : "Idt[@steveklabnik]",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -2827,7 +2827,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 467122723257208832,
     "created_at" : "2014-05-16 02:01:50 +0000",
     "user" : {
-      "name" : "Some(@steveklabnik)",
+      "name" : "Idt[@steveklabnik]",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -3026,7 +3026,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "AaronGustafson",
       "protected" : false,
       "id_str" : "12028",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727891551708385280\/AaZyUVdG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738766819276824576\/kVBM6Jng_normal.jpg",
       "id" : 12028,
       "verified" : false
     }
@@ -4744,7 +4744,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 465898277645606913,
     "created_at" : "2014-05-12 16:56:20 +0000",
     "user" : {
-      "name" : "The Lesbian Satsuki\u2122",
+      "name" : "Java\u2122Script Satsuki\u24D2",
       "screen_name" : "satsukitv",
       "protected" : false,
       "id_str" : "106606405",
@@ -4953,7 +4953,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ashe",
+      "name" : "ashe dryden",
       "screen_name" : "ashedryden",
       "indices" : [ 3, 14 ],
       "id_str" : "9510922",
@@ -5040,7 +5040,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 464806507893489664,
     "created_at" : "2014-05-09 16:38:01 +0000",
     "user" : {
-      "name" : "ashe",
+      "name" : "ashe dryden",
       "screen_name" : "ashedryden",
       "protected" : false,
       "id_str" : "9510922",

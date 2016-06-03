@@ -1759,7 +1759,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "csteinert",
       "protected" : false,
       "id_str" : "14800831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/688483509732691972\/dPChSZby_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732320379780366337\/NQaSisyT_normal.jpg",
       "id" : 14800831,
       "verified" : false
     }
@@ -5319,7 +5319,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon Ubikuity",
+      "name" : "John Ubikuity",
       "screen_name" : "Ubikuity",
       "indices" : [ 3, 12 ],
       "id_str" : "81554123",
@@ -5433,7 +5433,7 @@ Grailbird.data.tweets_2014_10 =
     "in_reply_to_screen_name" : "mariehuynh",
     "in_reply_to_user_id_str" : "9297422",
     "user" : {
-      "name" : "Jon Ubikuity",
+      "name" : "J. Ubikuity",
       "screen_name" : "Ubikuity",
       "protected" : false,
       "id_str" : "81554123",
@@ -6409,7 +6409,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "96862532",
       "id" : 96862532
     }, {
-      "name" : "T.J.",
+      "name" : "tj",
       "screen_name" : "blakkheim",
       "indices" : [ 59, 69 ],
       "id_str" : "278865526",
@@ -6437,7 +6437,7 @@ Grailbird.data.tweets_2014_10 =
         "id_str" : "96862532",
         "id" : 96862532
       }, {
-        "name" : "T.J.",
+        "name" : "tj",
         "screen_name" : "blakkheim",
         "indices" : [ 40, 50 ],
         "id_str" : "278865526",
@@ -6743,7 +6743,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "raganwald",
       "protected" : false,
       "id_str" : "18137723",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731969071378403328\/075SYiul_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735322187591192578\/W7ZQ51RL_normal.jpg",
       "id" : 18137723,
       "verified" : false
     }
@@ -7086,7 +7086,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "sstephenson",
       "protected" : false,
       "id_str" : "6707392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434450913151840257\/VySz8SQS_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736761202181689345\/vdVKW0Gw_normal.jpg",
       "id" : 6707392,
       "verified" : false
     }
@@ -8095,7 +8095,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "slimedaughter",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727993448603639808\/TtaMaPHI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737873402871054336\/F65AypH6_normal.jpg",
       "id" : 70665746,
       "verified" : false
     }
@@ -9866,7 +9866,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "randileeharper",
       "protected" : false,
       "id_str" : "13857342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711024208885592064\/Zw91ZSPs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733771874828705792\/4Ovdfrqi_normal.jpg",
       "id" : 13857342,
       "verified" : false
     }
@@ -12087,7 +12087,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "indices" : [ 3, 9 ],
       "id_str" : "6326912",
@@ -12124,7 +12124,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 517436565375565824,
     "created_at" : "2014-10-01 22:11:05 +0000",
     "user" : {
-      "name" : "banana randomizer",
+      "name" : "young labor memelord",
       "screen_name" : "vogon",
       "protected" : false,
       "id_str" : "6326912",

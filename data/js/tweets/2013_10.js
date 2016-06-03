@@ -1424,7 +1424,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gozilla",
+      "name" : "Edward",
       "screen_name" : "freeformz",
       "indices" : [ 3, 13 ],
       "id_str" : "11647562",
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392115760341848064,
     "created_at" : "2013-10-21 02:30:57 +0000",
     "user" : {
-      "name" : "Gozilla",
+      "name" : "Edward",
       "screen_name" : "freeformz",
       "protected" : false,
       "id_str" : "11647562",

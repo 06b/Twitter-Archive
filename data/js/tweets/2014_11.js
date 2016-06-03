@@ -1812,7 +1812,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "puertorican drake",
+      "name" : "\uFE3B\u30C7\u2550\u4E00",
       "screen_name" : "xanmurai",
       "indices" : [ 3, 12 ],
       "id_str" : "386774413",
@@ -1839,11 +1839,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 535598349882515457,
     "created_at" : "2014-11-21 00:59:32 +0000",
     "user" : {
-      "name" : "puertorican drake",
+      "name" : "\uFE3B\u30C7\u2550\u4E00",
       "screen_name" : "xanmurai",
       "protected" : false,
       "id_str" : "386774413",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729980334041870336\/qR0OP77x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735400102395826176\/MA1XwJ16_normal.jpg",
       "id" : 386774413,
       "verified" : false
     }
@@ -3215,7 +3215,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AmberLynnO",
       "protected" : false,
       "id_str" : "129191934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703243089369034752\/M1NmWe7i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732770043805765632\/-39z63KI_normal.jpg",
       "id" : 129191934,
       "verified" : false
     }
@@ -8147,7 +8147,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Erik Meyersson",
+      "name" : "\u039Erik Meyersson",
       "screen_name" : "emeyersson",
       "indices" : [ 3, 14 ],
       "id_str" : "17020885",
@@ -8244,7 +8244,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 528689539200847872,
     "created_at" : "2014-11-01 23:26:23 +0000",
     "user" : {
-      "name" : "Erik Meyersson",
+      "name" : "\u039Erik Meyersson",
       "screen_name" : "emeyersson",
       "protected" : false,
       "id_str" : "17020885",
