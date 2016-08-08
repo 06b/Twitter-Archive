@@ -2801,7 +2801,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "34543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529288551192485888\/UTO_7pmo_normal.jpeg",
       "id" : 34543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 6707668525776896,
@@ -3722,7 +3722,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "35293",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681498475612143616\/Rxas3KO__normal.jpg",
       "id" : 35293,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 4943739839582208,
@@ -4963,7 +4963,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553550557588119552\/4use7Xtp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
       "id" : 48903,
       "verified" : false
     }
@@ -7397,7 +7397,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "rhjr",
       "protected" : false,
       "id_str" : "801944",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723591806064021505\/E7_sNetj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748549617986396161\/BjN-hMDZ_normal.jpg",
       "id" : 801944,
       "verified" : false
     }
@@ -8197,57 +8197,6 @@ Grailbird.data.tweets_2010_11 =
   "text" : "Hey web designers & developers - what's the best comment you've ever found in source code?",
   "id" : 643334087380992,
   "created_at" : "2010-11-05 20:19:17 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Uno mas",
-      "screen_name" : "srbane",
-      "indices" : [ 3, 10 ],
-      "id_str" : "2997040258",
-      "id" : 2997040258
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "630721681031168",
-  "text" : "RT @srbane: In the middle of the night I'm going to steal IE 6 and IE7 from their beds and bury them deep in the woods. Who's with me?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "316106543730689",
-    "text" : "In the middle of the night I'm going to steal IE 6 and IE7 from their beds and bury them deep in the woods. Who's with me?",
-    "id" : 316106543730689,
-    "created_at" : "2010-11-04 22:39:00 +0000",
-    "user" : {
-      "name" : "Stephanie Feller",
-      "screen_name" : "backcountrypxls",
-      "protected" : false,
-      "id_str" : "16194919",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000329802425\/c56eeab527e4824aaf2bbb02f867fe71_normal.jpeg",
-      "id" : 16194919,
-      "verified" : false
-    }
-  },
-  "id" : 630721681031168,
-  "created_at" : "2010-11-05 19:29:10 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

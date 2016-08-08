@@ -1697,9 +1697,9 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 182317314820145152,
@@ -4212,7 +4212,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "1589691",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3742774565\/09ba858a7751fc0faef2fb2ab1cce05c_normal.jpeg",
       "id" : 1589691,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 177093729323200512,
@@ -4406,9 +4406,9 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 176818293313773568,
@@ -4552,7 +4552,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -4788,7 +4788,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Karl Groves",
+      "name" : "(((Karl Groves)))",
       "screen_name" : "karlgroves",
       "indices" : [ 3, 14 ],
       "id_str" : "14781056",
@@ -4815,7 +4815,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 176700324155887616,
     "created_at" : "2012-03-05 16:06:54 +0000",
     "user" : {
-      "name" : "Karl Groves",
+      "name" : "(((Karl Groves)))",
       "screen_name" : "karlgroves",
       "protected" : false,
       "id_str" : "14781056",

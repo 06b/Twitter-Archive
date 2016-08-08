@@ -906,7 +906,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726464213862899712\/GspoBQc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758108701731414016\/e6D5UByR_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -982,7 +982,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "22199970",
       "id" : 22199970
     }, {
-      "name" : "Gregor",
+      "name" : "Gregor @CascadiaFest",
       "screen_name" : "gr2m",
       "indices" : [ 89, 94 ],
       "id_str" : "11754732",
@@ -1002,7 +1002,7 @@ Grailbird.data.tweets_2013_04 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Gregor",
+        "name" : "Gregor @CascadiaFest",
         "screen_name" : "gr2m",
         "indices" : [ 75, 80 ],
         "id_str" : "11754732",
@@ -1027,7 +1027,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "22199970",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584963092120899586\/TxkxQ7Y5_normal.png",
       "id" : 22199970,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 327758474924654592,
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492815676222869504\/UNO9vL2-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755689317020737538\/T94GK8up_normal.jpg",
       "id" : 662533,
       "verified" : false
     }
@@ -1699,7 +1699,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "34543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529288551192485888\/UTO_7pmo_normal.jpeg",
       "id" : 34543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 326753108787085313,
@@ -5015,7 +5015,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jcolman",
       "protected" : false,
       "id_str" : "76373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725893683883560960\/vx7pewBD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748954986264948736\/kHoUGIVk_normal.jpg",
       "id" : 76373,
       "verified" : false
     }

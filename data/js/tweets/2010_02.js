@@ -236,6 +236,31 @@ Grailbird.data.tweets_2010_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "rwcaiga",
+      "indices" : [ 85, 93 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9512763414",
+  "text" : "Writing down an outline for the Lunch and Learn tomorrow at Raymond Walters College. #rwcaiga",
+  "id" : 9512763414,
+  "created_at" : "2010-02-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -265,31 +290,6 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "9548736148",
   "text" : "Filling out my graduation application, I'm sure many people never thought they would see the day",
   "id" : 9548736148,
-  "created_at" : "2010-02-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "rwcaiga",
-      "indices" : [ 85, 93 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9512763414",
-  "text" : "Writing down an outline for the Lunch and Learn tomorrow at Raymond Walters College. #rwcaiga",
-  "id" : 9512763414,
   "created_at" : "2010-02-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -1594,12 +1594,6 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason CranfordTeague",
-      "screen_name" : "JasonSpeaking",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14123301",
-      "id" : 14123301
-    }, {
       "name" : "Smashing Magazine",
       "screen_name" : "smashingmag",
       "indices" : [ 87, 99 ],
@@ -1634,7 +1628,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "14465898",
       "id" : 14465898
     }, {
-      "name" : "Benjamin Borowski",
+      "name" : "benjamin",
       "screen_name" : "typeoneerror",
       "indices" : [ 19, 32 ],
       "id_str" : "11973362",

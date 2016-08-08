@@ -381,9 +381,9 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6783768387",
-  "text" : "Mag+, a concept video on the future of digital magazines - http:\/\/is.gd\/5rYiI",
-  "id" : 6783768387,
+  "id_str" : "6787765461",
+  "text" : "I hate the fact the default template I have to start with has inline css and even the bold tag. So much I'm going to have to clean up.",
+  "id" : 6787765461,
   "created_at" : "2009-12-18 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -403,9 +403,9 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6787765461",
-  "text" : "I hate the fact the default template I have to start with has inline css and even the bold tag. So much I'm going to have to clean up.",
-  "id" : 6787765461,
+  "id_str" : "6783768387",
+  "text" : "Mag+, a concept video on the future of digital magazines - http:\/\/is.gd\/5rYiI",
+  "id" : 6783768387,
   "created_at" : "2009-12-18 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

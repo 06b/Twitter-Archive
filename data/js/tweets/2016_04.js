@@ -400,7 +400,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "FutureFriendSA",
       "protected" : false,
       "id_str" : "211446610",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686251660297912320\/U72MN_jA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750198873415712768\/4wUxvnZV_normal.jpg",
       "id" : 211446610,
       "verified" : false
     }
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726464213862899712\/GspoBQc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758108701731414016\/e6D5UByR_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -1039,7 +1039,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sampson on Edge",
+      "name" : "Jonathan Sampson",
       "screen_name" : "SampsonMSFT",
       "indices" : [ 3, 15 ],
       "id_str" : "3904360429",
@@ -1130,7 +1130,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "SampsonMSFT",
       "protected" : false,
       "id_str" : "3904360429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685886759163432960\/oTWHQkGw_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738869369304846336\/WB5DPs8__normal.jpg",
       "id" : 3904360429,
       "verified" : false
     }
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "ra6bit",
       "protected" : false,
       "id_str" : "537333195",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715232547853221892\/9cXESU0N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755475459220115456\/F0zrPW-u_normal.jpg",
       "id" : 537333195,
       "verified" : false
     }
@@ -2358,7 +2358,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "14414286",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1154092629\/Square__small__normal.jpg",
       "id" : 14414286,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 723207930787577856,
@@ -2701,7 +2701,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "RipleyWopr",
       "protected" : false,
       "id_str" : "588064030",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715027453396299776\/YqYOpyvq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748393600325656576\/kpvj0QMm_normal.jpg",
       "id" : 588064030,
       "verified" : false
     }
@@ -2743,13 +2743,13 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E94\u5473@NT\u91D1\u6CA2\u304A\u4E16\u8A71\u4FC2[7\/16-18]",
+      "name" : "\u4E94\u5473@NT\u80FD\u767B\u30AD\u30E3\u30F3\u30D7",
       "screen_name" : "GomiHgy",
       "indices" : [ 3, 11 ],
       "id_str" : "102898834",
       "id" : 102898834
     }, {
-      "name" : "NAKAM\u00DC@\u3046\u305F\u308F\u308C\u308B\u3082\u306E\u5927\u578B",
+      "name" : "NAKAM\u00DC",
       "screen_name" : "nightrain1024",
       "indices" : [ 22, 36 ],
       "id_str" : "46112871",
@@ -2799,7 +2799,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NAKAM\u00DC@\u3046\u305F\u308F\u308C\u308B\u3082\u306E\u5927\u578B",
+        "name" : "NAKAM\u00DC",
         "screen_name" : "nightrain1024",
         "indices" : [ 9, 23 ],
         "id_str" : "46112871",
@@ -2848,7 +2848,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 721170055740784640,
     "created_at" : "2016-04-16 02:55:14 +0000",
     "user" : {
-      "name" : "\u4E94\u5473@NT\u91D1\u6CA2\u304A\u4E16\u8A71\u4FC2[7\/16-18]",
+      "name" : "\u4E94\u5473@NT\u80FD\u767B\u30AD\u30E3\u30F3\u30D7",
       "screen_name" : "GomiHgy",
       "protected" : false,
       "id_str" : "102898834",
@@ -3574,7 +3574,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "AcademicsSay",
       "protected" : false,
       "id_str" : "1891806212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680966041153966080\/sk6jwSF7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748151916836716546\/Ldn_dhiC_normal.jpg",
       "id" : 1891806212,
       "verified" : false
     }
@@ -3907,9 +3907,9 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 720757184620048384,
@@ -4089,7 +4089,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Practical Developer",
+      "name" : "The Practical Dev",
       "screen_name" : "ThePracticalDev",
       "indices" : [ 3, 19 ],
       "id_str" : "2735246778",
@@ -4200,7 +4200,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liam",
+      "name" : "Liam O",
       "screen_name" : "liamosaur",
       "indices" : [ 3, 13 ],
       "id_str" : "36612360",
@@ -4227,11 +4227,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 635620669628112897,
     "created_at" : "2015-08-24 01:12:31 +0000",
     "user" : {
-      "name" : "Liam",
+      "name" : "Liam O",
       "screen_name" : "liamosaur",
       "protected" : false,
       "id_str" : "36612360",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679091156278501378\/TaPcnM4b_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751578156268605440\/2HrMsvsk_normal.jpg",
       "id" : 36612360,
       "verified" : false
     }
@@ -5595,7 +5595,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "14414286",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1154092629\/Square__small__normal.jpg",
       "id" : 14414286,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 718279797252755456,
@@ -6452,7 +6452,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "LisaDib1",
       "protected" : false,
       "id_str" : "285368594",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731452777390448640\/wQD3Gagd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748730019279581184\/0Ww9l9T9_normal.jpg",
       "id" : 285368594,
       "verified" : false
     }
@@ -7583,7 +7583,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "kylealden",
       "protected" : false,
       "id_str" : "18642786",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/693684416254648320\/fAoEVhcN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756193869977391105\/okbQdKnz_normal.jpg",
       "id" : 18642786,
       "verified" : false
     }
@@ -7645,117 +7645,6 @@ Grailbird.data.tweets_2016_04 =
   "text" : "Today's technical decision during our sprint planning meeting was decided by a coin flip. #MooseOrQueen https:\/\/t.co\/w4Km7dulx8",
   "id" : 717365778845073408,
   "created_at" : "2016-04-05 14:58:24 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "The Savage Army",
-      "screen_name" : "TheSavArmy",
-      "indices" : [ 3, 14 ],
-      "id_str" : "632612101",
-      "id" : 632612101
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/TheSavArmy\/status\/717085556929273856\/photo\/1",
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/rTEa5uasMI",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CfOZg3qUYAAiqiO.jpg",
-      "id_str" : "717085555658350592",
-      "id" : 717085555658350592,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CfOZg3qUYAAiqiO.jpg",
-      "sizes" : [ {
-        "h" : 248,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 592,
-        "resize" : "fit",
-        "w" : 812
-      }, {
-        "h" : 437,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 592,
-        "resize" : "fit",
-        "w" : 812
-      } ],
-      "display_url" : "pic.twitter.com\/rTEa5uasMI"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "717326005367603200",
-  "text" : "RT @TheSavArmy: When employers want you to have 10 years of work experience before the age of 22. https:\/\/t.co\/rTEa5uasMI",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/TheSavArmy\/status\/717085556929273856\/photo\/1",
-        "indices" : [ 82, 105 ],
-        "url" : "https:\/\/t.co\/rTEa5uasMI",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CfOZg3qUYAAiqiO.jpg",
-        "id_str" : "717085555658350592",
-        "id" : 717085555658350592,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CfOZg3qUYAAiqiO.jpg",
-        "sizes" : [ {
-          "h" : 248,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 592,
-          "resize" : "fit",
-          "w" : 812
-        }, {
-          "h" : 437,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 592,
-          "resize" : "fit",
-          "w" : 812
-        } ],
-        "display_url" : "pic.twitter.com\/rTEa5uasMI"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "717085556929273856",
-    "text" : "When employers want you to have 10 years of work experience before the age of 22. https:\/\/t.co\/rTEa5uasMI",
-    "id" : 717085556929273856,
-    "created_at" : "2016-04-04 20:24:54 +0000",
-    "user" : {
-      "name" : "The Savage Army",
-      "screen_name" : "TheSavArmy",
-      "protected" : false,
-      "id_str" : "632612101",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736590490288656384\/3EV1gPyt_normal.jpg",
-      "id" : 632612101,
-      "verified" : false
-    }
-  },
-  "id" : 717326005367603200,
-  "created_at" : "2016-04-05 12:20:21 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -8008,7 +7897,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "nicholascloud",
       "protected" : false,
       "id_str" : "69656882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734025784117977089\/6TBbCqYW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759018868115279872\/ZZ9Pmsmw_normal.jpg",
       "id" : 69656882,
       "verified" : false
     }
@@ -8289,7 +8178,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hey don't",
+      "name" : "Heydon",
       "screen_name" : "heydonworks",
       "indices" : [ 3, 15 ],
       "id_str" : "329059137",
@@ -8344,11 +8233,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 713297542314909696,
     "created_at" : "2016-03-25 09:32:41 +0000",
     "user" : {
-      "name" : "Hey don't",
+      "name" : "Heydon",
       "screen_name" : "heydonworks",
       "protected" : false,
       "id_str" : "329059137",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717978205920083968\/Ky2myPR__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742459443787497472\/B7mxc8Bx_normal.jpg",
       "id" : 329059137,
       "verified" : false
     }
@@ -8435,7 +8324,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "285019665",
       "id" : 285019665
     }, {
-      "name" : "Hey don't",
+      "name" : "Heydon",
       "screen_name" : "heydonworks",
       "indices" : [ 97, 109 ],
       "id_str" : "329059137",
@@ -8457,7 +8346,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Hey don't",
+        "name" : "Heydon",
         "screen_name" : "heydonworks",
         "indices" : [ 76, 88 ],
         "id_str" : "329059137",

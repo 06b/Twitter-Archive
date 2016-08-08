@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Heilmann",
+      "name" : "(((Chris Heilmann)))",
       "screen_name" : "codepo8",
       "indices" : [ 3, 11 ],
       "id_str" : "13567",
@@ -1494,7 +1494,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 393877182130307072,
     "created_at" : "2013-10-25 23:10:12 +0000",
     "user" : {
-      "name" : "Christian Heilmann",
+      "name" : "(((Chris Heilmann)))",
       "screen_name" : "codepo8",
       "protected" : false,
       "id_str" : "13567",
@@ -2227,7 +2227,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "6503412",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615416134846709760\/AySGnpwP_normal.png",
       "id" : 6503412,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 400718351841763328,
@@ -2327,9 +2327,9 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 400344370483699713,
@@ -2512,7 +2512,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "fxn",
       "protected" : false,
       "id_str" : "11253302",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533992829589393408\/3IxexBWe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750454578987106304\/OqoLq2C6_normal.jpg",
       "id" : 11253302,
       "verified" : false
     }
@@ -2688,7 +2688,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553550557588119552\/4use7Xtp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
       "id" : 48903,
       "verified" : false
     }
@@ -3259,6 +3259,117 @@ Grailbird.data.tweets_2013_11 =
   },
   "id" : 397877176998961153,
   "created_at" : "2013-11-06 00:04:45 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MonkeyDog",
+      "screen_name" : "monkeydogify",
+      "indices" : [ 3, 16 ],
+      "id_str" : "25977505",
+      "id" : 25977505
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/monkeydogify\/status\/396950337749549056\/photo\/1",
+      "indices" : [ 124, 140 ],
+      "url" : "http:\/\/t.co\/o1PMj8571x",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
+      "id_str" : "396950337598545920",
+      "id" : 396950337598545920,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
+      "sizes" : [ {
+        "h" : 166,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 94,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 284,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 284,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "display_url" : "pic.twitter.com\/o1PMj8571x"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "397719172852875266",
+  "text" : "RT @monkeydogify: It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1P\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/monkeydogify\/status\/396950337749549056\/photo\/1",
+        "indices" : [ 106, 128 ],
+        "url" : "http:\/\/t.co\/o1PMj8571x",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
+        "id_str" : "396950337598545920",
+        "id" : 396950337598545920,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
+        "sizes" : [ {
+          "h" : 166,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 94,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 284,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 284,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/o1PMj8571x"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "396950337749549056",
+    "text" : "It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1PMj8571x",
+    "id" : 396950337749549056,
+    "created_at" : "2013-11-03 10:41:50 +0000",
+    "user" : {
+      "name" : "MonkeyDog",
+      "screen_name" : "monkeydogify",
+      "protected" : false,
+      "id_str" : "25977505",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752623648159240192\/D7EqRIMH_normal.jpg",
+      "id" : 25977505,
+      "verified" : false
+    }
+  },
+  "id" : 397719172852875266,
+  "created_at" : "2013-11-05 13:36:54 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

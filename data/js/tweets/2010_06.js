@@ -1869,7 +1869,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718768070945325057\/LYxej1QA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749375812932083712\/zGBH38Ry_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -5510,7 +5510,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "behoff",
       "protected" : false,
       "id_str" : "15396961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638731027150675968\/YlrC2GJi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750710572824616960\/qBEFYc7t_normal.jpg",
       "id" : 15396961,
       "verified" : false
     }
@@ -5554,7 +5554,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "58802066",
       "id" : 58802066
     }, {
-      "name" : "Estelle Weyl",
+      "name" : "Estelle",
       "screen_name" : "estellevw",
       "indices" : [ 67, 77 ],
       "id_str" : "6320592",
@@ -5589,7 +5589,7 @@ Grailbird.data.tweets_2010_06 =
         "id_str" : "58802066",
         "id" : 58802066
       }, {
-        "name" : "Estelle Weyl",
+        "name" : "Estelle",
         "screen_name" : "estellevw",
         "indices" : [ 53, 63 ],
         "id_str" : "6320592",
@@ -5611,7 +5611,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "34543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529288551192485888\/UTO_7pmo_normal.jpeg",
       "id" : 34543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 15708257766,
@@ -5912,7 +5912,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722426580803264512\/S9RIJRxm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753237832291024896\/tXtS9fOR_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -7610,7 +7610,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718768070945325057\/LYxej1QA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749375812932083712\/zGBH38Ry_normal.jpg",
       "id" : 279713,
       "verified" : false
     }

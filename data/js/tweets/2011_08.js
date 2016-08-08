@@ -1615,7 +1615,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "1589691",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3742774565\/09ba858a7751fc0faef2fb2ab1cce05c_normal.jpeg",
       "id" : 1589691,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 106386438349795328,
@@ -2021,7 +2021,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "35293",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681498475612143616\/Rxas3KO__normal.jpg",
       "id" : 35293,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 105740474005995520,
@@ -2318,11 +2318,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 104970351972331521,
     "created_at" : "2011-08-20 17:37:36 +0000",
     "user" : {
-      "name" : "LIL CINCO",
+      "name" : "Hannah Rine",
       "screen_name" : "liquidvanilla",
       "protected" : false,
       "id_str" : "91495036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730232108027883520\/ILz2Ba3K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744614383737790464\/NfyU3A3x_normal.jpg",
       "id" : 91495036,
       "verified" : false
     }
@@ -3601,7 +3601,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Happy Cog",
+      "name" : "Happy Cog\u00AE",
       "screen_name" : "happycog",
       "indices" : [ 3, 12 ],
       "id_str" : "14117434",
@@ -3634,7 +3634,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 103865734282739712,
     "created_at" : "2011-08-17 16:28:15 +0000",
     "user" : {
-      "name" : "Happy Cog",
+      "name" : "Happy Cog\u00AE",
       "screen_name" : "happycog",
       "protected" : false,
       "id_str" : "14117434",
@@ -4076,7 +4076,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492815676222869504\/UNO9vL2-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755689317020737538\/T94GK8up_normal.jpg",
       "id" : 662533,
       "verified" : false
     }
@@ -4386,7 +4386,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Harry Keller",
+      "name" : "Harry \u26A1\uFE0F Keller",
       "screen_name" : "harryfk",
       "indices" : [ 3, 11 ],
       "id_str" : "49302333",
@@ -4419,7 +4419,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 103242229421846529,
     "created_at" : "2011-08-15 23:10:40 +0000",
     "user" : {
-      "name" : "Harry Keller",
+      "name" : "Harry \u26A1\uFE0F Keller",
       "screen_name" : "harryfk",
       "protected" : false,
       "id_str" : "49302333",
@@ -6569,57 +6569,6 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Uno mas",
-      "screen_name" : "srbane",
-      "indices" : [ 3, 10 ],
-      "id_str" : "2997040258",
-      "id" : 2997040258
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "101095340366766081",
-  "text" : "RT @srbane: Officially a giant nerd. Bored surfing the net and I google, \"Funny comments in source code.\" I'm definitely in the right pr ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "101094214330368000",
-    "text" : "Officially a giant nerd. Bored surfing the net and I google, \"Funny comments in source code.\" I'm definitely in the right profession.",
-    "id" : 101094214330368000,
-    "created_at" : "2011-08-10 00:55:13 +0000",
-    "user" : {
-      "name" : "Stephanie Feller",
-      "screen_name" : "backcountrypxls",
-      "protected" : false,
-      "id_str" : "16194919",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000329802425\/c56eeab527e4824aaf2bbb02f867fe71_normal.jpeg",
-      "id" : 16194919,
-      "verified" : false
-    }
-  },
-  "id" : 101095340366766081,
-  "created_at" : "2011-08-10 00:59:42 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7683,7 +7632,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "turoczy",
       "protected" : false,
       "id_str" : "1340521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729695751807209474\/sNRJCp-1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757089654453604352\/USQ8svT1_normal.jpg",
       "id" : 1340521,
       "verified" : false
     }
@@ -8559,7 +8508,7 @@ Grailbird.data.tweets_2011_08 =
       "id" : 157218534
     }, {
       "name" : "Darth Vader",
-      "screen_name" : "darthvader",
+      "screen_name" : "DarthVader",
       "indices" : [ 63, 74 ],
       "id_str" : "618593",
       "id" : 618593
@@ -8576,7 +8525,7 @@ Grailbird.data.tweets_2011_08 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "Darth Vader",
-        "screen_name" : "darthvader",
+        "screen_name" : "DarthVader",
         "indices" : [ 46, 57 ],
         "id_str" : "618593",
         "id" : 618593

@@ -414,7 +414,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -465,7 +465,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "chunwui",
       "protected" : false,
       "id_str" : "20237160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635824971730841603\/M6UsiftA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753139270232121344\/JeXKSFZ-_normal.jpg",
       "id" : 20237160,
       "verified" : false
     }
@@ -900,7 +900,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "welcomebrand",
       "protected" : false,
       "id_str" : "40017708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730474008278405120\/9lIz1Pz-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746082350942068737\/KjwTarFG_normal.jpg",
       "id" : 40017708,
       "verified" : false
     }
@@ -957,7 +957,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "chunwui",
       "protected" : false,
       "id_str" : "20237160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635824971730841603\/M6UsiftA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753139270232121344\/JeXKSFZ-_normal.jpg",
       "id" : 20237160,
       "verified" : false
     }
@@ -2242,79 +2242,6 @@ Grailbird.data.tweets_2012_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jan Ku\u010Da",
-      "screen_name" : "jankuca",
-      "indices" : [ 3, 11 ],
-      "id_str" : "21871688",
-      "id" : 21871688
-    }, {
-      "name" : "Adobe",
-      "screen_name" : "Adobe",
-      "indices" : [ 29, 35 ],
-      "id_str" : "63786611",
-      "id" : 63786611
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 120, 140 ],
-      "url" : "http:\/\/t.co\/grKdW3uU",
-      "expanded_url" : "http:\/\/webdesign.tutsplus.com\/articles\/workflow\/adobe-photoshop-cs6-improvements-for-web-and-ui-designers\/",
-      "display_url" : "webdesign.tutsplus.com\/articles\/workf\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "193318373529100288",
-  "text" : "RT @JanKuca: Please, please, @adobe, make Fireworks more awesome. I don't want to consider switching back to Photoshop! http:\/\/t.co\/grKdW3uU",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Adobe",
-        "screen_name" : "Adobe",
-        "indices" : [ 16, 22 ],
-        "id_str" : "63786611",
-        "id" : 63786611
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 107, 127 ],
-        "url" : "http:\/\/t.co\/grKdW3uU",
-        "expanded_url" : "http:\/\/webdesign.tutsplus.com\/articles\/workflow\/adobe-photoshop-cs6-improvements-for-web-and-ui-designers\/",
-        "display_url" : "webdesign.tutsplus.com\/articles\/workf\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "193037539496566784",
-    "text" : "Please, please, @adobe, make Fireworks more awesome. I don't want to consider switching back to Photoshop! http:\/\/t.co\/grKdW3uU",
-    "id" : 193037539496566784,
-    "created_at" : "2012-04-19 18:05:10 +0000",
-    "user" : {
-      "name" : "Jan Ku\u010Da",
-      "screen_name" : "jankuca",
-      "protected" : false,
-      "id_str" : "21871688",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568923375595048960\/9WIoZSGB_normal.jpeg",
-      "id" : 21871688,
-      "verified" : false
-    }
-  },
-  "id" : 193318373529100288,
-  "created_at" : "2012-04-20 12:41:06 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2970,9 +2897,9 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 192062174598926337,
@@ -4792,7 +4719,7 @@ Grailbird.data.tweets_2012_04 =
     "created_at" : "2012-04-05 20:16:34 +0000",
     "user" : {
       "name" : "Rich Tabor",
-      "screen_name" : "Richard_Tabor",
+      "screen_name" : "richard_tabor",
       "protected" : false,
       "id_str" : "341792612",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666960762586443777\/oo56t8Re_normal.jpg",

@@ -688,7 +688,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "andrewphelps",
       "protected" : false,
       "id_str" : "4628121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707781415119802369\/yWwNL1Jx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/741473832985321472\/1dDqEoL3_normal.jpg",
       "id" : 4628121,
       "verified" : true
     }
@@ -1081,7 +1081,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553550557588119552\/4use7Xtp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
       "id" : 48903,
       "verified" : false
     }
@@ -1224,7 +1224,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Estelle Weyl",
+      "name" : "Estelle",
       "screen_name" : "estellevw",
       "indices" : [ 3, 13 ],
       "id_str" : "6320592",
@@ -1251,11 +1251,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 272029354081533953,
     "created_at" : "2012-11-23 17:30:26 +0000",
     "user" : {
-      "name" : "Estelle Weyl",
+      "name" : "Estelle",
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/659855984832045057\/QPqgaTGm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758053132861476865\/NTsO5r6u_normal.jpg",
       "id" : 6320592,
       "verified" : false
     }
@@ -3451,7 +3451,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726270142942838784\/aIjuJJKj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748030241982001152\/jnYkJolx_normal.jpg",
       "id" : 21491212,
       "verified" : false
     }

@@ -406,7 +406,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "767285",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1300690717\/186684_653062782_3570627_n_normal.jpg",
       "id" : 767285,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 361932246879453184,
@@ -590,7 +590,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553550557588119552\/4use7Xtp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
       "id" : 48903,
       "verified" : false
     }
@@ -892,9 +892,9 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 359724790954721280,
@@ -1240,7 +1240,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "hypatiadotca",
       "protected" : false,
       "id_str" : "6742522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682884474342789120\/MFnNuAvl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747288611985383425\/GUipkG3S_normal.jpg",
       "id" : 6742522,
       "verified" : false
     }
@@ -1315,7 +1315,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "108140114",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683972064781463552\/94h64ztN_normal.jpg",
       "id" : 108140114,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 358605721707249664,
@@ -1447,7 +1447,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Professor Oak ",
+      "name" : "Professor Oak",
       "screen_name" : "ProfessorsOak",
       "indices" : [ 69, 83 ],
       "id_str" : "519142023",
@@ -2640,7 +2640,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "socdf",
       "protected" : false,
       "id_str" : "531703765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736760095967719424\/YVES4AZZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742765292217110530\/RAXhYuvp_normal.jpg",
       "id" : 531703765,
       "verified" : false
     }
@@ -2975,7 +2975,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "athinkingman",
       "protected" : false,
       "id_str" : "15002823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1245041082\/2578064512_c7c7e33460_s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746738472015245313\/kJmhvdA-_normal.jpg",
       "id" : 15002823,
       "verified" : false
     }
@@ -3139,7 +3139,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "6503412",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615416134846709760\/AySGnpwP_normal.png",
       "id" : 6503412,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 355873090644885505,
@@ -3896,9 +3896,9 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 353172351623512065,
@@ -3959,7 +3959,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "34543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529288551192485888\/UTO_7pmo_normal.jpeg",
       "id" : 34543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 353159400069939200,

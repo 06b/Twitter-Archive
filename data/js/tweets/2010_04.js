@@ -2236,6 +2236,31 @@ Grailbird.data.tweets_2010_04 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "AdobeWKShop10",
+      "indices" : [ 36, 50 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12701722873",
+  "text" : "I should show bridge some more love #AdobeWKShop10",
+  "id" : 12701722873,
+  "created_at" : "2010-04-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "AdobeWKShop10",
       "indices" : [ 33, 47 ]
     } ],
     "urls" : [ ]
@@ -2902,13 +2927,7 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jason CranfordTeague",
-      "screen_name" : "JasonSpeaking",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14123301",
-      "id" : 14123301
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2931,10 +2950,10 @@ Grailbird.data.tweets_2010_04 =
     "created_at" : "2010-04-23 15:05:35 +0000",
     "user" : {
       "name" : "Jason CranfordTeague",
-      "screen_name" : "JasonSpeaking",
+      "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716502698909110272\/mKZvJ08J_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/754883683065016320\/H3C_VqY6_normal.jpg",
       "id" : 14123301,
       "verified" : false
     }
@@ -3723,31 +3742,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12701630908",
   "text" : "I wish I had more ram or at least a better processor  for CS5 - #AdobeWKShop10",
   "id" : 12701630908,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "AdobeWKShop10",
-      "indices" : [ 36, 50 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12701722873",
-  "text" : "I should show bridge some more love #AdobeWKShop10",
-  "id" : 12701722873,
   "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -4819,6 +4813,31 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "frutigerfriday",
+      "indices" : [ 41, 56 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12318363844",
+  "text" : "Current Status: http:\/\/yfrog.com\/15bbnij #frutigerfriday",
+  "id" : 12318363844,
+  "created_at" : "2010-04-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4971,31 +4990,6 @@ Grailbird.data.tweets_2010_04 =
     }
   },
   "id" : 12316319575,
-  "created_at" : "2010-04-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "frutigerfriday",
-      "indices" : [ 41, 56 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12318363844",
-  "text" : "Current Status: http:\/\/yfrog.com\/15bbnij #frutigerfriday",
-  "id" : 12318363844,
   "created_at" : "2010-04-17 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -6090,6 +6084,31 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "cs5",
+      "indices" : [ 45, 49 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12052921469",
+  "text" : "I wonder if I can finally use aero snap with #cs5 or will I still have to resort to using shortcut keys",
+  "id" : 12052921469,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "leslie hiller",
       "screen_name" : "leslie_hiller",
@@ -7163,31 +7182,6 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "cs5",
-      "indices" : [ 45, 49 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12052921469",
-  "text" : "I wonder if I can finally use aero snap with #cs5 or will I still have to resort to using shortcut keys",
-  "id" : 12052921469,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "I Love Typography",
       "screen_name" : "ilovetypography",
@@ -8123,6 +8117,28 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "11695357353",
+  "text" : "404 Tweets http:\/\/tweetphoto.com\/17373925",
+  "id" : 11695357353,
+  "created_at" : "2010-04-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "11706939128",
   "text" : "&lt;sarcasm&gt;Yay for having to update a website with Classic ASP, Tables, and Classitis. &lt;\/sarcasm&gt; Damn the developer to hell!",
   "id" : 11706939128,
@@ -8210,28 +8226,6 @@ Grailbird.data.tweets_2010_04 =
     }
   },
   "id" : 11695310006,
-  "created_at" : "2010-04-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11695357353",
-  "text" : "404 Tweets http:\/\/tweetphoto.com\/17373925",
-  "id" : 11695357353,
   "created_at" : "2010-04-06 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

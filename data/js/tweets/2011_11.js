@@ -576,9 +576,9 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 141602882934931457,
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "161035197",
       "id" : 161035197
     }, {
-      "name" : "Boom Haackalacka",
+      "name" : "Boom Haackalacka!",
       "screen_name" : "haacked",
       "indices" : [ 14, 22 ],
       "id_str" : "768197",
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2011_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Boom Haackalacka",
+        "name" : "Boom Haackalacka!",
         "screen_name" : "haacked",
         "indices" : [ 0, 8 ],
         "id_str" : "768197",
@@ -994,7 +994,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Happy Cog",
+      "name" : "Happy Cog\u00AE",
       "screen_name" : "happycog",
       "indices" : [ 3, 12 ],
       "id_str" : "14117434",
@@ -1049,7 +1049,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 141177892389388288,
     "created_at" : "2011-11-28 15:33:27 +0000",
     "user" : {
-      "name" : "Happy Cog",
+      "name" : "Happy Cog\u00AE",
       "screen_name" : "happycog",
       "protected" : false,
       "id_str" : "14117434",
@@ -1463,7 +1463,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Estelle Weyl",
+      "name" : "Estelle",
       "screen_name" : "estellevw",
       "indices" : [ 3, 13 ],
       "id_str" : "6320592",
@@ -1490,11 +1490,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138789476259463168,
     "created_at" : "2011-11-22 01:22:44 +0000",
     "user" : {
-      "name" : "Estelle Weyl",
+      "name" : "Estelle",
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/659855984832045057\/QPqgaTGm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758053132861476865\/NTsO5r6u_normal.jpg",
       "id" : 6320592,
       "verified" : false
     }
@@ -2130,7 +2130,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734102276273508352\/2cu45Yvk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756250178965889025\/IloMzFkt_normal.jpg",
       "id" : 34163,
       "verified" : false
     }
@@ -3165,7 +3165,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -3777,57 +3777,6 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jackie Burtnette",
-      "screen_name" : "JackieBurtnette",
-      "indices" : [ 3, 19 ],
-      "id_str" : "82238630",
-      "id" : 82238630
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "136070499821301760",
-  "text" : "RT @JackieBurtnette: i dont understand why some girls get mad at their boyfriends for playing video games?? just shut up & play too",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "135942577932353536",
-    "text" : "i dont understand why some girls get mad at their boyfriends for playing video games?? just shut up & play too",
-    "id" : 135942577932353536,
-    "created_at" : "2011-11-14 04:50:10 +0000",
-    "user" : {
-      "name" : "Jackie Burtnette",
-      "screen_name" : "JackieBurtnette",
-      "protected" : false,
-      "id_str" : "82238630",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634782867902603265\/LljanQyo_normal.jpg",
-      "id" : 82238630,
-      "verified" : false
-    }
-  },
-  "id" : 136070499821301760,
-  "created_at" : "2011-11-14 13:18:29 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Miker",
       "screen_name" : "mikeranochak",
       "indices" : [ 0, 13 ],
@@ -4206,7 +4155,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492815676222869504\/UNO9vL2-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755689317020737538\/T94GK8up_normal.jpg",
       "id" : 662533,
       "verified" : false
     }
@@ -6964,7 +6913,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Durf",
       "protected" : false,
       "id_str" : "5514712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724483603296452609\/oLN-IL8L_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761109743628722176\/dGOFXuIN_normal.jpg",
       "id" : 5514712,
       "verified" : false
     }
@@ -7430,9 +7379,9 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 131858523435966464,

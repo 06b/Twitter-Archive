@@ -1526,63 +1526,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jessie Hansell",
-      "screen_name" : "jessiehansell",
-      "indices" : [ 3, 17 ],
-      "id_str" : "19203503",
-      "id" : 19203503
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "rebuild2011",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "96967780993204224",
-  "text" : "RT @jessiehansell: I wish some of my former employers had realized the importance of stopping new features for a time and focusing on po ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "rebuild2011",
-        "indices" : [ 126, 138 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "96967402826366976",
-    "text" : "I wish some of my former employers had realized the importance of stopping new features for a time and focusing on polishing. #rebuild2011",
-    "id" : 96967402826366976,
-    "created_at" : "2011-07-29 15:36:45 +0000",
-    "user" : {
-      "name" : "Jessie Hansell",
-      "screen_name" : "jessiehansell",
-      "protected" : false,
-      "id_str" : "19203503",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2488974913\/i5b5ms6bdtsg8w3zfpw2_normal.png",
-      "id" : 19203503,
-      "verified" : false
-    }
-  },
-  "id" : 96967780993204224,
-  "created_at" : "2011-07-29 15:38:15 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Leah Culver",
       "screen_name" : "leahculver",
       "indices" : [ 0, 11 ],
@@ -8504,7 +8447,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LPK ",
+      "name" : "LPK",
       "screen_name" : "lpkdesign",
       "indices" : [ 19, 29 ],
       "id_str" : "426866419",
@@ -10582,7 +10525,7 @@ Grailbird.data.tweets_2011_07 =
     "created_at" : "2011-07-11 15:06:01 +0000",
     "user" : {
       "name" : "Feoshia H. Davis \u262F",
-      "screen_name" : "feoshiabrands",
+      "screen_name" : "JustFeoshiaOK",
       "protected" : false,
       "id_str" : "18101869",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613019777334775808\/51Uva18q_normal.jpg",

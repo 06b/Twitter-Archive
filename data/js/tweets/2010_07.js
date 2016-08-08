@@ -172,7 +172,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Syfy",
       "protected" : false,
       "id_str" : "18957524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732623113574223872\/3gsu1RUZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757258381702803456\/2GrSzuIT_normal.jpg",
       "id" : 18957524,
       "verified" : true
     }
@@ -2313,7 +2313,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "58802066",
       "id" : 58802066
     }, {
-      "name" : "Estelle Weyl",
+      "name" : "Estelle",
       "screen_name" : "estellevw",
       "indices" : [ 15, 25 ],
       "id_str" : "6320592",
@@ -2362,13 +2362,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jason CranfordTeague",
-      "screen_name" : "JasonSpeaking",
-      "indices" : [ 39, 53 ],
-      "id_str" : "14123301",
-      "id" : 14123301
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "CSSsummit",
@@ -4044,7 +4038,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "34543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529288551192485888\/UTO_7pmo_normal.jpeg",
       "id" : 34543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 17921664757,
@@ -4835,7 +4829,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "dklimke",
       "protected" : false,
       "id_str" : "15583100",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732937041206513664\/j0wPFoAP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758674576196956160\/xUvo38vX_normal.jpg",
       "id" : 15583100,
       "verified" : false
     }

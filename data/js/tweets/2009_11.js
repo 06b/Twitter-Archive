@@ -763,19 +763,7 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jason CranfordTeague",
-      "screen_name" : "JasonSpeaking",
-      "indices" : [ 2, 16 ],
-      "id_str" : "14123301",
-      "id" : 14123301
-    }, {
-      "name" : "Jason CranfordTeague",
-      "screen_name" : "JasonSpeaking",
-      "indices" : [ 59, 73 ],
-      "id_str" : "14123301",
-      "id" : 14123301
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -786,8 +774,42 @@ Grailbird.data.tweets_2009_11 =
   "text" : "RT@JasonSpeaking Which Global Reset for CSS Should I Use? \n@JasonSpeaking answers in this new blog post. http:\/\/bit.ly\/16qMyX via@NewRiders",
   "id" : 5599296279,
   "created_at" : "2009-11-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "JasonSpeaking",
+  "in_reply_to_screen_name" : "JasonCT",
   "in_reply_to_user_id_str" : "14123301",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Cindy Li",
+      "screen_name" : "cindyli",
+      "indices" : [ 19, 27 ],
+      "id_str" : "29733",
+      "id" : 29733
+    }, {
+      "name" : "Matt Harris",
+      "screen_name" : "themattharris",
+      "indices" : [ 32, 46 ],
+      "id_str" : "777925",
+      "id" : 777925
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5549724806",
+  "text" : "Congratulations to @cindyli and @themattharris!",
+  "id" : 5549724806,
+  "created_at" : "2009-11-09 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -831,40 +853,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5548187066",
   "text" : "Just finished watching the animation Paprika with Heather",
   "id" : 5548187066,
-  "created_at" : "2009-11-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cindy Li",
-      "screen_name" : "cindyli",
-      "indices" : [ 19, 27 ],
-      "id_str" : "29733",
-      "id" : 29733
-    }, {
-      "name" : "Matt Harris",
-      "screen_name" : "themattharris",
-      "indices" : [ 32, 46 ],
-      "id_str" : "777925",
-      "id" : 777925
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5549724806",
-  "text" : "Congratulations to @cindyli and @themattharris!",
-  "id" : 5549724806,
   "created_at" : "2009-11-09 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

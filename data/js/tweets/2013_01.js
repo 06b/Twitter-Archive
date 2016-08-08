@@ -451,7 +451,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/rowiapp.com\" rel=\"nofollow\"\u003Erowi for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Professor Oak ",
+      "name" : "Professor Oak",
       "screen_name" : "ProfessorsOak",
       "indices" : [ 3, 17 ],
       "id_str" : "519142023",
@@ -544,7 +544,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 295065063948173312,
     "created_at" : "2013-01-26 07:06:08 +0000",
     "user" : {
-      "name" : "Professor Oak ",
+      "name" : "Professor Oak",
       "screen_name" : "ProfessorsOak",
       "protected" : false,
       "id_str" : "519142023",
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((@_Jordan)))",
+      "name" : "Nong",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
@@ -658,7 +658,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "_Jordan",
       "protected" : false,
       "id_str" : "14166065",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711633937399873536\/uFMISEN3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761340828979761152\/oyve5xIF_normal.jpg",
       "id" : 14166065,
       "verified" : false
     }
@@ -1134,7 +1134,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "bcardarella",
       "protected" : false,
       "id_str" : "18787589",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000553511645\/21a9348ff9f9ff11f9278695b8afa76d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748996347202797568\/w3iNRx6P_normal.jpg",
       "id" : 18787589,
       "verified" : false
     }

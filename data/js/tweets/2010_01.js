@@ -2,28 +2,6 @@ Grailbird.data.tweets_2010_01 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8439161346",
-  "text" : "The beginning of my about page - \"Well I suppose it all started when I was a child...\"",
-  "id" : 8439161346,
-  "created_at" : "2010-01-31 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "AIGA Cinci Mentoring",
       "screen_name" : "aigacincimentor",
@@ -39,6 +17,28 @@ Grailbird.data.tweets_2010_01 =
   "id_str" : "8437815318",
   "text" : "RT @aigacincimentor: Creative Release 2010 Photos have been uploaded.... http:\/\/bit.ly\/d4vp54",
   "id" : 8437815318,
+  "created_at" : "2010-01-31 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8439161346",
+  "text" : "The beginning of my about page - \"Well I suppose it all started when I was a child...\"",
+  "id" : 8439161346,
   "created_at" : "2010-01-31 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

@@ -1014,6 +1014,45 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    }, {
+      "name" : "katy rucker",
+      "screen_name" : "katyrucker",
+      "indices" : [ 17, 28 ],
+      "id_str" : "540255575",
+      "id" : 540255575
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "10598918320",
+  "geo" : { },
+  "id_str" : "10618965967",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller & @katyrucker - The snow is coming back.",
+  "id" : 10618965967,
+  "in_reply_to_status_id" : 10598918320,
+  "created_at" : "2010-03-17 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1256,45 +1295,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "id" : 10618468987,
   "created_at" : "2010-03-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    }, {
-      "name" : "katy rucker",
-      "screen_name" : "katyrucker",
-      "indices" : [ 17, 28 ],
-      "id_str" : "540255575",
-      "id" : 540255575
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "10598918320",
-  "geo" : { },
-  "id_str" : "10618965967",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller & @katyrucker - The snow is coming back.",
-  "id" : 10618965967,
-  "in_reply_to_status_id" : 10598918320,
-  "created_at" : "2010-03-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2007,13 +2007,7 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jason CranfordTeague",
-      "screen_name" : "JasonSpeaking",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14123301",
-      "id" : 14123301
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

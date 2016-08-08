@@ -2043,9 +2043,9 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532592716\/17_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
       "id" : 1847381,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 84429651010793474,
@@ -4255,7 +4255,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "11991612",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/705359160733515776\/gWGItJRD_normal.jpg",
       "id" : 11991612,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 83197462508081154,
@@ -11838,7 +11838,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -13803,7 +13803,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -16166,7 +16166,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "andrettibrown",
       "protected" : false,
       "id_str" : "25306021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692749864808091648\/09-bYDJc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743278190060273666\/TeeUcRwT_normal.jpg",
       "id" : 25306021,
       "verified" : false
     }

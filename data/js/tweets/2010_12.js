@@ -376,7 +376,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hotcurry.jpg",
+      "name" : "\u0455\u03B7\u03B9\u03C1\u0454",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -403,13 +403,13 @@ Grailbird.data.tweets_2010_12 =
     "id" : 20577606399168512,
     "created_at" : "2010-12-30 20:30:58 +0000",
     "user" : {
-      "name" : "hotcurry.jpg",
+      "name" : "\u0455\u03B7\u03B9\u03C1\u0454",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545415835675033600\/gDuSi44o_normal.jpeg",
       "id" : 14246782,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 20592102127702016,
@@ -2617,7 +2617,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718768070945325057\/LYxej1QA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749375812932083712\/zGBH38Ry_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -3030,7 +3030,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "position: absolutely",
+      "name" : "Dem Caspers seins\u2122",
       "screen_name" : "tcaspers",
       "indices" : [ 3, 12 ],
       "id_str" : "29883",
@@ -3057,11 +3057,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15063491241054208,
     "created_at" : "2010-12-15 15:19:50 +0000",
     "user" : {
-      "name" : "position: absolutely",
+      "name" : "Dem Caspers seins\u2122",
       "screen_name" : "tcaspers",
       "protected" : false,
       "id_str" : "29883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701084695442944003\/9KZSHj1v_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742062156120657921\/c-Mu7sh2_normal.jpg",
       "id" : 29883,
       "verified" : false
     }
@@ -3259,9 +3259,9 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738144986684760065\/f7EC8wnO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758159340217987072\/AAPn1bFm_normal.jpg",
       "id" : 1153,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 14776627464503296,
@@ -4713,7 +4713,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "34543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529288551192485888\/UTO_7pmo_normal.jpeg",
       "id" : 34543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 12335497149943808,
@@ -5775,7 +5775,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Mister Borchhi",
+      "screen_name" : "MSExpression",
+      "indices" : [ 7, 20 ],
+      "id_str" : "741279859503140864",
+      "id" : 741279859503140864
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6448,7 +6454,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689496899825459200\/2TiD4z3S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
