@@ -660,7 +660,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 108577541119418368,
@@ -1019,7 +1019,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Seth_Fried",
       "protected" : false,
       "id_str" : "191940426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556177242204561408\/zCe9TvB3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777669803066744832\/IkUWOEsg_normal.jpg",
       "id" : 191940426,
       "verified" : false
     }
@@ -2291,7 +2291,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\/\/\/",
+      "name" : "vanilla",
       "screen_name" : "infinitehannah",
       "indices" : [ 3, 18 ],
       "id_str" : "410284456",
@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "liquidvanilla",
       "protected" : false,
       "id_str" : "91495036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744614383737790464\/NfyU3A3x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763919887693516800\/3k_8QJB9_normal.jpg",
       "id" : 91495036,
       "verified" : false
     }
@@ -2860,7 +2860,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "733813",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838378818\/avatar_normal.png",
       "id" : 733813,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 104294713233903616,
@@ -3790,7 +3790,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 103794169264345088,
@@ -4076,7 +4076,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755689317020737538\/T94GK8up_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775525521643798528\/KCwJFYZ6_normal.jpg",
       "id" : 662533,
       "verified" : false
     }
@@ -4886,7 +4886,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 103067988571324416,
@@ -6700,7 +6700,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -7191,7 +7191,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 100614624398934016,
@@ -8193,7 +8193,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "68033",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710740458020835329\/xV8j6UW-_normal.jpg",
       "id" : 68033,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 99668237414961153,

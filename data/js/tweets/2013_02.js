@@ -1193,7 +1193,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "11855482",
       "id" : 11855482
     }, {
-      "name" : "Dave Rupert",
+      "name" : "Ol\u2019 Dave Rupert",
       "screen_name" : "davatron5000",
       "indices" : [ 75, 88 ],
       "id_str" : "14839862",
@@ -1210,7 +1210,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dave Rupert",
+        "name" : "Ol\u2019 Dave Rupert",
         "screen_name" : "davatron5000",
         "indices" : [ 59, 72 ],
         "id_str" : "14839862",
@@ -1250,7 +1250,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -1424,7 +1424,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2013_02 =
     "id" : 302369362151612416,
     "created_at" : "2013-02-15 10:50:48 +0000",
     "user" : {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
@@ -1595,7 +1595,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -1628,7 +1628,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -1727,7 +1727,7 @@ Grailbird.data.tweets_2013_02 =
     "id" : 302052607256584195,
     "created_at" : "2013-02-14 13:52:08 +0000",
     "user" : {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2231,7 +2231,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "gravitydrift",
       "protected" : false,
       "id_str" : "162923199",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722575512971837440\/5IkGJ753_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771537370193678336\/NuotIMib_normal.jpg",
       "id" : 162923199,
       "verified" : false
     }
@@ -2336,7 +2336,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 3, 14 ],
       "id_str" : "20627121",
@@ -2363,7 +2363,7 @@ Grailbird.data.tweets_2013_02 =
     "id" : 300716004869283841,
     "created_at" : "2013-02-10 21:20:57 +0000",
     "user" : {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "protected" : false,
       "id_str" : "20627121",
@@ -2501,7 +2501,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762416015850414081\/YIc7uK2q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777636792388489218\/LMLxdUTh_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }

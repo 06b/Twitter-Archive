@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "41035489",
       "id" : 41035489
     }, {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "indices" : [ 33, 44 ],
       "id_str" : "126030998",
@@ -1279,7 +1279,7 @@ Grailbird.data.tweets_2013_10 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+        "name" : "Melissa \uD83D\uDC51\u2728",
         "screen_name" : "0xabad1dea",
         "indices" : [ 20, 31 ],
         "id_str" : "126030998",
@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393069499756204032,
     "created_at" : "2013-10-23 17:40:46 +0000",
     "user" : {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -1424,7 +1424,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "OnVacation == true",
+      "name" : "Shitty Programmer",
       "screen_name" : "freeformz",
       "indices" : [ 3, 13 ],
       "id_str" : "11647562",
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392115760341848064,
     "created_at" : "2013-10-21 02:30:57 +0000",
     "user" : {
-      "name" : "OnVacation == true",
+      "name" : "Shitty Programmer",
       "screen_name" : "freeformz",
       "protected" : false,
       "id_str" : "11647562",
@@ -2340,7 +2340,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Princess Sexytails",
+      "name" : "Princess Sexytails\uD83D\uDC0D",
       "screen_name" : "tenfootfangs",
       "indices" : [ 3, 16 ],
       "id_str" : "22337789",
@@ -2377,7 +2377,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 390254371348684801,
     "created_at" : "2013-10-15 23:14:27 +0000",
     "user" : {
-      "name" : "Princess Sexytails",
+      "name" : "Princess Sexytails\uD83D\uDC0D",
       "screen_name" : "tenfootfangs",
       "protected" : false,
       "id_str" : "22337789",
@@ -2708,7 +2708,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2735,7 +2735,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 389083509408931840,
     "created_at" : "2013-10-12 17:41:52 +0000",
     "user" : {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -3414,7 +3414,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AF\u30EC\u30A4\u30B8\u30FC\u30CE\u30A4\u30B8\u30FC\u6F2B\u624D\u30D0\u30FC\u30C9",
+      "name" : "Samsonoak",
       "screen_name" : "Samsonese",
       "indices" : [ 3, 13 ],
       "id_str" : "142425701",
@@ -3447,11 +3447,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 385847630607024128,
     "created_at" : "2013-10-03 19:23:38 +0000",
     "user" : {
-      "name" : "\u30AF\u30EC\u30A4\u30B8\u30FC\u30CE\u30A4\u30B8\u30FC\u6F2B\u624D\u30D0\u30FC\u30C9",
+      "name" : "Samsonoak",
       "screen_name" : "Samsonese",
       "protected" : false,
       "id_str" : "142425701",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758131540157095936\/yBBfn5oH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765433856296005632\/IeWi6peU_normal.jpg",
       "id" : 142425701,
       "verified" : false
     }
@@ -3773,7 +3773,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "14500363",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3600152452\/e115759ed87f43c15083e0fe780c2fec_normal.jpeg",
       "id" : 14500363,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 385884889406783489,
@@ -3829,117 +3829,6 @@ Grailbird.data.tweets_2013_10 =
   },
   "id" : 385807766784593920,
   "created_at" : "2013-10-03 16:45:14 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jason",
-      "screen_name" : "dessicant",
-      "indices" : [ 3, 13 ],
-      "id_str" : "20286297",
-      "id" : 20286297
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/dessicant\/status\/385457451614892032\/photo\/1",
-      "indices" : [ 43, 65 ],
-      "url" : "http:\/\/t.co\/0uwJOalbki",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BVlrgoeIgAA8CqZ.jpg",
-      "id_str" : "385457451480678400",
-      "id" : 385457451480678400,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BVlrgoeIgAA8CqZ.jpg",
-      "sizes" : [ {
-        "h" : 510,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 900,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 640
-      } ],
-      "display_url" : "pic.twitter.com\/0uwJOalbki"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "385591425879916544",
-  "text" : "RT @dessicant: Creepiest push notification http:\/\/t.co\/0uwJOalbki",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/dessicant\/status\/385457451614892032\/photo\/1",
-        "indices" : [ 28, 50 ],
-        "url" : "http:\/\/t.co\/0uwJOalbki",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BVlrgoeIgAA8CqZ.jpg",
-        "id_str" : "385457451480678400",
-        "id" : 385457451480678400,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BVlrgoeIgAA8CqZ.jpg",
-        "sizes" : [ {
-          "h" : 510,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 900,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 640
-        } ],
-        "display_url" : "pic.twitter.com\/0uwJOalbki"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "385457451614892032",
-    "text" : "Creepiest push notification http:\/\/t.co\/0uwJOalbki",
-    "id" : 385457451614892032,
-    "created_at" : "2013-10-02 17:33:12 +0000",
-    "user" : {
-      "name" : "Jason",
-      "screen_name" : "dessicant",
-      "protected" : false,
-      "id_str" : "20286297",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549674173728309248\/heUeuUQP_normal.png",
-      "id" : 20286297,
-      "verified" : false
-    }
-  },
-  "id" : 385591425879916544,
-  "created_at" : "2013-10-03 02:25:34 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

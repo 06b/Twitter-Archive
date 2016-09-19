@@ -1337,7 +1337,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot Loh",
+      "name" : "\uD83D\uDC72\uD83C\uDFFD",
       "screen_name" : "Loh",
       "indices" : [ 3, 7 ],
       "id_str" : "69123976",
@@ -1364,13 +1364,13 @@ Grailbird.data.tweets_2012_02 =
     "id" : 172404005136379904,
     "created_at" : "2012-02-22 19:34:52 +0000",
     "user" : {
-      "name" : "Elliot Loh",
+      "name" : "\uD83D\uDC72\uD83C\uDFFD",
       "screen_name" : "Loh",
       "protected" : false,
       "id_str" : "69123976",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753991068895502336\/A1XBRaAY_normal.jpg",
       "id" : 69123976,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 173866712935055360,
@@ -1767,7 +1767,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the NIKKA VIRUS",
+      "name" : "Marc Yacubs for marc",
       "screen_name" : "dances",
       "indices" : [ 3, 10 ],
       "id_str" : "15757699",
@@ -1794,7 +1794,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 172393305605283840,
     "created_at" : "2012-02-22 18:52:21 +0000",
     "user" : {
-      "name" : "the NIKKA VIRUS",
+      "name" : "Marc Yacubs for marc",
       "screen_name" : "dances",
       "protected" : false,
       "id_str" : "15757699",
@@ -2162,7 +2162,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "toddjreynolds",
       "protected" : false,
       "id_str" : "56788700",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615942561941712896\/sumrI64m_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771766117438074880\/QcC5JjK8_normal.jpg",
       "id" : 56788700,
       "verified" : false
     }
@@ -3502,7 +3502,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "thinkgeek",
       "protected" : false,
       "id_str" : "12611642",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3522713236\/268f433597dc1e82d2eafcfb9c5c5b20_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777899141448003584\/_UuwYZyJ_normal.jpg",
       "id" : 12611642,
       "verified" : true
     }
@@ -5217,7 +5217,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "17633960",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637638517770752000\/tejK-Ehv_normal.jpg",
       "id" : 17633960,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 165193550114455552,
@@ -5330,7 +5330,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "14057543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714340868161986560\/HKoHTV3f_normal.jpg",
       "id" : 14057543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 165145062563528705,
@@ -5576,7 +5576,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -5613,7 +5613,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 164686337226715138,
     "created_at" : "2012-02-01 12:27:37 +0000",
     "user" : {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",

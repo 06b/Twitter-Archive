@@ -3540,7 +3540,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755689317020737538\/T94GK8up_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775525521643798528\/KCwJFYZ6_normal.jpg",
       "id" : 662533,
       "verified" : false
     }

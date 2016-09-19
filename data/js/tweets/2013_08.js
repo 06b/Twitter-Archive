@@ -1556,7 +1556,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Burns",
+      "name" : "\uD83E\uDD16 David Burns \uD83E\uDD16",
       "screen_name" : "AutomatedTester",
       "indices" : [ 3, 19 ],
       "id_str" : "20143607",
@@ -1583,7 +1583,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 370896141400821762,
     "created_at" : "2013-08-23 13:11:45 +0000",
     "user" : {
-      "name" : "David Burns",
+      "name" : "\uD83E\uDD16 David Burns \uD83E\uDD16",
       "screen_name" : "AutomatedTester",
       "protected" : false,
       "id_str" : "20143607",
@@ -3635,7 +3635,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "5552492",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/669650293747900416\/GApkPcFY_normal.jpg",
       "id" : 5552492,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 365868592820006914,

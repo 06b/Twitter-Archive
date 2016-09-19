@@ -1846,7 +1846,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -2129,7 +2129,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756133504413495296\/7NlilDyR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771437669330980864\/_S50nHjx_normal.jpg",
       "id" : 4816,
       "verified" : true
     }
@@ -4871,7 +4871,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/754883683065016320\/H3C_VqY6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765898812976082944\/7msUBeK6_normal.jpg",
       "id" : 14123301,
       "verified" : false
     }

@@ -617,7 +617,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nong",
+      "name" : "Allen Beantwoorden",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
@@ -654,7 +654,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 294894779593015297,
     "created_at" : "2013-01-25 19:49:28 +0000",
     "user" : {
-      "name" : "Jordan Kay",
+      "name" : "Jordan Kay @ XOXO",
       "screen_name" : "_Jordan",
       "protected" : false,
       "id_str" : "14166065",
@@ -3164,7 +3164,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 286951668212445185,
@@ -3888,7 +3888,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "6484432",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000269303502\/d1b8a5c870720f3a43c034bbba45a501_normal.png",
       "id" : 6484432,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 286545610599976960,

@@ -228,7 +228,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 152822803161288705,
@@ -246,7 +246,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ales Kot",
+      "name" : "magnetic libra stuff",
       "screen_name" : "ales_kot",
       "indices" : [ 3, 12 ],
       "id_str" : "17885562",
@@ -273,7 +273,7 @@ Grailbird.data.tweets_2011_12 =
     "id" : 152415782922485761,
     "created_at" : "2011-12-29 15:48:49 +0000",
     "user" : {
-      "name" : "Ales Kot",
+      "name" : "magnetic libra stuff",
       "screen_name" : "ales_kot",
       "protected" : false,
       "id_str" : "17885562",
@@ -955,27 +955,16 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "VR Support Team",
-      "screen_name" : "SupportVR",
-      "indices" : [ 0, 10 ],
-      "id_str" : "44732384",
-      "id" : 44732384
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "151746961660325888",
   "geo" : { },
   "id_str" : "151747618597384192",
-  "in_reply_to_user_id" : 44732384,
   "text" : "@SupportVR ^NF I receive other test emails but not for the one created today. I also created a new one but had the same results.",
   "id" : 151747618597384192,
-  "in_reply_to_status_id" : 151746961660325888,
   "created_at" : "2011-12-27 19:33:46 +0000",
-  "in_reply_to_screen_name" : "SupportVR",
-  "in_reply_to_user_id_str" : "44732384",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -988,25 +977,16 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "VR Support Team",
-      "screen_name" : "SupportVR",
-      "indices" : [ 0, 10 ],
-      "id_str" : "44732384",
-      "id" : 44732384
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "151739663646863361",
-  "in_reply_to_user_id" : 44732384,
   "text" : "@SupportVR Hi, so I created an email, attempted to send the test email in the preview - it says it sent but haven't had any luck. Any ideas?",
   "id" : 151739663646863361,
   "created_at" : "2011-12-27 19:02:09 +0000",
-  "in_reply_to_screen_name" : "SupportVR",
-  "in_reply_to_user_id_str" : "44732384",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1347,7 +1327,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748030241982001152\/jnYkJolx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769406829155667968\/vNOQ4za7_normal.jpg",
       "id" : 21491212,
       "verified" : false
     }
@@ -1582,7 +1562,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "TimMoore",
       "protected" : false,
       "id_str" : "14073438",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753448050887102464\/6NdBc5y6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766424324769193984\/JiqYxcQ1_normal.jpg",
       "id" : 14073438,
       "verified" : false
     }
@@ -1814,27 +1794,16 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "VR Support Team",
-      "screen_name" : "SupportVR",
-      "indices" : [ 0, 10 ],
-      "id_str" : "44732384",
-      "id" : 44732384
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "149155037623496706",
   "geo" : { },
   "id_str" : "149156798916603904",
-  "in_reply_to_user_id" : 44732384,
   "text" : "@SupportVR -EL Both Chrome & Firefox hanged for me but I was able to get it sent with IE, so at least it sent, all is well.",
   "id" : 149156798916603904,
-  "in_reply_to_status_id" : 149155037623496706,
   "created_at" : "2011-12-20 15:58:46 +0000",
-  "in_reply_to_screen_name" : "SupportVR",
-  "in_reply_to_user_id_str" : "44732384",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2330,7 +2299,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "CarolynLKent",
       "protected" : false,
       "id_str" : "14289304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756666812868268032\/cT94KRHc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775164350524825604\/cosn-zGT_normal.jpg",
       "id" : 14289304,
       "verified" : false
     }
@@ -2495,7 +2464,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "112919156",
       "id" : 112919156
     }, {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 36, 47 ],
       "id_str" : "20627121",
@@ -2587,7 +2556,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749375812932083712\/zGBH38Ry_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775303189105152000\/XZzXCzlz_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -2648,7 +2617,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749375812932083712\/zGBH38Ry_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775303189105152000\/XZzXCzlz_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -3793,7 +3762,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755689317020737538\/T94GK8up_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775525521643798528\/KCwJFYZ6_normal.jpg",
       "id" : 662533,
       "verified" : false
     }
@@ -3864,7 +3833,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -4073,7 +4042,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

@@ -58,7 +58,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "17633960",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637638517770752000\/tejK-Ehv_normal.jpg",
       "id" : 17633960,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 274607808996048896,
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Full Snack Developer",
+      "name" : "Jan van Hellemond \uD83D\uDCAD",
       "screen_name" : "jvhellemond",
       "indices" : [ 3, 15 ],
       "id_str" : "14921195",
@@ -892,7 +892,7 @@ Grailbird.data.tweets_2012_11 =
     "in_reply_to_screen_name" : "annevk",
     "in_reply_to_user_id_str" : "3616991",
     "user" : {
-      "name" : "Full Snack Developer",
+      "name" : "Jan van Hellemond \uD83D\uDCAD",
       "screen_name" : "jvhellemond",
       "protected" : false,
       "id_str" : "14921195",
@@ -2272,7 +2272,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "jjeff",
       "protected" : false,
       "id_str" : "809256",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464133824088006656\/y91kioIT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775702592949252096\/bacsIaOW_normal.jpg",
       "id" : 809256,
       "verified" : false
     }
@@ -3451,7 +3451,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748030241982001152\/jnYkJolx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769406829155667968\/vNOQ4za7_normal.jpg",
       "id" : 21491212,
       "verified" : false
     }
@@ -3898,7 +3898,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 264415068270260224,

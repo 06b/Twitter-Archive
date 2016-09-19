@@ -103,7 +103,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "daveweigel",
       "protected" : false,
       "id_str" : "13524182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683785962292285440\/SMcIsgwA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769710437315162112\/MaBUYoLF_normal.jpg",
       "id" : 13524182,
       "verified" : true
     }
@@ -1022,7 +1022,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "12741",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 282709980107382785,
@@ -2093,7 +2093,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "17633960",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637638517770752000\/tejK-Ehv_normal.jpg",
       "id" : 17633960,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 278971428487958528,
@@ -2932,7 +2932,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "15947967",
       "id" : 15947967
     }, {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 14, 25 ],
       "id_str" : "20627121",

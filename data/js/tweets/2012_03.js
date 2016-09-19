@@ -3121,7 +3121,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -3170,7 +3170,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 178828700291305473,
     "created_at" : "2012-03-11 13:04:19 +0000",
     "user" : {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
@@ -4737,7 +4737,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -4764,7 +4764,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 176703830585655296,
     "created_at" : "2012-03-05 16:20:50 +0000",
     "user" : {
-      "name" : "Marc Grabanski",
+      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
@@ -4788,7 +4788,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Karl Groves)))",
+      "name" : "Karl Groves",
       "screen_name" : "karlgroves",
       "indices" : [ 3, 14 ],
       "id_str" : "14781056",
@@ -4815,7 +4815,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 176700324155887616,
     "created_at" : "2012-03-05 16:06:54 +0000",
     "user" : {
-      "name" : "(((Karl Groves)))",
+      "name" : "Karl Groves",
       "screen_name" : "karlgroves",
       "protected" : false,
       "id_str" : "14781056",
@@ -5359,7 +5359,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "8839152",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
       "id" : 8839152,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 175303100549173248,

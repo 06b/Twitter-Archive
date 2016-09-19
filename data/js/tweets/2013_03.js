@@ -574,9 +574,9 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/754282200258850816\/wdeBrHBM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767372427026464768\/5Prq7opQ_normal.jpg",
       "id" : 6927562,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 316548070403878915,
@@ -835,7 +835,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Political Math)))",
+      "name" : "PoliMath",
       "screen_name" : "politicalmath",
       "indices" : [ 3, 17 ],
       "id_str" : "36667104",
@@ -862,11 +862,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 261306448234024960,
     "created_at" : "2012-10-25 03:21:26 +0000",
     "user" : {
-      "name" : "(((Political Math)))",
+      "name" : "PoliMath",
       "screen_name" : "politicalmath",
       "protected" : false,
       "id_str" : "36667104",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756854332885053440\/Zb9LkKT3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777171767970312193\/6Zxc033s_normal.jpg",
       "id" : 36667104,
       "verified" : false
     }
@@ -1596,7 +1596,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "17633960",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637638517770752000\/tejK-Ehv_normal.jpg",
       "id" : 17633960,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 313340316218454016,
@@ -2320,7 +2320,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "11855482",
       "id" : 11855482
     }, {
-      "name" : "Scott JensOn",
+      "name" : "Scott Jenson in \uD83C\uDDEC\uD83C\uDDE7",
       "screen_name" : "scottjenson",
       "indices" : [ 118, 130 ],
       "id_str" : "730373",
@@ -2337,7 +2337,7 @@ Grailbird.data.tweets_2013_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Scott JensOn",
+        "name" : "Scott Jenson in \uD83C\uDDEC\uD83C\uDDE7",
         "screen_name" : "scottjenson",
         "indices" : [ 102, 114 ],
         "id_str" : "730373",
@@ -2898,7 +2898,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2925,7 +2925,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 308697186915459072,
     "created_at" : "2013-03-04 21:55:19 +0000",
     "user" : {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -3166,7 +3166,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -3205,7 +3205,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 308370448318615552,
     "created_at" : "2013-03-04 00:16:58 +0000",
     "user" : {
-      "name" : "Melissa \u2B50\uFE0F\u2694\u2B50\uFE0F",
+      "name" : "Melissa \uD83D\uDC51\u2728",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",

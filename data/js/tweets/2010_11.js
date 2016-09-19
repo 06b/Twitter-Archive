@@ -705,7 +705,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -3944,12 +3944,6 @@ Grailbird.data.tweets_2010_11 =
       "indices" : [ 18, 29 ],
       "id_str" : "391080996",
       "id" : 391080996
-    }, {
-      "name" : "New Ezra",
-      "screen_name" : "newezra",
-      "indices" : [ 30, 38 ],
-      "id_str" : "395453786",
-      "id" : 395453786
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3967,12 +3961,6 @@ Grailbird.data.tweets_2010_11 =
         "indices" : [ 3, 14 ],
         "id_str" : "391080996",
         "id" : 391080996
-      }, {
-        "name" : "New Ezra",
-        "screen_name" : "newezra",
-        "indices" : [ 15, 23 ],
-        "id_str" : "395453786",
-        "id" : 395453786
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -4473,7 +4461,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -4643,7 +4631,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "THErealDVORAK",
       "protected" : false,
       "id_str" : "14326840",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677069803702476800\/1zxtEJJC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/770511952044892160\/5JqIyDJ-_normal.jpg",
       "id" : 14326840,
       "verified" : true
     }
@@ -5632,7 +5620,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "12741",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 3930731776581632,
@@ -6641,7 +6629,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "12741",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
       "id" : 12741,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 2718822742102017,
@@ -6872,7 +6860,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -7244,7 +7232,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "CreativeNewman",
       "protected" : false,
       "id_str" : "23958689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458688935967731712\/lz9o6qnV_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768866600061640705\/VE4Q8nBG_normal.jpg",
       "id" : 23958689,
       "verified" : false
     }
@@ -7836,7 +7824,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",

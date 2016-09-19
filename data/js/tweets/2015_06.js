@@ -1121,7 +1121,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael C. Neel",
+      "name" : "#MichaelCNeel",
       "screen_name" : "ViNull",
       "indices" : [ 3, 10 ],
       "id_str" : "10118912",
@@ -1148,7 +1148,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 614456290300063744,
     "created_at" : "2015-06-26 15:32:50 +0000",
     "user" : {
-      "name" : "Michael C. Neel",
+      "name" : "#MichaelCNeel",
       "screen_name" : "ViNull",
       "protected" : false,
       "id_str" : "10118912",
@@ -1178,7 +1178,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "27546802",
       "id" : 27546802
     }, {
-      "name" : "Haack Attaack",
+      "name" : "Boom Haackalacka!",
       "screen_name" : "haacked",
       "indices" : [ 16, 24 ],
       "id_str" : "768197",
@@ -1195,7 +1195,7 @@ Grailbird.data.tweets_2015_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Haack Attaack",
+        "name" : "Boom Haackalacka!",
         "screen_name" : "haacked",
         "indices" : [ 0, 8 ],
         "id_str" : "768197",
@@ -2224,9 +2224,9 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "owillis",
       "protected" : false,
       "id_str" : "3497941",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749738047760109568\/f-4_t3Oy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768994168504975360\/bLJB-fGx_normal.jpg",
       "id" : 3497941,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 613858698952216576,
@@ -2295,7 +2295,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veggie Woof",
+      "name" : "\uD83D\uDC30 Battle-Bun \uD83C\uDF38",
       "screen_name" : "kivikakk",
       "indices" : [ 3, 12 ],
       "id_str" : "67204542",
@@ -2382,11 +2382,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 613546656672288768,
     "created_at" : "2015-06-24 03:18:16 +0000",
     "user" : {
-      "name" : "Veggie Woof",
+      "name" : "\uD83D\uDC30 Battle-Bun \uD83C\uDF38",
       "screen_name" : "kivikakk",
       "protected" : false,
       "id_str" : "67204542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756209862451695616\/fkCwjoIj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774048660174741504\/XE5wXPzF_normal.jpg",
       "id" : 67204542,
       "verified" : false
     }
@@ -2837,9 +2837,9 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "mattblaze",
       "protected" : false,
       "id_str" : "26567591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1842016884\/jail1966-hand-256a_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768501370118889472\/kxf7xGoc_normal.jpg",
       "id" : 26567591,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 613129586130468864,
@@ -3240,7 +3240,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Rendle",
+      "name" : "Mark Rendle \u2744",
       "screen_name" : "markrendle",
       "indices" : [ 3, 14 ],
       "id_str" : "21576088",
@@ -3273,7 +3273,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 612648942162046976,
     "created_at" : "2015-06-21 15:51:04 +0000",
     "user" : {
-      "name" : "Mark Rendle",
+      "name" : "Mark Rendle \u2744",
       "screen_name" : "markrendle",
       "protected" : false,
       "id_str" : "21576088",
@@ -3420,7 +3420,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Exploding Unicorn",
+      "name" : "James Breakwell",
       "screen_name" : "XplodingUnicorn",
       "indices" : [ 3, 19 ],
       "id_str" : "780104972",
@@ -3447,13 +3447,13 @@ Grailbird.data.tweets_2015_06 =
     "id" : 611883356658249729,
     "created_at" : "2015-06-19 13:08:55 +0000",
     "user" : {
-      "name" : "Exploding Unicorn",
+      "name" : "James Breakwell",
       "screen_name" : "XplodingUnicorn",
       "protected" : false,
       "id_str" : "780104972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442499711799283713\/zgRMtvS-_normal.jpeg",
       "id" : 780104972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 612474722362724352,
@@ -3825,7 +3825,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "5676102",
       "id" : 5676102
     }, {
-      "name" : "Haack Attaack",
+      "name" : "Boom Haackalacka!",
       "screen_name" : "haacked",
       "indices" : [ 132, 140 ],
       "id_str" : "768197",
@@ -3853,7 +3853,7 @@ Grailbird.data.tweets_2015_06 =
         "id_str" : "5676102",
         "id" : 5676102
       }, {
-        "name" : "Haack Attaack",
+        "name" : "Boom Haackalacka!",
         "screen_name" : "haacked",
         "indices" : [ 118, 126 ],
         "id_str" : "768197",
@@ -5623,7 +5623,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "jensimmons",
       "protected" : false,
       "id_str" : "975691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694952769917050884\/bXGCttxr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765902179660161024\/zCC2yj_R_normal.jpg",
       "id" : 975691,
       "verified" : false
     }
@@ -8832,7 +8832,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2600\u26F1 eevee \u26F1\u2600",
+      "name" : "\uD83C\uDF42\uD83C\uDF43 eevee \uD83C\uDF43\uD83C\uDF42",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -8859,11 +8859,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 605650925538000896,
     "created_at" : "2015-06-02 08:23:27 +0000",
     "user" : {
-      "name" : "\u2600\u26F1 eevee \u26F1\u2600",
+      "name" : "\uD83C\uDF42\uD83C\uDF43 eevee \uD83C\uDF43\uD83C\uDF42",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737947056472358912\/j6AvJy2K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774744043767017472\/uF6I0YfD_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -9097,7 +9097,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "23630261",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538058906959085568\/t-_gTJZ8_normal.jpeg",
       "id" : 23630261,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 605704712739012608,

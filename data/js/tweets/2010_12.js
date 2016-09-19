@@ -376,7 +376,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0455\u03B7\u03B9\u03C1\u0454",
+      "name" : "snipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -403,7 +403,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 20577606399168512,
     "created_at" : "2010-12-30 20:30:58 +0000",
     "user" : {
-      "name" : "\u0455\u03B7\u03B9\u03C1\u0454",
+      "name" : "snipe",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732000722259058689\/OHw16Vpv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769853440553922560\/GkAR3oFa_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -2204,7 +2204,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Cici Pizza",
+      "screen_name" : "Cicis_Pizza",
+      "indices" : [ 15, 27 ],
+      "id_str" : "775032659869171713",
+      "id" : 775032659869171713
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2617,7 +2623,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749375812932083712\/zGBH38Ry_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775303189105152000\/XZzXCzlz_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -4762,7 +4768,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "weightshift",
       "protected" : false,
       "id_str" : "757502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661294045105254400\/43pNkR9S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763186953302880256\/G5KlTZHo_normal.jpg",
       "id" : 757502,
       "verified" : false
     }

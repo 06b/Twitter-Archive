@@ -1439,7 +1439,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "34313681",
       "id" : 34313681
     }, {
-      "name" : "Jeffrey Chiang",
+      "name" : "\uD83D\uDE0E Jeffrey Chiang",
       "screen_name" : "gnaihc",
       "indices" : [ 23, 30 ],
       "id_str" : "64583",
@@ -1461,7 +1461,7 @@ Grailbird.data.tweets_2012_04 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Jeffrey Chiang",
+        "name" : "\uD83D\uDE0E Jeffrey Chiang",
         "screen_name" : "gnaihc",
         "indices" : [ 3, 10 ],
         "id_str" : "64583",
@@ -1820,7 +1820,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -1853,7 +1853,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -1886,7 +1886,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -1992,7 +1992,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -2025,7 +2025,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 31, 42 ],
       "id_str" : "20627121",
@@ -2109,7 +2109,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "carodebartolo",
       "protected" : false,
       "id_str" : "91031422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1749065410\/SAW-CdB-221-v01.small_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767982761038589953\/cLBwBKQF_normal.jpg",
       "id" : 91031422,
       "verified" : false
     }
@@ -2129,7 +2129,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sara kowatch",
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
       "screen_name" : "diornotwar",
       "indices" : [ 0, 11 ],
       "id_str" : "20627121",
@@ -2435,7 +2435,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "codylindley",
       "protected" : false,
       "id_str" : "12078532",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534581199797108736\/tZdIhqS-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777575410800349184\/uB0xxQ9I_normal.jpg",
       "id" : 12078532,
       "verified" : false
     }
@@ -3275,79 +3275,6 @@ Grailbird.data.tweets_2012_04 =
   "text" : "At ikea with the wife #fb",
   "id" : 191643974140821506,
   "created_at" : "2012-04-15 21:47:38 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tristan Gilreath",
-      "screen_name" : "AGUY1098",
-      "indices" : [ 3, 12 ],
-      "id_str" : "533670394",
-      "id" : 533670394
-    }, {
-      "name" : "NYAN CAT",
-      "screen_name" : "nyannyancat",
-      "indices" : [ 73, 85 ],
-      "id_str" : "281670654",
-      "id" : 281670654
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 48, 68 ],
-      "url" : "http:\/\/t.co\/jjlVArcB",
-      "expanded_url" : "http:\/\/nyan.cat\/404.html",
-      "display_url" : "nyan.cat\/404.html"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "191358524331266048",
-  "text" : "RT @AGUY1098: A WILD MISSINGNY.AN CAT APPEARED! http:\/\/t.co\/jjlVArcB via @nyannyancat",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "NYAN CAT",
-        "screen_name" : "nyannyancat",
-        "indices" : [ 59, 71 ],
-        "id_str" : "281670654",
-        "id" : 281670654
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 34, 54 ],
-        "url" : "http:\/\/t.co\/jjlVArcB",
-        "expanded_url" : "http:\/\/nyan.cat\/404.html",
-        "display_url" : "nyan.cat\/404.html"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "191341003570036736",
-    "text" : "A WILD MISSINGNY.AN CAT APPEARED! http:\/\/t.co\/jjlVArcB via @nyannyancat",
-    "id" : 191341003570036736,
-    "created_at" : "2012-04-15 01:43:44 +0000",
-    "user" : {
-      "name" : "Tristan Gilreath",
-      "screen_name" : "AGUY1098",
-      "protected" : false,
-      "id_str" : "533670394",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2112928584\/images_normal.jpg",
-      "id" : 533670394,
-      "verified" : false
-    }
-  },
-  "id" : 191358524331266048,
-  "created_at" : "2012-04-15 02:53:22 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4203,7 +4130,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "defunkt",
       "protected" : false,
       "id_str" : "713263",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1245949369\/b8dbb1987e8e5318584865f880036796_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771512986427068417\/eix-QRXH_normal.jpg",
       "id" : 713263,
       "verified" : false
     }

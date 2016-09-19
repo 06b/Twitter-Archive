@@ -638,7 +638,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "garazi",
       "protected" : false,
       "id_str" : "662533",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755689317020737538\/T94GK8up_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775525521643798528\/KCwJFYZ6_normal.jpg",
       "id" : 662533,
       "verified" : false
     }
@@ -691,7 +691,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boris VvZ",
+      "name" : "Boris VvZ \uD83D\uDCAD",
       "screen_name" : "Boris",
       "indices" : [ 3, 9 ],
       "id_str" : "17463",
@@ -728,7 +728,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 205383259734032384,
     "created_at" : "2012-05-23 19:42:39 +0000",
     "user" : {
-      "name" : "Boris VvZ",
+      "name" : "Boris VvZ \uD83D\uDCAD",
       "screen_name" : "Boris",
       "protected" : false,
       "id_str" : "17463",
@@ -1309,7 +1309,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 204918817179172865,

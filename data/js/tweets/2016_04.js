@@ -1130,7 +1130,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "SampsonMSFT",
       "protected" : false,
       "id_str" : "3904360429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738869369304846336\/WB5DPs8__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/776960754859724800\/o6F9gDdq_normal.jpg",
       "id" : 3904360429,
       "verified" : false
     }
@@ -1296,7 +1296,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "5552492",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/669650293747900416\/GApkPcFY_normal.jpg",
       "id" : 5552492,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 725025263826915329,
@@ -1519,7 +1519,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "1318181",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549678429310693377\/h32SMBm8_normal.jpeg",
       "id" : 1318181,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 724397392569704449,
@@ -1953,7 +1953,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xander the Blue",
+      "name" : "Xander the AOH",
       "screen_name" : "xandertheblue",
       "indices" : [ 3, 17 ],
       "id_str" : "93566212",
@@ -2040,7 +2040,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 723272038480125952,
     "created_at" : "2016-04-21 22:07:46 +0000",
     "user" : {
-      "name" : "Xander the Blue",
+      "name" : "Xander the AOH",
       "screen_name" : "xandertheblue",
       "protected" : false,
       "id_str" : "93566212",
@@ -2701,7 +2701,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "RipleyWopr",
       "protected" : false,
       "id_str" : "588064030",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748393600325656576\/kpvj0QMm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777179254941331456\/Wxc49NqI_normal.jpg",
       "id" : 588064030,
       "verified" : false
     }
@@ -2743,13 +2743,13 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E94\u5473@NT\u80FD\u767B\u30AD\u30E3\u30F3\u30D7",
+      "name" : "\u4E94\u5473",
       "screen_name" : "GomiHgy",
       "indices" : [ 3, 11 ],
       "id_str" : "102898834",
       "id" : 102898834
     }, {
-      "name" : "NAKAM\u00DC",
+      "name" : "NAKAM\u00DC@TGS 2days!!!!",
       "screen_name" : "nightrain1024",
       "indices" : [ 22, 36 ],
       "id_str" : "46112871",
@@ -2799,7 +2799,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NAKAM\u00DC",
+        "name" : "NAKAM\u00DC@TGS 2days!!!!",
         "screen_name" : "nightrain1024",
         "indices" : [ 9, 23 ],
         "id_str" : "46112871",
@@ -2848,7 +2848,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 721170055740784640,
     "created_at" : "2016-04-16 02:55:14 +0000",
     "user" : {
-      "name" : "\u4E94\u5473@NT\u80FD\u767B\u30AD\u30E3\u30F3\u30D7",
+      "name" : "\u4E94\u5473",
       "screen_name" : "GomiHgy",
       "protected" : false,
       "id_str" : "102898834",
@@ -2930,7 +2930,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "14761655",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
       "id" : 14761655,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 722755946674569216,
@@ -3432,7 +3432,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Reese",
+      "name" : "Justin X. Reese",
       "screen_name" : "justinxreese",
       "indices" : [ 3, 16 ],
       "id_str" : "14255877",
@@ -3519,7 +3519,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 721113151622610944,
     "created_at" : "2016-04-15 23:09:07 +0000",
     "user" : {
-      "name" : "Justin Reese",
+      "name" : "Justin X. Reese",
       "screen_name" : "justinxreese",
       "protected" : false,
       "id_str" : "14255877",
@@ -5007,7 +5007,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "aloria",
       "protected" : false,
       "id_str" : "11250462",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730182841246584833\/5Wo8yym2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768135350887784448\/yATtKJr8_normal.jpg",
       "id" : 11250462,
       "verified" : false
     }
@@ -5187,7 +5187,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 718854411385192448,
     "created_at" : "2016-04-09 17:33:42 +0000",
     "user" : {
-      "name" : "Jim Lynch \u26F7",
+      "name" : "Jim Lynch \uD83D\uDCF1\u26F7\uD83C\uDFCC\uD83C\uDF7A",
       "screen_name" : "JimLynch_",
       "protected" : false,
       "id_str" : "46747791",
@@ -5699,7 +5699,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "24765829",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
       "id" : 24765829,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 718274860670169088,
@@ -6348,117 +6348,6 @@ Grailbird.data.tweets_2016_04 =
   "text" : "I don't know why I thought it was a good idea to wake up early. Traffic reminds me of my childhood. Dial up slow.",
   "id" : 718044621234954240,
   "created_at" : "2016-04-07 11:55:52 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lisa Dib",
-      "screen_name" : "LisaDib1",
-      "indices" : [ 3, 12 ],
-      "id_str" : "285368594",
-      "id" : 285368594
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/LisaDib1\/status\/717525164179660800\/photo\/1",
-      "indices" : [ 53, 76 ],
-      "url" : "https:\/\/t.co\/DAlSgMLYyv",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CfUpVYAUYAEMktq.jpg",
-      "id_str" : "717525162833240065",
-      "id" : 717525162833240065,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CfUpVYAUYAEMktq.jpg",
-      "sizes" : [ {
-        "h" : 226,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 611,
-        "resize" : "fit",
-        "w" : 918
-      }, {
-        "h" : 399,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 611,
-        "resize" : "fit",
-        "w" : 918
-      } ],
-      "display_url" : "pic.twitter.com\/DAlSgMLYyv"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "718043542455771136",
-  "text" : "RT @LisaDib1: \"I'll explain on the way, just get in\" https:\/\/t.co\/DAlSgMLYyv",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/LisaDib1\/status\/717525164179660800\/photo\/1",
-        "indices" : [ 39, 62 ],
-        "url" : "https:\/\/t.co\/DAlSgMLYyv",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CfUpVYAUYAEMktq.jpg",
-        "id_str" : "717525162833240065",
-        "id" : 717525162833240065,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CfUpVYAUYAEMktq.jpg",
-        "sizes" : [ {
-          "h" : 226,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 611,
-          "resize" : "fit",
-          "w" : 918
-        }, {
-          "h" : 399,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 611,
-          "resize" : "fit",
-          "w" : 918
-        } ],
-        "display_url" : "pic.twitter.com\/DAlSgMLYyv"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "717525164179660800",
-    "text" : "\"I'll explain on the way, just get in\" https:\/\/t.co\/DAlSgMLYyv",
-    "id" : 717525164179660800,
-    "created_at" : "2016-04-06 01:31:44 +0000",
-    "user" : {
-      "name" : "Lisa Dib",
-      "screen_name" : "LisaDib1",
-      "protected" : false,
-      "id_str" : "285368594",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748730019279581184\/0Ww9l9T9_normal.jpg",
-      "id" : 285368594,
-      "verified" : false
-    }
-  },
-  "id" : 718043542455771136,
-  "created_at" : "2016-04-07 11:51:35 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -7897,7 +7786,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "nicholascloud",
       "protected" : false,
       "id_str" : "69656882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759018868115279872\/ZZ9Pmsmw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/776228518568996864\/_o1A4r2p_normal.jpg",
       "id" : 69656882,
       "verified" : false
     }
