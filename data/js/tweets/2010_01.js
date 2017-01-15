@@ -54,13 +54,16 @@ Grailbird.data.tweets_2010_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "html5",
+      "indices" : [ 39, 45 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "8391217240",
-  "text" : "First week of work done - Need to touch up on my ASP.NET",
-  "id" : 8391217240,
+  "id_str" : "8425574190",
+  "text" : "Finally getting around to playing with #html5",
+  "id" : 8425574190,
   "created_at" : "2010-01-30 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -76,16 +79,13 @@ Grailbird.data.tweets_2010_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "html5",
-      "indices" : [ 39, 45 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "8425574190",
-  "text" : "Finally getting around to playing with #html5",
-  "id" : 8425574190,
+  "id_str" : "8391217240",
+  "text" : "First week of work done - Need to touch up on my ASP.NET",
+  "id" : 8391217240,
   "created_at" : "2010-01-30 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

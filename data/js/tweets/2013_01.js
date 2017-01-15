@@ -253,7 +253,7 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/06b\/status\/296118132714635265\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/06b\/status\/296118132714635265\/photo\/1",
       "indices" : [ 59, 79 ],
       "url" : "http:\/\/t.co\/pzUweRWN",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BBwF33CCAAA4Oex.png",
@@ -338,7 +338,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "brian_pearce",
       "protected" : false,
       "id_str" : "23118393",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731571040300630016\/q8LMhKrE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/805215542772568064\/Sc0dnjs1_normal.jpg",
       "id" : 23118393,
       "verified" : false
     }
@@ -458,7 +458,7 @@ Grailbird.data.tweets_2013_01 =
       "id" : 519142023
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ProfessorsOak\/status\/295065063948173312\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/ProfessorsOak\/status\/295065063948173312\/photo\/1",
       "indices" : [ 102, 122 ],
       "url" : "http:\/\/t.co\/lWYJYcwj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BBhIHMKCQAAcMB9.jpg",
@@ -502,7 +502,7 @@ Grailbird.data.tweets_2013_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ProfessorsOak\/status\/295065063948173312\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ProfessorsOak\/status\/295065063948173312\/photo\/1",
         "indices" : [ 83, 103 ],
         "url" : "http:\/\/t.co\/lWYJYcwj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BBhIHMKCQAAcMB9.jpg",
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Allen Beantwoorden",
+      "name" : "gentile_display_name",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
@@ -654,11 +654,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 294894779593015297,
     "created_at" : "2013-01-25 19:49:28 +0000",
     "user" : {
-      "name" : "Jordan Kay @ XOXO",
+      "name" : "Jordan Kay #J13",
       "screen_name" : "_Jordan",
       "protected" : false,
       "id_str" : "14166065",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761340828979761152\/oyve5xIF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813532108085923840\/Bssps5td_normal.jpg",
       "id" : 14166065,
       "verified" : false
     }
@@ -747,7 +747,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -2205,7 +2205,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "evernote",
+      "name" : "Evernote",
       "screen_name" : "evernote",
       "indices" : [ 17, 26 ],
       "id_str" : "13837292",
@@ -2262,7 +2262,7 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 0, 8 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2277,7 +2277,7 @@ Grailbird.data.tweets_2013_01 =
   "text" : "@twitter If an account is suspended, do you think you can make the username available after a certain amount of time?",
   "id" : 288684354870341633,
   "created_at" : "2013-01-08 16:31:28 +0000",
-  "in_reply_to_screen_name" : "twitter",
+  "in_reply_to_screen_name" : "Twitter",
   "in_reply_to_user_id_str" : "783214",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2300,12 +2300,7 @@ Grailbird.data.tweets_2013_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Y7VcQD1w",
-      "expanded_url" : "http:\/\/wearecolorblind.com\/example\/twitter-color-picker\/",
-      "display_url" : "wearecolorblind.com\/example\/twitte\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "288680267563024385",
@@ -2683,57 +2678,6 @@ Grailbird.data.tweets_2013_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ryan Freitas",
-      "screen_name" : "ryanchris",
-      "indices" : [ 3, 13 ],
-      "id_str" : "13349",
-      "id" : 13349
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "287583389823950850",
-  "text" : "RT @ryanchris: Never solve with interface what can be solved with good copy.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "286925046864289794",
-    "text" : "Never solve with interface what can be solved with good copy.",
-    "id" : 286925046864289794,
-    "created_at" : "2013-01-03 20:00:36 +0000",
-    "user" : {
-      "name" : "Ryan Freitas",
-      "screen_name" : "ryanchris",
-      "protected" : false,
-      "id_str" : "13349",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593111692898279424\/Z5Jrve13_normal.png",
-      "id" : 13349,
-      "verified" : false
-    }
-  },
-  "id" : 287583389823950850,
-  "created_at" : "2013-01-05 15:36:37 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2925,7 +2869,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -2953,12 +2897,7 @@ Grailbird.data.tweets_2013_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/KE979hAZ",
-      "expanded_url" : "http:\/\/twitpic.com\/bs4nry",
-      "display_url" : "twitpic.com\/bs4nry"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "287218751965892610",
@@ -3433,12 +3372,6 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 123, 132 ],
       "id_str" : "10545",
       "id" : 10545
-    }, {
-      "name" : "Elyse Viotto",
-      "screen_name" : "elyseviotto",
-      "indices" : [ 139, 140 ],
-      "id_str" : "56169755",
-      "id" : 56169755
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3487,7 +3420,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "jontangerine",
       "protected" : false,
       "id_str" : "7629722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671628274728964096\/ld0Y66hV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804306860241285120\/rC5-AxnS_normal.jpg",
       "id" : 7629722,
       "verified" : false
     }
@@ -3548,7 +3481,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "EamonLeonard",
       "protected" : false,
       "id_str" : "6995242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607933294651523072\/JfPTwfJB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797853656641138689\/vXwhiqUZ_normal.jpg",
       "id" : 6995242,
       "verified" : false
     }
@@ -3568,7 +3501,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "evernote",
+      "name" : "Evernote",
       "screen_name" : "evernote",
       "indices" : [ 27, 36 ],
       "id_str" : "13837292",
@@ -3848,11 +3781,6 @@ Grailbird.data.tweets_2013_01 =
       "url" : "http:\/\/t.co\/O8HkMwgY",
       "expanded_url" : "http:\/\/www.regexper.com\/",
       "display_url" : "regexper.com"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/LRodn0Zu",
-      "expanded_url" : "http:\/\/yfrog.com\/kj9gffp",
-      "display_url" : "yfrog.com\/kj9gffp"
     } ]
   },
   "geo" : { },

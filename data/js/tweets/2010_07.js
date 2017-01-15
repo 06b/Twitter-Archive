@@ -172,7 +172,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Syfy",
       "protected" : false,
       "id_str" : "18957524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757258381702803456\/2GrSzuIT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813409905872773120\/sOwI3-5F_normal.jpg",
       "id" : 18957524,
       "verified" : true
     }
@@ -679,7 +679,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262Fchriseppstein",
+      "name" : "Chris Eppstein \uD83D\uDCCE",
       "screen_name" : "chriseppstein",
       "indices" : [ 9, 23 ],
       "id_str" : "14148091",
@@ -1732,7 +1732,7 @@ Grailbird.data.tweets_2010_07 =
   "text" : "@r3yguti3rr3z Congrats on your new job with Sony",
   "id" : 19299153955,
   "created_at" : "2010-07-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "rayversus",
+  "in_reply_to_screen_name" : "thecrownkiller",
   "in_reply_to_user_id_str" : "15053372",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2362,7 +2362,13 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jason",
+      "screen_name" : "jasonspeaking",
+      "indices" : [ 39, 53 ],
+      "id_str" : "808739150589411328",
+      "id" : 808739150589411328
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "CSSsummit",
@@ -4597,13 +4603,7 @@ Grailbird.data.tweets_2010_07 =
       "id" : 16567567
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "cincinnati",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "aiga",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4829,7 +4829,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "dklimke",
       "protected" : false,
       "id_str" : "15583100",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771353151152787456\/Kvn5ELts_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815781902619738112\/p4Porobm_normal.jpg",
       "id" : 15583100,
       "verified" : false
     }

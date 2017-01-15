@@ -68,7 +68,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802578634510921729\/UCM7pFZX_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -254,7 +254,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "khit",
       "protected" : false,
       "id_str" : "7114842",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606136681784209409\/b9F8Zh_k_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793446113252511744\/MLIJBZYk_normal.jpg",
       "id" : 7114842,
       "verified" : false
     }
@@ -1309,10 +1309,7 @@ Grailbird.data.tweets_2010_10 =
       "id" : 534677003
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ux",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2674,17 +2671,14 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boom Haackalacka!",
+      "name" : "Phil Haack (parody)",
       "screen_name" : "haacked",
       "indices" : [ 3, 11 ],
       "id_str" : "768197",
       "id" : 768197
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2707,11 +2701,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28670241226,
     "created_at" : "2010-10-25 07:55:03 +0000",
     "user" : {
-      "name" : "Boom Haackalacka!",
+      "name" : "Phil Haack (parody)",
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744965920813158400\/OUfVnhO5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778306182733791232\/DnWa5e7Z_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
@@ -3313,7 +3307,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802578634510921729\/UCM7pFZX_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -4371,7 +4365,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777886502747566080\/e1X9Bz5o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796820658336337920\/BuV-wYIP_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -4727,7 +4721,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jason",
+      "screen_name" : "jasonspeaking",
+      "indices" : [ 3, 17 ],
+      "id_str" : "808739150589411328",
+      "id" : 808739150589411328
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5505,7 +5505,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777886502747566080\/e1X9Bz5o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796820658336337920\/BuV-wYIP_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -5596,7 +5596,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777886502747566080\/e1X9Bz5o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796820658336337920\/BuV-wYIP_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -6148,7 +6148,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "MichaelAleo",
       "protected" : false,
       "id_str" : "17913992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771544456856076292\/PlnHxzdO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778321175294320640\/LeQLmgMD_normal.jpg",
       "id" : 17913992,
       "verified" : false
     }
@@ -8191,12 +8191,6 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 3, 9 ],
       "id_str" : "14298862",
       "id" : 14298862
-    }, {
-      "name" : "Eric Weakland",
-      "screen_name" : "StrongwaterSec",
-      "indices" : [ 139, 140 ],
-      "id_str" : "29811345",
-      "id" : 29811345
     } ],
     "media" : [ ],
     "hashtags" : [ ],

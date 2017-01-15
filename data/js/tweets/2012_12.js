@@ -72,7 +72,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "daveweigel",
+      "name" : "Dave Weigel",
       "screen_name" : "daveweigel",
       "indices" : [ 3, 14 ],
       "id_str" : "13524182",
@@ -99,11 +99,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 285734303810338816,
     "created_at" : "2012-12-31 13:09:01 +0000",
     "user" : {
-      "name" : "daveweigel",
+      "name" : "Dave Weigel",
       "screen_name" : "daveweigel",
       "protected" : false,
       "id_str" : "13524182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769710437315162112\/MaBUYoLF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780778734202781696\/plk8mMjX_normal.jpg",
       "id" : 13524182,
       "verified" : true
     }
@@ -234,7 +234,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -877,7 +877,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Hogue",
+      "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
       "screen_name" : "DaveHogue",
       "indices" : [ 3, 13 ],
       "id_str" : "18826637",
@@ -904,7 +904,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 282938965168885760,
     "created_at" : "2012-12-23 20:01:20 +0000",
     "user" : {
-      "name" : "Dave Hogue",
+      "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
       "screen_name" : "DaveHogue",
       "protected" : false,
       "id_str" : "18826637",
@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -1071,7 +1071,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "JensenClan88",
       "protected" : false,
       "id_str" : "19315920",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744547433888157700\/hq70rQDs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804343121509089280\/wcrWb0M7_normal.jpg",
       "id" : 19315920,
       "verified" : true
     }
@@ -1130,21 +1130,10 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 3, 16 ],
       "id_str" : "133129567",
       "id" : 133129567
-    }, {
-      "name" : "Smashing Magazine",
-      "screen_name" : "smashingmag",
-      "indices" : [ 139, 140 ],
-      "id_str" : "15736190",
-      "id" : 15736190
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/6AHrSzyA",
-      "expanded_url" : "http:\/\/vimeo.com\/52861634",
-      "display_url" : "vimeo.com\/52861634"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "282161709316206594",
@@ -1566,12 +1555,7 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/PuE47thi",
-      "expanded_url" : "http:\/\/ow.ly\/gbQBR",
-      "display_url" : "ow.ly\/gbQBR"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "281061591842168832",
@@ -2343,7 +2327,7 @@ Grailbird.data.tweets_2012_12 =
       "id" : 266791973
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
       "indices" : [ 53, 73 ],
       "url" : "http:\/\/t.co\/vdr355Nf",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
@@ -2390,7 +2374,7 @@ Grailbird.data.tweets_2012_12 =
         "id" : 266791973
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
         "indices" : [ 38, 58 ],
         "url" : "http:\/\/t.co\/vdr355Nf",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
@@ -2556,12 +2540,7 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/NBLWGcnK",
-      "expanded_url" : "http:\/\/artequalswork.com\/posts\/standards-not-prescriptions.php",
-      "display_url" : "artequalswork.com\/posts\/standard\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "278563154022236160",
@@ -2768,7 +2747,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -3480,12 +3459,7 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/RfbcxwB6",
-      "expanded_url" : "https:\/\/github.com\/adobefireworks\/community\/issues",
-      "display_url" : "github.com\/adobefireworks\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "274896674248351745",

@@ -55,7 +55,13 @@ Grailbird.data.tweets_2009_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jason",
+      "screen_name" : "jasonspeaking",
+      "indices" : [ 3, 17 ],
+      "id_str" : "808739150589411328",
+      "id" : 808739150589411328
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "SISContest02",

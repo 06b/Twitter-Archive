@@ -705,7 +705,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -1503,12 +1503,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 3, 17 ],
       "id_str" : "47069142",
       "id" : 47069142
-    }, {
-      "name" : "Craig Ferguson",
-      "screen_name" : "CraigyFerg",
-      "indices" : [ 139, 140 ],
-      "id_str" : "112508240",
-      "id" : 112508240
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1616,7 +1610,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "vidiot_",
       "protected" : false,
       "id_str" : "14977429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684797964242567168\/l-cdvhB3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817528934124453892\/mi2ADUyO_normal.jpg",
       "id" : 14977429,
       "verified" : false
     }
@@ -1813,18 +1807,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 3, 18 ],
       "id_str" : "279713",
       "id" : 279713
-    }, {
-      "name" : "\u02D7\u02CF\u02CB jayna wallace \u02CE\u02CA",
-      "screen_name" : "jaynawallace",
-      "indices" : [ 139, 140 ],
-      "id_str" : "78213",
-      "id" : 78213
-    }, {
-      "name" : "Milissa Tarquini",
-      "screen_name" : "milissa",
-      "indices" : [ 139, 140 ],
-      "id_str" : "933991",
-      "id" : 933991
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3653,10 +3635,7 @@ Grailbird.data.tweets_2010_06 =
       "id" : 18202661
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Cincinnati",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4557,7 +4536,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "PetraGregorova",
       "protected" : false,
       "id_str" : "14538913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583437876714541056\/U5Oxq_lS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804649542775754752\/GZszV3XQ_normal.jpg",
       "id" : 14538913,
       "verified" : false
     }
@@ -4584,10 +4563,7 @@ Grailbird.data.tweets_2010_06 =
       "id" : 7824992
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "interACTbook",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4735,10 +4711,7 @@ Grailbird.data.tweets_2010_06 =
       "id" : 9972002
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "interactbook",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4765,7 +4738,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "brucefloyd",
       "protected" : false,
       "id_str" : "9972002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767820533748551680\/jwsI0NMz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816413137406722050\/htvrOqFf_normal.jpg",
       "id" : 9972002,
       "verified" : false
     }
@@ -4894,7 +4867,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "PetraGregorova",
       "protected" : false,
       "id_str" : "14538913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583437876714541056\/U5Oxq_lS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804649542775754752\/GZszV3XQ_normal.jpg",
       "id" : 14538913,
       "verified" : false
     }
@@ -5675,12 +5648,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 3, 15 ],
       "id_str" : "7912462",
       "id" : 7912462
-    }, {
-      "name" : "Chris Wilkinson",
-      "screen_name" : "Chris_Wilkinson",
-      "indices" : [ 139, 140 ],
-      "id_str" : "19109614",
-      "id" : 19109614
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -5802,7 +5769,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "14086367",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3414874941\/19b10b1b95d6b73dbca1ced40e555ee7_normal.png",
       "id" : 14086367,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 15724076564,
@@ -5906,7 +5873,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777886502747566080\/e1X9Bz5o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796820658336337920\/BuV-wYIP_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -6474,7 +6441,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "timmit",
       "protected" : false,
       "id_str" : "15449556",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557051736431403008\/twnUd8eA_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788799950486401024\/hFwjECcd_normal.jpg",
       "id" : 15449556,
       "verified" : false
     }
@@ -6601,12 +6568,6 @@ Grailbird.data.tweets_2010_06 =
     "hashtags" : [ {
       "text" : "aiga",
       "indices" : [ 130, 135 ]
-    }, {
-      "text" : "cincinnati",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "design",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -6850,12 +6811,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 34, 43 ],
       "id_str" : "16567567",
       "id" : 16567567
-    }, {
-      "name" : "Dan Formosa",
-      "screen_name" : "danformosa",
-      "indices" : [ 139, 140 ],
-      "id_str" : "28049559",
-      "id" : 28049559
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7097,12 +7052,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 114, 125 ],
       "id_str" : "10291812",
       "id" : 10291812
-    }, {
-      "name" : "Lyraspace",
-      "screen_name" : "lyraspace",
-      "indices" : [ 139, 140 ],
-      "id_str" : "20662499",
-      "id" : 20662499
     } ],
     "media" : [ ],
     "hashtags" : [ {

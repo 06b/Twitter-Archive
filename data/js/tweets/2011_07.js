@@ -149,7 +149,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -228,7 +228,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "justin_kimbrell",
       "protected" : false,
       "id_str" : "153016276",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000265284860\/106bf9e52187c62b6ede613c71ea054d_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816071131304230913\/X3ml-oaX_normal.jpg",
       "id" : 153016276,
       "verified" : false
     }
@@ -773,12 +773,7 @@ Grailbird.data.tweets_2011_07 =
       "text" : "rebuild2011",
       "indices" : [ 112, 124 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/OkRUbEo",
-      "expanded_url" : "http:\/\/www.auntiepixelante.com\/?p=465",
-      "display_url" : "auntiepixelante.com\/?p=465"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "97013466908471297",
@@ -1173,7 +1168,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "pixelmelter",
       "protected" : false,
       "id_str" : "15020422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719512550837084161\/l80Z17Eb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800731844006191105\/KdAIkGxc_normal.jpg",
       "id" : 15020422,
       "verified" : false
     }
@@ -2827,7 +2822,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708363316154925056\/deXwIhn8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
       "id" : 635543,
       "verified" : false
     }
@@ -3570,10 +3565,7 @@ Grailbird.data.tweets_2011_07 =
       "id" : 12741
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "uxmistakes",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -3600,7 +3592,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -3838,7 +3830,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "joelhubartt",
       "protected" : false,
       "id_str" : "190745133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572442368419192832\/9-loHubt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785511803644248066\/a4vfzBnd_normal.jpg",
       "id" : 190745133,
       "verified" : false
     }
@@ -6411,84 +6403,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rockfish",
-      "screen_name" : "Rockfish",
-      "indices" : [ 21, 30 ],
-      "id_str" : "16810823",
-      "id" : 16810823
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Cincinnati",
-      "indices" : [ 56, 67 ]
-    }, {
-      "text" : "jobs",
-      "indices" : [ 119, 124 ]
-    }, {
-      "text" : "werehiring",
-      "indices" : [ 125, 136 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "93020072070750209",
-  "text" : "RT @laura_m_gardner: @Rockfish is looking for talent in #Cincinnati, including strategists, developers, & copywriters. #jobs #werehiring ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Rockfish",
-        "screen_name" : "Rockfish",
-        "indices" : [ 0, 9 ],
-        "id_str" : "16810823",
-        "id" : 16810823
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Cincinnati",
-        "indices" : [ 35, 46 ]
-      }, {
-        "text" : "jobs",
-        "indices" : [ 98, 103 ]
-      }, {
-        "text" : "werehiring",
-        "indices" : [ 104, 115 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "93019748748627968",
-    "in_reply_to_user_id" : 16810823,
-    "text" : "@Rockfish is looking for talent in #Cincinnati, including strategists, developers, & copywriters. #jobs #werehiring - http:\/\/ow.ly\/5Hj2r",
-    "id" : 93019748748627968,
-    "created_at" : "2011-07-18 18:10:10 +0000",
-    "in_reply_to_screen_name" : "Rockfish",
-    "in_reply_to_user_id_str" : "16810823",
-    "user" : {
-      "name" : "Laura Gardner",
-      "screen_name" : "lauramgardner",
-      "protected" : false,
-      "id_str" : "219083108",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588769110290472960\/8KV9zgod_normal.jpg",
-      "id" : 219083108,
-      "verified" : false
-    }
-  },
-  "id" : 93020072070750209,
-  "created_at" : "2011-07-18 18:11:28 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "katy rucker",
       "screen_name" : "katyrucker",
       "indices" : [ 3, 14 ],
@@ -8526,18 +8440,6 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 3, 13 ],
       "id_str" : "19198505",
       "id" : 19198505
-    }, {
-      "name" : "Andrea Kozakewich",
-      "screen_name" : "kozakcreative",
-      "indices" : [ 79, 93 ],
-      "id_str" : "30206462",
-      "id" : 30206462
-    }, {
-      "name" : "nikkipfahler",
-      "screen_name" : "nikkipfahler",
-      "indices" : [ 94, 107 ],
-      "id_str" : "4280212942",
-      "id" : 4280212942
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10504,51 +10406,6 @@ Grailbird.data.tweets_2011_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "90446288532942848",
-  "text" : "RT @feoshiawrites: RT @JukemFootball: Graphic designer job opportunity in Cincinnati - if u or some1 U know is interested, tweet me @juk ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "90436690799374336",
-    "text" : "RT @JukemFootball: Graphic designer job opportunity in Cincinnati - if u or some1 U know is interested, tweet me @jukemfootball for details",
-    "id" : 90436690799374336,
-    "created_at" : "2011-07-11 15:06:01 +0000",
-    "user" : {
-      "name" : "Feoshia H. Davis \u262F",
-      "screen_name" : "JustFeoshiaOK",
-      "protected" : false,
-      "id_str" : "18101869",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613019777334775808\/51Uva18q_normal.jpg",
-      "id" : 18101869,
-      "verified" : false
-    }
-  },
-  "id" : 90446288532942848,
-  "created_at" : "2011-07-11 15:44:10 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",
       "indices" : [ 67, 70 ]
@@ -11712,7 +11569,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "devongovett",
       "protected" : false,
       "id_str" : "15687937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/92153139\/item_6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812765322004443140\/PPaqFF07_normal.jpg",
       "id" : 15687937,
       "verified" : false
     }
@@ -13183,12 +13040,6 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 47, 61 ],
       "id_str" : "31818854",
       "id" : 31818854
-    }, {
-      "name" : "Sergio A. Garcia",
-      "screen_name" : "SergioAG10",
-      "indices" : [ 139, 140 ],
-      "id_str" : "112919156",
-      "id" : 112919156
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -14944,7 +14795,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "26505507",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1676872485\/Untitled_normal.jpg",
       "id" : 26505507,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 86832748924387328,

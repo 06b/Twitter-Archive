@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769853440553922560\/GkAR3oFa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818134697360297984\/jeeXgwg1_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -2205,7 +2205,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cici Pizza",
+      "name" : "Splurge",
       "screen_name" : "Cicis_Pizza",
       "indices" : [ 15, 27 ],
       "id_str" : "775032659869171713",
@@ -2485,7 +2485,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick Ewing",
+      "name" : "At Hoverbird",
       "screen_name" : "hoverbird",
       "indices" : [ 3, 13 ],
       "id_str" : "792690",
@@ -2512,7 +2512,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15693608103448577,
     "created_at" : "2010-12-17 09:03:42 +0000",
     "user" : {
-      "name" : "Patrick Ewing",
+      "name" : "At Hoverbird",
       "screen_name" : "hoverbird",
       "protected" : false,
       "id_str" : "792690",
@@ -3265,7 +3265,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758159340217987072\/AAPn1bFm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797120468763348993\/2ulLxNju_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -3860,7 +3860,7 @@ Grailbird.data.tweets_2010_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 89, 97 ],
       "id_str" : "783214",
       "id" : 783214
@@ -4311,10 +4311,7 @@ Grailbird.data.tweets_2010_12 =
       "id" : 16076032
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "BeyondIrony",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4768,7 +4765,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "weightshift",
       "protected" : false,
       "id_str" : "757502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763186953302880256\/G5KlTZHo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/791438969657364480\/JfaESdgT_normal.jpg",
       "id" : 757502,
       "verified" : false
     }
@@ -6417,7 +6414,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "82433",
       "id" : 82433
     }, {
-      "name" : "Dave Hogue",
+      "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
       "screen_name" : "DaveHogue",
       "indices" : [ 23, 33 ],
       "id_str" : "18826637",
@@ -6437,7 +6434,7 @@ Grailbird.data.tweets_2010_12 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dave Hogue",
+        "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
         "screen_name" : "DaveHogue",
         "indices" : [ 9, 19 ],
         "id_str" : "18826637",
@@ -6460,7 +6457,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790960650088513536\/wdDxJtlI_normal.jpg",
       "id" : 82433,
       "verified" : false
     }

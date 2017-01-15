@@ -11,12 +11,7 @@ Grailbird.data.tweets_2011_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/toQyKKp",
-      "expanded_url" : "http:\/\/tinyurl.com\/6c8e35e",
-      "display_url" : "tinyurl.com\/6c8e35e"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "86517827695153153",
@@ -89,11 +84,11 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jQuery",
+      "name" : "jquery",
       "screen_name" : "jquery",
       "indices" : [ 3, 10 ],
-      "id_str" : "14538601",
-      "id" : 14538601
+      "id_str" : "787925705988403200",
+      "id" : 787925705988403200
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -126,13 +121,13 @@ Grailbird.data.tweets_2011_06 =
     "id" : 86502529378168832,
     "created_at" : "2011-06-30 18:33:04 +0000",
     "user" : {
-      "name" : "jQuery",
-      "screen_name" : "jquery",
+      "name" : "JS Foundation",
+      "screen_name" : "the_jsf",
       "protected" : false,
       "id_str" : "14538601",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/59268975\/jquery_avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787927149953056768\/7J4QDNJ9_normal.jpg",
       "id" : 14538601,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 86503403651469312,
@@ -1062,7 +1057,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "opera",
       "protected" : false,
       "id_str" : "1541461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768056012997877760\/5I0hWFra_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819182457794756608\/hirh6eTK_normal.jpg",
       "id" : 1541461,
       "verified" : true
     }
@@ -2168,7 +2163,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "26505507",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1676872485\/Untitled_normal.jpg",
       "id" : 26505507,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 84347404366782465,
@@ -4346,16 +4341,8 @@ Grailbird.data.tweets_2011_06 =
       "id" : 7755
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "lulzsec",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/tW114gE",
-      "expanded_url" : "http:\/\/www.mirror.co.uk\/news\/top-stories\/2011\/06\/21\/essex-teenager-held-for-being-lulzsec-hacking-mastermind-115875-23216720\/",
-      "display_url" : "mirror.co.uk\/news\/top-stori\u2026"
-    } ]
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "83189693847580672",
@@ -8253,7 +8240,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606348004388306945\/ZMpBdfTI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796069133926350848\/Gk12QrZC_normal.jpg",
       "id" : 15629200,
       "verified" : false
     }
@@ -10954,7 +10941,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802578634510921729\/UCM7pFZX_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -11838,7 +11825,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790960650088513536\/wdDxJtlI_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -12755,7 +12742,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Wendys",
       "protected" : false,
       "id_str" : "59553554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773566202757001218\/xCdMEC7U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806883034779643904\/GPjjaFzG_normal.jpg",
       "id" : 59553554,
       "verified" : true
     }
@@ -13803,7 +13790,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745280451133083648\/wkN3059c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790960650088513536\/wdDxJtlI_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -15442,12 +15429,6 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ {
       "text" : "Cincinnati",
       "indices" : [ 95, 106 ]
-    }, {
-      "text" : "graffiti",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "ail",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -15538,7 +15519,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "geeksaresexy",
       "protected" : false,
       "id_str" : "3678391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773684504120659968\/KL3rDo20_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788483020584054784\/sFEQX7aC_normal.jpg",
       "id" : 3678391,
       "verified" : false
     }
@@ -16166,7 +16147,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "andrettibrown",
       "protected" : false,
       "id_str" : "25306021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743278190060273666\/TeeUcRwT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818454408761589760\/fgUDPEnt_normal.jpg",
       "id" : 25306021,
       "verified" : false
     }
@@ -16600,7 +16581,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
       "id" : 12741,
       "verified" : true
     }

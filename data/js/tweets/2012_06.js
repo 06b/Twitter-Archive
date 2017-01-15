@@ -265,7 +265,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "qrush",
       "protected" : false,
       "id_str" : "5743852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768589912991858688\/JSmX24Xp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807433036614823937\/9IgXnD35_normal.jpg",
       "id" : 5743852,
       "verified" : false
     }
@@ -417,7 +417,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 614511191
     }, {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 21, 29 ],
       "id_str" : "783214",
       "id" : 783214
@@ -758,7 +758,7 @@ Grailbird.data.tweets_2012_06 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "Twitter",
-        "screen_name" : "twitter",
+        "screen_name" : "Twitter",
         "indices" : [ 4, 12 ],
         "id_str" : "783214",
         "id" : 783214
@@ -1084,16 +1084,8 @@ Grailbird.data.tweets_2012_06 =
       "id" : 24765829
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "UX",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/pYk0YSeo",
-      "expanded_url" : "http:\/\/imgur.com\/rOhaG",
-      "display_url" : "imgur.com\/rOhaG"
-    } ]
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "215050870142939136",
@@ -1175,7 +1167,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "avalonstar",
       "protected" : false,
       "id_str" : "615403",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757362538954657792\/GpdnWqA2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797611128444465152\/xLVp_b7e_normal.jpg",
       "id" : 615403,
       "verified" : true
     }
@@ -1269,7 +1261,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "drewm",
       "protected" : false,
       "id_str" : "12158",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638740845294829568\/lo36iMQs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804623515412467712\/LdCos4gc_normal.jpg",
       "id" : 12158,
       "verified" : false
     }
@@ -1474,7 +1466,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -1547,7 +1539,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708363316154925056\/deXwIhn8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
       "id" : 635543,
       "verified" : false
     }
@@ -1627,7 +1619,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "notasausage",
       "protected" : false,
       "id_str" : "11718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746334254867554304\/f-cwmzFI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790554113406750720\/Uu6V_bsr_normal.jpg",
       "id" : 11718,
       "verified" : false
     }
@@ -2299,7 +2291,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 30380016
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/CatherineDeveny\/status\/211648452612988928\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/CatherineDeveny\/status\/211648452612988928\/photo\/1",
       "indices" : [ 69, 89 ],
       "url" : "http:\/\/t.co\/QXfOBuZw",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Au_tJXOCIAA2KbK.jpg",
@@ -2346,7 +2338,7 @@ Grailbird.data.tweets_2012_06 =
         "id" : 30380016
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/CatherineDeveny\/status\/211648452612988928\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/CatherineDeveny\/status\/211648452612988928\/photo\/1",
         "indices" : [ 57, 77 ],
         "url" : "http:\/\/t.co\/QXfOBuZw",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Au_tJXOCIAA2KbK.jpg",
@@ -2669,7 +2661,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 2414096995
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/utterben\/status\/211796435623092225\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/utterben\/status\/211796435623092225\/photo\/1",
       "indices" : [ 38, 58 ],
       "url" : "http:\/\/t.co\/7nSmchzM",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AvBzvG5CIAA6LMs.jpg",
@@ -2710,7 +2702,7 @@ Grailbird.data.tweets_2012_06 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/utterben\/status\/211796435623092225\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/utterben\/status\/211796435623092225\/photo\/1",
         "indices" : [ 24, 44 ],
         "url" : "http:\/\/t.co\/7nSmchzM",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/AvBzvG5CIAA6LMs.jpg",
@@ -2749,11 +2741,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 211796435623092225,
     "created_at" : "2012-06-10 12:26:21 +0000",
     "user" : {
-      "name" : "Ben",
-      "screen_name" : "benhorsleycom",
+      "name" : "Ben Horsley",
+      "screen_name" : "benhorsleyco",
       "protected" : false,
       "id_str" : "132634016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719232349981052929\/p83W8wnV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/810559174291705856\/U6hVS9dN_normal.jpg",
       "id" : 132634016,
       "verified" : false
     }
@@ -2832,12 +2824,7 @@ Grailbird.data.tweets_2012_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/diNKpd4S",
-      "expanded_url" : "https:\/\/twitter.com\/settings\/password",
-      "display_url" : "twitter.com\/settings\/passw\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "211184408697376770",
@@ -3112,10 +3099,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 9159232
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "summonthebanners",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -3298,12 +3282,6 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 3, 12 ],
       "id_str" : "1847381",
       "id" : 1847381
-    }, {
-      "name" : "LinkedIn",
-      "screen_name" : "LinkedIn",
-      "indices" : [ 139, 140 ],
-      "id_str" : "13058772",
-      "id" : 13058772
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3720,18 +3698,6 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 3, 11 ],
       "id_str" : "20237160",
       "id" : 20237160
-    }, {
-      "name" : "Dee Sadler",
-      "screen_name" : "DeeSadler",
-      "indices" : [ 139, 140 ],
-      "id_str" : "6877102",
-      "id" : 6877102
-    }, {
-      "name" : "Dave Hogue",
-      "screen_name" : "DaveHogue",
-      "indices" : [ 139, 140 ],
-      "id_str" : "18826637",
-      "id" : 18826637
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3758,7 +3724,7 @@ Grailbird.data.tweets_2012_06 =
         "id_str" : "6877102",
         "id" : 6877102
       }, {
-        "name" : "Dave Hogue",
+        "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
         "screen_name" : "DaveHogue",
         "indices" : [ 129, 139 ],
         "id_str" : "18826637",

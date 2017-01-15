@@ -247,6 +247,31 @@ Grailbird.data.tweets_2009_07 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "CSSsummit",
+      "indices" : [ 61, 71 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2706057284",
+  "text" : "\"My cat is trying to get into my office\" - Kimberly Blessing #CSSsummit",
+  "id" : 2706057284,
+  "created_at" : "2009-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CSSsummit",
       "indices" : [ 57, 67 ]
     } ],
     "urls" : [ ]
@@ -580,31 +605,6 @@ Grailbird.data.tweets_2009_07 =
   "created_at" : "2009-07-18 00:00:00 +0000",
   "in_reply_to_screen_name" : "taestell",
   "in_reply_to_user_id_str" : "13524672",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "CSSsummit",
-      "indices" : [ 61, 71 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2706057284",
-  "text" : "\"My cat is trying to get into my office\" - Kimberly Blessing #CSSsummit",
-  "id" : 2706057284,
-  "created_at" : "2009-07-18 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

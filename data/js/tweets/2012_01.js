@@ -519,7 +519,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758159340217987072\/AAPn1bFm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797120468763348993\/2ulLxNju_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -961,12 +961,7 @@ Grailbird.data.tweets_2012_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/UuooLZ15",
-      "expanded_url" : "http:\/\/fb.me\/1eeftRcxa",
-      "display_url" : "fb.me\/1eeftRcxa"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "162249361005346817",
@@ -1325,7 +1320,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F \uD83C\uDF08\u270A\uD83C\uDFFD",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -1352,11 +1347,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 161896092286464001,
     "created_at" : "2012-01-24 19:40:10 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F \uD83C\uDF08\u270A\uD83C\uDFFD",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624710140537753600\/UaYZfDvu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817197288321732609\/Pao5-GFH_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -1890,12 +1885,7 @@ Grailbird.data.tweets_2012_01 =
       "text" : "NDAA",
       "indices" : [ 120, 125 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/ckC7iBMX",
-      "expanded_url" : "http:\/\/tinyurl.com\/835t3gk",
-      "display_url" : "tinyurl.com\/835t3gk"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "159721840363847681",
@@ -2129,7 +2119,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771437669330980864\/_S50nHjx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817785861144096768\/ySDGAT0S_normal.jpg",
       "id" : 4816,
       "verified" : true
     }
@@ -2369,11 +2359,6 @@ Grailbird.data.tweets_2012_01 =
       "url" : "http:\/\/t.co\/8neBx8Wf",
       "expanded_url" : "http:\/\/bit.ly\/zIdZLu",
       "display_url" : "bit.ly\/zIdZLu"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/xHO4A5NX",
-      "expanded_url" : "http:\/\/nytm.org\/sos\/",
-      "display_url" : "nytm.org\/sos\/"
     } ]
   },
   "geo" : { },
@@ -3529,96 +3514,6 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Harvey Keefe",
-      "screen_name" : "efeek",
-      "indices" : [ 3, 9 ],
-      "id_str" : "19642974",
-      "id" : 19642974
-    }, {
-      "name" : "Adobe",
-      "screen_name" : "Adobe",
-      "indices" : [ 11, 17 ],
-      "id_str" : "63786611",
-      "id" : 63786611
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Fireworks",
-      "indices" : [ 25, 35 ]
-    }, {
-      "text" : "UK",
-      "indices" : [ 108, 111 ]
-    }, {
-      "text" : "WebDesign",
-      "indices" : [ 122, 132 ]
-    }, {
-      "text" : "GreatProduct",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "156913285483085824",
-  "text" : "RT @efeek: @Adobe Why is #Fireworks not showing or selectable on the 'All Products' Software screen on your #UK web site? #WebDesign #Gr ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/mike-ward.net\/tweetz.aspx\" rel=\"nofollow\"\u003Etweetz\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Adobe",
-        "screen_name" : "Adobe",
-        "indices" : [ 0, 6 ],
-        "id_str" : "63786611",
-        "id" : 63786611
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Fireworks",
-        "indices" : [ 14, 24 ]
-      }, {
-        "text" : "UK",
-        "indices" : [ 97, 100 ]
-      }, {
-        "text" : "WebDesign",
-        "indices" : [ 111, 121 ]
-      }, {
-        "text" : "GreatProduct",
-        "indices" : [ 122, 135 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "156748960046907392",
-    "in_reply_to_user_id" : 63786611,
-    "text" : "@Adobe Why is #Fireworks not showing or selectable on the 'All Products' Software screen on your #UK web site? #WebDesign #GreatProduct",
-    "id" : 156748960046907392,
-    "created_at" : "2012-01-10 14:47:18 +0000",
-    "in_reply_to_screen_name" : "Adobe",
-    "in_reply_to_user_id_str" : "63786611",
-    "user" : {
-      "name" : "Harvey Keefe",
-      "screen_name" : "efeek",
-      "protected" : false,
-      "id_str" : "19642974",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1239754363\/harvey_normal.png",
-      "id" : 19642974,
-      "verified" : false
-    }
-  },
-  "id" : 156913285483085824,
-  "created_at" : "2012-01-11 01:40:17 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Burak Son",
       "screen_name" : "burakson",
       "indices" : [ 3, 12 ],
@@ -4418,7 +4313,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662275880018907137\/IOU-3pMK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -4501,7 +4396,7 @@ Grailbird.data.tweets_2012_01 =
       "id" : 149387229
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jt_sloosh\/status\/154749590921428993\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/jt_sloosh\/status\/154749590921428993\/photo\/1",
       "indices" : [ 85, 105 ],
       "url" : "http:\/\/t.co\/IweYEiJj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AiXH7txCQAADJtm.jpg",
@@ -4548,7 +4443,7 @@ Grailbird.data.tweets_2012_01 =
         "id" : 149387229
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/jt_sloosh\/status\/154749590921428993\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/jt_sloosh\/status\/154749590921428993\/photo\/1",
         "indices" : [ 65, 85 ],
         "url" : "http:\/\/t.co\/IweYEiJj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/AiXH7txCQAADJtm.jpg",
@@ -4845,7 +4740,13 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jason",
+      "screen_name" : "jasonspeaking",
+      "indices" : [ 3, 17 ],
+      "id_str" : "808739150589411328",
+      "id" : 808739150589411328
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4871,7 +4772,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765898812976082944\/7msUBeK6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817374869348352000\/zN9mBXZ7_normal.jpg",
       "id" : 14123301,
       "verified" : false
     }

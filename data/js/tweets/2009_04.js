@@ -83,9 +83,9 @@ Grailbird.data.tweets_2009_04 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1606438510",
-  "text" : "Found out how to send an email to every uc email - what did I say in the subject - All your base are belong to us, and it worked.",
-  "id" : 1606438510,
+  "id_str" : "1607789089",
+  "text" : "I wish it wasn't so hot today",
+  "id" : 1607789089,
   "created_at" : "2009-04-24 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -105,9 +105,9 @@ Grailbird.data.tweets_2009_04 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1607789089",
-  "text" : "I wish it wasn't so hot today",
-  "id" : 1607789089,
+  "id_str" : "1606438510",
+  "text" : "Found out how to send an email to every uc email - what did I say in the subject - All your base are belong to us, and it worked.",
+  "id" : 1606438510,
   "created_at" : "2009-04-24 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

@@ -41,10 +41,7 @@ Grailbird.data.tweets_2011_12 =
       "id" : 662533
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "adobefireworks",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 114, 134 ],
       "url" : "http:\/\/t.co\/gzMzZ2Ut",
@@ -130,12 +127,7 @@ Grailbird.data.tweets_2011_12 =
       "text" : "Adobe",
       "indices" : [ 72, 78 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/EJWTWHch",
-      "expanded_url" : "http:\/\/ow.ly\/8cQHN",
-      "display_url" : "ow.ly\/8cQHN"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "152909895870586880",
@@ -246,7 +238,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "magnetic libra stuff",
+      "name" : "filth & grace",
       "screen_name" : "ales_kot",
       "indices" : [ 3, 12 ],
       "id_str" : "17885562",
@@ -273,11 +265,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 152415782922485761,
     "created_at" : "2011-12-29 15:48:49 +0000",
     "user" : {
-      "name" : "magnetic libra stuff",
+      "name" : "filth & grace",
       "screen_name" : "ales_kot",
       "protected" : false,
       "id_str" : "17885562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700020194396143616\/-J9AY9hH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797211598838337536\/ndfAQa3f_normal.jpg",
       "id" : 17885562,
       "verified" : false
     }
@@ -617,7 +609,7 @@ Grailbird.data.tweets_2011_12 =
       "id" : 17020986
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/mdixonii\/status\/152139147358908416\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/mdixonii\/status\/152139147358908416\/photo\/1",
       "indices" : [ 110, 130 ],
       "url" : "http:\/\/t.co\/2zk0rleh",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AhyBv5sCMAAOqgS.jpg",
@@ -661,7 +653,7 @@ Grailbird.data.tweets_2011_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/mdixonii\/status\/152139147358908416\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/mdixonii\/status\/152139147358908416\/photo\/1",
         "indices" : [ 96, 116 ],
         "url" : "http:\/\/t.co\/2zk0rleh",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/AhyBv5sCMAAOqgS.jpg",
@@ -955,7 +947,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "VRPornGames",
+      "screen_name" : "SupportVr",
+      "indices" : [ 0, 10 ],
+      "id_str" : "783771296404475904",
+      "id" : 783771296404475904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -977,7 +975,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "VRPornGames",
+      "screen_name" : "SupportVr",
+      "indices" : [ 0, 10 ],
+      "id_str" : "783771296404475904",
+      "id" : 783771296404475904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1296,7 +1300,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "You just got Sue'd",
+      "name" : "The Monster MatanSue",
       "screen_name" : "deathbearbrown",
       "indices" : [ 3, 18 ],
       "id_str" : "21491212",
@@ -1323,11 +1327,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 150311789136064513,
     "created_at" : "2011-12-23 20:28:17 +0000",
     "user" : {
-      "name" : "You just got Sue'd",
+      "name" : "The Monster MatanSue",
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769406829155667968\/vNOQ4za7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798708431389499392\/8KSjA9Sj_normal.jpg",
       "id" : 21491212,
       "verified" : false
     }
@@ -1455,16 +1459,8 @@ Grailbird.data.tweets_2011_12 =
       "id" : 57413205
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "chicago",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/T6IE0Tif",
-      "expanded_url" : "http:\/\/bit.ly\/rI7RQT",
-      "display_url" : "bit.ly\/rI7RQT"
-    } ]
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "149877027057577984",
@@ -1501,7 +1497,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "mpbranigan",
       "protected" : false,
       "id_str" : "212110673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758784149360480256\/yVcOSt32_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819805869370056705\/M7GzySH9_normal.jpg",
       "id" : 212110673,
       "verified" : false
     }
@@ -1562,7 +1558,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "TimMoore",
       "protected" : false,
       "id_str" : "14073438",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766424324769193984\/JiqYxcQ1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816842565970513920\/9IO85lkx_normal.jpg",
       "id" : 14073438,
       "verified" : false
     }
@@ -1794,7 +1790,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "VRPornGames",
+      "screen_name" : "SupportVr",
+      "indices" : [ 0, 10 ],
+      "id_str" : "783771296404475904",
+      "id" : 783771296404475904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1889,7 +1891,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "111783",
       "id" : 111783
     }, {
-      "name" : "(((Chris Heilmann)))",
+      "name" : "Chris Heilmann",
       "screen_name" : "codepo8",
       "indices" : [ 70, 78 ],
       "id_str" : "13567",
@@ -1911,7 +1913,7 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "(((Chris Heilmann)))",
+        "name" : "Chris Heilmann",
         "screen_name" : "codepo8",
         "indices" : [ 55, 63 ],
         "id_str" : "13567",
@@ -1991,12 +1993,7 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/JBpeGF0T",
-      "expanded_url" : "https:\/\/wwws.whitehouse.gov\/petitions\/%21\/petition\/veto-sopa-bill-and-any-other-future-bills-threaten-diminish-free-flow-information\/g3W1BscR",
-      "display_url" : "wwws.whitehouse.gov\/petitions\/%21\/\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "148897978961244160",
@@ -2299,7 +2296,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "CarolynLKent",
       "protected" : false,
       "id_str" : "14289304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775164350524825604\/cosn-zGT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785466704428208128\/8TTtapYF_normal.jpg",
       "id" : 14289304,
       "verified" : false
     }
@@ -2584,12 +2581,7 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/wgl6XoUV",
-      "expanded_url" : "http:\/\/windowsteamblog.com\/ie\/b\/ie\/archive\/2011\/12\/15\/ie-to-start-automatic-upgrades-across-windows-xp-windows-vista-and-windows-7.aspx",
-      "display_url" : "windowsteamblog.com\/ie\/b\/ie\/archiv\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "147341118185545728",
@@ -2706,7 +2698,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802578634510921729\/UCM7pFZX_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -2978,12 +2970,7 @@ Grailbird.data.tweets_2011_12 =
       "text" : "aea",
       "indices" : [ 87, 91 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Opl0C0VZ",
-      "expanded_url" : "http:\/\/gowalla.com\/stories\/5i1qg",
-      "display_url" : "gowalla.com\/stories\/5i1qg"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "146418684108341248",
@@ -3020,7 +3007,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802578634510921729\/UCM7pFZX_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -3892,57 +3879,6 @@ Grailbird.data.tweets_2011_12 =
   "text" : "Nice! \u007BRT @SergioAG10: i would like to thank @06b for helping me with thickbox ... http:\/\/t.co\/vuAhlENG",
   "id" : 144070782048419840,
   "created_at" : "2011-12-06 15:08:45 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Warren Ellis",
-      "screen_name" : "warrenellis",
-      "indices" : [ 3, 15 ],
-      "id_str" : "6297852",
-      "id" : 6297852
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "144049194481627138",
-  "text" : "RT @warrenellis: I have been awake since 9am and I am here to tell you that this morning business is in my considered opinion bullshit",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "144048873457991682",
-    "text" : "I have been awake since 9am and I am here to tell you that this morning business is in my considered opinion bullshit",
-    "id" : 144048873457991682,
-    "created_at" : "2011-12-06 13:41:42 +0000",
-    "user" : {
-      "name" : "Warren Ellis",
-      "screen_name" : "warrenellis",
-      "protected" : false,
-      "id_str" : "6297852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564045995429093376\/8rnFDa1U_normal.jpeg",
-      "id" : 6297852,
-      "verified" : true
-    }
-  },
-  "id" : 144049194481627138,
-  "created_at" : "2011-12-06 13:42:58 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

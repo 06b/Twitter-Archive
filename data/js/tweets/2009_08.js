@@ -8,9 +8,9 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3698241798",
-  "text" : "Dear Sega, Make a Dreamcast 2.",
-  "id" : 3698241798,
+  "id_str" : "3693481822",
+  "text" : "Haha, first line in spam email - \"Girls don't like you?\" - lol, nope, they think I'm creepy. Thanks spam.",
+  "id" : 3693481822,
   "created_at" : "2009-09-01 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -30,9 +30,9 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3693481822",
-  "text" : "Haha, first line in spam email - \"Girls don't like you?\" - lol, nope, they think I'm creepy. Thanks spam.",
-  "id" : 3693481822,
+  "id_str" : "3698241798",
+  "text" : "Dear Sega, Make a Dreamcast 2.",
+  "id" : 3698241798,
   "created_at" : "2009-09-01 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

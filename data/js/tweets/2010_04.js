@@ -2236,6 +2236,31 @@ Grailbird.data.tweets_2010_04 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "AdobeWKShop10",
+      "indices" : [ 64, 78 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12701630908",
+  "text" : "I wish I had more ram or at least a better processor  for CS5 - #AdobeWKShop10",
+  "id" : 12701630908,
+  "created_at" : "2010-04-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "AdobeWKShop10",
       "indices" : [ 36, 50 ]
     } ],
     "urls" : [ ]
@@ -2639,10 +2664,7 @@ Grailbird.data.tweets_2010_04 =
       "id" : 112919156
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "AdobeWKShop10",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2927,7 +2949,13 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jason",
+      "screen_name" : "jasonspeaking",
+      "indices" : [ 3, 17 ],
+      "id_str" : "808739150589411328",
+      "id" : 808739150589411328
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2953,7 +2981,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765898812976082944\/7msUBeK6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817374869348352000\/zN9mBXZ7_normal.jpg",
       "id" : 14123301,
       "verified" : false
     }
@@ -3717,31 +3745,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12701109683",
   "text" : "\"Anyone using CS or below - get out\" LOL  #AdobeWKShop10",
   "id" : 12701109683,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "AdobeWKShop10",
-      "indices" : [ 64, 78 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12701630908",
-  "text" : "I wish I had more ram or at least a better processor  for CS5 - #AdobeWKShop10",
-  "id" : 12701630908,
   "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -4533,7 +4536,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -4813,6 +4816,63 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "I Love Typography",
+      "screen_name" : "ilovetypography",
+      "indices" : [ 3, 19 ],
+      "id_str" : "9779032",
+      "id" : 9779032
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "longs",
+      "indices" : [ 75, 81 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12316319575",
+  "text" : "RT @ilovetypography: Baskerville might have said, Don\u2018t \u017Fuck with my type. #longs",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "longs",
+        "indices" : [ 54, 60 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "12315336949",
+    "text" : "Baskerville might have said, Don\u2018t \u017Fuck with my type. #longs",
+    "id" : 12315336949,
+    "created_at" : "2010-04-17 01:13:14 +0000",
+    "user" : {
+      "name" : "I Love Typography",
+      "screen_name" : "ilovetypography",
+      "protected" : false,
+      "id_str" : "9779032",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698823056412659712\/kJcgNyD7_normal.png",
+      "id" : 9779032,
+      "verified" : true
+    }
+  },
+  "id" : 12316319575,
+  "created_at" : "2010-04-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4933,63 +4993,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12363655226",
   "text" : "Step 1 - Complete, Begin Step 2 - Shock Collars",
   "id" : 12363655226,
-  "created_at" : "2010-04-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "I Love Typography",
-      "screen_name" : "ilovetypography",
-      "indices" : [ 3, 19 ],
-      "id_str" : "9779032",
-      "id" : 9779032
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "longs",
-      "indices" : [ 75, 81 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12316319575",
-  "text" : "RT @ilovetypography: Baskerville might have said, Don\u2018t \u017Fuck with my type. #longs",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "longs",
-        "indices" : [ 54, 60 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12315336949",
-    "text" : "Baskerville might have said, Don\u2018t \u017Fuck with my type. #longs",
-    "id" : 12315336949,
-    "created_at" : "2010-04-17 01:13:14 +0000",
-    "user" : {
-      "name" : "I Love Typography",
-      "screen_name" : "ilovetypography",
-      "protected" : false,
-      "id_str" : "9779032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698823056412659712\/kJcgNyD7_normal.png",
-      "id" : 9779032,
-      "verified" : true
-    }
-  },
-  "id" : 12316319575,
   "created_at" : "2010-04-17 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -6035,10 +6038,7 @@ Grailbird.data.tweets_2010_04 =
       "id" : 12741
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "thereisnofold",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -6065,13 +6065,50 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
   },
   "id" : 12126424546,
   "created_at" : "2010-04-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "rhuk",
+      "screen_name" : "rhuk",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14436881",
+      "id" : 14436881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fireworks",
+      "indices" : [ 76, 86 ]
+    }, {
+      "text" : "CS5",
+      "indices" : [ 87, 91 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12052848723",
+  "in_reply_to_user_id" : 14436881,
+  "text" : "@rhuk A \"red headed step child\" would get more love than what adobe gave to #fireworks #CS5",
+  "id" : 12052848723,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "rhuk",
+  "in_reply_to_user_id_str" : "14436881",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -6585,7 +6622,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -7143,43 +7180,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "rhuk",
-      "screen_name" : "rhuk",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14436881",
-      "id" : 14436881
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fireworks",
-      "indices" : [ 76, 86 ]
-    }, {
-      "text" : "CS5",
-      "indices" : [ 87, 91 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12052848723",
-  "in_reply_to_user_id" : 14436881,
-  "text" : "@rhuk A \"red headed step child\" would get more love than what adobe gave to #fireworks #CS5",
-  "id" : 12052848723,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "rhuk",
-  "in_reply_to_user_id_str" : "14436881",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -7188,12 +7188,6 @@ Grailbird.data.tweets_2010_04 =
       "indices" : [ 3, 19 ],
       "id_str" : "9779032",
       "id" : 9779032
-    }, {
-      "name" : "Kunihiko Okano",
-      "screen_name" : "Shotype_EN",
-      "indices" : [ 139, 140 ],
-      "id_str" : "76253085",
-      "id" : 76253085
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7809,7 +7803,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "7912462",
       "id" : 7912462
     }, {
-      "name" : "Dave Hogue",
+      "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
       "screen_name" : "DaveHogue",
       "indices" : [ 77, 87 ],
       "id_str" : "18826637",
@@ -7829,7 +7823,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dave Hogue",
+        "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
         "screen_name" : "DaveHogue",
         "indices" : [ 60, 70 ],
         "id_str" : "18826637",
@@ -8111,6 +8105,57 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dan Rubin",
+      "screen_name" : "danrubin",
+      "indices" : [ 3, 12 ],
+      "id_str" : "12741",
+      "id" : 12741
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11695310006",
+  "text" : "RT @danrubin: CSS3 is wonderful. For us. Users don't care if you use CSS, Flash, images or pixie dust to build a site, only that it is e ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "11678944921",
+    "text" : "CSS3 is wonderful. For us. Users don't care if you use CSS, Flash, images or pixie dust to build a site, only that it is easy to use.",
+    "id" : 11678944921,
+    "created_at" : "2010-04-06 03:39:10 +0000",
+    "user" : {
+      "name" : "Dan Rubin",
+      "screen_name" : "danrubin",
+      "protected" : false,
+      "id_str" : "12741",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807301433154535424\/RV3fSOsw_normal.jpg",
+      "id" : 12741,
+      "verified" : true
+    }
+  },
+  "id" : 11695310006,
+  "created_at" : "2010-04-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8176,57 +8221,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-06 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662854257914331136\/jkY6-fhG_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dan Rubin",
-      "screen_name" : "danrubin",
-      "indices" : [ 3, 12 ],
-      "id_str" : "12741",
-      "id" : 12741
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11695310006",
-  "text" : "RT @danrubin: CSS3 is wonderful. For us. Users don't care if you use CSS, Flash, images or pixie dust to build a site, only that it is e ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "11678944921",
-    "text" : "CSS3 is wonderful. For us. Users don't care if you use CSS, Flash, images or pixie dust to build a site, only that it is easy to use.",
-    "id" : 11678944921,
-    "created_at" : "2010-04-06 03:39:10 +0000",
-    "user" : {
-      "name" : "Dan Rubin",
-      "screen_name" : "danrubin",
-      "protected" : false,
-      "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711643891502616577\/a38lbdQ5_normal.jpg",
-      "id" : 12741,
-      "verified" : true
-    }
-  },
-  "id" : 11695310006,
-  "created_at" : "2010-04-06 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
