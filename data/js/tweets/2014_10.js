@@ -1386,7 +1386,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "AlyssaNicoll",
       "protected" : false,
       "id_str" : "270969898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761638189178191872\/2Hy5MslV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869723203094159360\/OpvyWbNf_normal.jpg",
       "id" : 270969898,
       "verified" : false
     }
@@ -1853,7 +1853,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "635543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
       "id" : 635543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 527142388792168448,
@@ -3515,7 +3515,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "123323498",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436965007981420544\/JGJx90PF_normal.jpeg",
       "id" : 123323498,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 525268779719491584,
@@ -3707,7 +3707,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "indices" : [ 3, 14 ],
       "id_str" : "7103272",
@@ -3791,7 +3791,7 @@ Grailbird.data.tweets_2014_10 =
     "in_reply_to_screen_name" : "html5",
     "in_reply_to_user_id_str" : "14895831",
     "user" : {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "protected" : false,
       "id_str" : "7103272",
@@ -5232,7 +5232,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "DesignUXUI",
       "protected" : false,
       "id_str" : "188468721",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479700179713413120\/M7kSBihd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867542057103097856\/Cql9j_Hu_normal.jpg",
       "id" : 188468721,
       "verified" : false
     }
@@ -5303,7 +5303,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -5352,7 +5352,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 523128545888194560,
     "created_at" : "2014-10-17 15:08:59 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -9456,7 +9456,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "davegorum",
       "protected" : false,
       "id_str" : "15729558",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766732384490418177\/0jxZqBPM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857673081376174084\/MrXEWXwH_normal.jpg",
       "id" : 15729558,
       "verified" : false
     }
@@ -9930,7 +9930,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "mattzollerseitz",
       "protected" : false,
       "id_str" : "138416662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746759924621934593\/Yu4MbSjL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864818091640934400\/9OM3Y6li_normal.jpg",
       "id" : 138416662,
       "verified" : false
     }
@@ -11443,7 +11443,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the days when beans",
+      "name" : "GoogleDocsVEVO",
       "screen_name" : "vogon",
       "indices" : [ 3, 9 ],
       "id_str" : "6326912",
@@ -11475,7 +11475,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 517436565375565824,
     "created_at" : "2014-10-01 22:11:05 +0000",
     "user" : {
-      "name" : "the days when beans",
+      "name" : "GoogleDocsVEVO",
       "screen_name" : "vogon",
       "protected" : false,
       "id_str" : "6326912",

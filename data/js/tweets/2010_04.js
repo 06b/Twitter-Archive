@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849157506152755202\/rcfNp4EL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }

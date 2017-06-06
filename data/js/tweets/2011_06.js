@@ -7293,7 +7293,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -7320,7 +7320,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 81735247238148096,
     "created_at" : "2011-06-17 14:49:36 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",

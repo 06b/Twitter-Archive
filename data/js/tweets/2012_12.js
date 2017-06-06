@@ -857,7 +857,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849157506152755202\/rcfNp4EL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -3224,7 +3224,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "nickf",
       "protected" : false,
       "id_str" : "45733",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/58550215\/nickfinck_square_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861375411359371264\/heZuOnWA_normal.jpg",
       "id" : 45733,
       "verified" : false
     }
@@ -3266,7 +3266,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -3315,7 +3315,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 275997699818520576,
     "created_at" : "2012-12-04 16:19:14 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",

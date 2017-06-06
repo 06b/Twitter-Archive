@@ -184,7 +184,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -211,7 +211,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 208070559832096768,
     "created_at" : "2012-05-31 05:41:01 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -1214,7 +1214,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "24765829",
       "id" : 24765829
     }, {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 77, 88 ],
       "id_str" : "11855482",
@@ -1236,7 +1236,7 @@ Grailbird.data.tweets_2012_05 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+        "name" : "Brad Frost \uD83C\uDF0E",
         "screen_name" : "brad_frost",
         "indices" : [ 60, 71 ],
         "id_str" : "11855482",
@@ -1630,7 +1630,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1657,7 +1657,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 204220005448040448,
     "created_at" : "2012-05-20 14:40:18 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -1738,7 +1738,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "22253",
       "id" : 22253
     }, {
-      "name" : "LinkedInWell Miranda",
+      "name" : "Matt May",
       "screen_name" : "mattmay",
       "indices" : [ 119, 127 ],
       "id_str" : "2223571",
@@ -1758,7 +1758,7 @@ Grailbird.data.tweets_2012_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "LinkedInWell Miranda",
+        "name" : "Matt May",
         "screen_name" : "mattmay",
         "indices" : [ 105, 113 ],
         "id_str" : "2223571",
@@ -2985,7 +2985,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -3012,7 +3012,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200286593532182529,
     "created_at" : "2012-05-09 18:10:19 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",

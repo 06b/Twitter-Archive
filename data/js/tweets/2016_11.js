@@ -180,7 +180,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "SkyorZX",
       "protected" : false,
       "id_str" : "298004921",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853707231925293056\/l4_21gw7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862737788826988544\/HSoZZtOO_normal.jpg",
       "id" : 298004921,
       "verified" : false
     }
@@ -947,7 +947,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 803699329559134210,
     "created_at" : "2016-11-29 20:37:06 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -1054,7 +1054,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ben\u2122 \uD83C\uDF39",
+      "name" : "Secret Goth\u2122",
       "screen_name" : "benicus_rex",
       "indices" : [ 3, 15 ],
       "id_str" : "3463600153",
@@ -1141,11 +1141,11 @@ Grailbird.data.tweets_2016_11 =
     "id" : 703349191326564355,
     "created_at" : "2016-02-26 22:41:29 +0000",
     "user" : {
-      "name" : "ben\u2122 \uD83C\uDF39",
+      "name" : "Secret Goth\u2122",
       "screen_name" : "benicus_rex",
       "protected" : false,
       "id_str" : "3463600153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854026948384768000\/7OMVg5RB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860702446506582018\/QhUv-PgD_normal.jpg",
       "id" : 3463600153,
       "verified" : false
     }
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "indices" : [ 3, 17 ],
       "id_str" : "16008617",
@@ -1435,7 +1435,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 802559764278353920,
     "created_at" : "2016-11-26 17:08:53 +0000",
     "user" : {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "protected" : false,
       "id_str" : "16008617",
@@ -1581,7 +1581,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "indices" : [ 3, 17 ],
       "id_str" : "16008617",
@@ -1608,7 +1608,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 802391025461272576,
     "created_at" : "2016-11-26 05:58:22 +0000",
     "user" : {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "protected" : false,
       "id_str" : "16008617",
@@ -1903,7 +1903,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "FreddyAmazin",
       "protected" : false,
       "id_str" : "61003804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856401278917672960\/R76wlmQ6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867512315339558913\/kVkKtamw_normal.jpg",
       "id" : 61003804,
       "verified" : true
     }
@@ -2089,7 +2089,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Darby",
+      "name" : "Tom Darby \u26D4\uFE0F",
       "screen_name" : "magicChopstick",
       "indices" : [ 3, 18 ],
       "id_str" : "18417857",
@@ -2116,7 +2116,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 800761926196162560,
     "created_at" : "2016-11-21 18:04:55 +0000",
     "user" : {
-      "name" : "Tom Darby",
+      "name" : "Tom Darby \u26D4\uFE0F",
       "screen_name" : "magicChopstick",
       "protected" : false,
       "id_str" : "18417857",
@@ -2635,7 +2635,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "indices" : [ 3, 17 ],
       "id_str" : "16008617",
@@ -2722,7 +2722,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 800357990767284226,
     "created_at" : "2016-11-20 15:19:49 +0000",
     "user" : {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "protected" : false,
       "id_str" : "16008617",
@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2016_11 =
       "id_str" : "17331901",
       "id" : 17331901
     }, {
-      "name" : "Ana Tudor \uD83D\uDC2F \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Ana Tudor \uD83D\uDC2F",
       "screen_name" : "anatudor",
       "indices" : [ 15, 24 ],
       "id_str" : "90221168",
@@ -3052,7 +3052,7 @@ Grailbird.data.tweets_2016_11 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ana Tudor \uD83D\uDC2F \uD83C\uDDE9\uD83C\uDDEA",
+        "name" : "Ana Tudor \uD83D\uDC2F",
         "screen_name" : "anatudor",
         "indices" : [ 0, 9 ],
         "id_str" : "90221168",
@@ -4183,7 +4183,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF27\uD83D\uDCA7 eevee \uD83D\uDCA7\uD83C\uDF27",
+      "name" : "\uD83C\uDF1E\uD83C\uDFD6 eevee \uD83C\uDFD6\uD83C\uDF1E",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -4270,11 +4270,11 @@ Grailbird.data.tweets_2016_11 =
     "id" : 799078847006154752,
     "created_at" : "2016-11-17 02:36:57 +0000",
     "user" : {
-      "name" : "\uD83C\uDF27\uD83D\uDCA7 eevee \uD83D\uDCA7\uD83C\uDF27",
+      "name" : "\uD83C\uDF1E\uD83C\uDFD6 eevee \uD83C\uDFD6\uD83C\uDF1E",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848612752205660160\/bvN8k_1N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870472485321363456\/VjPvng-x_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -4294,7 +4294,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sugar & Spice Bitch",
+      "name" : "Cranky Bitch",
       "screen_name" : "SamuraiKnitter",
       "indices" : [ 3, 18 ],
       "id_str" : "23450564",
@@ -4331,7 +4331,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 798914000838737920,
     "created_at" : "2016-11-16 15:41:55 +0000",
     "user" : {
-      "name" : "Sugar & Spice Bitch",
+      "name" : "Cranky Bitch",
       "screen_name" : "SamuraiKnitter",
       "protected" : false,
       "id_str" : "23450564",
@@ -6029,7 +6029,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens\u2122",
+      "name" : "rstevens \u2615\uFE0F",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -6056,7 +6056,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 796242002371375104,
     "created_at" : "2016-11-09 06:44:21 +0000",
     "user" : {
-      "name" : "rstevens\u2122",
+      "name" : "rstevens \u2615\uFE0F",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -6131,7 +6131,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF5CMei Uprising\uD83C\uDF5C",
+      "name" : "\uD83C\uDF5CKaren-Ling Zhou\uD83C\uDF5C",
       "screen_name" : "Malkythera",
       "indices" : [ 3, 14 ],
       "id_str" : "349382899",
@@ -6158,11 +6158,11 @@ Grailbird.data.tweets_2016_11 =
     "id" : 796207656109297665,
     "created_at" : "2016-11-09 04:27:52 +0000",
     "user" : {
-      "name" : "\uD83C\uDF5CMei Uprising\uD83C\uDF5C",
+      "name" : "\uD83C\uDF5CKaren-Ling Zhou\uD83C\uDF5C",
       "screen_name" : "Malkythera",
       "protected" : false,
       "id_str" : "349382899",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854484188338077696\/MT8ile56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870127932563349504\/f_LYM8eu_normal.jpg",
       "id" : 349382899,
       "verified" : false
     }
@@ -7229,7 +7229,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "indices" : [ 3, 14 ],
       "id_str" : "7103272",
@@ -7322,7 +7322,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 794955449787248640,
     "created_at" : "2016-11-05 17:32:03 +0000",
     "user" : {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "protected" : false,
       "id_str" : "7103272",
@@ -7371,7 +7371,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "indices" : [ 3, 17 ],
       "id_str" : "16008617",
@@ -7398,7 +7398,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 794379167231975424,
     "created_at" : "2016-11-04 03:22:06 +0000",
     "user" : {
-      "name" : "Heidi Hits Nazis",
+      "name" : "Heidi Hits Children",
       "screen_name" : "heiditron3000",
       "protected" : false,
       "id_str" : "16008617",
@@ -8628,7 +8628,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855348045365608449\/sj_jFPYT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870241356970692608\/dEKglLpf_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }

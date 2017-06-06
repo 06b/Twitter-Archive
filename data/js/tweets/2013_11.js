@@ -678,7 +678,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -715,7 +715,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 404752630729023488,
     "created_at" : "2013-11-24 23:25:21 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -927,7 +927,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856522271632052224\/mLhc0-WI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -1984,11 +1984,11 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Z",
+      "name" : "Zee",
       "screen_name" : "zspencer",
       "indices" : [ 3, 12 ],
-      "id_str" : "4076569212",
-      "id" : 4076569212
+      "id_str" : "756161",
+      "id" : 756161
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2012,7 +2012,7 @@ Grailbird.data.tweets_2013_11 =
     "created_at" : "2013-11-18 17:14:33 +0000",
     "user" : {
       "name" : "Zee",
-      "screen_name" : "_zspencer",
+      "screen_name" : "zspencer",
       "protected" : false,
       "id_str" : "756161",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540237689392361472\/f96ILqGI_normal.jpeg",
@@ -2237,7 +2237,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -2264,7 +2264,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 400694582071263232,
     "created_at" : "2013-11-13 18:40:07 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -3221,87 +3221,6 @@ Grailbird.data.tweets_2013_11 =
   },
   "id" : 397877176998961153,
   "created_at" : "2013-11-06 00:04:45 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MonkeyDog",
-      "screen_name" : "monkeydogify",
-      "indices" : [ 3, 16 ],
-      "id_str" : "25977505",
-      "id" : 25977505
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "397719172852875266",
-  "text" : "RT @monkeydogify: It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1P\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/monkeydogify\/status\/396950337749549056\/photo\/1",
-        "indices" : [ 106, 128 ],
-        "url" : "http:\/\/t.co\/o1PMj8571x",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
-        "id_str" : "396950337598545920",
-        "id" : 396950337598545920,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
-        "sizes" : [ {
-          "h" : 166,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 94,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 284,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 284,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/o1PMj8571x"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "396950337749549056",
-    "text" : "It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1PMj8571x",
-    "id" : 396950337749549056,
-    "created_at" : "2013-11-03 10:41:50 +0000",
-    "user" : {
-      "name" : "MonkeyDog",
-      "screen_name" : "monkeydogify",
-      "protected" : false,
-      "id_str" : "25977505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852252849845280768\/VCYIxQ06_normal.jpg",
-      "id" : 25977505,
-      "verified" : false
-    }
-  },
-  "id" : 397719172852875266,
-  "created_at" : "2013-11-05 13:36:54 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

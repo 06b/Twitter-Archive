@@ -6120,7 +6120,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "chrisbolton",
       "protected" : false,
       "id_str" : "17829574",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742704298258206720\/dGbQNUjU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859495747330420736\/ijZFPkzx_normal.jpg",
       "id" : 17829574,
       "verified" : false
     }

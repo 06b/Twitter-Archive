@@ -248,7 +248,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam Shull",
+      "name" : "Sam Shull @ \uD83C\uDDED\uD83C\uDDF7",
       "screen_name" : "samshull",
       "indices" : [ 3, 12 ],
       "id_str" : "34003360",
@@ -287,7 +287,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 97047528704442368,
     "created_at" : "2011-07-29 20:55:08 +0000",
     "user" : {
-      "name" : "Sam Shull",
+      "name" : "Sam Shull @ \uD83C\uDDED\uD83C\uDDF7",
       "screen_name" : "samshull",
       "protected" : false,
       "id_str" : "34003360",
@@ -1162,7 +1162,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "pixelmelter",
       "protected" : false,
       "id_str" : "15020422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855066709459218432\/YY84-0dB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859037439389835264\/DbtsAXzE_normal.jpg",
       "id" : 15020422,
       "verified" : false
     }
@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leah Culver",
+      "name" : "Leah \uF8FF WWDC",
       "screen_name" : "leahculver",
       "indices" : [ 0, 11 ],
       "id_str" : "662433",
@@ -2818,7 +2818,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "635543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
       "id" : 635543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 95922750107041792,
@@ -4490,7 +4490,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849157506152755202\/rcfNp4EL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -5065,7 +5065,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "32221832",
       "id" : 32221832
     }, {
-      "name" : "\u3071\u3093\u3060",
+      "name" : "\u308A\u3068\u308B\u3050\u308A\u30FC\u3093\u3081\u3093",
       "screen_name" : "NotchUP",
       "indices" : [ 78, 86 ],
       "id_str" : "618109015",
@@ -5090,7 +5090,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u3071\u3093\u3060",
+        "name" : "\u308A\u3068\u308B\u3050\u308A\u30FC\u3093\u3081\u3093",
         "screen_name" : "NotchUP",
         "indices" : [ 61, 69 ],
         "id_str" : "618109015",
@@ -10098,7 +10098,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Rockfish",
       "protected" : false,
       "id_str" : "16810823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463388767940665345\/l_hLT0cz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865280979660820480\/4DHM_Hnd_normal.jpg",
       "id" : 16810823,
       "verified" : false
     }

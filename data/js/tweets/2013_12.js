@@ -806,7 +806,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -893,7 +893,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 415507112232755200,
     "created_at" : "2013-12-24 15:39:49 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -2508,7 +2508,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -2535,7 +2535,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 411105753924382721,
     "created_at" : "2013-12-12 12:10:24 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -2661,7 +2661,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u200Brem",
+      "name" : "@rem",
       "screen_name" : "rem",
       "indices" : [ 3, 7 ],
       "id_str" : "648873",
@@ -2688,7 +2688,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410738685941141504,
     "created_at" : "2013-12-11 11:51:48 +0000",
     "user" : {
-      "name" : "\u200Brem",
+      "name" : "@rem",
       "screen_name" : "rem",
       "protected" : false,
       "id_str" : "648873",
@@ -3423,7 +3423,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2661",
+      "name" : "kels",
       "screen_name" : "kelsroaach",
       "indices" : [ 3, 14 ],
       "id_str" : "2182871491",
@@ -3480,11 +3480,11 @@ Grailbird.data.tweets_2013_12 =
     "id" : 408383980870701056,
     "created_at" : "2013-12-04 23:55:03 +0000",
     "user" : {
-      "name" : "\u2661",
+      "name" : "kels",
       "screen_name" : "kelsroaach",
       "protected" : false,
       "id_str" : "2182871491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853550517125074944\/g3A3XFgh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/868593397958889472\/O3meSJMP_normal.jpg",
       "id" : 2182871491,
       "verified" : false
     }
@@ -4244,7 +4244,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -4271,7 +4271,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 407890526445129728,
     "created_at" : "2013-12-03 15:14:14 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",

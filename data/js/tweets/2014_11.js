@@ -789,7 +789,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849157506152755202\/rcfNp4EL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -994,7 +994,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -1081,7 +1081,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 537229267520999424,
     "created_at" : "2014-11-25 13:00:13 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -1691,7 +1691,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "karlou",
       "protected" : false,
       "id_str" : "20137884",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834181400039419904\/SU7RAL-G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865000452286328833\/LBzcJ7Oy_normal.jpg",
       "id" : 20137884,
       "verified" : false
     }
@@ -1762,7 +1762,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lameghostpurrp",
+      "name" : "\u0262\u029C\u1D0Fs\u1D1B\u0493\u1D00\u1D04\u1D07",
       "screen_name" : "xanmurai",
       "indices" : [ 3, 12 ],
       "id_str" : "386774413",
@@ -1789,11 +1789,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 535598349882515457,
     "created_at" : "2014-11-21 00:59:32 +0000",
     "user" : {
-      "name" : "lameghostpurrp",
+      "name" : "\u0262\u029C\u1D0Fs\u1D1B\u0493\u1D00\u1D04\u1D07",
       "screen_name" : "xanmurai",
       "protected" : false,
       "id_str" : "386774413",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856254103726559232\/3k4r2j_-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871065112739815426\/ktZAQNLQ_normal.jpg",
       "id" : 386774413,
       "verified" : false
     }
@@ -1813,7 +1813,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Sobot \uD83C\uDDE8\uD83C\uDDE6",
+      "name" : "Peter Sobot",
       "screen_name" : "psobot",
       "indices" : [ 3, 10 ],
       "id_str" : "19135819",
@@ -1900,7 +1900,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 535661598585913344,
     "created_at" : "2014-11-21 05:10:51 +0000",
     "user" : {
-      "name" : "Peter Sobot \uD83C\uDDE8\uD83C\uDDE6",
+      "name" : "Peter Sobot",
       "screen_name" : "psobot",
       "protected" : false,
       "id_str" : "19135819",
@@ -2220,7 +2220,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "liz_buckley",
       "protected" : false,
       "id_str" : "18760928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/810064182620160001\/3RvXxPx6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866022957575020546\/NJAh1DPA_normal.jpg",
       "id" : 18760928,
       "verified" : false
     }
@@ -3654,7 +3654,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "briancavalier",
       "protected" : false,
       "id_str" : "71643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849230864152236032\/QAYnLGpg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863713720668753920\/KPP7ZeZd_normal.jpg",
       "id" : 71643,
       "verified" : false
     }
@@ -6890,7 +6890,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -7037,7 +7037,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 529638151997100032,
     "created_at" : "2014-11-04 14:15:50 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -7102,7 +7102,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856522271632052224\/mLhc0-WI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -7178,7 +7178,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -7222,7 +7222,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 529236848548540416,
     "created_at" : "2014-11-03 11:41:12 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -7695,7 +7695,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "indices" : [ 3, 14 ],
       "id_str" : "7103272",
@@ -7756,7 +7756,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 527715633136300033,
     "created_at" : "2014-10-30 06:56:26 +0000",
     "user" : {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "protected" : false,
       "id_str" : "7103272",
@@ -7917,97 +7917,6 @@ Grailbird.data.tweets_2014_11 =
   "text" : "#NancyFX sticker acquired! Thanks @TheCodeJunkie :) http:\/\/t.co\/0Cjd8YPiPd",
   "id" : 528761660702724097,
   "created_at" : "2014-11-02 04:12:58 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Erik Meyersson",
-      "screen_name" : "emeyersson",
-      "indices" : [ 3, 14 ],
-      "id_str" : "17020885",
-      "id" : 17020885
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 110, 132 ],
-      "url" : "http:\/\/t.co\/0iFil6zRSh",
-      "expanded_url" : "http:\/\/i100.independent.co.uk\/article\/theres-something-very-wrong-with-this-photo-of-kim-jongun--lJoGJj8xDx",
-      "display_url" : "i100.independent.co.uk\/article\/theres\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "528757666622242816",
-  "text" : "RT @emeyersson: There's some supreme political dissidence being carried out directly behind Kim\u2019s back here.  http:\/\/t.co\/0iFil6zRSh http:\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/emeyersson\/status\/528689539200847872\/photo\/1",
-        "indices" : [ 117, 139 ],
-        "url" : "http:\/\/t.co\/vxNzOydP8G",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B1ZIU9NIUAApuVV.jpg",
-        "id_str" : "528689531126829056",
-        "id" : 528689531126829056,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B1ZIU9NIUAApuVV.jpg",
-        "sizes" : [ {
-          "h" : 764,
-          "resize" : "fit",
-          "w" : 990
-        }, {
-          "h" : 764,
-          "resize" : "fit",
-          "w" : 990
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 262,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 463,
-          "resize" : "fit",
-          "w" : 600
-        } ],
-        "display_url" : "pic.twitter.com\/vxNzOydP8G"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 94, 116 ],
-        "url" : "http:\/\/t.co\/0iFil6zRSh",
-        "expanded_url" : "http:\/\/i100.independent.co.uk\/article\/theres-something-very-wrong-with-this-photo-of-kim-jongun--lJoGJj8xDx",
-        "display_url" : "i100.independent.co.uk\/article\/theres\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "528689539200847872",
-    "text" : "There's some supreme political dissidence being carried out directly behind Kim\u2019s back here.  http:\/\/t.co\/0iFil6zRSh http:\/\/t.co\/vxNzOydP8G",
-    "id" : 528689539200847872,
-    "created_at" : "2014-11-01 23:26:23 +0000",
-    "user" : {
-      "name" : "Erik Meyersson",
-      "screen_name" : "emeyersson",
-      "protected" : false,
-      "id_str" : "17020885",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820316857932644353\/BU5L8fYN_normal.jpg",
-      "id" : 17020885,
-      "verified" : false
-    }
-  },
-  "id" : 528757666622242816,
-  "created_at" : "2014-11-02 03:57:06 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

@@ -769,7 +769,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "garannm",
       "protected" : false,
       "id_str" : "15989423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824708582759432192\/wOtI0knw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869251510974242817\/f_qFc-wc_normal.jpg",
       "id" : 15989423,
       "verified" : false
     }
@@ -1263,7 +1263,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "19689870",
       "id" : 19689870
     }, {
-      "name" : "SCARLIP\uD83C\uDF6DP",
+      "name" : "Scarlett Stack",
       "screen_name" : "scarlipop",
       "indices" : [ 21, 31 ],
       "id_str" : "29227280",
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2011_10 =
     "source" : "\u003Ca href=\"http:\/\/trillian.im\/\" rel=\"nofollow\"\u003ETrillian\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "SCARLIP\uD83C\uDF6DP",
+        "name" : "Scarlett Stack",
         "screen_name" : "scarlipop",
         "indices" : [ 3, 13 ],
         "id_str" : "29227280",
@@ -4190,7 +4190,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "635543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
       "id" : 635543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 124301097673293824,

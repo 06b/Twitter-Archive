@@ -8033,7 +8033,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856522271632052224\/mLhc0-WI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -10130,6 +10130,57 @@ Grailbird.data.tweets_2011_02 =
   "text" : "So many recruiters so dizzy",
   "id" : 34717174006292481,
   "created_at" : "2011-02-07 20:56:33 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aegir Hallmundur \uD83C\uDDEA\uD83C\uDDFA",
+      "screen_name" : "aegirthor",
+      "indices" : [ 3, 13 ],
+      "id_str" : "757417",
+      "id" : 757417
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "34710035099553792",
+  "text" : "RT @aegirthor: Dear all websites. Don't redirect the iPad (or any tablet for that matter) to a phone optimised site. It looks shit and i ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "34707746020392961",
+    "text" : "Dear all websites. Don't redirect the iPad (or any tablet for that matter) to a phone optimised site. It looks shit and is fucking annoying.",
+    "id" : 34707746020392961,
+    "created_at" : "2011-02-07 20:19:06 +0000",
+    "user" : {
+      "name" : "Aegir Hallmundur \uD83C\uDDEA\uD83C\uDDFA",
+      "screen_name" : "aegirthor",
+      "protected" : false,
+      "id_str" : "757417",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871770837539540992\/fOZEpwzN_normal.jpg",
+      "id" : 757417,
+      "verified" : false
+    }
+  },
+  "id" : 34710035099553792,
+  "created_at" : "2011-02-07 20:28:11 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

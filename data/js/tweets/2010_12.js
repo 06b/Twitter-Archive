@@ -376,7 +376,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "so-called snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -403,7 +403,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 20577606399168512,
     "created_at" : "2010-12-30 20:30:58 +0000",
     "user" : {
-      "name" : "so-called snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2010_12 =
     "created_at" : "2010-12-30 20:32:34 +0000",
     "user" : {
       "name" : "Andrea",
-      "screen_name" : "gofreaksgogo",
+      "screen_name" : "huntcollab",
       "protected" : false,
       "id_str" : "17433168",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441966528661950464\/ZIOeO_LS_normal.jpeg",
@@ -967,6 +967,57 @@ Grailbird.data.tweets_2010_12 =
   "created_at" : "2010-12-28 16:13:51 +0000",
   "in_reply_to_screen_name" : "zeldman",
   "in_reply_to_user_id_str" : "61133",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gwendolyn Rogers",
+      "screen_name" : "mollydotcom",
+      "indices" : [ 3, 15 ],
+      "id_str" : "4655355813",
+      "id" : 4655355813
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19777323058331649",
+  "text" : "RT @mollydotcom: Twitter is the Short Attention Span Theater of the Web.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "19772114588409856",
+    "text" : "Twitter is the Short Attention Span Theater of the Web.",
+    "id" : 19772114588409856,
+    "created_at" : "2010-12-28 15:10:14 +0000",
+    "user" : {
+      "name" : "molly e. holzschlag",
+      "screen_name" : "mholzschlag",
+      "protected" : false,
+      "id_str" : "5827",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861622007225499648\/djQkdrkT_normal.jpg",
+      "id" : 5827,
+      "verified" : false
+    }
+  },
+  "id" : 19777323058331649,
+  "created_at" : "2010-12-28 15:30:55 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4660,7 +4711,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "weightshift",
       "protected" : false,
       "id_str" : "757502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/791438969657364480\/JfaESdgT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/868505981436665856\/eFbe7WGF_normal.jpg",
       "id" : 757502,
       "verified" : false
     }
@@ -6283,7 +6334,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849157506152755202\/rcfNp4EL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }

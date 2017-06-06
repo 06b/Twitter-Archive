@@ -849,7 +849,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "benjsperry",
       "protected" : false,
       "id_str" : "18158023",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833765833956470789\/j2VyKYVp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862677470259978241\/yKPZ35Yp_normal.jpg",
       "id" : 18158023,
       "verified" : false
     }
@@ -1851,7 +1851,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -1888,7 +1888,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 370479992511004672,
     "created_at" : "2013-08-22 09:38:08 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -2218,7 +2218,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 368733458144563200,
     "created_at" : "2013-08-17 13:58:01 +0000",
     "user" : {
-      "name" : "Alyssa Ross",
+      "name" : "Alyssa Ross \uD83D\uDC69\u200D\uD83D\uDCBB",
       "screen_name" : "qyliss",
       "protected" : false,
       "id_str" : "485076559",
@@ -4165,7 +4165,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "22199970",
       "id" : 22199970
     }, {
-      "name" : "ken keiter\uD83D\uDD39",
+      "name" : "ken keiter",
       "screen_name" : "kenkeiter",
       "indices" : [ 103, 113 ],
       "id_str" : "14478837",
@@ -4190,7 +4190,7 @@ Grailbird.data.tweets_2013_08 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "ken keiter\uD83D\uDD39",
+        "name" : "ken keiter",
         "screen_name" : "kenkeiter",
         "indices" : [ 89, 99 ],
         "id_str" : "14478837",

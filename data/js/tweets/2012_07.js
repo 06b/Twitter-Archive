@@ -1262,7 +1262,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "14465898",
       "id" : 14465898
     }, {
-      "name" : "Se\u00F1or Yak Shaver\uD83C\uDDF3\uD83C\uDDF1",
+      "name" : "Se\u00F1or Yak Shaver",
       "screen_name" : "tanepiper",
       "indices" : [ 12, 22 ],
       "id_str" : "20693",
@@ -1284,7 +1284,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Se\u00F1or Yak Shaver\uD83C\uDDF3\uD83C\uDDF1",
+        "name" : "Se\u00F1or Yak Shaver",
         "screen_name" : "tanepiper",
         "indices" : [ 1, 11 ],
         "id_str" : "20693",
@@ -1309,7 +1309,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856522271632052224\/mLhc0-WI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -1465,7 +1465,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856522271632052224\/mLhc0-WI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -1587,7 +1587,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1614,7 +1614,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 227350486406287361,
     "created_at" : "2012-07-23 10:32:34 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -1782,7 +1782,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1819,7 +1819,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 226393081786802176,
     "created_at" : "2012-07-20 19:08:11 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -2508,7 +2508,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "5530472",
       "id" : 5530472
     }, {
-      "name" : "Senior Webmaster",
+      "name" : "fidget sinner",
       "screen_name" : "benjaminws",
       "indices" : [ 61, 72 ],
       "id_str" : "14188391",
@@ -2530,7 +2530,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Senior Webmaster",
+        "name" : "fidget sinner",
         "screen_name" : "benjaminws",
         "indices" : [ 45, 56 ],
         "id_str" : "14188391",
@@ -3096,7 +3096,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "nathan_ford",
       "protected" : false,
       "id_str" : "16002470",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784604571528224768\/Z-C94rmF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864502136205221890\/T_tmIMcj_normal.jpg",
       "id" : 16002470,
       "verified" : false
     }

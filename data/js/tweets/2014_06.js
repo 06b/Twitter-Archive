@@ -177,7 +177,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "colintrevorrow",
       "protected" : false,
       "id_str" : "205553183",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696783912920576000\/hlu259yO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866024951488360448\/sI5Unzel_normal.jpg",
       "id" : 205553183,
       "verified" : true
     }
@@ -252,7 +252,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -296,7 +296,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 483611963897831424,
     "created_at" : "2014-06-30 14:04:11 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -1168,7 +1168,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "22199970",
       "id" : 22199970
     }, {
-      "name" : "Richard \u24CB - v31.11",
+      "name" : "Richard \u24CB - v32.0",
       "screen_name" : "richardjapenga",
       "indices" : [ 14, 29 ],
       "id_str" : "70754789",
@@ -1197,7 +1197,7 @@ Grailbird.data.tweets_2014_06 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Richard \u24CB - v31.11",
+        "name" : "Richard \u24CB - v32.0",
         "screen_name" : "richardjapenga",
         "indices" : [ 0, 15 ],
         "id_str" : "70754789",
@@ -1254,7 +1254,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -1313,7 +1313,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 433602661867593728,
     "created_at" : "2014-02-12 14:05:05 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -1346,175 +1346,6 @@ Grailbird.data.tweets_2014_06 =
   "text" : "Since Twitter hasn't made it possible to download my favorite tweets I'm just going to have to retweet them. Sorry for the next 3k retweets.",
   "id" : 482996969737302016,
   "created_at" : "2014-06-28 21:20:25 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Erin Kissane",
-      "screen_name" : "kissane",
-      "indices" : [ 3, 11 ],
-      "id_str" : "13145012",
-      "id" : 13145012
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "482931518411898880",
-  "text" : "RT @kissane: Get off Facebook. Get your family off Facebook. If you work there, quit. They're fucking awful.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "482728344656809984",
-    "text" : "Get off Facebook. Get your family off Facebook. If you work there, quit. They're fucking awful.",
-    "id" : 482728344656809984,
-    "created_at" : "2014-06-28 03:33:00 +0000",
-    "user" : {
-      "name" : "Erin Kissane",
-      "screen_name" : "kissane",
-      "protected" : false,
-      "id_str" : "13145012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750876320905723904\/_05FE0N5_normal.jpg",
-      "id" : 13145012,
-      "verified" : false
-    }
-  },
-  "id" : 482931518411898880,
-  "created_at" : "2014-06-28 17:00:21 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Erin Kissane",
-      "screen_name" : "kissane",
-      "indices" : [ 3, 11 ],
-      "id_str" : "13145012",
-      "id" : 13145012
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "482931484995903488",
-  "text" : "RT @kissane: I haven't used Facebook for a long time, but I'm usually pretty moderate about it in public. But fuck that.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "482727916451934209",
-    "text" : "I haven't used Facebook for a long time, but I'm usually pretty moderate about it in public. But fuck that.",
-    "id" : 482727916451934209,
-    "created_at" : "2014-06-28 03:31:18 +0000",
-    "user" : {
-      "name" : "Erin Kissane",
-      "screen_name" : "kissane",
-      "protected" : false,
-      "id_str" : "13145012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750876320905723904\/_05FE0N5_normal.jpg",
-      "id" : 13145012,
-      "verified" : false
-    }
-  },
-  "id" : 482931484995903488,
-  "created_at" : "2014-06-28 17:00:13 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Erin Kissane",
-      "screen_name" : "kissane",
-      "indices" : [ 3, 11 ],
-      "id_str" : "13145012",
-      "id" : 13145012
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 114, 136 ],
-      "url" : "http:\/\/t.co\/ZQgESkzTgO",
-      "expanded_url" : "http:\/\/www.avclub.com\/article\/facebook-tinkered-users-feeds-massive-psychology-e-206324",
-      "display_url" : "avclub.com\/article\/facebo\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "482931458139758594",
-  "text" : "RT @kissane: Facebook running studies to see if it can manipulate users' emotional states by skewing their feeds. http:\/\/t.co\/ZQgESkzTgO (v\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jared Spool",
-        "screen_name" : "jmspool",
-        "indices" : [ 129, 137 ],
-        "id_str" : "849101",
-        "id" : 849101
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 101, 123 ],
-        "url" : "http:\/\/t.co\/ZQgESkzTgO",
-        "expanded_url" : "http:\/\/www.avclub.com\/article\/facebook-tinkered-users-feeds-massive-psychology-e-206324",
-        "display_url" : "avclub.com\/article\/facebo\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "482727348337668096",
-    "text" : "Facebook running studies to see if it can manipulate users' emotional states by skewing their feeds. http:\/\/t.co\/ZQgESkzTgO (via @jmspool)",
-    "id" : 482727348337668096,
-    "created_at" : "2014-06-28 03:29:03 +0000",
-    "user" : {
-      "name" : "Erin Kissane",
-      "screen_name" : "kissane",
-      "protected" : false,
-      "id_str" : "13145012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750876320905723904\/_05FE0N5_normal.jpg",
-      "id" : 13145012,
-      "verified" : false
-    }
-  },
-  "id" : 482931458139758594,
-  "created_at" : "2014-06-28 17:00:06 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1636,7 +1467,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855348045365608449\/sj_jFPYT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870241356970692608\/dEKglLpf_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }
@@ -3377,7 +3208,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Praveen \uD83C\uDFB5",
+      "name" : "Praveen",
       "screen_name" : "apnerve",
       "indices" : [ 3, 11 ],
       "id_str" : "12160492",
@@ -3464,7 +3295,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 477296589925384192,
     "created_at" : "2014-06-13 03:49:09 +0000",
     "user" : {
-      "name" : "Praveen \uD83C\uDFB5",
+      "name" : "Praveen",
       "screen_name" : "apnerve",
       "protected" : false,
       "id_str" : "12160492",
@@ -3567,7 +3398,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2599\u259C\u2597\u259E\u259D\u259F\u2590\u2597\u2596\u2596",
+      "name" : "Paul T",
       "screen_name" : "ampersarnie",
       "indices" : [ 3, 15 ],
       "id_str" : "751066894472445952",
@@ -5164,7 +4995,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "SpeakComedy",
       "protected" : false,
       "id_str" : "50618718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703185540019957760\/Ag5q8SV4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871438897967923200\/ar3zSzwQ_normal.jpg",
       "id" : 50618718,
       "verified" : false
     }
@@ -5386,7 +5217,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "indices" : [ 3, 14 ],
       "id_str" : "7103272",
@@ -5423,7 +5254,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 478558063910457344,
     "created_at" : "2014-06-16 15:21:48 +0000",
     "user" : {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "protected" : false,
       "id_str" : "7103272",
@@ -6033,7 +5864,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "FelicityMorse",
       "protected" : false,
       "id_str" : "347959437",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696718723680493568\/In-Dl7uf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870947449984167936\/UPmgqmEa_normal.jpg",
       "id" : 347959437,
       "verified" : true
     }
@@ -7118,11 +6949,11 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "388472947",
       "id" : 388472947
     }, {
-      "name" : "Dan Chen",
+      "name" : "\u5353\u739B",
       "screen_name" : "dorischen",
       "indices" : [ 24, 34 ],
-      "id_str" : "14580440",
-      "id" : 14580440
+      "id_str" : "867170890240446465",
+      "id" : 867170890240446465
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7140,11 +6971,11 @@ Grailbird.data.tweets_2014_06 =
     "source" : "\u003Ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003EFacebook\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dan Chen",
+        "name" : "\u5353\u739B",
         "screen_name" : "dorischen",
         "indices" : [ 12, 22 ],
-        "id_str" : "14580440",
-        "id" : 14580440
+        "id_str" : "867170890240446465",
+        "id" : 867170890240446465
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -7459,7 +7290,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855348045365608449\/sj_jFPYT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870241356970692608\/dEKglLpf_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }
@@ -7513,7 +7344,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767372427026464768\/5Prq7opQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867902718668656640\/-mjB5nuy_normal.jpg",
       "id" : 6927562,
       "verified" : true
     }
@@ -7564,7 +7395,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "kmacke",
       "protected" : false,
       "id_str" : "10983882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848591933471686656\/FeaYUCcz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866117237333274626\/mON_8rty_normal.jpg",
       "id" : 10983882,
       "verified" : false
     }
@@ -7884,7 +7715,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF27\uD83D\uDCA7 eevee \uD83D\uDCA7\uD83C\uDF27",
+      "name" : "\uD83C\uDF1E\uD83C\uDFD6 eevee \uD83C\uDFD6\uD83C\uDF1E",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -7921,11 +7752,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 476632233113960449,
     "created_at" : "2014-06-11 07:49:14 +0000",
     "user" : {
-      "name" : "\uD83C\uDF27\uD83D\uDCA7 eevee \uD83D\uDCA7\uD83C\uDF27",
+      "name" : "\uD83C\uDF1E\uD83C\uDFD6 eevee \uD83C\uDFD6\uD83C\uDF1E",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848612752205660160\/bvN8k_1N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870472485321363456\/VjPvng-x_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -8041,7 +7872,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "indices" : [ 3, 14 ],
       "id_str" : "7103272",
@@ -8068,7 +7899,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 476597021705396225,
     "created_at" : "2014-06-11 05:29:19 +0000",
     "user" : {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "protected" : false,
       "id_str" : "7103272",
@@ -8203,7 +8034,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -8252,7 +8083,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 476372803315568640,
     "created_at" : "2014-06-10 14:38:21 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -9881,7 +9712,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF27\uD83D\uDCA7 eevee \uD83D\uDCA7\uD83C\uDF27",
+      "name" : "\uD83C\uDF1E\uD83C\uDFD6 eevee \uD83C\uDFD6\uD83C\uDF1E",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -9913,11 +9744,11 @@ Grailbird.data.tweets_2014_06 =
     "in_reply_to_screen_name" : "eevee",
     "in_reply_to_user_id_str" : "14412937",
     "user" : {
-      "name" : "\uD83C\uDF27\uD83D\uDCA7 eevee \uD83D\uDCA7\uD83C\uDF27",
+      "name" : "\uD83C\uDF1E\uD83C\uDFD6 eevee \uD83C\uDFD6\uD83C\uDF1E",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848612752205660160\/bvN8k_1N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870472485321363456\/VjPvng-x_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -9937,7 +9768,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -10024,7 +9855,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 474936739182964736,
     "created_at" : "2014-06-06 15:31:57 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -10784,7 +10615,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "indices" : [ 3, 14 ],
       "id_str" : "7103272",
@@ -10871,7 +10702,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 474203463992098816,
     "created_at" : "2014-06-04 14:58:10 +0000",
     "user" : {
-      "name" : "Tomomi \uD83C\uDF1F Imura",
+      "name" : "Tomomi\u26A1\uFE0FImura",
       "screen_name" : "girlie_mac",
       "protected" : false,
       "id_str" : "7103272",
@@ -11191,7 +11022,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "jacksonh",
       "protected" : false,
       "id_str" : "14199114",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731159435532341251\/nreE_Eqd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869062543087591425\/_k9yAom0_normal.jpg",
       "id" : 14199114,
       "verified" : false
     }
@@ -11429,7 +11260,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDE37 \uD83C\uDF55",
+      "name" : "\uD83D\uDC68\u200D\u2695\uFE0F\uD83C\uDF55",
       "screen_name" : "DrPizza",
       "indices" : [ 3, 11 ],
       "id_str" : "11375732",
@@ -11456,7 +11287,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473539550284120064,
     "created_at" : "2014-06-02 19:00:01 +0000",
     "user" : {
-      "name" : "\uD83D\uDE37 \uD83C\uDF55",
+      "name" : "\uD83D\uDC68\u200D\u2695\uFE0F\uD83C\uDF55",
       "screen_name" : "DrPizza",
       "protected" : false,
       "id_str" : "11375732",
@@ -11531,7 +11362,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the days when beans",
+      "name" : "GoogleDocsVEVO",
       "screen_name" : "vogon",
       "indices" : [ 3, 9 ],
       "id_str" : "6326912",
@@ -11618,7 +11449,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473494940530376704,
     "created_at" : "2014-06-02 16:02:45 +0000",
     "user" : {
-      "name" : "the days when beans",
+      "name" : "GoogleDocsVEVO",
       "screen_name" : "vogon",
       "protected" : false,
       "id_str" : "6326912",

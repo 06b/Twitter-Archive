@@ -374,7 +374,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "635543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
       "id" : 635543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 273861677315915777,
@@ -1210,7 +1210,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Estelle",
+      "name" : "Estelle Weyl",
       "screen_name" : "estellevw",
       "indices" : [ 3, 13 ],
       "id_str" : "6320592",
@@ -1237,7 +1237,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 272029354081533953,
     "created_at" : "2012-11-23 17:30:26 +0000",
     "user" : {
-      "name" : "Estelle",
+      "name" : "Estelle Weyl",
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1409,7 +1409,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271325178213040128,
     "created_at" : "2012-11-21 18:52:18 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -2647,7 +2647,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -2696,7 +2696,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 268038752176312320,
     "created_at" : "2012-11-12 17:13:13 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -2773,7 +2773,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "AG_2074",
       "protected" : false,
       "id_str" : "14845281",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3273025644\/e915f1db3f5d3233b2567609280788b3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866076093819666433\/pk7U1iAa_normal.jpg",
       "id" : 14845281,
       "verified" : false
     }
@@ -3372,7 +3372,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sue-shinThunderLiger",
+      "name" : "Monster MatanSue",
       "screen_name" : "deathbearbrown",
       "indices" : [ 3, 18 ],
       "id_str" : "21491212",
@@ -3399,11 +3399,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 265808217098047488,
     "created_at" : "2012-11-06 13:29:52 +0000",
     "user" : {
-      "name" : "Sue-shinThunderLiger",
+      "name" : "Monster MatanSue",
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856669162109673472\/Db3oWj3H_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866054060125716480\/ZKlZVlF-_normal.jpg",
       "id" : 21491212,
       "verified" : false
     }
@@ -3484,7 +3484,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -3511,7 +3511,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 265767546974781440,
     "created_at" : "2012-11-06 10:48:15 +0000",
     "user" : {
-      "name" : "@idiot",
+      "name" : "charlotte",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",

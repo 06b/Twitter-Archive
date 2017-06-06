@@ -1819,7 +1819,7 @@ Grailbird.data.tweets_2010_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u02D7\u02CF\u02CB jayna wallace \u02CE\u02CA",
+        "name" : "\u02D7\u02CF\u02CB\u1D0A\u1D00\u028F\u0274\u1D00 \u1D21\u1D00\u029F\u029F\u1D00\u1D04\u1D07 \u02CE\u02CA",
         "screen_name" : "jaynawallace",
         "indices" : [ 111, 124 ],
         "id_str" : "78213",
@@ -5521,7 +5521,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "58802066",
       "id" : 58802066
     }, {
-      "name" : "Estelle",
+      "name" : "Estelle Weyl",
       "screen_name" : "estellevw",
       "indices" : [ 67, 77 ],
       "id_str" : "6320592",
@@ -5556,7 +5556,7 @@ Grailbird.data.tweets_2010_06 =
         "id_str" : "58802066",
         "id" : 58802066
       }, {
-        "name" : "Estelle",
+        "name" : "Estelle Weyl",
         "screen_name" : "estellevw",
         "indices" : [ 53, 63 ],
         "id_str" : "6320592",

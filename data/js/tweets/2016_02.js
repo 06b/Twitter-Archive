@@ -398,7 +398,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "markfidelman",
       "protected" : false,
       "id_str" : "23396106",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849704602211569664\/EE_Hh0PJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857776902148308992\/se7C1K2J_normal.jpg",
       "id" : 23396106,
       "verified" : true
     }
@@ -546,57 +546,6 @@ Grailbird.data.tweets_2016_02 =
   "text" : "Thought I had a Dratini egg... Turned out to be a Magikarp",
   "id" : 703357299780427778,
   "created_at" : "2016-02-26 23:13:42 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mowse\uD83D\uDC9A\uD83D\uDC9C",
-      "screen_name" : "MowseChao",
-      "indices" : [ 3, 13 ],
-      "id_str" : "1537738430",
-      "id" : 1537738430
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "703355884307685376",
-  "text" : "RT @MowseChao: So the new Pokemon RBY release will be compatible with Pokemon Bank?\n\n... Can I migrate over Missingno? Plz Nintendo.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "703237699516248064",
-    "text" : "So the new Pokemon RBY release will be compatible with Pokemon Bank?\n\n... Can I migrate over Missingno? Plz Nintendo.",
-    "id" : 703237699516248064,
-    "created_at" : "2016-02-26 15:18:27 +0000",
-    "user" : {
-      "name" : "Mowse\uD83D\uDC9A\uD83D\uDC9C",
-      "screen_name" : "MowseChao",
-      "protected" : false,
-      "id_str" : "1537738430",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682053662512791556\/3W8--_O7_normal.png",
-      "id" : 1537738430,
-      "verified" : false
-    }
-  },
-  "id" : 703355884307685376,
-  "created_at" : "2016-02-26 23:08:05 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3328,7 +3277,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "xor",
       "protected" : false,
       "id_str" : "24500377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755094751397883904\/3MVx1w6S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869631001336598528\/Tl-HgRgP_normal.jpg",
       "id" : 24500377,
       "verified" : true
     }
@@ -3591,7 +3540,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -3646,7 +3595,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 692873437845401601,
     "created_at" : "2016-01-29 00:54:35 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -4098,7 +4047,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "Sci_Phile",
       "protected" : false,
       "id_str" : "60709500",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842018411790049281\/-pQYtv6z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865410023827976193\/jI8DRKCM_normal.jpg",
       "id" : 60709500,
       "verified" : true
     }
@@ -4894,7 +4843,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Indie Kev",
+      "name" : "\u2620\uFE0F The Indie Kev \u2620\uFE0F",
       "screen_name" : "FiveOutOfKevin",
       "indices" : [ 3, 18 ],
       "id_str" : "12920542",
@@ -4981,11 +4930,11 @@ Grailbird.data.tweets_2016_02 =
     "id" : 695614835900477440,
     "created_at" : "2016-02-05 14:27:55 +0000",
     "user" : {
-      "name" : "The Indie Kev",
+      "name" : "\u2620\uFE0F The Indie Kev \u2620\uFE0F",
       "screen_name" : "FiveOutOfKevin",
       "protected" : false,
       "id_str" : "12920542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838984155081883648\/LGNbH_Bf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869354636934828032\/GNnbktJ6_normal.jpg",
       "id" : 12920542,
       "verified" : false
     }
@@ -6223,7 +6172,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "24765829",
       "id" : 24765829
     }, {
-      "name" : "Martin Splitt  \uD83C\uDDE8\uD83C\uDDED",
+      "name" : "Martin Splitt \uD83C\uDDE8\uD83C\uDDED",
       "screen_name" : "g33konaut",
       "indices" : [ 68, 78 ],
       "id_str" : "15381265",
@@ -6240,7 +6189,7 @@ Grailbird.data.tweets_2016_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Martin Splitt  \uD83C\uDDE8\uD83C\uDDED",
+        "name" : "Martin Splitt \uD83C\uDDE8\uD83C\uDDED",
         "screen_name" : "g33konaut",
         "indices" : [ 51, 61 ],
         "id_str" : "15381265",

@@ -649,7 +649,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "getluchty",
       "protected" : false,
       "id_str" : "554113645",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/835509790570921984\/rPUEYFGN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866132322407636992\/z8bYQIU5_normal.jpg",
       "id" : 554113645,
       "verified" : false
     }
@@ -1193,7 +1193,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "oatmealfanclub",
       "protected" : false,
       "id_str" : "2556220754",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849046853714759680\/y1Y5h_mb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860722503676592130\/3hY1CiGA_normal.jpg",
       "id" : 2556220754,
       "verified" : false
     }
@@ -4519,7 +4519,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leah Culver",
+      "name" : "Leah \uF8FF WWDC",
       "screen_name" : "leahculver",
       "indices" : [ 3, 14 ],
       "id_str" : "662433",
@@ -4546,7 +4546,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 752635794314014720,
     "created_at" : "2016-07-11 22:48:51 +0000",
     "user" : {
-      "name" : "Leah Culver",
+      "name" : "Leah \uF8FF WWDC",
       "screen_name" : "leahculver",
       "protected" : false,
       "id_str" : "662433",
@@ -4837,7 +4837,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "635543",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
       "id" : 635543,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 752478144930742273,
@@ -5344,7 +5344,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "Adnelle",
       "protected" : false,
       "id_str" : "15719641",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853462695349149696\/QtwB2-hR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861390446525730816\/dggrpUUt_normal.jpg",
       "id" : 15719641,
       "verified" : false
     }

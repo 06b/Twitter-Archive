@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "liquidvanilla",
       "protected" : false,
       "id_str" : "91495036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825184428020346881\/yhI8vKur_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/858086798605602816\/Xnd0kuJv_normal.jpg",
       "id" : 91495036,
       "verified" : false
     }

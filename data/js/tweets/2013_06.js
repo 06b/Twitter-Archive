@@ -232,7 +232,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -319,7 +319,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 350680211135807489,
     "created_at" : "2013-06-28 18:20:52 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost \uD83C\uDF0E",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -1866,7 +1866,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "naomisusi",
       "protected" : false,
       "id_str" : "18742918",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735238523847073792\/rtmq7Fll_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871442630974083072\/pKUShrXk_normal.jpg",
       "id" : 18742918,
       "verified" : false
     }
@@ -2640,57 +2640,6 @@ Grailbird.data.tweets_2013_06 =
   "text" : "Congratulations @leslie_hiller you're not my sister &amp; happy birthday",
   "id" : 346612351199490048,
   "created_at" : "2013-06-17 12:56:38 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "indices" : [ 3, 11 ],
-      "id_str" : "24974216",
-      "id" : 24974216
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "346428715787485184",
-  "text" : "RT @necolas: Computers are like cats. You can shout \"fuck you!\" at them several times a day and they don't take it personally.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "346424820365406208",
-    "text" : "Computers are like cats. You can shout \"fuck you!\" at them several times a day and they don't take it personally.",
-    "id" : 346424820365406208,
-    "created_at" : "2013-06-17 00:31:28 +0000",
-    "user" : {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "protected" : false,
-      "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804365942360719360\/dQnPejph_normal.jpg",
-      "id" : 24974216,
-      "verified" : false
-    }
-  },
-  "id" : 346428715787485184,
-  "created_at" : "2013-06-17 00:46:56 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3512,7 +3461,7 @@ Grailbird.data.tweets_2013_06 =
         "id_str" : "752461744124076032",
         "id" : 752461744124076032
       }, {
-        "name" : "\u6731\u5229\u5B89 Cheal",
+        "name" : "Se\u00F1or \u6731\u5229\u5B89 Cheal",
         "screen_name" : "juliancheal",
         "indices" : [ 119, 131 ],
         "id_str" : "951511",
@@ -3743,7 +3692,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "xstex",
       "protected" : false,
       "id_str" : "14742479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843960689052078084\/IuCTVFbd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/868553467681361920\/iQvEB6Jo_normal.jpg",
       "id" : 14742479,
       "verified" : false
     }
