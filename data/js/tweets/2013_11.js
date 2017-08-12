@@ -221,7 +221,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "msdev",
       "protected" : false,
       "id_str" : "1157784678",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714889990887587842\/zAhgZmtZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875460283082301440\/7kjjz8jt_normal.jpg",
       "id" : 1157784678,
       "verified" : true
     }
@@ -501,86 +501,6 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Trey Darley",
-      "screen_name" : "treyka",
-      "indices" : [ 3, 10 ],
-      "id_str" : "14115995",
-      "id" : 14115995
-    }, {
-      "name" : "sergey bratus",
-      "screen_name" : "sergeybratus",
-      "indices" : [ 12, 25 ],
-      "id_str" : "354406010",
-      "id" : 354406010
-    }, {
-      "name" : "Michael E. Locasto",
-      "screen_name" : "mlocasto",
-      "indices" : [ 26, 35 ],
-      "id_str" : "148872500",
-      "id" : 148872500
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "405466457397420032",
-  "text" : "RT @treyka: @sergeybratus @mlocasto He who controls the input validation controls the universe.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "sergey bratus",
-        "screen_name" : "sergeybratus",
-        "indices" : [ 0, 13 ],
-        "id_str" : "354406010",
-        "id" : 354406010
-      }, {
-        "name" : "Michael E. Locasto",
-        "screen_name" : "mlocasto",
-        "indices" : [ 14, 23 ],
-        "id_str" : "148872500",
-        "id" : 148872500
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "405431416168517633",
-    "geo" : { },
-    "id_str" : "405433897116127232",
-    "in_reply_to_user_id" : 354406010,
-    "text" : "@sergeybratus @mlocasto He who controls the input validation controls the universe.",
-    "id" : 405433897116127232,
-    "in_reply_to_status_id" : 405431416168517633,
-    "created_at" : "2013-11-26 20:32:28 +0000",
-    "in_reply_to_screen_name" : "sergeybratus",
-    "in_reply_to_user_id_str" : "354406010",
-    "user" : {
-      "name" : "Trey Darley",
-      "screen_name" : "treyka",
-      "protected" : false,
-      "id_str" : "14115995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813869825097400320\/OzLCCAm4_normal.jpg",
-      "id" : 14115995,
-      "verified" : false
-    }
-  },
-  "id" : 405466457397420032,
-  "created_at" : "2013-11-26 22:41:51 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -678,7 +598,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDF0E",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -715,7 +635,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 404752630729023488,
     "created_at" : "2013-11-24 23:25:21 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDF0E",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -2084,7 +2004,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "WeldPond",
       "protected" : false,
       "id_str" : "14090906",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613065292709801985\/LapqXdxh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888957152425017345\/wHN-GT6o_normal.jpg",
       "id" : 14090906,
       "verified" : false
     }
@@ -2237,7 +2157,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -2264,7 +2184,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 400694582071263232,
     "created_at" : "2013-11-13 18:40:07 +0000",
     "user" : {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -2650,7 +2570,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873476708497838080\/rdwukUAR_normal.jpg",
       "id" : 48903,
       "verified" : false
     }
@@ -3221,6 +3141,87 @@ Grailbird.data.tweets_2013_11 =
   },
   "id" : 397877176998961153,
   "created_at" : "2013-11-06 00:04:45 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MonkeyDog",
+      "screen_name" : "monkeydogify",
+      "indices" : [ 3, 16 ],
+      "id_str" : "25977505",
+      "id" : 25977505
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "397719172852875266",
+  "text" : "RT @monkeydogify: It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1P\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/monkeydogify\/status\/396950337749549056\/photo\/1",
+        "indices" : [ 106, 128 ],
+        "url" : "http:\/\/t.co\/o1PMj8571x",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
+        "id_str" : "396950337598545920",
+        "id" : 396950337598545920,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BYJAOpoIYAAoGnZ.jpg",
+        "sizes" : [ {
+          "h" : 166,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 94,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 284,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 284,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/o1PMj8571x"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "396950337749549056",
+    "text" : "It took me until the last line to realise it was the room service breakfast menu, not a song about cereal http:\/\/t.co\/o1PMj8571x",
+    "id" : 396950337749549056,
+    "created_at" : "2013-11-03 10:41:50 +0000",
+    "user" : {
+      "name" : "MonkeyDog",
+      "screen_name" : "monkeydogify",
+      "protected" : false,
+      "id_str" : "25977505",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/896124390290665472\/LhGOKD92_normal.jpg",
+      "id" : 25977505,
+      "verified" : false
+    }
+  },
+  "id" : 397719172852875266,
+  "created_at" : "2013-11-05 13:36:54 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

@@ -906,6 +906,28 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25892698939",
+  "text" : "\"You should of seen this place before - they would work till 9pm, have beer in the fridge and have a good time\"",
+  "id" : 25892698939,
+  "created_at" : "2010-09-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Smashing Magazine",
       "screen_name" : "smashingmag",
@@ -1023,7 +1045,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856879183187914752\/B7d2btrB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888400270002094080\/ZXXvMkJb_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -1481,28 +1503,6 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25891414594",
   "text" : "\"I just have to show everything on the sandwich, not where it is, so I just push it all to one side.\" - How to make a sandwich look so yummy",
   "id" : 25891414594,
-  "created_at" : "2010-09-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25892698939",
-  "text" : "\"You should of seen this place before - they would work till 9pm, have beer in the fridge and have a good time\"",
-  "id" : 25892698939,
   "created_at" : "2010-09-29 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2653,6 +2653,37 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Emily Lyn",
+      "screen_name" : "emily_lyn",
+      "indices" : [ 0, 10 ],
+      "id_str" : "30580889",
+      "id" : 30580889
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25618939799",
+  "in_reply_to_user_id" : 30580889,
+  "text" : "@emily_lyn I think we both know the answer to your question",
+  "id" : 25618939799,
+  "created_at" : "2010-09-26 00:00:00 +0000",
+  "in_reply_to_screen_name" : "emily_lyn",
+  "in_reply_to_user_id_str" : "30580889",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2807,37 +2838,6 @@ Grailbird.data.tweets_2010_09 =
   "text" : "Noodles and co - yum",
   "id" : 25615985355,
   "created_at" : "2010-09-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Lyn",
-      "screen_name" : "emily_lyn",
-      "indices" : [ 0, 10 ],
-      "id_str" : "30580889",
-      "id" : 30580889
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25618939799",
-  "in_reply_to_user_id" : 30580889,
-  "text" : "@emily_lyn I think we both know the answer to your question",
-  "id" : 25618939799,
-  "created_at" : "2010-09-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "emily_lyn",
-  "in_reply_to_user_id_str" : "30580889",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3109,7 +3109,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856879183187914752\/B7d2btrB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888400270002094080\/ZXXvMkJb_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -3469,7 +3469,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856879183187914752\/B7d2btrB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888400270002094080\/ZXXvMkJb_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -4165,6 +4165,40 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dan Wellman",
+      "screen_name" : "danwellman",
+      "indices" : [ 64, 75 ],
+      "id_str" : "15760679",
+      "id" : 15760679
+    }, {
+      "name" : "Phil Dye",
+      "screen_name" : "phildye",
+      "indices" : [ 117, 125 ],
+      "id_str" : "14048033",
+      "id" : 14048033
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25041643982",
+  "text" : "Look's like I'll be updating a lot of our client sites now. \u007BRT @danwellman: Oh. My. Gosh. - http:\/\/is.gd\/fjKmc (via @phildye)",
+  "id" : 25041643982,
+  "created_at" : "2010-09-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4586,40 +4620,6 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25039734629",
   "text" : "I love my friends, they're nuts. Yes, I have friends...",
   "id" : 25039734629,
-  "created_at" : "2010-09-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dan Wellman",
-      "screen_name" : "danwellman",
-      "indices" : [ 64, 75 ],
-      "id_str" : "15760679",
-      "id" : 15760679
-    }, {
-      "name" : "Phil Dye",
-      "screen_name" : "phildye",
-      "indices" : [ 117, 125 ],
-      "id_str" : "14048033",
-      "id" : 14048033
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25041643982",
-  "text" : "Look's like I'll be updating a lot of our client sites now. \u007BRT @danwellman: Oh. My. Gosh. - http:\/\/is.gd\/fjKmc (via @phildye)",
-  "id" : 25041643982,
   "created_at" : "2010-09-20 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -5374,6 +5374,34 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "24587324872",
+  "text" : "RT @smashingmag: The time has come: Internet Explorer 9 Public Beta will be released today - http:\/\/bit.ly\/99oL9E",
+  "id" : 24587324872,
+  "created_at" : "2010-09-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -5651,7 +5679,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 24523072309,
     "created_at" : "2010-09-15 00:28:28 +0000",
     "user" : {
-      "name" : "\u24C2\uFE0F Jackson Wilkinson",
+      "name" : "M. Jackson Wilkinson",
       "screen_name" : "mjacksonw",
       "protected" : false,
       "id_str" : "12708",
@@ -5868,34 +5896,6 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "24574434747",
   "text" : "I wish I had more hoist",
   "id" : 24574434747,
-  "created_at" : "2010-09-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Smashing Magazine",
-      "screen_name" : "smashingmag",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15736190",
-      "id" : 15736190
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "24587324872",
-  "text" : "RT @smashingmag: The time has come: Internet Explorer 9 Public Beta will be released today - http:\/\/bit.ly\/99oL9E",
-  "id" : 24587324872,
   "created_at" : "2010-09-15 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -7052,6 +7052,28 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "24055423046",
+  "text" : "Trying to get a 14 year old to grab an electric fence",
+  "id" : 24055423046,
+  "created_at" : "2010-09-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -7157,28 +7179,6 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "24044805069",
   "text" : "RT @SergioAG10: Daft Punk makes me want to dance all the time",
   "id" : 24044805069,
-  "created_at" : "2010-09-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "24055423046",
-  "text" : "Trying to get a 14 year old to grab an electric fence",
-  "id" : 24055423046,
   "created_at" : "2010-09-09 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

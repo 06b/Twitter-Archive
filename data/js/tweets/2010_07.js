@@ -141,8 +141,8 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Syfy",
-      "screen_name" : "Syfy",
+      "name" : "SYFY",
+      "screen_name" : "SYFY",
       "indices" : [ 3, 8 ],
       "id_str" : "18957524",
       "id" : 18957524
@@ -168,11 +168,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19913410634,
     "created_at" : "2010-07-30 14:30:13 +0000",
     "user" : {
-      "name" : "Syfy",
-      "screen_name" : "Syfy",
+      "name" : "SYFY",
+      "screen_name" : "SYFY",
       "protected" : false,
       "id_str" : "18957524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846766030563299328\/6XpUqEhk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876743389173211136\/oJ9BrepU_normal.jpg",
       "id" : 18957524,
       "verified" : true
     }
@@ -1034,6 +1034,28 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19534701486",
+  "text" : "http:\/\/bit.ly\/axX8sZ Do Want!",
+  "id" : 19534701486,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "leslie hiller",
       "screen_name" : "leslie_hiller",
@@ -1225,28 +1247,6 @@ Grailbird.data.tweets_2010_07 =
   "created_at" : "2010-07-26 00:00:00 +0000",
   "in_reply_to_screen_name" : "jkruessel",
   "in_reply_to_user_id_str" : "19090786",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19534701486",
-  "text" : "http:\/\/bit.ly\/axX8sZ Do Want!",
-  "id" : 19534701486,
-  "created_at" : "2010-07-26 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2547,6 +2547,34 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Adrian D. Alvarez",
+      "screen_name" : "06b",
+      "indices" : [ 42, 46 ],
+      "id_str" : "30257040",
+      "id" : 30257040
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18922407800",
+  "text" : "Dear Pivot Tables, I hate you. With Love, @06b P.S. Die in a fire, XOXO",
+  "id" : 18922407800,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2662,34 +2690,6 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "18909339387",
   "text" : "RT @rcayabyab: So. Freaking. Tired. All i want to do is go back to sleep.",
   "id" : 18909339387,
-  "created_at" : "2010-07-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Adrian D. Alvarez",
-      "screen_name" : "06b",
-      "indices" : [ 42, 46 ],
-      "id_str" : "30257040",
-      "id" : 30257040
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18922407800",
-  "text" : "Dear Pivot Tables, I hate you. With Love, @06b P.S. Die in a fire, XOXO",
-  "id" : 18922407800,
   "created_at" : "2010-07-19 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -3842,6 +3842,28 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18045508263",
+  "text" : "Just hanged up one of my \"children's\" Hello Kitty drawing in my cubicle",
+  "id" : 18045508263,
+  "created_at" : "2010-07-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
@@ -3942,28 +3964,6 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "17997320351",
   "text" : "Siting at a red light. Looked left and saw a girl siting in a trunk. Haha so awesome.",
   "id" : 17997320351,
-  "created_at" : "2010-07-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18045508263",
-  "text" : "Just hanged up one of my \"children's\" Hello Kitty drawing in my cubicle",
-  "id" : 18045508263,
   "created_at" : "2010-07-08 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -4829,7 +4829,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "dklimke",
       "protected" : false,
       "id_str" : "15583100",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856296272139087872\/9bo3asUZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884855522423394304\/T8g4XueQ_normal.jpg",
       "id" : 15583100,
       "verified" : false
     }

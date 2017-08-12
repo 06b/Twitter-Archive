@@ -184,7 +184,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -211,7 +211,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 208070559832096768,
     "created_at" : "2012-05-31 05:41:01 +0000",
     "user" : {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -302,12 +302,6 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Twitter Support",
-      "screen_name" : "Support",
-      "indices" : [ 0, 8 ],
-      "id_str" : "17874544",
-      "id" : 17874544
-    }, {
       "name" : "Adrian D. Alvarez",
       "screen_name" : "06b",
       "indices" : [ 112, 116 ],
@@ -324,7 +318,7 @@ Grailbird.data.tweets_2012_05 =
   "text" : "@Support Any idea why my user name is missed up when viewing the individual tweet? Renders as \"06@b\" instead of @06b",
   "id" : 207894829525504000,
   "created_at" : "2012-05-30 18:02:44 +0000",
-  "in_reply_to_screen_name" : "Support",
+  "in_reply_to_screen_name" : "TwitterSupport",
   "in_reply_to_user_id_str" : "17874544",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -546,7 +540,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDF08\u270A\uD83C\uDFFC",
+      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -573,7 +567,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 206868002233266176,
     "created_at" : "2012-05-27 22:02:29 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDF08\u270A\uD83C\uDFFC",
+      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
@@ -1188,7 +1182,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873476708497838080\/rdwukUAR_normal.jpg",
       "id" : 48903,
       "verified" : false
     }
@@ -1214,7 +1208,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "24765829",
       "id" : 24765829
     }, {
-      "name" : "Brad Frost \uD83C\uDF0E",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 77, 88 ],
       "id_str" : "11855482",
@@ -1236,7 +1230,7 @@ Grailbird.data.tweets_2012_05 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Brad Frost \uD83C\uDF0E",
+        "name" : "Brad Frost",
         "screen_name" : "brad_frost",
         "indices" : [ 60, 71 ],
         "id_str" : "11855482",
@@ -1630,7 +1624,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1657,7 +1651,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 204220005448040448,
     "created_at" : "2012-05-20 14:40:18 +0000",
     "user" : {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -1732,7 +1726,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDF08\u270A\uD83C\uDFFC",
+      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -1777,7 +1771,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 203558186681249793,
     "created_at" : "2012-05-18 18:50:28 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDF08\u270A\uD83C\uDFFC",
+      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
@@ -2328,7 +2322,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick Hildebrandt",
+      "name" : "Drinkable Dirt Patch",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -2373,7 +2367,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 201037168746045440,
     "created_at" : "2012-05-11 19:52:50 +0000",
     "user" : {
-      "name" : "Patrick Hildebrandt",
+      "name" : "Drinkable Dirt Patch",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -2985,7 +2979,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -3012,7 +3006,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200286593532182529,
     "created_at" : "2012-05-09 18:10:19 +0000",
     "user" : {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -3897,7 +3891,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 198246576718741504,
     "created_at" : "2012-05-04 03:04:01 +0000",
     "user" : {
-      "name" : "Calligraphy",
+      "name" : "Art",
       "screen_name" : "CalIigraphy",
       "protected" : false,
       "id_str" : "370419168",

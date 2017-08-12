@@ -8,6 +8,28 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "22720136679",
+  "text" : "Work on design, hibernate laptop, pull battery out by accident before hibernation completed.",
+  "id" : 22720136679,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "22720457511",
   "text" : "I remember when I first saw Takoyaki and thought I would like it, then I found out what was in it. Still haven't tried it yet",
   "id" : 22720457511,
@@ -162,28 +184,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "22711665037",
   "text" : "Meeting Time",
   "id" : 22711665037,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22720136679",
-  "text" : "Work on design, hibernate laptop, pull battery out by accident before hibernation completed.",
-  "id" : 22720136679,
   "created_at" : "2010-09-01 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -1354,6 +1354,28 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21925107948",
+  "text" : "Just found out a co-worker was in a car accident and broke both of his legs",
+  "id" : 21925107948,
+  "created_at" : "2010-08-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Jessica Kmetz",
       "screen_name" : "jmkmetz",
@@ -1519,28 +1541,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "21912106396",
   "text" : "Today our hosting company converted a file that would of prevented me working as long as I did on my weekend... two days too late",
   "id" : 21912106396,
-  "created_at" : "2010-08-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21925107948",
-  "text" : "Just found out a co-worker was in a car accident and broke both of his legs",
-  "id" : 21925107948,
   "created_at" : "2010-08-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2790,6 +2790,37 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Frutiger",
+      "screen_name" : "AFrutiger",
+      "indices" : [ 0, 10 ],
+      "id_str" : "138592935",
+      "id" : 138592935
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21196731790",
+  "in_reply_to_user_id" : 138592935,
+  "text" : "@AFrutiger ate a handful of peanuts from my hand",
+  "id" : 21196731790,
+  "created_at" : "2010-08-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "AFrutiger",
+  "in_reply_to_user_id_str" : "138592935",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2828,37 +2859,6 @@ Grailbird.data.tweets_2010_08 =
   "text" : "RT @smashingmag: Reinventing Yourself as a Designer: Will it be Necessary? - http:\/\/bit.ly\/bJV6HD",
   "id" : 21194916746,
   "created_at" : "2010-08-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Frutiger",
-      "screen_name" : "AFrutiger",
-      "indices" : [ 0, 10 ],
-      "id_str" : "138592935",
-      "id" : 138592935
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21196731790",
-  "in_reply_to_user_id" : 138592935,
-  "text" : "@AFrutiger ate a handful of peanuts from my hand",
-  "id" : 21196731790,
-  "created_at" : "2010-08-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AFrutiger",
-  "in_reply_to_user_id_str" : "138592935",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4146,6 +4146,39 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sergio A. Garcia",
+      "screen_name" : "SergioAG10",
+      "indices" : [ 0, 11 ],
+      "id_str" : "112919156",
+      "id" : 112919156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "20704659987",
+  "geo" : { },
+  "id_str" : "20704901116",
+  "in_reply_to_user_id" : 112919156,
+  "text" : "@SergioAG10 it came out in 2008, so it's not that old",
+  "id" : 20704901116,
+  "in_reply_to_status_id" : 20704659987,
+  "created_at" : "2010-08-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "SergioAG10",
+  "in_reply_to_user_id_str" : "112919156",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4202,39 +4235,6 @@ Grailbird.data.tweets_2010_08 =
   "text" : "Purchased Kingdom Hearts Re:Chain of Memories. Maybe I'll find the time to play it this month",
   "id" : 20678239381,
   "created_at" : "2010-08-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sergio A. Garcia",
-      "screen_name" : "SergioAG10",
-      "indices" : [ 0, 11 ],
-      "id_str" : "112919156",
-      "id" : 112919156
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "20704659987",
-  "geo" : { },
-  "id_str" : "20704901116",
-  "in_reply_to_user_id" : 112919156,
-  "text" : "@SergioAG10 it came out in 2008, so it's not that old",
-  "id" : 20704901116,
-  "in_reply_to_status_id" : 20704659987,
-  "created_at" : "2010-08-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "SergioAG10",
-  "in_reply_to_user_id_str" : "112919156",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -5494,6 +5494,45 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Surpass Hosting",
+      "screen_name" : "surpass",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14610709",
+      "id" : 14610709
+    }, {
+      "name" : "Sergio A. Garcia",
+      "screen_name" : "SergioAG10",
+      "indices" : [ 13, 24 ],
+      "id_str" : "112919156",
+      "id" : 112919156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "20166236442",
+  "geo" : { },
+  "id_str" : "20166522874",
+  "in_reply_to_user_id" : 14610709,
+  "text" : "@surpass ^AF @SergioAG10 opened a ticket recently, should I open one also?",
+  "id" : 20166522874,
+  "in_reply_to_status_id" : 20166236442,
+  "created_at" : "2010-08-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "surpass",
+  "in_reply_to_user_id_str" : "14610709",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5725,45 +5764,6 @@ Grailbird.data.tweets_2010_08 =
   "text" : "@surpass ^AF the set up went fine w\/ @SergioAG10, but there seems to be a problem - he's being billed yet he's my free surpatty referral",
   "id" : 20164172460,
   "in_reply_to_status_id" : 16847464540,
-  "created_at" : "2010-08-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "surpass",
-  "in_reply_to_user_id_str" : "14610709",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Surpass Hosting",
-      "screen_name" : "surpass",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14610709",
-      "id" : 14610709
-    }, {
-      "name" : "Sergio A. Garcia",
-      "screen_name" : "SergioAG10",
-      "indices" : [ 13, 24 ],
-      "id_str" : "112919156",
-      "id" : 112919156
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "20166236442",
-  "geo" : { },
-  "id_str" : "20166522874",
-  "in_reply_to_user_id" : 14610709,
-  "text" : "@surpass ^AF @SergioAG10 opened a ticket recently, should I open one also?",
-  "id" : 20166522874,
-  "in_reply_to_status_id" : 20166236442,
   "created_at" : "2010-08-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "surpass",
   "in_reply_to_user_id_str" : "14610709",

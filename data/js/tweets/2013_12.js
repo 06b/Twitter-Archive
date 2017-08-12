@@ -806,7 +806,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -893,7 +893,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 415507112232755200,
     "created_at" : "2013-12-24 15:39:49 +0000",
     "user" : {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -1484,7 +1484,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "msdev",
       "protected" : false,
       "id_str" : "1157784678",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714889990887587842\/zAhgZmtZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875460283082301440\/7kjjz8jt_normal.jpg",
       "id" : 1157784678,
       "verified" : true
     }
@@ -1840,7 +1840,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick Hildebrandt",
+      "name" : "Drinkable Dirt Patch",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -1867,7 +1867,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 413476372405710848,
     "created_at" : "2013-12-19 01:10:23 +0000",
     "user" : {
-      "name" : "Patrick Hildebrandt",
+      "name" : "Drinkable Dirt Patch",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -2508,7 +2508,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -2535,7 +2535,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 411105753924382721,
     "created_at" : "2013-12-12 12:10:24 +0000",
     "user" : {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
@@ -3230,7 +3230,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "mikemetcalf",
       "protected" : false,
       "id_str" : "27032389",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846256937381478402\/9oVqPZWr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/894796170437943296\/I26fA7YU_normal.jpg",
       "id" : 27032389,
       "verified" : false
     }
@@ -3410,87 +3410,6 @@ Grailbird.data.tweets_2013_12 =
   "text" : "One day I will make a presentation that (may or may not) include a loading screen that will use commit messages from The Sims.",
   "id" : 409899718911614977,
   "created_at" : "2013-12-09 04:18:03 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "kels",
-      "screen_name" : "kelsroaach",
-      "indices" : [ 3, 14 ],
-      "id_str" : "2182871491",
-      "id" : 2182871491
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "409798155819966465",
-  "text" : "RT @kelsroaach: So my mom will stop smoking &amp; so will my stepdad if I get a million retweets, lol ok. Ha help me guys. http:\/\/t.co\/ee5E4FWO\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/kelsroaach\/status\/408383980870701056\/photo\/1",
-        "indices" : [ 107, 129 ],
-        "url" : "http:\/\/t.co\/ee5E4FWOMV",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BarfERnCQAAw8yI.jpg",
-        "id_str" : "408383980770050048",
-        "id" : 408383980770050048,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BarfERnCQAAw8yI.jpg",
-        "sizes" : [ {
-          "h" : 600,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 340,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 1200
-        } ],
-        "display_url" : "pic.twitter.com\/ee5E4FWOMV"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "408383980870701056",
-    "text" : "So my mom will stop smoking &amp; so will my stepdad if I get a million retweets, lol ok. Ha help me guys. http:\/\/t.co\/ee5E4FWOMV",
-    "id" : 408383980870701056,
-    "created_at" : "2013-12-04 23:55:03 +0000",
-    "user" : {
-      "name" : "kels",
-      "screen_name" : "kelsroaach",
-      "protected" : false,
-      "id_str" : "2182871491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/868593397958889472\/O3meSJMP_normal.jpg",
-      "id" : 2182871491,
-      "verified" : false
-    }
-  },
-  "id" : 409798155819966465,
-  "created_at" : "2013-12-08 21:34:28 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4244,7 +4163,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -4271,7 +4190,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 407890526445129728,
     "created_at" : "2013-12-03 15:14:14 +0000",
     "user" : {
-      "name" : "charlotte",
+      "name" : "charlotte \u2728",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",

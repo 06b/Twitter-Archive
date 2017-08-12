@@ -248,7 +248,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam Shull @ \uD83C\uDDED\uD83C\uDDF7",
+      "name" : "Sam Shull",
       "screen_name" : "samshull",
       "indices" : [ 3, 12 ],
       "id_str" : "34003360",
@@ -287,7 +287,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 97047528704442368,
     "created_at" : "2011-07-29 20:55:08 +0000",
     "user" : {
-      "name" : "Sam Shull @ \uD83C\uDDED\uD83C\uDDF7",
+      "name" : "Sam Shull",
       "screen_name" : "samshull",
       "protected" : false,
       "id_str" : "34003360",
@@ -1162,7 +1162,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "pixelmelter",
       "protected" : false,
       "id_str" : "15020422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859037439389835264\/DbtsAXzE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877634992058187777\/q5XDw_KE_normal.jpg",
       "id" : 15020422,
       "verified" : false
     }
@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leah \uF8FF WWDC",
+      "name" : "Leah \uD83C\uDF24",
       "screen_name" : "leahculver",
       "indices" : [ 0, 11 ],
       "id_str" : "662433",
@@ -2081,7 +2081,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "kendallmiller",
       "protected" : false,
       "id_str" : "18351635",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611909427407392768\/oAAjPemu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882752343175041024\/o8ZH2cBF_normal.jpg",
       "id" : 18351635,
       "verified" : false
     }
@@ -2816,7 +2816,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794202345710223362\/QyEj4Lwz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879429934778732544\/Es0cg0HP_normal.jpg",
       "id" : 635543,
       "verified" : true
     }
@@ -4436,67 +4436,6 @@ Grailbird.data.tweets_2011_07 =
   "created_at" : "2011-07-21 13:55:08 +0000",
   "in_reply_to_screen_name" : "SergioAG10",
   "in_reply_to_user_id_str" : "112919156",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "indices" : [ 3, 12 ],
-      "id_str" : "13524672",
-      "id" : 13524672
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 29, 48 ],
-      "url" : "http:\/\/t.co\/rYt7tFL",
-      "expanded_url" : "http:\/\/mlkshk.com\/p\/4ZY1",
-      "display_url" : "mlkshk.com\/p\/4ZY1"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "94029661541105664",
-  "text" : "RT @taestell: Dream CAPTCHA: http:\/\/t.co\/rYt7tFL",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 15, 34 ],
-        "url" : "http:\/\/t.co\/rYt7tFL",
-        "expanded_url" : "http:\/\/mlkshk.com\/p\/4ZY1",
-        "display_url" : "mlkshk.com\/p\/4ZY1"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "93897227965186048",
-    "text" : "Dream CAPTCHA: http:\/\/t.co\/rYt7tFL",
-    "id" : 93897227965186048,
-    "created_at" : "2011-07-21 04:16:58 +0000",
-    "user" : {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "protected" : false,
-      "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
-      "id" : 13524672,
-      "verified" : false
-    }
-  },
-  "id" : 94029661541105664,
-  "created_at" : "2011-07-21 13:03:12 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

@@ -2174,7 +2174,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861622007225499648\/djQkdrkT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887085008636203008\/Kd5TtJdx_normal.jpg",
       "id" : 5827,
       "verified" : false
     }

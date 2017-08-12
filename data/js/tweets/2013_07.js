@@ -3,7 +3,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick Hildebrandt",
+      "name" : "Drinkable Dirt Patch",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -226,7 +226,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ally long",
+      "name" : "Ally Long",
       "screen_name" : "allyelle",
       "indices" : [ 3, 12 ],
       "id_str" : "16803618",
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 362231214779809792,
     "created_at" : "2013-07-30 15:20:26 +0000",
     "user" : {
-      "name" : "ally long",
+      "name" : "Ally Long",
       "screen_name" : "allyelle",
       "protected" : false,
       "id_str" : "16803618",
@@ -584,7 +584,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873476708497838080\/rdwukUAR_normal.jpg",
       "id" : 48903,
       "verified" : false
     }
@@ -673,7 +673,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "teiwaz",
       "protected" : false,
       "id_str" : "1660111",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623234386226384896\/2FDhY6Yb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893242508427141120\/2kZXu2Fi_normal.jpg",
       "id" : 1660111,
       "verified" : false
     }
@@ -715,7 +715,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDF0E",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -752,7 +752,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 360029255838613504,
     "created_at" : "2013-07-24 13:30:38 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDF0E",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -2219,7 +2219,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "jkdodd",
       "protected" : false,
       "id_str" : "11611082",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785053968787439616\/vlerJSB6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876121536352186373\/1EuF3R2U_normal.jpg",
       "id" : 11611082,
       "verified" : false
     }
@@ -2480,7 +2480,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hampton",
+      "name" : "Rent The Hampton",
       "screen_name" : "hcatlin",
       "indices" : [ 3, 11 ],
       "id_str" : "12986052",
@@ -2510,7 +2510,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356926842160164864,
     "created_at" : "2013-07-16 00:02:45 +0000",
     "user" : {
-      "name" : "Hampton",
+      "name" : "Rent The Hampton",
       "screen_name" : "hcatlin",
       "protected" : false,
       "id_str" : "12986052",
@@ -2534,7 +2534,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF38",
+      "name" : "\uD83C\uDF38 C.",
       "screen_name" : "socdf",
       "indices" : [ 3, 9 ],
       "id_str" : "531703765",
@@ -2621,11 +2621,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356616797417521155,
     "created_at" : "2013-07-15 03:30:45 +0000",
     "user" : {
-      "name" : "\uD83C\uDF38",
+      "name" : "\uD83C\uDF38 C.",
       "screen_name" : "socdf",
       "protected" : false,
       "id_str" : "531703765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/792244414924124160\/VTFq4zx8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/886341248944091136\/eFlmmy7M_normal.jpg",
       "id" : 531703765,
       "verified" : false
     }

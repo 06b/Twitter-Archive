@@ -7293,7 +7293,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDF0E",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -7320,7 +7320,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 81735247238148096,
     "created_at" : "2011-06-17 14:49:36 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDF0E",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
@@ -11704,7 +11704,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jacklyn Nicol",
+      "name" : "Jacklyn Nicol\uD83D\uDC22",
       "screen_name" : "jacklyn",
       "indices" : [ 3, 11 ],
       "id_str" : "14120587",
@@ -11743,11 +11743,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 79947558297944064,
     "created_at" : "2011-06-12 16:25:57 +0000",
     "user" : {
-      "name" : "Jacklyn Nicol",
+      "name" : "Jacklyn Nicol\uD83D\uDC22",
       "screen_name" : "jacklyn",
       "protected" : false,
       "id_str" : "14120587",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651428186312413184\/ILvHGRog_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877750704928153601\/lxxg7i67_normal.jpg",
       "id" : 14120587,
       "verified" : false
     }
@@ -16213,7 +16213,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "andrettibrown",
       "protected" : false,
       "id_str" : "25306021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856321746017947648\/qpIkLXqI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891757533165125633\/zsPmTzen_normal.jpg",
       "id" : 25306021,
       "verified" : false
     }

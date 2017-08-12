@@ -1514,7 +1514,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "nickf",
       "protected" : false,
       "id_str" : "45733",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861375411359371264\/heZuOnWA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/872339930168610816\/Jznyqg6h_normal.jpg",
       "id" : 45733,
       "verified" : false
     }
@@ -4365,7 +4365,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856879183187914752\/B7d2btrB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888400270002094080\/ZXXvMkJb_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -5505,7 +5505,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856879183187914752\/B7d2btrB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888400270002094080\/ZXXvMkJb_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -5596,7 +5596,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856879183187914752\/B7d2btrB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888400270002094080\/ZXXvMkJb_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -9013,7 +9013,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAChicago",
       "protected" : false,
       "id_str" : "28088118",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668923987649425410\/_TYD1zz8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882696823512629249\/4ZG9caFU_normal.jpg",
       "id" : 28088118,
       "verified" : false
     }
@@ -9268,57 +9268,6 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26133473522",
   "text" : "If you could give any advice to a design student, what would you tell them?",
   "id" : 26133473522,
-  "created_at" : "2010-10-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dale Cruse",
-      "screen_name" : "dalecruse",
-      "indices" : [ 3, 13 ],
-      "id_str" : "7006712",
-      "id" : 7006712
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26190503166",
-  "text" : "RT @dalecruse: I found the most productivity-enhancing keystroke! Just press Command-Q on your Mac or Control-Q on your PC & you'll get  ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "26174627282",
-    "text" : "I found the most productivity-enhancing keystroke! Just press Command-Q on your Mac or Control-Q on your PC & you'll get so much more done!",
-    "id" : 26174627282,
-    "created_at" : "2010-10-02 13:38:48 +0000",
-    "user" : {
-      "name" : "Dale Cruse",
-      "screen_name" : "dalecruse",
-      "protected" : false,
-      "id_str" : "7006712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762107100109516800\/rmg-n0uq_normal.jpg",
-      "id" : 7006712,
-      "verified" : false
-    }
-  },
-  "id" : 26190503166,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

@@ -260,7 +260,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -293,7 +293,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 74594156181331968,
     "created_at" : "2011-05-28 21:53:27 +0000",
     "user" : {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -10526,7 +10526,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "WengersToyBus",
       "protected" : false,
       "id_str" : "130804789",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827850677686779904\/IwPn95qk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/894965743879684096\/WaTxhdtA_normal.jpg",
       "id" : 130804789,
       "verified" : false
     }

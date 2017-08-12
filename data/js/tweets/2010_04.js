@@ -90,6 +90,39 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13128210185",
+  "geo" : { },
+  "id_str" : "13129719840",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller Are you going to download the trial of Illustrator CS5 and see if they improved anything in the 3d tool?",
+  "id" : 13129719840,
+  "in_reply_to_status_id" : 13128210185,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -477,39 +510,6 @@ Grailbird.data.tweets_2010_04 =
   },
   "id" : 13124349304,
   "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "13128210185",
-  "geo" : { },
-  "id_str" : "13129719840",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller Are you going to download the trial of Illustrator CS5 and see if they improved anything in the 3d tool?",
-  "id" : 13129719840,
-  "in_reply_to_status_id" : 13128210185,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891389905242386433\/YGkJpLWQ_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -1352,6 +1352,57 @@ Grailbird.data.tweets_2010_04 =
   "text" : "Anyone want to write me a javascript function that changes the selected value of a drop down list based off a value in a text box?",
   "id" : 12973537023,
   "created_at" : "2010-04-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Promoted Tweet",
+      "screen_name" : "PROMO_TWEET",
+      "indices" : [ 3, 15 ],
+      "id_str" : "132430765",
+      "id" : 132430765
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12859663111",
+  "text" : "RT @PROMO_TWEET: FACEBOOK: BECAUSE PRIVACY IS FOR DOUCHEBAGS",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "12858133913",
+    "text" : "FACEBOOK: BECAUSE PRIVACY IS FOR DOUCHEBAGS",
+    "id" : 12858133913,
+    "created_at" : "2010-04-26 02:24:51 +0000",
+    "user" : {
+      "name" : "Promoted Tweet",
+      "screen_name" : "PROMO_TWEET",
+      "protected" : false,
+      "id_str" : "132430765",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819211044\/sale_whale_normal.png",
+      "id" : 132430765,
+      "verified" : false
+    }
+  },
+  "id" : 12859663111,
+  "created_at" : "2010-04-26 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1922,57 +1973,6 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Promoted Tweet",
-      "screen_name" : "PROMO_TWEET",
-      "indices" : [ 3, 15 ],
-      "id_str" : "132430765",
-      "id" : 132430765
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12859663111",
-  "text" : "RT @PROMO_TWEET: FACEBOOK: BECAUSE PRIVACY IS FOR DOUCHEBAGS",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12858133913",
-    "text" : "FACEBOOK: BECAUSE PRIVACY IS FOR DOUCHEBAGS",
-    "id" : 12858133913,
-    "created_at" : "2010-04-26 02:24:51 +0000",
-    "user" : {
-      "name" : "Promoted Tweet",
-      "screen_name" : "PROMO_TWEET",
-      "protected" : false,
-      "id_str" : "132430765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819211044\/sale_whale_normal.png",
-      "id" : 132430765,
-      "verified" : false
-    }
-  },
-  "id" : 12859663111,
-  "created_at" : "2010-04-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Deidre Evans",
       "screen_name" : "DeidreEvans",
       "indices" : [ 0, 12 ],
@@ -2220,6 +2220,31 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "AdobeWKShop10",
+      "indices" : [ 42, 56 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12701109683",
+  "text" : "\"Anyone using CS or below - get out\" LOL  #AdobeWKShop10",
+  "id" : 12701109683,
+  "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2981,7 +3006,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849334284326490113\/pIiCEYA8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888470665006915584\/G3VWywWs_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }
@@ -3720,31 +3745,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12701013419",
   "text" : "So little developers at the Adobe Workshop :( #AdobeWKShop10",
   "id" : 12701013419,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "AdobeWKShop10",
-      "indices" : [ 42, 56 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12701109683",
-  "text" : "\"Anyone using CS or below - get out\" LOL  #AdobeWKShop10",
-  "id" : 12701109683,
   "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -5007,6 +5007,39 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Adam Crutchfield",
+      "screen_name" : "A_Crutch",
+      "indices" : [ 0, 9 ],
+      "id_str" : "46945962",
+      "id" : 46945962
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12308155703",
+  "geo" : { },
+  "id_str" : "12309267886",
+  "in_reply_to_user_id" : 46945962,
+  "text" : "@A_Crutch For School, but the bill has been paid so I get the money as a refund check haha",
+  "id" : 12309267886,
+  "in_reply_to_status_id" : 12308155703,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "A_Crutch",
+  "in_reply_to_user_id_str" : "46945962",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "katy rucker",
       "screen_name" : "katyrucker",
       "indices" : [ 0, 11 ],
@@ -5220,39 +5253,6 @@ Grailbird.data.tweets_2010_04 =
   "text" : "Just got an email informing me that I've been given additional funding and it's not a scam. Well that's awesome",
   "id" : 12307025338,
   "created_at" : "2010-04-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Adam Crutchfield",
-      "screen_name" : "A_Crutch",
-      "indices" : [ 0, 9 ],
-      "id_str" : "46945962",
-      "id" : 46945962
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12308155703",
-  "geo" : { },
-  "id_str" : "12309267886",
-  "in_reply_to_user_id" : 46945962,
-  "text" : "@A_Crutch For School, but the bill has been paid so I get the money as a refund check haha",
-  "id" : 12309267886,
-  "in_reply_to_status_id" : 12308155703,
-  "created_at" : "2010-04-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "A_Crutch",
-  "in_reply_to_user_id_str" : "46945962",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -6087,6 +6087,69 @@ Grailbird.data.tweets_2010_04 =
     "user_mentions" : [ {
       "name" : "rhuk",
       "screen_name" : "rhuk",
+      "indices" : [ 3, 8 ],
+      "id_str" : "14436881",
+      "id" : 14436881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Fireworks",
+      "indices" : [ 26, 36 ]
+    }, {
+      "text" : "CS5",
+      "indices" : [ 76, 80 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12052799335",
+  "text" : "RT @rhuk: Nope, confirmed #Fireworks is he \"red headed step child\" of Adobe #CS5 :(",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "Fireworks",
+        "indices" : [ 16, 26 ]
+      }, {
+        "text" : "CS5",
+        "indices" : [ 66, 70 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "12052770230",
+    "text" : "Nope, confirmed #Fireworks is he \"red headed step child\" of Adobe #CS5 :(",
+    "id" : 12052770230,
+    "created_at" : "2010-04-12 15:51:47 +0000",
+    "user" : {
+      "name" : "rhuk",
+      "screen_name" : "rhuk",
+      "protected" : false,
+      "id_str" : "14436881",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459132737320792064\/vPalYA0W_normal.jpeg",
+      "id" : 14436881,
+      "verified" : false
+    }
+  },
+  "id" : 12052799335,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "rhuk",
+      "screen_name" : "rhuk",
       "indices" : [ 0, 5 ],
       "id_str" : "14436881",
       "id" : 14436881
@@ -6704,7 +6767,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "catmachine",
       "protected" : false,
       "id_str" : "788525",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698118141331828736\/nOWnq8MS_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876121565884186624\/SDoBLVd-_normal.jpg",
       "id" : 788525,
       "verified" : false
     }
@@ -7107,69 +7170,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-12 00:00:00 +0000",
   "in_reply_to_screen_name" : "MausHax",
   "in_reply_to_user_id_str" : "9435382",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "rhuk",
-      "screen_name" : "rhuk",
-      "indices" : [ 3, 8 ],
-      "id_str" : "14436881",
-      "id" : 14436881
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Fireworks",
-      "indices" : [ 26, 36 ]
-    }, {
-      "text" : "CS5",
-      "indices" : [ 76, 80 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12052799335",
-  "text" : "RT @rhuk: Nope, confirmed #Fireworks is he \"red headed step child\" of Adobe #CS5 :(",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Fireworks",
-        "indices" : [ 16, 26 ]
-      }, {
-        "text" : "CS5",
-        "indices" : [ 66, 70 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12052770230",
-    "text" : "Nope, confirmed #Fireworks is he \"red headed step child\" of Adobe #CS5 :(",
-    "id" : 12052770230,
-    "created_at" : "2010-04-12 15:51:47 +0000",
-    "user" : {
-      "name" : "rhuk",
-      "screen_name" : "rhuk",
-      "protected" : false,
-      "id_str" : "14436881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459132737320792064\/vPalYA0W_normal.jpeg",
-      "id" : 14436881,
-      "verified" : false
-    }
-  },
-  "id" : 12052799335,
-  "created_at" : "2010-04-12 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -8233,6 +8233,28 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11652289617",
+  "text" : "Visual Studio crashed twice today. I think this is the first time I've ever had it crash on me twice in a day, maybe I shouldn't code today",
+  "id" : 11652289617,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Crutchfield",
       "screen_name" : "A_Crutch",
@@ -8303,28 +8325,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11637457061",
   "text" : "@katyrucker that's not a dumb question - it's a good question and my answer is I don't know.  :\/ sorry",
   "id" : 11637457061,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11652289617",
-  "text" : "Visual Studio crashed twice today. I think this is the first time I've ever had it crash on me twice in a day, maybe I shouldn't code today",
-  "id" : 11652289617,
   "created_at" : "2010-04-05 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

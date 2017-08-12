@@ -658,9 +658,9 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "15121543729",
-  "text" : "I'm stuck with a crazy person all week. :\/",
-  "id" : 15121543729,
+  "id_str" : "15135679530",
+  "text" : "Started my morning by finding out the neighbor's dog had jumped the fence and killed four of our animals",
+  "id" : 15135679530,
   "created_at" : "2010-05-31 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -680,9 +680,9 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "15135679530",
-  "text" : "Started my morning by finding out the neighbor's dog had jumped the fence and killed four of our animals",
-  "id" : 15135679530,
+  "id_str" : "15121543729",
+  "text" : "I'm stuck with a crazy person all week. :\/",
+  "id" : 15121543729,
   "created_at" : "2010-05-31 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2166,6 +2166,39 @@ Grailbird.data.tweets_2010_05 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14712838352",
+  "geo" : { },
+  "id_str" : "14714008254",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller What you do is you go somewhere that's open and work on things",
+  "id" : 14714008254,
+  "in_reply_to_status_id" : 14712838352,
+  "created_at" : "2010-05-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2228,7 +2261,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861622007225499648\/djQkdrkT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887085008636203008\/Kd5TtJdx_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -2699,39 +2732,6 @@ Grailbird.data.tweets_2010_05 =
   "text" : "@leslie_hiller ROFL! Why do you need to find somewhere to go?",
   "id" : 14711989514,
   "in_reply_to_status_id" : 14711825783,
-  "created_at" : "2010-05-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "14712838352",
-  "geo" : { },
-  "id_str" : "14714008254",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller What you do is you go somewhere that's open and work on things",
-  "id" : 14714008254,
-  "in_reply_to_status_id" : 14712838352,
   "created_at" : "2010-05-25 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
@@ -3785,6 +3785,31 @@ Grailbird.data.tweets_2010_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "whatthefont",
+      "indices" : [ 57, 69 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "14271771519",
+  "text" : "Round Two - \"Helvetica\" in red & is in a serif typeface. #whatthefont?",
+  "id" : 14271771519,
+  "created_at" : "2010-05-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -4104,31 +4129,6 @@ Grailbird.data.tweets_2010_05 =
   "created_at" : "2010-05-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "whatthefont",
-      "indices" : [ 57, 69 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14271771519",
-  "text" : "Round Two - \"Helvetica\" in red & is in a serif typeface. #whatthefont?",
-  "id" : 14271771519,
-  "created_at" : "2010-05-19 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -5626,6 +5626,28 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "13811676470",
+  "text" : "Today I learned where the first aid kit is at work. Remember staples can be sharp",
+  "id" : 13811676470,
+  "created_at" : "2010-05-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "13766601110",
   "text" : "My pokeball has been shipped. Yes I said Pokeball. Don't judge me",
   "id" : 13766601110,
@@ -5902,7 +5924,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891389905242386433\/YGkJpLWQ_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -5953,7 +5975,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891389905242386433\/YGkJpLWQ_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -6066,28 +6088,6 @@ Grailbird.data.tweets_2010_05 =
     }
   },
   "id" : 13808944357,
-  "created_at" : "2010-05-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13811676470",
-  "text" : "Today I learned where the first aid kit is at work. Remember staples can be sharp",
-  "id" : 13811676470,
   "created_at" : "2010-05-11 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -7251,6 +7251,57 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Irish",
+      "screen_name" : "paul_irish",
+      "indices" : [ 3, 14 ],
+      "id_str" : "1671811",
+      "id" : 1671811
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13436559019",
+  "text" : "RT @paul_irish: New IE9 Preview out: http:\/\/j.mp\/bi99Ex Acid3 results: 55\u219268. The hardware-accellerated flickr demo is super hot.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "13433344557",
+    "text" : "New IE9 Preview out: http:\/\/j.mp\/bi99Ex Acid3 results: 55\u219268. The hardware-accellerated flickr demo is super hot.",
+    "id" : 13433344557,
+    "created_at" : "2010-05-05 15:48:31 +0000",
+    "user" : {
+      "name" : "Paul Irish",
+      "screen_name" : "paul_irish",
+      "protected" : false,
+      "id_str" : "1671811",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420826194083213312\/CP1RmLa3_normal.jpeg",
+      "id" : 1671811,
+      "verified" : false
+    }
+  },
+  "id" : 13436559019,
+  "created_at" : "2010-05-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7480,57 +7531,6 @@ Grailbird.data.tweets_2010_05 =
     }
   },
   "id" : 13428520253,
-  "created_at" : "2010-05-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Paul Irish",
-      "screen_name" : "paul_irish",
-      "indices" : [ 3, 14 ],
-      "id_str" : "1671811",
-      "id" : 1671811
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13436559019",
-  "text" : "RT @paul_irish: New IE9 Preview out: http:\/\/j.mp\/bi99Ex Acid3 results: 55\u219268. The hardware-accellerated flickr demo is super hot.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "13433344557",
-    "text" : "New IE9 Preview out: http:\/\/j.mp\/bi99Ex Acid3 results: 55\u219268. The hardware-accellerated flickr demo is super hot.",
-    "id" : 13433344557,
-    "created_at" : "2010-05-05 15:48:31 +0000",
-    "user" : {
-      "name" : "Paul Irish",
-      "screen_name" : "paul_irish",
-      "protected" : false,
-      "id_str" : "1671811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420826194083213312\/CP1RmLa3_normal.jpeg",
-      "id" : 1671811,
-      "verified" : false
-    }
-  },
-  "id" : 13436559019,
   "created_at" : "2010-05-05 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

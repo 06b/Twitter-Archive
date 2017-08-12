@@ -133,7 +133,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "GetGlue",
+      "name" : "GetGlue (now Telfie)",
       "screen_name" : "getglue",
       "indices" : [ 88, 96 ],
       "id_str" : "1571579137",
@@ -153,7 +153,7 @@ Grailbird.data.tweets_2010_12 =
     "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "GetGlue",
+        "name" : "GetGlue (now Telfie)",
         "screen_name" : "getglue",
         "indices" : [ 73, 81 ],
         "id_str" : "1571579137",
@@ -376,7 +376,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "schwifty schnipe",
+      "name" : "snipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -403,7 +403,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 20577606399168512,
     "created_at" : "2010-12-30 20:30:58 +0000",
     "user" : {
-      "name" : "schwifty schnipe",
+      "name" : "snipe",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
@@ -1011,7 +1011,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861622007225499648\/djQkdrkT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887085008636203008\/Kd5TtJdx_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -2623,7 +2623,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775303189105152000\/XZzXCzlz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891116087408025600\/6dJrfUih_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -3228,7 +3228,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Crow",
+      "name" : "Andrew",
       "screen_name" : "AndrewCrow",
       "indices" : [ 3, 14 ],
       "id_str" : "1153",
@@ -3261,11 +3261,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 14773865980887040,
     "created_at" : "2010-12-14 20:08:58 +0000",
     "user" : {
-      "name" : "Andrew Crow",
+      "name" : "Andrew",
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839938264270168064\/EPLs3fRL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878270909055877120\/Pt0aPPp9_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -6334,7 +6334,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857770946337308673\/X8mNcKjL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891389905242386433\/YGkJpLWQ_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
