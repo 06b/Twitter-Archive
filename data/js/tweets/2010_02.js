@@ -413,7 +413,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bruce Floyd",
+      "name" : "\uD83C\uDF85\uD83C\uDFFD Bruce Floyd \uD83C\uDF84",
       "screen_name" : "brucefloyd",
       "indices" : [ 3, 14 ],
       "id_str" : "9972002",
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2010_02 =
     "in_reply_to_screen_name" : "garazi",
     "in_reply_to_user_id_str" : "662533",
     "user" : {
-      "name" : "Bruce Floyd",
+      "name" : "\uD83C\uDF85\uD83C\uDFFD Bruce Floyd \uD83C\uDF84",
       "screen_name" : "brucefloyd",
       "protected" : false,
       "id_str" : "9972002",
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "99843",
       "id" : 99843
     }, {
-      "name" : "\u26A1\uFE0F",
+      "name" : "\uD83C\uDF08",
       "screen_name" : "t",
       "indices" : [ 102, 104 ],
       "id_str" : "11628",

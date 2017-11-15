@@ -3,7 +3,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Drinkable Dirt Patch",
+      "name" : "Patrick H.",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -226,7 +226,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ally Long",
+      "name" : "Ally",
       "screen_name" : "allyelle",
       "indices" : [ 3, 12 ],
       "id_str" : "16803618",
@@ -263,11 +263,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 362231214779809792,
     "created_at" : "2013-07-30 15:20:26 +0000",
     "user" : {
-      "name" : "Ally Long",
+      "name" : "Ally",
       "screen_name" : "allyelle",
       "protected" : false,
       "id_str" : "16803618",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608674513241427968\/ycianjI2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928299248021573632\/o6s9btR8_normal.jpg",
       "id" : 16803618,
       "verified" : false
     }
@@ -287,7 +287,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emily Donnell",
+      "name" : "Emily Egan",
       "screen_name" : "anonimews",
       "indices" : [ 116, 126 ],
       "id_str" : "1443614275",
@@ -756,7 +756,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1017,17 +1017,17 @@ Grailbird.data.tweets_2013_07 =
       "id" : 359361776871157760,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPy1odBCMAAM3I0.png",
       "sizes" : [ {
-        "h" : 141,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 250,
+        "h" : 391,
         "resize" : "fit",
-        "w" : 600
+        "w" : 940
+      }, {
+        "h" : 283,
+        "resize" : "fit",
+        "w" : 680
       }, {
         "h" : 391,
         "resize" : "fit",
@@ -1058,17 +1058,17 @@ Grailbird.data.tweets_2013_07 =
         "id" : 359361776871157760,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPy1odBCMAAM3I0.png",
         "sizes" : [ {
-          "h" : 141,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 250,
+          "h" : 391,
           "resize" : "fit",
-          "w" : 600
+          "w" : 940
+        }, {
+          "h" : 283,
+          "resize" : "fit",
+          "w" : 680
         }, {
           "h" : 391,
           "resize" : "fit",
@@ -1197,7 +1197,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leigh Honeywell",
+      "name" : "Leigh Janet Mactavish Honeywell",
       "screen_name" : "hypatiadotca",
       "indices" : [ 3, 16 ],
       "id_str" : "6742522",
@@ -1224,7 +1224,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 358719864136929280,
     "created_at" : "2013-07-20 22:47:34 +0000",
     "user" : {
-      "name" : "Leigh Honeywell",
+      "name" : "Leigh Janet Mactavish Honeywell",
       "screen_name" : "hypatiadotca",
       "protected" : false,
       "id_str" : "6742522",
@@ -1822,17 +1822,17 @@ Grailbird.data.tweets_2013_07 =
       "id" : 358062571246477312,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPgYAu6CYAANWEV.jpg",
       "sizes" : [ {
-        "h" : 830,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 470,
-        "resize" : "fit",
-        "w" : 340
+        "w" : 491
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 740
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -2103,7 +2103,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDD6F",
+      "name" : "Melissa \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2142,11 +2142,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357511939888398337,
     "created_at" : "2013-07-17 14:47:43 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDD6F",
+      "name" : "Melissa \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -2480,7 +2480,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rent The Hampton",
+      "name" : "Hampton",
       "screen_name" : "hcatlin",
       "indices" : [ 3, 11 ],
       "id_str" : "12986052",
@@ -2510,7 +2510,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356926842160164864,
     "created_at" : "2013-07-16 00:02:45 +0000",
     "user" : {
-      "name" : "Rent The Hampton",
+      "name" : "Hampton",
       "screen_name" : "hcatlin",
       "protected" : false,
       "id_str" : "12986052",
@@ -2534,7 +2534,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF38 C.",
+      "name" : "that \"fwish-fwish\" of walking in dry autumn leaves",
       "screen_name" : "socdf",
       "indices" : [ 3, 9 ],
       "id_str" : "531703765",
@@ -2549,21 +2549,21 @@ Grailbird.data.tweets_2013_07 =
       "id" : 356616797421715457,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
       "sizes" : [ {
-        "h" : 1365,
+        "h" : 1200,
         "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 900
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1536
       }, {
         "h" : 2048,
         "resize" : "fit",
@@ -2590,21 +2590,21 @@ Grailbird.data.tweets_2013_07 =
         "id" : 356616797421715457,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
         "sizes" : [ {
-          "h" : 1365,
+          "h" : 1200,
           "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 453,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
+          "w" : 900
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 510
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1536
         }, {
           "h" : 2048,
           "resize" : "fit",
@@ -2621,11 +2621,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356616797417521155,
     "created_at" : "2013-07-15 03:30:45 +0000",
     "user" : {
-      "name" : "\uD83C\uDF38 C.",
+      "name" : "that \"fwish-fwish\" of walking in dry autumn leaves",
       "screen_name" : "socdf",
       "protected" : false,
       "id_str" : "531703765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/886341248944091136\/eFlmmy7M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929434731661418498\/Y5_NVGSV_normal.jpg",
       "id" : 531703765,
       "verified" : false
     }
@@ -2887,9 +2887,9 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 578
       }, {
-        "h" : 305,
+        "h" : 519,
         "resize" : "fit",
-        "w" : 340
+        "w" : 578
       }, {
         "h" : 519,
         "resize" : "fit",
@@ -2934,9 +2934,9 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 578
         }, {
-          "h" : 305,
+          "h" : 519,
           "resize" : "fit",
-          "w" : 340
+          "w" : 578
         }, {
           "h" : 519,
           "resize" : "fit",
@@ -3066,13 +3066,13 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 689
         }, {
-          "h" : 548,
+          "h" : 621,
           "resize" : "fit",
-          "w" : 600
+          "w" : 680
         }, {
-          "h" : 310,
+          "h" : 629,
           "resize" : "fit",
-          "w" : 340
+          "w" : 689
         } ],
         "display_url" : "pic.twitter.com\/IE1YUtvEjv"
       } ],
@@ -3089,7 +3089,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615416134846709760\/AySGnpwP_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920006896723091456\/CnqUgW3r_normal.png",
       "id" : 6503412,
       "verified" : true
     }
@@ -3380,7 +3380,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emily Donnell",
+      "name" : "Emily Egan",
       "screen_name" : "anonimews",
       "indices" : [ 68, 78 ],
       "id_str" : "1443614275",
@@ -3996,9 +3996,9 @@ Grailbird.data.tweets_2013_07 =
       "id" : 352524627878227969,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BORrSANCMAEDAwX.png",
       "sizes" : [ {
-        "h" : 276,
+        "h" : 394,
         "resize" : "fit",
-        "w" : 340
+        "w" : 485
       }, {
         "h" : 394,
         "resize" : "fit",
@@ -4043,9 +4043,9 @@ Grailbird.data.tweets_2013_07 =
         "id" : 352524627878227969,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BORrSANCMAEDAwX.png",
         "sizes" : [ {
-          "h" : 276,
+          "h" : 394,
           "resize" : "fit",
-          "w" : 340
+          "w" : 485
         }, {
           "h" : 394,
           "resize" : "fit",
@@ -4085,57 +4085,6 @@ Grailbird.data.tweets_2013_07 =
   },
   "id" : 352553003963789314,
   "created_at" : "2013-07-03 22:22:40 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Adam Howell",
-      "screen_name" : "ahow",
-      "indices" : [ 3, 8 ],
-      "id_str" : "18075954",
-      "id" : 18075954
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "352489193584336899",
-  "text" : "RT @ahow: Good design inside of a corporation is often just common sense that has been fought tooth &amp; nail for all the way up the org chart.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "352450017648320512",
-    "text" : "Good design inside of a corporation is often just common sense that has been fought tooth &amp; nail for all the way up the org chart.",
-    "id" : 352450017648320512,
-    "created_at" : "2013-07-03 15:33:27 +0000",
-    "user" : {
-      "name" : "Adam Howell",
-      "screen_name" : "ahow",
-      "protected" : false,
-      "id_str" : "18075954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696812041726791681\/fxdjLDZL_normal.jpg",
-      "id" : 18075954,
-      "verified" : false
-    }
-  },
-  "id" : 352489193584336899,
-  "created_at" : "2013-07-03 18:09:07 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4204,7 +4153,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Van Enk",
+      "name" : "John VanEnk",
       "screen_name" : "sw17ch",
       "indices" : [ 3, 10 ],
       "id_str" : "21629944",
@@ -4241,7 +4190,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 351768453939601408,
     "created_at" : "2013-07-01 18:25:09 +0000",
     "user" : {
-      "name" : "John Van Enk",
+      "name" : "John VanEnk",
       "screen_name" : "sw17ch",
       "protected" : false,
       "id_str" : "21629944",

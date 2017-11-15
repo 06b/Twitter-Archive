@@ -639,7 +639,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917588851572510721\/GK0OfZgW_normal.jpg",
       "id" : 12534,
       "verified" : false
     }
@@ -769,7 +769,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "garannm",
       "protected" : false,
       "id_str" : "15989423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878180899808047104\/24rCnRLp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/901849231098601472\/F13h9cit_normal.jpg",
       "id" : 15989423,
       "verified" : false
     }
@@ -1263,7 +1263,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "19689870",
       "id" : 19689870
     }, {
-      "name" : "\u2728\uD83C\uDF6D",
+      "name" : "SCARLIP\uD83C\uDF6DP",
       "screen_name" : "scarlipop",
       "indices" : [ 21, 31 ],
       "id_str" : "29227280",
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2011_10 =
     "source" : "\u003Ca href=\"http:\/\/trillian.im\/\" rel=\"nofollow\"\u003ETrillian\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u2728\uD83C\uDF6D",
+        "name" : "SCARLIP\uD83C\uDF6DP",
         "screen_name" : "scarlipop",
         "indices" : [ 3, 13 ],
         "id_str" : "29227280",
@@ -1320,7 +1320,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zeldman",
+      "name" : "zeldman",
       "screen_name" : "zeldman",
       "indices" : [ 3, 11 ],
       "id_str" : "61133",
@@ -1371,11 +1371,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 129191826887421953,
     "created_at" : "2011-10-26 13:45:06 +0000",
     "user" : {
-      "name" : "Zeldman",
+      "name" : "zeldman",
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843519123711803393\/pyYe9LFq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/919786029191704576\/yuJ6IwN-_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -1395,7 +1395,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zeldman",
+      "name" : "zeldman",
       "screen_name" : "zeldman",
       "indices" : [ 3, 11 ],
       "id_str" : "61133",
@@ -1440,11 +1440,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 128936839213092864,
     "created_at" : "2011-10-25 20:51:52 +0000",
     "user" : {
-      "name" : "Zeldman",
+      "name" : "zeldman",
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843519123711803393\/pyYe9LFq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/919786029191704576\/yuJ6IwN-_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -1525,7 +1525,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u270C\uD83C\uDFFC\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Faruk \u201CHey Jack, do something about Nazis\uD83D\uDD95\u201D Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 0, 9 ],
       "id_str" : "22253",
@@ -1740,21 +1740,21 @@ Grailbird.data.tweets_2011_10 =
         "id" : 128565517094100992,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AcjBqBjCIAAja2Y.jpg",
         "sizes" : [ {
-          "h" : 448,
+          "h" : 765,
           "resize" : "fit",
-          "w" : 600
+          "w" : 1024
         }, {
           "h" : 765,
           "resize" : "fit",
           "w" : 1024
         }, {
-          "h" : 254,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 508,
+          "resize" : "fit",
+          "w" : 680
         }, {
           "h" : 765,
           "resize" : "fit",
@@ -1821,21 +1821,21 @@ Grailbird.data.tweets_2011_10 =
         "id" : 128565385011273728,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AcjBiVgCIAA49k_.jpg",
         "sizes" : [ {
-          "h" : 448,
+          "h" : 765,
           "resize" : "fit",
-          "w" : 600
+          "w" : 1024
         }, {
           "h" : 765,
           "resize" : "fit",
           "w" : 1024
         }, {
-          "h" : 254,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 508,
+          "resize" : "fit",
+          "w" : 680
         }, {
           "h" : 765,
           "resize" : "fit",
@@ -3302,7 +3302,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917588851572510721\/GK0OfZgW_normal.jpg",
       "id" : 12534,
       "verified" : false
     }
@@ -3410,7 +3410,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917588851572510721\/GK0OfZgW_normal.jpg",
       "id" : 12534,
       "verified" : false
     }
@@ -3664,7 +3664,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888470665006915584\/G3VWywWs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926218726403387393\/BnvhfXPB_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }
@@ -3945,17 +3945,17 @@ Grailbird.data.tweets_2011_10 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 339,
+          "h" : 384,
           "resize" : "fit",
-          "w" : 600
+          "w" : 680
         }, {
           "h" : 579,
           "resize" : "fit",
           "w" : 1024
         }, {
-          "h" : 192,
+          "h" : 579,
           "resize" : "fit",
-          "w" : 340
+          "w" : 1024
         } ],
         "display_url" : "pic.twitter.com\/HTN2bUJp"
       } ],
@@ -6314,7 +6314,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "heylaurenmae",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/886395451368284160\/clI8ehZh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909496546458181633\/e4tiBBHC_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }

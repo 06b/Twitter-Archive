@@ -1056,7 +1056,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1245,13 +1245,13 @@ Grailbird.data.tweets_2012_09 =
           "resize" : "fit",
           "w" : 628
         }, {
-          "h" : 222,
+          "h" : 410,
           "resize" : "fit",
-          "w" : 340
+          "w" : 628
         }, {
-          "h" : 392,
+          "h" : 410,
           "resize" : "fit",
-          "w" : 600
+          "w" : 628
         } ],
         "display_url" : "pic.twitter.com\/RPLG87QC"
       } ],
@@ -1539,7 +1539,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Will Clark \uD83C\uDF39",
+        "name" : "Will \u201CBan the Nazis\u201D Clark \uD83C\uDF39",
         "screen_name" : "RobotDeathSquad",
         "indices" : [ 119, 135 ],
         "id_str" : "637113",
@@ -1735,7 +1735,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Andy Clarke \uD83C\uDDE6\uD83C\uDDFA",
+        "name" : "Andy Clarke \uD83C\uDDEA\uD83C\uDDFA",
         "screen_name" : "Malarkey",
         "indices" : [ 124, 133 ],
         "id_str" : "34163",
@@ -1761,7 +1761,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1905,7 +1905,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1974,7 +1974,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2025,7 +2025,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653657521559896065\/VWzlUwPL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917588851572510721\/GK0OfZgW_normal.jpg",
       "id" : 12534,
       "verified" : false
     }
@@ -2081,7 +2081,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2186,7 +2186,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "cssgareth",
       "protected" : false,
       "id_str" : "14855396",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879704043102371844\/UdQQ5ic4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918472772107603968\/2Ej7uHaZ_normal.jpg",
       "id" : 14855396,
       "verified" : false
     }
@@ -2272,7 +2272,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Drinkable Dirt Patch",
+      "name" : "Patrick H.",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -2472,7 +2472,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809766472708825088\/iuSKzIP5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/921101484653027328\/i0QMI9fU_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -3008,7 +3008,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926378337144107009\/tyI51Yws_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3286,7 +3286,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "77834603",
       "id" : 77834603
     }, {
-      "name" : "charlotte \u2728",
+      "name" : "charlotte \uD83E\uDDDC\u200D\u2640\uFE0F",
       "screen_name" : "idiot",
       "indices" : [ 85, 91 ],
       "id_str" : "202571491",
@@ -3303,7 +3303,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "charlotte \u2728",
+        "name" : "charlotte \uD83E\uDDDC\u200D\u2640\uFE0F",
         "screen_name" : "idiot",
         "indices" : [ 71, 77 ],
         "id_str" : "202571491",
@@ -3596,7 +3596,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926378337144107009\/tyI51Yws_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }

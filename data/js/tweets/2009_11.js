@@ -31,7 +31,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "1671811",
       "id" : 1671811
     }, {
-      "name" : "Font",
+      "name" : "Web Fonts",
       "screen_name" : "font",
       "indices" : [ 86, 91 ],
       "id_str" : "16736317",
