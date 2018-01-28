@@ -303,6 +303,78 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bruce Floyd",
+      "screen_name" : "brucefloyd",
+      "indices" : [ 3, 14 ],
+      "id_str" : "9972002",
+      "id" : 9972002
+    }, {
+      "name" : "Greg Rewis",
+      "screen_name" : "garazi",
+      "indices" : [ 16, 23 ],
+      "id_str" : "662533",
+      "id" : 662533
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "inControl2010",
+      "indices" : [ 107, 121 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9491897147",
+  "text" : "RT @brucefloyd: @garazi: The rule for Ajax development is \"just because you can, doesn't mean you should\". #inControl2010",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Greg Rewis",
+        "screen_name" : "garazi",
+        "indices" : [ 0, 7 ],
+        "id_str" : "662533",
+        "id" : 662533
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "inControl2010",
+        "indices" : [ 91, 105 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "9491790267",
+    "in_reply_to_user_id" : 662533,
+    "text" : "@garazi: The rule for Ajax development is \"just because you can, doesn't mean you should\". #inControl2010",
+    "id" : 9491790267,
+    "created_at" : "2010-02-22 20:27:11 +0000",
+    "in_reply_to_screen_name" : "garazi",
+    "in_reply_to_user_id_str" : "662533",
+    "user" : {
+      "name" : "Bruce Floyd",
+      "screen_name" : "brucefloyd",
+      "protected" : false,
+      "id_str" : "9972002",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945164969183674368\/wHJCP16o_normal.jpg",
+      "id" : 9972002,
+      "verified" : false
+    }
+  },
+  "id" : 9491897147,
+  "created_at" : "2010-02-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -400,78 +472,6 @@ Grailbird.data.tweets_2010_02 =
   "created_at" : "2010-02-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "A_Crutch",
   "in_reply_to_user_id_str" : "46945962",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uD83C\uDF85\uD83C\uDFFD Bruce Floyd \uD83C\uDF84",
-      "screen_name" : "brucefloyd",
-      "indices" : [ 3, 14 ],
-      "id_str" : "9972002",
-      "id" : 9972002
-    }, {
-      "name" : "Greg Rewis",
-      "screen_name" : "garazi",
-      "indices" : [ 16, 23 ],
-      "id_str" : "662533",
-      "id" : 662533
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "inControl2010",
-      "indices" : [ 107, 121 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9491897147",
-  "text" : "RT @brucefloyd: @garazi: The rule for Ajax development is \"just because you can, doesn't mean you should\". #inControl2010",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Greg Rewis",
-        "screen_name" : "garazi",
-        "indices" : [ 0, 7 ],
-        "id_str" : "662533",
-        "id" : 662533
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "inControl2010",
-        "indices" : [ 91, 105 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "9491790267",
-    "in_reply_to_user_id" : 662533,
-    "text" : "@garazi: The rule for Ajax development is \"just because you can, doesn't mean you should\". #inControl2010",
-    "id" : 9491790267,
-    "created_at" : "2010-02-22 20:27:11 +0000",
-    "in_reply_to_screen_name" : "garazi",
-    "in_reply_to_user_id_str" : "662533",
-    "user" : {
-      "name" : "\uD83C\uDF85\uD83C\uDFFD Bruce Floyd \uD83C\uDF84",
-      "screen_name" : "brucefloyd",
-      "protected" : false,
-      "id_str" : "9972002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833837312295444480\/dI0dglUX_normal.jpg",
-      "id" : 9972002,
-      "verified" : false
-    }
-  },
-  "id" : 9491897147,
-  "created_at" : "2010-02-22 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1389,11 +1389,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anton Saputra",
+      "name" : "Anton Vuljaj",
       "screen_name" : "anton",
       "indices" : [ 3, 9 ],
-      "id_str" : "578770986",
-      "id" : 578770986
+      "id_str" : "27550683",
+      "id" : 27550683
     } ],
     "media" : [ ],
     "hashtags" : [ ],

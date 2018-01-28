@@ -91,6 +91,63 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Bob Carr",
+      "screen_name" : "fiddlestyx",
+      "indices" : [ 3, 14 ],
+      "id_str" : "12998942",
+      "id" : 12998942
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "storyofmylife",
+      "indices" : [ 72, 86 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13124349304",
+  "text" : "RT @fiddlestyx: 'Nuff said...&lt;font face=\"Comic Sans MS\" size=\"1\"&gt; #storyofmylife",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "storyofmylife",
+        "indices" : [ 56, 70 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "13107602788",
+    "text" : "'Nuff said...&lt;font face=\"Comic Sans MS\" size=\"1\"&gt; #storyofmylife",
+    "id" : 13107602788,
+    "created_at" : "2010-04-30 03:20:51 +0000",
+    "user" : {
+      "name" : "Bob Carr",
+      "screen_name" : "fiddlestyx",
+      "protected" : false,
+      "id_str" : "12998942",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2696832066\/ad9af92b244e1799265604e888cd57a9_normal.jpeg",
+      "id" : 12998942,
+      "verified" : false
+    }
+  },
+  "id" : 13124349304,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "leslie hiller",
       "screen_name" : "leslie_hiller",
       "indices" : [ 0, 14 ],
@@ -452,63 +509,6 @@ Grailbird.data.tweets_2010_04 =
     }
   },
   "id" : 13124332906,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bob Carr",
-      "screen_name" : "fiddlestyx",
-      "indices" : [ 3, 14 ],
-      "id_str" : "12998942",
-      "id" : 12998942
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "storyofmylife",
-      "indices" : [ 72, 86 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13124349304",
-  "text" : "RT @fiddlestyx: 'Nuff said...&lt;font face=\"Comic Sans MS\" size=\"1\"&gt; #storyofmylife",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "storyofmylife",
-        "indices" : [ 56, 70 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "13107602788",
-    "text" : "'Nuff said...&lt;font face=\"Comic Sans MS\" size=\"1\"&gt; #storyofmylife",
-    "id" : 13107602788,
-    "created_at" : "2010-04-30 03:20:51 +0000",
-    "user" : {
-      "name" : "Bob Carr",
-      "screen_name" : "fiddlestyx",
-      "protected" : false,
-      "id_str" : "12998942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2696832066\/ad9af92b244e1799265604e888cd57a9_normal.jpeg",
-      "id" : 12998942,
-      "verified" : false
-    }
-  },
-  "id" : 13124349304,
   "created_at" : "2010-04-30 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -1053,7 +1053,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926378337144107009\/tyI51Yws_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891389905242386433\/YGkJpLWQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956052306423959552\/-kO5yNLW_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -1352,6 +1352,28 @@ Grailbird.data.tweets_2010_04 =
   "text" : "Anyone want to write me a javascript function that changes the selected value of a drop down list based off a value in a text box?",
   "id" : 12973537023,
   "created_at" : "2010-04-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12855570243",
+  "text" : "Yar, har, fiddle di dee. If you love to sail the sea, You are a pirate!",
+  "id" : 12855570243,
+  "created_at" : "2010-04-26 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1950,28 +1972,6 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12855570243",
-  "text" : "Yar, har, fiddle di dee. If you love to sail the sea, You are a pirate!",
-  "id" : 12855570243,
-  "created_at" : "2010-04-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Deidre Evans",
       "screen_name" : "DeidreEvans",
@@ -2220,6 +2220,31 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "AdobeWKShop10",
+      "indices" : [ 46, 60 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12701013419",
+  "text" : "So little developers at the Adobe Workshop :( #AdobeWKShop10",
+  "id" : 12701013419,
+  "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3733,31 +3758,6 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "AdobeWKShop10",
-      "indices" : [ 46, 60 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12701013419",
-  "text" : "So little developers at the Adobe Workshop :( #AdobeWKShop10",
-  "id" : 12701013419,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "katy rucker",
       "screen_name" : "katyrucker",
@@ -4357,7 +4357,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926378337144107009\/tyI51Yws_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -4463,7 +4463,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926378337144107009\/tyI51Yws_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -4536,7 +4536,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838528834295181312\/-x4Yi17T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937624299325726720\/l5OyeswU_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -5006,6 +5006,28 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12307025338",
+  "text" : "Just got an email informing me that I've been given additional funding and it's not a scam. Well that's awesome",
+  "id" : 12307025338,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Crutchfield",
       "screen_name" : "A_Crutch",
@@ -5230,28 +5252,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12300867028",
   "text" : "Another web application to create added to the list. Would of been nice to finish one before starting another one",
   "id" : 12300867028,
-  "created_at" : "2010-04-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12307025338",
-  "text" : "Just got an email informing me that I've been given additional funding and it's not a scam. Well that's awesome",
-  "id" : 12307025338,
   "created_at" : "2010-04-16 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -6065,13 +6065,46 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838528834295181312\/-x4Yi17T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937624299325726720\/l5OyeswU_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
   },
   "id" : 12126424546,
   "created_at" : "2010-04-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Eric Draven",
+      "screen_name" : "erikdraven",
+      "indices" : [ 0, 11 ],
+      "id_str" : "193070289",
+      "id" : 193070289
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12052581800",
+  "geo" : { },
+  "id_str" : "12052754089",
+  "in_reply_to_user_id" : 9435382,
+  "text" : "@erikdraven I was pretty pissed about all the no code talk. Adobe needs to show love to designers & developers not just designers",
+  "id" : 12052754089,
+  "in_reply_to_status_id" : 12052581800,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "MausHax",
+  "in_reply_to_user_id_str" : "9435382",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -6685,7 +6718,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838528834295181312\/-x4Yi17T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937624299325726720\/l5OyeswU_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -6767,7 +6800,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "catmachine",
       "protected" : false,
       "id_str" : "788525",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925496736201805824\/4png2XwH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947853786004979713\/71D59cnq_normal.jpg",
       "id" : 788525,
       "verified" : false
     }
@@ -7137,39 +7170,6 @@ Grailbird.data.tweets_2010_04 =
   "text" : "Fireworks #CS5 Recovered Files feature should of been included in Windows also.",
   "id" : 12052638566,
   "created_at" : "2010-04-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Eric Draven",
-      "screen_name" : "erikdraven",
-      "indices" : [ 0, 11 ],
-      "id_str" : "193070289",
-      "id" : 193070289
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12052581800",
-  "geo" : { },
-  "id_str" : "12052754089",
-  "in_reply_to_user_id" : 9435382,
-  "text" : "@erikdraven I was pretty pissed about all the no code talk. Adobe needs to show love to designers & developers not just designers",
-  "id" : 12052754089,
-  "in_reply_to_status_id" : 12052581800,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "MausHax",
-  "in_reply_to_user_id_str" : "9435382",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -8137,7 +8137,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "danrubin",
       "protected" : false,
       "id_str" : "12741",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838528834295181312\/-x4Yi17T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937624299325726720\/l5OyeswU_normal.jpg",
       "id" : 12741,
       "verified" : true
     }
@@ -8233,6 +8233,34 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "katy rucker",
+      "screen_name" : "katyrucker",
+      "indices" : [ 0, 11 ],
+      "id_str" : "540255575",
+      "id" : 540255575
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11637457061",
+  "text" : "@katyrucker that's not a dumb question - it's a good question and my answer is I don't know.  :\/ sorry",
+  "id" : 11637457061,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8297,34 +8325,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11628587298",
   "text" : "Writing descriptions for my portfolio - What's the nice way to say \"they hired a developer that bastardize the layout?\"",
   "id" : 11628587298,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "katy rucker",
-      "screen_name" : "katyrucker",
-      "indices" : [ 0, 11 ],
-      "id_str" : "540255575",
-      "id" : 540255575
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11637457061",
-  "text" : "@katyrucker that's not a dumb question - it's a good question and my answer is I don't know.  :\/ sorry",
-  "id" : 11637457061,
   "created_at" : "2010-04-05 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

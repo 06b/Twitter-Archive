@@ -176,7 +176,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2010_12 =
     "created_at" : "2010-12-30 20:32:34 +0000",
     "user" : {
       "name" : "Andrea",
-      "screen_name" : "huntcollab",
+      "screen_name" : "andreamusings",
       "protected" : false,
       "id_str" : "17433168",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441966528661950464\/ZIOeO_LS_normal.jpeg",
@@ -761,7 +761,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917588851572510721\/GK0OfZgW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947918917493776385\/OGLEPAjr_normal.jpg",
       "id" : 12534,
       "verified" : false
     }
@@ -1011,7 +1011,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927560000343457793\/DyBTw2c-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935922168520613888\/ZKSd7cRN_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -3036,7 +3036,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dem Caspers seins\u2122",
+      "name" : "Festung M\u00FCngersdorf",
       "screen_name" : "tcaspers",
       "indices" : [ 3, 12 ],
       "id_str" : "29883",
@@ -3063,11 +3063,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15063491241054208,
     "created_at" : "2010-12-15 15:19:50 +0000",
     "user" : {
-      "name" : "Dem Caspers seins\u2122",
+      "name" : "Festung M\u00FCngersdorf",
       "screen_name" : "tcaspers",
       "protected" : false,
       "id_str" : "29883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929258169519534081\/bq0aWfXa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952579076954484736\/OwHQYT3D_normal.jpg",
       "id" : 29883,
       "verified" : false
     }
@@ -3228,7 +3228,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Crow\u2019s Clever Thanksgiving Tweet Name",
+      "name" : "Andrew Crow",
       "screen_name" : "AndrewCrow",
       "indices" : [ 3, 14 ],
       "id_str" : "1153",
@@ -3261,11 +3261,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 14773865980887040,
     "created_at" : "2010-12-14 20:08:58 +0000",
     "user" : {
-      "name" : "Andrew Crow\u2019s Clever Thanksgiving Tweet Name",
+      "name" : "Andrew Crow",
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918711141672542208\/Zm3p3zei_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952038842990706691\/fx76UAHg_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -3918,7 +3918,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -5339,7 +5339,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -6290,57 +6290,6 @@ Grailbird.data.tweets_2010_12 =
   "text" : "I hate having to write bios about myself",
   "id" : 10473514121302016,
   "created_at" : "2010-12-02 23:20:55 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "indices" : [ 3, 12 ],
-      "id_str" : "13524672",
-      "id" : 13524672
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10428109257973760",
-  "text" : "RT @taestell: Wait, it's Thursday?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "10421708112531456",
-    "text" : "Wait, it's Thursday?",
-    "id" : 10421708112531456,
-    "created_at" : "2010-12-02 19:55:03 +0000",
-    "user" : {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "protected" : false,
-      "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891389905242386433\/YGkJpLWQ_normal.jpg",
-      "id" : 13524672,
-      "verified" : false
-    }
-  },
-  "id" : 10428109257973760,
-  "created_at" : "2010-12-02 20:20:29 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

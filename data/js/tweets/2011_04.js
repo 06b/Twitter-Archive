@@ -362,7 +362,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jessica Hische",
+      "name" : "Jessica Hische is out.",
       "screen_name" : "jessicahische",
       "indices" : [ 3, 17 ],
       "id_str" : "18638800",
@@ -389,7 +389,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 64008766173097984,
     "created_at" : "2011-04-29 16:50:53 +0000",
     "user" : {
-      "name" : "Jessica Hische",
+      "name" : "Jessica Hische is out.",
       "screen_name" : "jessicahische",
       "protected" : false,
       "id_str" : "18638800",
@@ -1176,7 +1176,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -1239,7 +1239,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -1986,7 +1986,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778306182733791232\/DnWa5e7Z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935005385676566528\/alycHOR5_normal.jpg",
       "id" : 768197,
       "verified" : false
     }
@@ -3282,7 +3282,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926378337144107009\/tyI51Yws_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3617,7 +3617,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -4631,7 +4631,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14117434",
       "id" : 14117434
     }, {
-      "name" : "Andy O'Dore \uD83C\uDF88",
+      "name" : "Andy O'Dore",
       "screen_name" : "andyodore",
       "indices" : [ 90, 100 ],
       "id_str" : "16643550",
@@ -4659,7 +4659,7 @@ Grailbird.data.tweets_2011_04 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Andy O'Dore \uD83C\uDF88",
+        "name" : "Andy O'Dore",
         "screen_name" : "andyodore",
         "indices" : [ 76, 86 ],
         "id_str" : "16643550",
@@ -16153,7 +16153,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "Ste_Allan",
       "protected" : false,
       "id_str" : "86386771",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882687517279080449\/-tYbaq_O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951213184848924677\/yvP16JvI_normal.jpg",
       "id" : 86386771,
       "verified" : false
     }

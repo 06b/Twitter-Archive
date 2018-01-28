@@ -1017,10 +1017,6 @@ Grailbird.data.tweets_2013_07 =
       "id" : 359361776871157760,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPy1odBCMAAM3I0.png",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 391,
         "resize" : "fit",
         "w" : 940
@@ -1036,6 +1032,10 @@ Grailbird.data.tweets_2013_07 =
         "h" : 391,
         "resize" : "fit",
         "w" : 940
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/4IhzYLhZU0"
     } ],
@@ -1058,10 +1058,6 @@ Grailbird.data.tweets_2013_07 =
         "id" : 359361776871157760,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPy1odBCMAAM3I0.png",
         "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 391,
           "resize" : "fit",
           "w" : 940
@@ -1077,6 +1073,10 @@ Grailbird.data.tweets_2013_07 =
           "h" : 391,
           "resize" : "fit",
           "w" : 940
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         } ],
         "display_url" : "pic.twitter.com\/4IhzYLhZU0"
       } ],
@@ -1197,7 +1197,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leigh Janet Mactavish Honeywell",
+      "name" : "Leigh Honeywell",
       "screen_name" : "hypatiadotca",
       "indices" : [ 3, 16 ],
       "id_str" : "6742522",
@@ -1224,7 +1224,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 358719864136929280,
     "created_at" : "2013-07-20 22:47:34 +0000",
     "user" : {
-      "name" : "Leigh Janet Mactavish Honeywell",
+      "name" : "Leigh Honeywell",
       "screen_name" : "hypatiadotca",
       "protected" : false,
       "id_str" : "6742522",
@@ -1822,13 +1822,13 @@ Grailbird.data.tweets_2013_07 =
       "id" : 358062571246477312,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPgYAu6CYAANWEV.jpg",
       "sizes" : [ {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 491
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 491
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -2480,7 +2480,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hampton",
+      "name" : "The Future Is Weird",
       "screen_name" : "hcatlin",
       "indices" : [ 3, 11 ],
       "id_str" : "12986052",
@@ -2510,11 +2510,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356926842160164864,
     "created_at" : "2013-07-16 00:02:45 +0000",
     "user" : {
-      "name" : "Hampton",
+      "name" : "The Future Is Weird",
       "screen_name" : "hcatlin",
       "protected" : false,
       "id_str" : "12986052",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638910925261541376\/WGhFe-az_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/934344872106123265\/-N0iqblY_normal.jpg",
       "id" : 12986052,
       "verified" : false
     }
@@ -2534,7 +2534,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "that \"fwish-fwish\" of walking in dry autumn leaves",
+      "name" : "&c.",
       "screen_name" : "socdf",
       "indices" : [ 3, 9 ],
       "id_str" : "531703765",
@@ -2549,21 +2549,21 @@ Grailbird.data.tweets_2013_07 =
       "id" : 356616797421715457,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
       "sizes" : [ {
-        "h" : 1200,
+        "h" : 2048,
         "resize" : "fit",
-        "w" : 900
+        "w" : 1536
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 900
+      }, {
         "h" : 680,
         "resize" : "fit",
         "w" : 510
-      }, {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1536
       }, {
         "h" : 2048,
         "resize" : "fit",
@@ -2590,21 +2590,21 @@ Grailbird.data.tweets_2013_07 =
         "id" : 356616797421715457,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
         "sizes" : [ {
-          "h" : 1200,
+          "h" : 2048,
           "resize" : "fit",
-          "w" : 900
+          "w" : 1536
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 900
+        }, {
           "h" : 680,
           "resize" : "fit",
           "w" : 510
-        }, {
-          "h" : 2048,
-          "resize" : "fit",
-          "w" : 1536
         }, {
           "h" : 2048,
           "resize" : "fit",
@@ -2621,11 +2621,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356616797417521155,
     "created_at" : "2013-07-15 03:30:45 +0000",
     "user" : {
-      "name" : "that \"fwish-fwish\" of walking in dry autumn leaves",
+      "name" : "&c.",
       "screen_name" : "socdf",
       "protected" : false,
       "id_str" : "531703765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929434731661418498\/Y5_NVGSV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954789350876758016\/ZKF3uyHs_normal.jpg",
       "id" : 531703765,
       "verified" : false
     }
@@ -2812,7 +2812,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -2875,13 +2875,13 @@ Grailbird.data.tweets_2013_07 =
       "id" : 355083875606728705,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BO2C508CEAE6FZq.jpg",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 519,
         "resize" : "fit",
         "w" : 578
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 519,
         "resize" : "fit",
@@ -2922,13 +2922,13 @@ Grailbird.data.tweets_2013_07 =
         "id" : 355083875606728705,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BO2C508CEAE6FZq.jpg",
         "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 519,
           "resize" : "fit",
           "w" : 578
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 519,
           "resize" : "fit",
@@ -3058,6 +3058,10 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 689
         }, {
+          "h" : 621,
+          "resize" : "fit",
+          "w" : 680
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -3065,10 +3069,6 @@ Grailbird.data.tweets_2013_07 =
           "h" : 629,
           "resize" : "fit",
           "w" : 689
-        }, {
-          "h" : 621,
-          "resize" : "fit",
-          "w" : 680
         }, {
           "h" : 629,
           "resize" : "fit",
@@ -4004,17 +4004,17 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 485
       }, {
+        "h" : 394,
+        "resize" : "fit",
+        "w" : 485
+      }, {
+        "h" : 394,
+        "resize" : "fit",
+        "w" : 485
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 485
-      }, {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 485
       } ],
       "display_url" : "pic.twitter.com\/sapEXpjIw7"
     } ],
@@ -4051,17 +4051,17 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 485
         }, {
+          "h" : 394,
+          "resize" : "fit",
+          "w" : 485
+        }, {
+          "h" : 394,
+          "resize" : "fit",
+          "w" : 485
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 394,
-          "resize" : "fit",
-          "w" : 485
-        }, {
-          "h" : 394,
-          "resize" : "fit",
-          "w" : 485
         } ],
         "display_url" : "pic.twitter.com\/sapEXpjIw7"
       } ],

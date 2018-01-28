@@ -453,9 +453,9 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6678117559",
-  "text" : "Freelance + Myself = Happy",
-  "id" : 6678117559,
+  "id_str" : "6702039654",
+  "text" : "It figures I would get sick when I would be on my break.",
+  "id" : 6702039654,
   "created_at" : "2009-12-15 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -475,9 +475,9 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6702039654",
-  "text" : "It figures I would get sick when I would be on my break.",
-  "id" : 6702039654,
+  "id_str" : "6678117559",
+  "text" : "Freelance + Myself = Happy",
+  "id" : 6678117559,
   "created_at" : "2009-12-15 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

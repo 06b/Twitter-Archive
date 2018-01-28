@@ -107,7 +107,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rcayabyab",
       "protected" : false,
       "id_str" : "19198505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682595209226620928\/-TTHWyN7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945764426203959298\/WG8oNorN_normal.jpg",
       "id" : 19198505,
       "verified" : false
     }
@@ -488,7 +488,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Crow\u2019s Clever Thanksgiving Tweet Name",
+      "name" : "Andrew Crow",
       "screen_name" : "AndrewCrow",
       "indices" : [ 3, 14 ],
       "id_str" : "1153",
@@ -515,11 +515,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 162973432311578624,
     "created_at" : "2012-01-27 19:01:08 +0000",
     "user" : {
-      "name" : "Andrew Crow\u2019s Clever Thanksgiving Tweet Name",
+      "name" : "Andrew Crow",
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918711141672542208\/Zm3p3zei_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952038842990706691\/fx76UAHg_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -628,13 +628,7 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sa\u0161a Tomislav Matai\u0107",
-      "screen_name" : "quarkon",
-      "indices" : [ 3, 11 ],
-      "id_str" : "19468426",
-      "id" : 19468426
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -656,11 +650,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 162532505629634561,
     "created_at" : "2012-01-26 13:49:03 +0000",
     "user" : {
-      "name" : "Sa\u0161a Tomislav Matai\u0107",
-      "screen_name" : "quarkon",
+      "name" : "A\u2122",
+      "screen_name" : "0xA_T",
       "protected" : false,
       "id_str" : "19468426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730454365752983554\/TXLHvUkq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951876291141259264\/xRF-FtsD_normal.jpg",
       "id" : 19468426,
       "verified" : false
     }
@@ -1050,7 +1044,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917588851572510721\/GK0OfZgW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947918917493776385\/OGLEPAjr_normal.jpg",
       "id" : 12534,
       "verified" : false
     }
@@ -1320,7 +1314,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk \u201CHey Jack, do something about Nazis\uD83D\uDD95\u201D Ate\u015F",
+      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -1347,11 +1341,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 161896092286464001,
     "created_at" : "2012-01-24 19:40:10 +0000",
     "user" : {
-      "name" : "Faruk \u201CHey Jack, do something about Nazis\uD83D\uDD95\u201D Ate\u015F",
+      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929034655818432512\/hknR-MC4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950082860324564992\/6cKgeovA_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -2119,7 +2113,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930573232536784896\/teYi-nmH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950540756388798464\/0D_nzn9G_normal.jpg",
       "id" : 4816,
       "verified" : true
     }
@@ -4313,7 +4307,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "bradcolbow",
       "protected" : false,
       "id_str" : "5530472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/921101484653027328\/i0QMI9fU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935930439210070016\/iw2Awdrp_normal.jpg",
       "id" : 5530472,
       "verified" : false
     }
@@ -4404,21 +4398,21 @@ Grailbird.data.tweets_2012_01 =
       "id" : 154749590925623296,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AiXH7txCQAADJtm.jpg",
       "sizes" : [ {
-        "h" : 717,
+        "h" : 508,
         "resize" : "fit",
-        "w" : 960
-      }, {
-        "h" : 717,
-        "resize" : "fit",
-        "w" : 960
+        "w" : 680
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 508,
+        "h" : 717,
         "resize" : "fit",
-        "w" : 680
+        "w" : 960
+      }, {
+        "h" : 717,
+        "resize" : "fit",
+        "w" : 960
       }, {
         "h" : 717,
         "resize" : "fit",
@@ -4451,21 +4445,21 @@ Grailbird.data.tweets_2012_01 =
         "id" : 154749590925623296,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AiXH7txCQAADJtm.jpg",
         "sizes" : [ {
-          "h" : 717,
+          "h" : 508,
           "resize" : "fit",
-          "w" : 960
-        }, {
-          "h" : 717,
-          "resize" : "fit",
-          "w" : 960
+          "w" : 680
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 508,
+          "h" : 717,
           "resize" : "fit",
-          "w" : 680
+          "w" : 960
+        }, {
+          "h" : 717,
+          "resize" : "fit",
+          "w" : 960
         }, {
           "h" : 717,
           "resize" : "fit",

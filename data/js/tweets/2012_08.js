@@ -34,7 +34,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/921930545595957249\/dauinGb__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933453711371726849\/q5DMj4ZN_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -884,7 +884,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926378337144107009\/tyI51Yws_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -951,7 +951,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Adobe",
       "protected" : false,
       "id_str" : "63786611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/919961403246514176\/oMTfRfuj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948272427930226688\/gdfJDOvo_normal.jpg",
       "id" : 63786611,
       "verified" : true
     }
@@ -1315,7 +1315,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83E\uDDDC\u200D\u2640\uFE0F",
+      "name" : "charlotte \uD83D\uDC96",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1352,11 +1352,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 238694249976168449,
     "created_at" : "2012-08-23 17:48:38 +0000",
     "user" : {
-      "name" : "charlotte \uD83E\uDDDC\u200D\u2640\uFE0F",
+      "name" : "charlotte \uD83D\uDC96",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842434774916599812\/XW_zsxbU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
       "id" : 202571491,
       "verified" : false
     }
@@ -3007,7 +3007,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "taestell",
       "protected" : false,
       "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891389905242386433\/YGkJpLWQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956052306423959552\/-kO5yNLW_normal.jpg",
       "id" : 13524672,
       "verified" : false
     }
@@ -3898,7 +3898,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "dburka",
       "protected" : false,
       "id_str" : "635543",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879429934778732544\/Es0cg0HP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935275565753409537\/qbTWIif4_normal.jpg",
       "id" : 635543,
       "verified" : true
     }
@@ -3972,54 +3972,6 @@ Grailbird.data.tweets_2012_08 =
   },
   "id" : 233240646515843072,
   "created_at" : "2012-08-08 16:37:58 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "233240339278868481",
-  "text" : "RT @pvmederos: How to get a CSS background image to adapt? Use a sprite with multiple sizes, and use media queries to swap the BG positi ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "aeadc",
-        "indices" : [ 126, 132 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "233233235616858112",
-    "text" : "How to get a CSS background image to adapt? Use a sprite with multiple sizes, and use media queries to swap the BG positions. #aeadc",
-    "id" : 233233235616858112,
-    "created_at" : "2012-08-08 16:08:31 +0000",
-    "user" : {
-      "name" : "paul mederos \uD83C\uDF6B",
-      "screen_name" : "pvm",
-      "protected" : false,
-      "id_str" : "76852610",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899093446865977344\/RoCZ_utp_normal.jpg",
-      "id" : 76852610,
-      "verified" : false
-    }
-  },
-  "id" : 233240339278868481,
-  "created_at" : "2012-08-08 16:36:44 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4494,12 +4446,12 @@ Grailbird.data.tweets_2012_08 =
         "w" : 471
       }, {
         "h" : 101,
-        "resize" : "fit",
-        "w" : 471
-      }, {
-        "h" : 101,
         "resize" : "crop",
         "w" : 101
+      }, {
+        "h" : 101,
+        "resize" : "fit",
+        "w" : 471
       } ],
       "display_url" : "pic.twitter.com\/0RfYH4f3"
     } ],

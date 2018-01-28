@@ -617,6 +617,37 @@ Grailbird.data.tweets_2009_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Travis",
+      "screen_name" : "taestell",
+      "indices" : [ 0, 9 ],
+      "id_str" : "13524672",
+      "id" : 13524672
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2695675477",
+  "in_reply_to_user_id" : 13524672,
+  "text" : "@taestell Would you let me raise your children also?",
+  "id" : 2695675477,
+  "created_at" : "2009-07-17 00:00:00 +0000",
+  "in_reply_to_screen_name" : "taestell",
+  "in_reply_to_user_id_str" : "13524672",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -655,37 +686,6 @@ Grailbird.data.tweets_2009_07 =
   "in_reply_to_user_id" : 13524672,
   "text" : "@taestell That is shocking, what if I wanted to raise my children and clean the house?",
   "id" : 2693977921,
-  "created_at" : "2009-07-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "taestell",
-  "in_reply_to_user_id_str" : "13524672",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "indices" : [ 0, 9 ],
-      "id_str" : "13524672",
-      "id" : 13524672
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2695675477",
-  "in_reply_to_user_id" : 13524672,
-  "text" : "@taestell Would you let me raise your children also?",
-  "id" : 2695675477,
   "created_at" : "2009-07-17 00:00:00 +0000",
   "in_reply_to_screen_name" : "taestell",
   "in_reply_to_user_id_str" : "13524672",
