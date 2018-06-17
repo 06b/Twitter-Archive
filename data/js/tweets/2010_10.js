@@ -45,7 +45,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "29371426487",
   "text" : "RT @zeldman: \"I'm more or less banned from talking to client.\" - @adactio",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Keith",
@@ -875,7 +875,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1595,7 +1595,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -1628,11 +1628,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28924591097,
     "created_at" : "2010-10-27 21:07:51 +0000",
     "user" : {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979726848618913793\/rFhl_vGT_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -1718,7 +1718,7 @@ Grailbird.data.tweets_2010_10 =
     "in_reply_to_screen_name" : "beep",
     "in_reply_to_user_id_str" : "12534",
     "user" : {
-      "name" : "Show this thread",
+      "name" : "Ryan",
       "screen_name" : "rynbtmn",
       "protected" : false,
       "id_str" : "6790312",
@@ -1778,7 +1778,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "28908753000",
   "text" : "RT @beep: Oh yeah, Photoshop\u2014I would TOTALLY love to play another game of \u201CMaybe You Can Paste A Hex Color Into This Text Field But Mayb ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2473,7 +2473,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -2500,11 +2500,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28818102708,
     "created_at" : "2010-10-26 19:16:51 +0000",
     "user" : {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979726848618913793\/rFhl_vGT_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -2930,7 +2930,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3290,7 +3290,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "28640404718",
   "text" : "RT @zeldman: OH:\n\"He's a famous gay designer.\"\n\"Oh, that narrows it down.\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5082,7 +5082,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -6080,7 +6080,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -6100,7 +6100,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Aleo \u26A1\uFE0F",
+      "name" : "Mike Aleo \uD83E\uDD85",
       "screen_name" : "MichaelAleo",
       "indices" : [ 3, 15 ],
       "id_str" : "17913992",
@@ -6144,11 +6144,11 @@ Grailbird.data.tweets_2010_10 =
     "in_reply_to_screen_name" : "snookca",
     "in_reply_to_user_id_str" : "12591",
     "user" : {
-      "name" : "Mike Aleo \u26A1\uFE0F",
+      "name" : "Mike Aleo \uD83E\uDD85",
       "screen_name" : "MichaelAleo",
       "protected" : false,
       "id_str" : "17913992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861051636692725768\/IPlSS_qd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960574395499667456\/opaMOpE8_normal.jpg",
       "id" : 17913992,
       "verified" : false
     }
@@ -9013,7 +9013,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAChicago",
       "protected" : false,
       "id_str" : "28088118",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882696823512629249\/4ZG9caFU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003726528268496896\/6hYrMmwp_normal.jpg",
       "id" : 28088118,
       "verified" : false
     }

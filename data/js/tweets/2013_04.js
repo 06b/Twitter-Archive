@@ -141,6 +141,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 648
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iBmNjo9Yrx"
     } ],
     "hashtags" : [ ],
@@ -182,6 +183,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 648
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/iBmNjo9Yrx"
       } ],
       "hashtags" : [ ],
@@ -197,7 +199,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "meangrape",
       "protected" : false,
       "id_str" : "336113",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910994212010774528\/zoqPfP9N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975097434996137985\/En88zA3T_normal.jpg",
       "id" : 336113,
       "verified" : false
     }
@@ -483,7 +485,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "328988098409148417",
   "text" : "RT @beep: Current status: http:\/\/t.co\/nFhKch5UJy",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -525,7 +527,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -583,6 +585,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/q5VaWvsA8P"
       } ],
       "hashtags" : [ ],
@@ -599,11 +602,11 @@ Grailbird.data.tweets_2013_04 =
     "in_reply_to_screen_name" : "levie",
     "in_reply_to_user_id_str" : "914061",
     "user" : {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979726848618913793\/rFhl_vGT_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -658,6 +661,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/egOCFnjXRl"
     } ],
     "hashtags" : [ ],
@@ -699,6 +703,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/egOCFnjXRl"
       } ],
       "hashtags" : [ ],
@@ -765,124 +770,13 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "heiditron3000",
       "protected" : false,
       "id_str" : "16008617",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875535324956442625\/D6AAIvlW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995045901440708608\/8Z1NGLu__normal.jpg",
       "id" : 16008617,
       "verified" : false
     }
   },
   "id" : 328517677876383746,
   "created_at" : "2013-04-28 14:34:52 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "indices" : [ 3, 11 ],
-      "id_str" : "24974216",
-      "id" : 24974216
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/necolas\/status\/327832760792281089\/photo\/1",
-      "indices" : [ 33, 55 ],
-      "url" : "http:\/\/t.co\/3W4zZ7JwJK",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BIyyKLWCAAAEXSh.jpg",
-      "id_str" : "327832760804835328",
-      "id" : 327832760804835328,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BIyyKLWCAAAEXSh.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 731,
-        "resize" : "fit",
-        "w" : 725
-      }, {
-        "h" : 731,
-        "resize" : "fit",
-        "w" : 725
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 674
-      }, {
-        "h" : 731,
-        "resize" : "fit",
-        "w" : 725
-      } ],
-      "display_url" : "pic.twitter.com\/3W4zZ7JwJK"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "327843943477809153",
-  "text" : "RT @necolas: How to catch a cat\u2026 http:\/\/t.co\/3W4zZ7JwJK",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/necolas\/status\/327832760792281089\/photo\/1",
-        "indices" : [ 20, 42 ],
-        "url" : "http:\/\/t.co\/3W4zZ7JwJK",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BIyyKLWCAAAEXSh.jpg",
-        "id_str" : "327832760804835328",
-        "id" : 327832760804835328,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BIyyKLWCAAAEXSh.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 731,
-          "resize" : "fit",
-          "w" : 725
-        }, {
-          "h" : 731,
-          "resize" : "fit",
-          "w" : 725
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 674
-        }, {
-          "h" : 731,
-          "resize" : "fit",
-          "w" : 725
-        } ],
-        "display_url" : "pic.twitter.com\/3W4zZ7JwJK"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "327832760792281089",
-    "text" : "How to catch a cat\u2026 http:\/\/t.co\/3W4zZ7JwJK",
-    "id" : 327832760792281089,
-    "created_at" : "2013-04-26 17:13:15 +0000",
-    "user" : {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "protected" : false,
-      "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933453711371726849\/q5DMj4ZN_normal.jpg",
-      "id" : 24974216,
-      "verified" : false
-    }
-  },
-  "id" : 327843943477809153,
-  "created_at" : "2013-04-26 17:57:41 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -966,7 +860,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327758474924654592",
   "text" : "RT @LeaVerou: \u201CQuestion all the constraints\nDream code\nDream big\nDon\u2019t worry\nbe happy\u201D\n\u2014 @gr2m \nThanks for reminding me to be creative! #fr\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Gregor Martynus",
@@ -1073,7 +967,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -1738,6 +1632,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/yUfStWfF63"
     } ],
     "hashtags" : [ ],
@@ -1779,6 +1674,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/yUfStWfF63"
       } ],
       "hashtags" : [ ],
@@ -2021,7 +1917,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Crafty Old Git",
+      "name" : "Data Subject",
       "screen_name" : "nternetinspired",
       "indices" : [ 3, 19 ],
       "id_str" : "132566924",
@@ -2040,7 +1936,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "326341697959239680",
   "text" : "RT @nternetinspired: Debug-css, a development stylesheet to identify possibly invalid or inaccessible markup https:\/\/t.co\/8NmOj0C8KW all cr\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Harry Roberts",
@@ -2064,7 +1960,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 326285297564413952,
     "created_at" : "2013-04-22 10:44:11 +0000",
     "user" : {
-      "name" : "Crafty Old Git",
+      "name" : "Data Subject",
       "screen_name" : "nternetinspired",
       "protected" : false,
       "id_str" : "132566924",
@@ -2319,7 +2215,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 325444425373339649,
     "created_at" : "2013-04-20 03:02:52 +0000",
     "user" : {
-      "name" : "Rachel Nabors",
+      "name" : "Rachel Nabors \uD83D\uDC99 @UX\/CSS Day",
       "screen_name" : "rachelnabors",
       "protected" : false,
       "id_str" : "9550352",
@@ -2439,6 +2335,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6mmrxWsLj0"
     } ],
     "hashtags" : [ ],
@@ -2480,6 +2377,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/6mmrxWsLj0"
       } ],
       "hashtags" : [ ],
@@ -3200,6 +3098,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 3552
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6WLOPDhpfa"
     } ],
     "hashtags" : [ ],
@@ -3258,6 +3157,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 651
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SljTLi02XB"
     } ],
     "hashtags" : [ {
@@ -3305,6 +3205,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 651
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SljTLi02XB"
       } ],
       "hashtags" : [ {
@@ -3678,7 +3579,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "9384812",
       "id" : 9384812
     }, {
-      "name" : "Josh Seiden",
+      "name" : "Josh \"Done Done\" Seiden",
       "screen_name" : "jseiden",
       "indices" : [ 132, 140 ],
       "id_str" : "1882601",
@@ -3701,7 +3602,7 @@ Grailbird.data.tweets_2013_04 =
         "id_str" : "9384812",
         "id" : 9384812
       }, {
-        "name" : "Josh Seiden",
+        "name" : "Josh \"Done Done\" Seiden",
         "screen_name" : "jseiden",
         "indices" : [ 114, 122 ],
         "id_str" : "1882601",
@@ -3741,7 +3642,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -3774,7 +3675,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -3807,7 +3708,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -3834,7 +3735,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 323125803011416066,
     "created_at" : "2013-04-13 17:29:29 +0000",
     "user" : {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -3940,6 +3841,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KPeNxKxOhr"
     } ],
     "hashtags" : [ ],
@@ -3981,6 +3883,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 768
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KPeNxKxOhr"
       } ],
       "hashtags" : [ ],
@@ -4051,6 +3954,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/v3ct6mzbmO"
     } ],
     "hashtags" : [ ],
@@ -4382,7 +4286,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "BrandonClapp",
       "protected" : false,
       "id_str" : "139849009",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3513445319\/fb3b49d658c0b39d870ef3a4e62c97ec_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992895908239949824\/CYkd9p-M_normal.jpg",
       "id" : 139849009,
       "verified" : false
     }
@@ -4402,7 +4306,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -4439,7 +4343,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 321643446232289281,
     "created_at" : "2013-04-09 15:19:08 +0000",
     "user" : {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -4546,7 +4450,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -4795,6 +4699,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 448
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nuk68H2DJp"
     } ],
     "hashtags" : [ {
@@ -4839,6 +4744,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 448
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nuk68H2DJp"
       } ],
       "hashtags" : [ {
@@ -5074,6 +4980,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 2894
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ssknjtZqgq"
     } ],
     "hashtags" : [ {
@@ -5186,6 +5093,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 3552
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hMk5ygqbQK"
     } ],
     "hashtags" : [ {
@@ -5247,6 +5155,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 476
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CqOSGZXDAp"
     } ],
     "hashtags" : [ ],
@@ -5256,7 +5165,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "319816060654206977",
   "text" : "RT @rcayabyab: it was just brought to my attention that today is 404 day. happy 404 day! http:\/\/t.co\/CqOSGZXDAp",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5288,6 +5197,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 476
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/CqOSGZXDAp"
       } ],
       "hashtags" : [ ],

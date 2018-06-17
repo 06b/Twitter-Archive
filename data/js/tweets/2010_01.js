@@ -105,9 +105,9 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "8309743320",
-  "text" : "Today I bled for my fellow designers. Lesson of the day - Letterpress printing can be dangerous. I still had fun though",
-  "id" : 8309743320,
+  "id_str" : "8308328152",
+  "text" : "@PhillipFromOhio Try an art major",
+  "id" : 8308328152,
   "created_at" : "2010-01-28 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -127,9 +127,9 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "8308328152",
-  "text" : "@PhillipFromOhio Try an art major",
-  "id" : 8308328152,
+  "id_str" : "8309743320",
+  "text" : "Today I bled for my fellow designers. Lesson of the day - Letterpress printing can be dangerous. I still had fun though",
+  "id" : 8309743320,
   "created_at" : "2010-01-28 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -786,7 +786,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "indices" : [ 3, 16 ],
       "id_str" : "15629200",

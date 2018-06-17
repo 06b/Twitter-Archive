@@ -362,7 +362,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jessica Hische is out.",
+      "name" : "Jessica Hische",
       "screen_name" : "jessicahische",
       "indices" : [ 3, 17 ],
       "id_str" : "18638800",
@@ -389,7 +389,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 64008766173097984,
     "created_at" : "2011-04-29 16:50:53 +0000",
     "user" : {
-      "name" : "Jessica Hische is out.",
+      "name" : "Jessica Hische",
       "screen_name" : "jessicahische",
       "protected" : false,
       "id_str" : "18638800",
@@ -592,12 +592,6 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "31818854",
       "id" : 31818854
     }, {
-      "name" : "Andy O",
-      "screen_name" : "AndyO1217",
-      "indices" : [ 26, 36 ],
-      "id_str" : "101398543",
-      "id" : 101398543
-    }, {
       "name" : "Ryan Cayabyab",
       "screen_name" : "rcayabyab",
       "indices" : [ 37, 47 ],
@@ -637,7 +631,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "21794594",
       "id" : 21794594
     }, {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "indices" : [ 17, 30 ],
       "id_str" : "15629200",
@@ -651,10 +645,10 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "63774838375981057",
   "text" : "RT @uniondesign: @stubbornella I'm cutting back on ID and descendent selectors. An ID selector is like a specificity sledgehammer!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nicole Sullivan",
+        "name" : "Nicole Sullivan \uD83D\uDC8E",
         "screen_name" : "stubbornella",
         "indices" : [ 0, 13 ],
         "id_str" : "15629200",
@@ -3282,7 +3276,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3517,7 +3511,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -9047,7 +9041,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "sethrrr",
       "protected" : false,
       "id_str" : "44438721",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428602644865642496\/fnJhYazr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974878661693259778\/cX4kQUF8_normal.jpg",
       "id" : 44438721,
       "verified" : false
     }
@@ -9741,7 +9735,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -10690,7 +10684,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847556940028923905\/xlh3pLCr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006925171100250112\/MsVoUMUT_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -11413,7 +11407,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -12737,7 +12731,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -12998,7 +12992,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "56372578473885696",
   "text" : "RT @stuntbox: Why are we surprised that a party built on disparaging government lacks the ability to govern effectively?",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -13783,7 +13777,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "sethrrr",
       "protected" : false,
       "id_str" : "44438721",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428602644865642496\/fnJhYazr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974878661693259778\/cX4kQUF8_normal.jpg",
       "id" : 44438721,
       "verified" : false
     }
@@ -15777,7 +15771,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "55472618345738240",
   "text" : "RT @drinkerthinker: \u201CYour cat is like a superhero. A little mini deranged superhero.\u201D",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -17690,7 +17684,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "Airheads",
       "protected" : false,
       "id_str" : "175769976",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811200811049058304\/C_ejsvdN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996027294564134914\/MZSHWY4y_normal.jpg",
       "id" : 175769976,
       "verified" : true
     }

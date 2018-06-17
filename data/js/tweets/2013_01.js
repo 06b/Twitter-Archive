@@ -281,6 +281,7 @@ Grailbird.data.tweets_2013_01 =
         "resize" : "fit",
         "w" : 433
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pzUweRWN"
     } ],
     "hashtags" : [ {
@@ -486,6 +487,7 @@ Grailbird.data.tweets_2013_01 =
         "resize" : "fit",
         "w" : 237
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lWYJYcwj"
     } ],
     "hashtags" : [ {
@@ -530,6 +532,7 @@ Grailbird.data.tweets_2013_01 =
           "resize" : "fit",
           "w" : 237
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lWYJYcwj"
       } ],
       "hashtags" : [ {
@@ -617,7 +620,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A321neoliberal",
+      "name" : "Dan Beacon",
       "screen_name" : "jordanekay",
       "indices" : [ 3, 14 ],
       "id_str" : "1651403610",
@@ -654,7 +657,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 294894779593015297,
     "created_at" : "2013-01-25 19:49:28 +0000",
     "user" : {
-      "name" : "Jordan Kay \uD83D\uDCCE",
+      "name" : "Jordan Kay",
       "screen_name" : "_Jordan",
       "protected" : false,
       "id_str" : "14166065",
@@ -725,7 +728,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "294816726296707073",
   "text" : "RT @bradcolbow: Another cool Ohio t-shirt http:\/\/t.co\/vkdjL3Cv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -885,7 +888,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -918,7 +921,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 27, 40 ],
       "id_str" : "15947967",
@@ -1716,7 +1719,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1749,11 +1752,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 290134357182664704,
     "created_at" : "2013-01-12 16:33:15 +0000",
     "user" : {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 202571491,
       "verified" : false
     }
@@ -2791,7 +2794,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "287226997099331584",
   "text" : "RT @bradcolbow: Why is it when designers rework a popular sites as a design exercise they always leave out the ads? That's most of the c ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2909,7 +2912,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -2975,7 +2978,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 20, 33 ],
       "id_str" : "15947967",
@@ -3108,79 +3111,6 @@ Grailbird.data.tweets_2013_01 =
   "text" : "Internal Server Error on @nounproject :(",
   "id" : 286934799401226242,
   "created_at" : "2013-01-03 20:39:21 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "tom robinson",
-      "screen_name" : "tlrobinson",
-      "indices" : [ 3, 14 ],
-      "id_str" : "14206068",
-      "id" : 14206068
-    }, {
-      "name" : "Reddit",
-      "screen_name" : "reddit",
-      "indices" : [ 97, 104 ],
-      "id_str" : "811377",
-      "id" : 811377
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 71, 91 ],
-      "url" : "http:\/\/t.co\/WKS4KEah",
-      "expanded_url" : "http:\/\/i.imgur.com\/BZGyi.jpeg",
-      "display_url" : "i.imgur.com\/BZGyi.jpeg"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "286917379110367232",
-  "text" : "RT @tlrobinson: George Orwell must be rolling in his grave about this: http:\/\/t.co\/WKS4KEah \/via @reddit",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Reddit",
-        "screen_name" : "reddit",
-        "indices" : [ 81, 88 ],
-        "id_str" : "811377",
-        "id" : 811377
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 55, 75 ],
-        "url" : "http:\/\/t.co\/WKS4KEah",
-        "expanded_url" : "http:\/\/i.imgur.com\/BZGyi.jpeg",
-        "display_url" : "i.imgur.com\/BZGyi.jpeg"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "286914687025688578",
-    "text" : "George Orwell must be rolling in his grave about this: http:\/\/t.co\/WKS4KEah \/via @reddit",
-    "id" : 286914687025688578,
-    "created_at" : "2013-01-03 19:19:26 +0000",
-    "user" : {
-      "name" : "tom robinson",
-      "screen_name" : "tlrobinson",
-      "protected" : false,
-      "id_str" : "14206068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000853310157\/a0e3b1296ad4bad4a668803a54a79afd_normal.jpeg",
-      "id" : 14206068,
-      "verified" : false
-    }
-  },
-  "id" : 286917379110367232,
-  "created_at" : "2013-01-03 19:30:08 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3359,7 +3289,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "jontangerine",
       "protected" : false,
       "id_str" : "7629722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804306860241285120\/rC5-AxnS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985128024864690176\/OLZOykY5_normal.jpg",
       "id" : 7629722,
       "verified" : false
     }
@@ -3640,7 +3570,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Rieger",
+      "name" : "Bryan Rieger \uD83C\uDF65",
       "screen_name" : "bryanrieger",
       "indices" : [ 3, 15 ],
       "id_str" : "755367",
@@ -3683,7 +3613,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 286557742850772993,
     "created_at" : "2013-01-02 19:41:04 +0000",
     "user" : {
-      "name" : "Bryan Rieger",
+      "name" : "Bryan Rieger \uD83C\uDF65",
       "screen_name" : "bryanrieger",
       "protected" : false,
       "id_str" : "755367",

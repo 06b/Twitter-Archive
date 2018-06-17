@@ -3,7 +3,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "deeje",
+      "name" : "\uD835\uDD21\uD835\uDD22\uD835\uDD22\uD835\uDD27\uD835\uDD22",
       "screen_name" : "deeje",
       "indices" : [ 3, 9 ],
       "id_str" : "3271",
@@ -52,6 +52,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/zEVbTime1Q"
       } ],
       "hashtags" : [ {
@@ -66,7 +67,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 429387728099086336,
     "created_at" : "2014-01-31 22:56:26 +0000",
     "user" : {
-      "name" : "deeje",
+      "name" : "\uD835\uDD21\uD835\uDD22\uD835\uDD22\uD835\uDD27\uD835\uDD22",
       "screen_name" : "deeje",
       "protected" : false,
       "id_str" : "3271",
@@ -273,7 +274,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "indices" : [ 3, 16 ],
       "id_str" : "15629200",
@@ -305,7 +306,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 428575612978991104,
     "created_at" : "2014-01-29 17:09:23 +0000",
     "user" : {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
@@ -437,6 +438,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o5t1VpTwMO"
     } ],
     "hashtags" : [ ],
@@ -549,6 +551,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/a0ROLmJUwV"
     } ],
     "hashtags" : [ ],
@@ -595,6 +598,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/a0ROLmJUwV"
       } ],
       "hashtags" : [ ],
@@ -813,7 +817,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "427799076382326784",
   "text" : "RT @drewm: What the Sky\/jQuery thing teaches us is that unpredictable factors can cause good JS to fail. Plan by designing pages to work wi\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -869,7 +873,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "427797503539302400",
   "text" : "RT @drewm: Sky broadband erroneously blocks http:\/\/t.co\/5i7EXxYlDy and that\u2019s why we don\u2019t depend on JavaScript, kids.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -961,7 +965,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "427521352434610176",
   "text" : "RT @jptoto: FINALLY played around with NancyFX a little last night.\n\nNow MVC seems like the fatty fat kid in the back of the class who eats\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -998,7 +1002,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Todd Gardner",
+      "name" : "Todd Gardner in Norway \uD83C\uDDF3\uD83C\uDDF4",
       "screen_name" : "toddhgardner",
       "indices" : [ 3, 16 ],
       "id_str" : "48576981",
@@ -1025,7 +1029,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 427284308739379200,
     "created_at" : "2014-01-26 03:38:12 +0000",
     "user" : {
-      "name" : "Todd Gardner",
+      "name" : "Todd Gardner in Norway \uD83C\uDDF3\uD83C\uDDF4",
       "screen_name" : "toddhgardner",
       "protected" : false,
       "id_str" : "48576981",
@@ -1102,7 +1106,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1220,6 +1224,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TU75KKXH3L"
     } ],
     "hashtags" : [ ],
@@ -1261,6 +1266,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/TU75KKXH3L"
       } ],
       "hashtags" : [ ],
@@ -1325,6 +1331,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/26FWvceXBG"
     } ],
     "hashtags" : [ ],
@@ -1563,6 +1570,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9I59yWOJ7N"
       } ],
       "hashtags" : [ ],
@@ -1642,7 +1650,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -1669,11 +1677,11 @@ Grailbird.data.tweets_2014_01 =
     "id" : 424595626484318208,
     "created_at" : "2014-01-18 17:34:20 +0000",
     "user" : {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954509808882896897\/lGdx0KBY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987831937103515648\/lTZ107TE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -1795,6 +1803,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sIqLEaKmG0"
     } ],
     "hashtags" : [ {
@@ -2034,7 +2043,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "423895479538053120",
   "text" : "RT @litmusapp: \"A no-reply is a no-go\" Don't use a noreply@ address for your reply-to #emailtip #KISSmetrics",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2300,6 +2309,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bLLN3d0x4S"
     } ],
     "hashtags" : [ {
@@ -2644,58 +2654,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
-      "screen_name" : "idiot",
-      "indices" : [ 3, 9 ],
-      "id_str" : "202571491",
-      "id" : 202571491
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "422192543950843904",
-  "text" : "RT @idiot: programming = writing software\ncoding = pretending to be a fish\n\nknow the difference",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "422174741764796416",
-    "text" : "programming = writing software\ncoding = pretending to be a fish\n\nknow the difference",
-    "id" : 422174741764796416,
-    "created_at" : "2014-01-12 01:14:36 +0000",
-    "user" : {
-      "name" : "charlotte \uD83D\uDC96",
-      "screen_name" : "idiot",
-      "protected" : false,
-      "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
-      "id" : 202571491,
-      "verified" : false
-    }
-  },
-  "id" : 422192543950843904,
-  "created_at" : "2014-01-12 02:25:21 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dan Benjamin \uD83D\uDC0D",
+      "name" : "Dan Benjamin \uD83E\uDD85\uD83D\uDC0D",
       "screen_name" : "danbenjamin",
       "indices" : [ 3, 15 ],
       "id_str" : "5905672",
@@ -2730,6 +2689,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/R9wsM7FJTc"
     } ],
     "hashtags" : [ ],
@@ -2771,6 +2731,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/R9wsM7FJTc"
       } ],
       "hashtags" : [ ],
@@ -2782,11 +2743,11 @@ Grailbird.data.tweets_2014_01 =
     "id" : 421703208176590849,
     "created_at" : "2014-01-10 18:00:54 +0000",
     "user" : {
-      "name" : "Dan Benjamin \uD83D\uDC0D",
+      "name" : "Dan Benjamin \uD83E\uDD85\uD83D\uDC0D",
       "screen_name" : "danbenjamin",
       "protected" : false,
       "id_str" : "5905672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946153695216939008\/Tfz-9xBE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971149489892245505\/ziLe5C8m_normal.jpg",
       "id" : 5905672,
       "verified" : true
     }
@@ -3037,64 +2998,13 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891116087408025600\/6dJrfUih_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971188478800289793\/2xS1-l86_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
   },
   "id" : 420764454326767616,
   "created_at" : "2014-01-08 03:50:38 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
-      "screen_name" : "idiot",
-      "indices" : [ 3, 9 ],
-      "id_str" : "202571491",
-      "id" : 202571491
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "420735894241300481",
-  "text" : "RT @idiot: Two things will survive the Apocalypse: cockroaches and unsolicited emails from LinkedIn.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "420710548255158272",
-    "text" : "Two things will survive the Apocalypse: cockroaches and unsolicited emails from LinkedIn.",
-    "id" : 420710548255158272,
-    "created_at" : "2014-01-08 00:16:25 +0000",
-    "user" : {
-      "name" : "charlotte \uD83D\uDC96",
-      "screen_name" : "idiot",
-      "protected" : false,
-      "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
-      "id" : 202571491,
-      "verified" : false
-    }
-  },
-  "id" : 420735894241300481,
-  "created_at" : "2014-01-08 01:57:08 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3122,7 +3032,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "420680769787293696",
   "text" : "RT @joshwalsh: WYSIAMWYAG - What You See Is Almost Never What You Actually Get",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3347,7 +3257,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "420366968576020480",
   "text" : "RT @vlh: Security question: What was the colour of your first car?\nMe: red\nError message: Invalid.  Answers can\u2019t be less than 4 letters.\n*\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3415,7 +3325,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "DrPizza",
       "protected" : false,
       "id_str" : "11375732",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933186798787923968\/cI1iTjni_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006570517996941317\/aFB6AQZG_normal.jpg",
       "id" : 11375732,
       "verified" : true
     }
@@ -3750,7 +3660,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anna Debenham",
+      "name" : "Anna Debenham \uD83E\uDD94",
       "screen_name" : "anna_debenham",
       "indices" : [ 3, 17 ],
       "id_str" : "9655342",
@@ -3777,7 +3687,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 419486103302062080,
     "created_at" : "2014-01-04 15:10:55 +0000",
     "user" : {
-      "name" : "Anna Debenham",
+      "name" : "Anna Debenham \uD83E\uDD94",
       "screen_name" : "anna_debenham",
       "protected" : false,
       "id_str" : "9655342",
@@ -3980,6 +3890,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 577
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/x5nenOqmiw"
     } ],
     "hashtags" : [ ],
@@ -4111,6 +4022,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 510
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/MGway5m4Si"
       } ],
       "hashtags" : [ ],
@@ -4170,7 +4082,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "418956556236230656",
   "text" : "RT @jonathanpenn: I was really pulling for Palm and webOS. http:\/\/t.co\/TQyeOxbdf6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4421,6 +4333,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 576
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/579LWbspFd"
       } ],
       "hashtags" : [ ],
@@ -4436,7 +4349,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "Viss",
       "protected" : false,
       "id_str" : "2269701",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812049101898383360\/XjLC_Urn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992290441394438145\/dG_6u5Ly_normal.jpg",
       "id" : 2269701,
       "verified" : true
     }

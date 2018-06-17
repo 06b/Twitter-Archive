@@ -587,7 +587,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -4650,7 +4650,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -6830,7 +6830,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -6963,7 +6963,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "28169835548516352",
   "text" : "RT @beep: Dear internet:\n\nRemember when we decided that target=\"_blank\" was bad?\n\nThose were good times.\n\nSpaceships and high-fives,\n\n-  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7796,7 +7796,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 18, 24 ],
       "id_str" : "14465898",
@@ -8150,7 +8150,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF0A Larry Hryb \uD83C\uDF0A \u2693",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -8177,7 +8177,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 27424624883007489,
     "created_at" : "2011-01-18 17:58:34 +0000",
     "user" : {
-      "name" : "\uD83C\uDF0A Larry Hryb \uD83C\uDF0A \u2693",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -8599,11 +8599,11 @@ Grailbird.data.tweets_2011_01 =
     "id" : 27169601221558272,
     "created_at" : "2011-01-18 01:05:12 +0000",
     "user" : {
-      "name" : "Jason CT",
+      "name" : "\uD835\uDD41\uD835\uDD52\uD835\uDD64\uD835\uDD60\uD835\uDD5F \u2102\uD835\uDD63\uD835\uDD52\uD835\uDD5F\uD835\uDD57\uD835\uDD60\uD835\uDD63\uD835\uDD55\uD835\uDD4B\uD835\uDD56\uD835\uDD52\uD835\uDD58\uD835\uDD66\uD835\uDD56",
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926218726403387393\/BnvhfXPB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004957141449560065\/NyeU_x6W_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }
@@ -9642,7 +9642,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "26134522403749888",
   "text" : "RT @beep: Photoshop! You are hilarious! What\u2019s that? Fire you into the sun? Oh, perish the thought!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9717,6 +9717,51 @@ Grailbird.data.tweets_2011_01 =
   },
   "id" : 26120527584165888,
   "created_at" : "2011-01-15 03:36:33 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26107742968090624",
+  "text" : "RT @liabolicious: An SEO expert walks into my fist for having this joke retweeted so many fucking times.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "26100016695222272",
+    "text" : "An SEO expert walks into my fist for having this joke retweeted so many fucking times.",
+    "id" : 26100016695222272,
+    "created_at" : "2011-01-15 02:15:03 +0000",
+    "user" : {
+      "name" : "Effing Tired",
+      "screen_name" : "peffingtired",
+      "protected" : false,
+      "id_str" : "14574709",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971807842725498886\/9QzT5JM6_normal.jpg",
+      "id" : 14574709,
+      "verified" : false
+    }
+  },
+  "id" : 26107742968090624,
+  "created_at" : "2011-01-15 02:45:45 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -11914,7 +11959,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -11941,11 +11986,11 @@ Grailbird.data.tweets_2011_01 =
     "id" : 23169375917834240,
     "created_at" : "2011-01-07 00:09:44 +0000",
     "user" : {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979726848618913793\/rFhl_vGT_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -13770,7 +13815,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -13964,7 +14009,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "Mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941014107355938816\/-HQvP19a_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007648741845680130\/O-VEUuSF_normal.jpg",
       "id" : 41783,
       "verified" : true
     }

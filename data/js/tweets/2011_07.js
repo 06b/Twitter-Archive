@@ -334,7 +334,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "97046511686397952",
   "text" : "RT @shapingthepage: How do you create a great user experience? You have to care. - @bradcolbow #rebuild2011",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Brad Colbow",
@@ -560,7 +560,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "97030278853312513",
   "text" : "RT @shapingthepage: I dig the color scheme of Yehuda's slides. This much I know. #designer #rebuild2011",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -936,7 +936,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "larabanker",
       "protected" : false,
       "id_str" : "36577080",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856194046036893697\/p9WNV6Ug_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969434470859268097\/3XLKo7oR_normal.jpg",
       "id" : 36577080,
       "verified" : false
     }
@@ -1158,11 +1158,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96985354053238784,
     "created_at" : "2011-07-29 16:48:04 +0000",
     "user" : {
-      "name" : "Alan Houser",
+      "name" : "\uD835\uDD52\uD835\uDD5D\uD835\uDD52\uD835\uDD5F \uD835\uDD59\uD835\uDD60\uD835\uDD66\uD835\uDD64\uD835\uDD56\uD835\uDD63",
       "screen_name" : "pixelmelter",
       "protected" : false,
       "id_str" : "15020422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953754533229834240\/u4kkc4Ft_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001559161002340354\/8raOVbah_normal.jpg",
       "id" : 15020422,
       "verified" : false
     }
@@ -1643,7 +1643,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "danielmcooper",
       "protected" : false,
       "id_str" : "191922474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000454395189\/3234b79b30c7f4a368e6ca0d69898e49_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986438860547604482\/QJFoPihd_normal.jpg",
       "id" : 191922474,
       "verified" : false
     }
@@ -2036,7 +2036,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "96579569880010753",
   "text" : "RT @beep: Tried searching for something on Twitter. Realized it was posted over three days ago. Threw hands up in air. Walked away.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2644,7 +2644,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "61772204",
       "id" : 61772204
     }, {
-      "name" : "Grazi",
+      "name" : "Grazielle Rezende",
       "screen_name" : "grazi",
       "indices" : [ 23, 29 ],
       "id_str" : "54063541",
@@ -2664,7 +2664,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Grazi",
+        "name" : "Grazielle Rezende",
         "screen_name" : "grazi",
         "indices" : [ 4, 10 ],
         "id_str" : "54063541",
@@ -3472,7 +3472,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -3818,7 +3818,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -5707,7 +5707,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -10057,63 +10057,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rockfish",
-      "screen_name" : "Rockfish",
-      "indices" : [ 3, 12 ],
-      "id_str" : "16810823",
-      "id" : 16810823
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "job",
-      "indices" : [ 22, 26 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "90495027205259265",
-  "text" : "RT @Rockfish: Alright #job seekers, we're looking for a savvy Social Media Strategist: http:\/\/rfi.sh\/joodnm",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "job",
-        "indices" : [ 8, 12 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "90488694573772801",
-    "text" : "Alright #job seekers, we're looking for a savvy Social Media Strategist: http:\/\/rfi.sh\/joodnm",
-    "id" : 90488694573772801,
-    "created_at" : "2011-07-11 18:32:40 +0000",
-    "user" : {
-      "name" : "Rockfish",
-      "screen_name" : "Rockfish",
-      "protected" : false,
-      "id_str" : "16810823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865280979660820480\/4DHM_Hnd_normal.jpg",
-      "id" : 16810823,
-      "verified" : false
-    }
-  },
-  "id" : 90495027205259265,
-  "created_at" : "2011-07-11 18:57:50 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Miker",
       "screen_name" : "mikeranochak",
       "indices" : [ 0, 13 ],
@@ -13026,7 +12969,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "paul_irish",
       "protected" : false,
       "id_str" : "1671811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420826194083213312\/CP1RmLa3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972186419274776576\/LaJS_MKO_normal.jpg",
       "id" : 1671811,
       "verified" : false
     }
@@ -15054,7 +14997,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "86798771404554241",
   "text" : "RT @beep: This update fixes\nthe \u201CFacebook upload issue.\u201D\nSomewhere, Warnock laughs.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

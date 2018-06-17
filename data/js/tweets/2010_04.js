@@ -91,6 +91,63 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Creative Suite",
+      "screen_name" : "Creativesuite",
+      "indices" : [ 3, 17 ],
+      "id_str" : "29500609",
+      "id" : 29500609
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CS5",
+      "indices" : [ 59, 63 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13124332906",
+  "text" : "RT @Creativesuite: Guess what?! the wait is over. Download #CS5 today, play this weekend and impress on Monday. http:\/\/bit.ly\/buycs5",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "CS5",
+        "indices" : [ 40, 44 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "13110636607",
+    "text" : "Guess what?! the wait is over. Download #CS5 today, play this weekend and impress on Monday. http:\/\/bit.ly\/buycs5",
+    "id" : 13110636607,
+    "created_at" : "2010-04-30 04:30:22 +0000",
+    "user" : {
+      "name" : "Creative Suite",
+      "screen_name" : "Creativesuite",
+      "protected" : false,
+      "id_str" : "29500609",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2158420927\/FB_Profile_Master_normal.png",
+      "id" : 29500609,
+      "verified" : true
+    }
+  },
+  "id" : 13124332906,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Bob Carr",
       "screen_name" : "fiddlestyx",
       "indices" : [ 3, 14 ],
@@ -292,7 +349,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "paul_irish",
       "protected" : false,
       "id_str" : "1671811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420826194083213312\/CP1RmLa3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972186419274776576\/LaJS_MKO_normal.jpg",
       "id" : 1671811,
       "verified" : false
     }
@@ -453,63 +510,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-30 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Creative Suite",
-      "screen_name" : "Creativesuite",
-      "indices" : [ 3, 17 ],
-      "id_str" : "29500609",
-      "id" : 29500609
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "CS5",
-      "indices" : [ 59, 63 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13124332906",
-  "text" : "RT @Creativesuite: Guess what?! the wait is over. Download #CS5 today, play this weekend and impress on Monday. http:\/\/bit.ly\/buycs5",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "CS5",
-        "indices" : [ 40, 44 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "13110636607",
-    "text" : "Guess what?! the wait is over. Download #CS5 today, play this weekend and impress on Monday. http:\/\/bit.ly\/buycs5",
-    "id" : 13110636607,
-    "created_at" : "2010-04-30 04:30:22 +0000",
-    "user" : {
-      "name" : "Creative Suite",
-      "screen_name" : "Creativesuite",
-      "protected" : false,
-      "id_str" : "29500609",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2158420927\/FB_Profile_Master_normal.png",
-      "id" : 29500609,
-      "verified" : true
-    }
-  },
-  "id" : 13124332906,
-  "created_at" : "2010-04-30 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1053,7 +1053,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1110,57 +1110,6 @@ Grailbird.data.tweets_2010_04 =
     }
   },
   "id" : 13001547492,
-  "created_at" : "2010-04-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "indices" : [ 3, 12 ],
-      "id_str" : "13524672",
-      "id" : 13524672
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13012898442",
-  "text" : "RT @taestell: Car dealership that keeps following, unfollowing, following, unfollowing me -- you've been blocked.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12919474351",
-    "text" : "Car dealership that keeps following, unfollowing, following, unfollowing me -- you've been blocked.",
-    "id" : 12919474351,
-    "created_at" : "2010-04-27 02:02:48 +0000",
-    "user" : {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "protected" : false,
-      "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956052306423959552\/-kO5yNLW_normal.jpg",
-      "id" : 13524672,
-      "verified" : false
-    }
-  },
-  "id" : 13012898442,
   "created_at" : "2010-04-28 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -1973,6 +1922,61 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12803720552",
+  "geo" : { },
+  "id_str" : "12830905694",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller It's not being productive, it's running out of time which is why",
+  "id" : 12830905694,
+  "in_reply_to_status_id" : 12803720552,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12831472650",
+  "text" : "Dear Knee, Please don't remove my battery from my laptop when in use. Thank you, Management",
+  "id" : 12831472650,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Deidre Evans",
       "screen_name" : "DeidreEvans",
       "indices" : [ 0, 12 ],
@@ -2046,61 +2050,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-25 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12803720552",
-  "geo" : { },
-  "id_str" : "12830905694",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller It's not being productive, it's running out of time which is why",
-  "id" : 12830905694,
-  "in_reply_to_status_id" : 12803720552,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12831472650",
-  "text" : "Dear Knee, Please don't remove my battery from my laptop when in use. Thank you, Management",
-  "id" : 12831472650,
-  "created_at" : "2010-04-25 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2220,6 +2169,73 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "AIGA Cincinnati",
+      "screen_name" : "aigacincinnati",
+      "indices" : [ 0, 15 ],
+      "id_str" : "18202661",
+      "id" : 18202661
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12700322367",
+  "in_reply_to_user_id" : 18202661,
+  "text" : "@aigacincinnati Adobe Workshops about to start",
+  "id" : 12700322367,
+  "created_at" : "2010-04-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "aigacincinnati",
+  "in_reply_to_user_id_str" : "18202661",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
+      "screen_name" : "diornotwar",
+      "indices" : [ 0, 11 ],
+      "id_str" : "20627121",
+      "id" : 20627121
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "AdobeWKShop10",
+      "indices" : [ 50, 64 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12700659712",
+  "geo" : { },
+  "id_str" : "12700771376",
+  "in_reply_to_user_id" : 20627121,
+  "text" : "@diornotwar  it's not that hard to creep MSJ kids #AdobeWKShop10",
+  "id" : 12700771376,
+  "in_reply_to_status_id" : 12700659712,
+  "created_at" : "2010-04-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diornotwar",
+  "in_reply_to_user_id_str" : "20627121",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3027,11 +3043,11 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12707057955,
     "created_at" : "2010-04-23 15:05:35 +0000",
     "user" : {
-      "name" : "Jason CT",
+      "name" : "\uD835\uDD41\uD835\uDD52\uD835\uDD64\uD835\uDD60\uD835\uDD5F \u2102\uD835\uDD63\uD835\uDD52\uD835\uDD5F\uD835\uDD57\uD835\uDD60\uD835\uDD63\uD835\uDD55\uD835\uDD4B\uD835\uDD56\uD835\uDD52\uD835\uDD58\uD835\uDD66\uD835\uDD56",
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926218726403387393\/BnvhfXPB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004957141449560065\/NyeU_x6W_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }
@@ -3692,73 +3708,6 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AIGA Cincinnati",
-      "screen_name" : "aigacincinnati",
-      "indices" : [ 0, 15 ],
-      "id_str" : "18202661",
-      "id" : 18202661
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12700322367",
-  "in_reply_to_user_id" : 18202661,
-  "text" : "@aigacincinnati Adobe Workshops about to start",
-  "id" : 12700322367,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "aigacincinnati",
-  "in_reply_to_user_id_str" : "18202661",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "S\u1D00\u0280\u1D00 K\u1D0F\u1D21\u1D00\u1D1B\u1D04\u029C",
-      "screen_name" : "diornotwar",
-      "indices" : [ 0, 11 ],
-      "id_str" : "20627121",
-      "id" : 20627121
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "AdobeWKShop10",
-      "indices" : [ 50, 64 ]
-    } ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12700659712",
-  "geo" : { },
-  "id_str" : "12700771376",
-  "in_reply_to_user_id" : 20627121,
-  "text" : "@diornotwar  it's not that hard to creep MSJ kids #AdobeWKShop10",
-  "id" : 12700771376,
-  "in_reply_to_status_id" : 12700659712,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "diornotwar",
-  "in_reply_to_user_id_str" : "20627121",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "katy rucker",
       "screen_name" : "katyrucker",
       "indices" : [ 0, 11 ],
@@ -4357,7 +4306,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -4463,7 +4412,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -5004,6 +4953,61 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12299558303",
+  "geo" : { },
+  "id_str" : "12300717045",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller I meant the comma after the my resume part",
+  "id" : 12300717045,
+  "in_reply_to_status_id" : 12299558303,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12300867028",
+  "text" : "Another web application to create added to the list. Would of been nice to finish one before starting another one",
+  "id" : 12300867028,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5198,61 +5202,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-16 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12299558303",
-  "geo" : { },
-  "id_str" : "12300717045",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller I meant the comma after the my resume part",
-  "id" : 12300717045,
-  "in_reply_to_status_id" : 12299558303,
-  "created_at" : "2010-04-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12300867028",
-  "text" : "Another web application to create added to the list. Would of been nice to finish one before starting another one",
-  "id" : 12300867028,
-  "created_at" : "2010-04-16 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -6085,6 +6034,88 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Bruce Bowman",
+      "screen_name" : "brucebowman",
+      "indices" : [ 3, 15 ],
+      "id_str" : "7912462",
+      "id" : 7912462
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Fireworks",
+      "indices" : [ 27, 37 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12052552820",
+  "text" : "RT @brucebowman: What's in #Fireworks CS5? Plenty to love. Check out my new Adobe Developer Center article http:\/\/bit.ly\/96TrCW.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "Fireworks",
+        "indices" : [ 10, 20 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "12052489427",
+    "text" : "What's in #Fireworks CS5? Plenty to love. Check out my new Adobe Developer Center article http:\/\/bit.ly\/96TrCW.",
+    "id" : 12052489427,
+    "created_at" : "2010-04-12 15:45:37 +0000",
+    "user" : {
+      "name" : "Bruce Bowman",
+      "screen_name" : "brucebowman",
+      "protected" : false,
+      "id_str" : "7912462",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698248727568384000\/mykVUeoS_normal.jpg",
+      "id" : 7912462,
+      "verified" : false
+    }
+  },
+  "id" : 12052552820,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CS5",
+      "indices" : [ 10, 14 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12052638566",
+  "text" : "Fireworks #CS5 Recovered Files feature should of been included in Windows also.",
+  "id" : 12052638566,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Eric Draven",
       "screen_name" : "erikdraven",
       "indices" : [ 0, 11 ],
@@ -6549,7 +6580,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Harrison",
+      "name" : "Justin",
       "screen_name" : "JustinHar",
       "indices" : [ 3, 13 ],
       "id_str" : "19507632",
@@ -6857,7 +6888,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "jchristopher",
       "protected" : false,
       "id_str" : "5685152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678036783\/687b38689f5757eee80e69575a259eb6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986638192093880321\/KvpvMhmJ_normal.jpg",
       "id" : 5685152,
       "verified" : false
     }
@@ -7087,88 +7118,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12052462625",
   "text" : "Adobe should of given @garazi more time. We could of dealt with less flash and more Dreamweaver & Fireworks #CS5",
   "id" : 12052462625,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bruce Bowman",
-      "screen_name" : "brucebowman",
-      "indices" : [ 3, 15 ],
-      "id_str" : "7912462",
-      "id" : 7912462
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Fireworks",
-      "indices" : [ 27, 37 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12052552820",
-  "text" : "RT @brucebowman: What's in #Fireworks CS5? Plenty to love. Check out my new Adobe Developer Center article http:\/\/bit.ly\/96TrCW.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Fireworks",
-        "indices" : [ 10, 20 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12052489427",
-    "text" : "What's in #Fireworks CS5? Plenty to love. Check out my new Adobe Developer Center article http:\/\/bit.ly\/96TrCW.",
-    "id" : 12052489427,
-    "created_at" : "2010-04-12 15:45:37 +0000",
-    "user" : {
-      "name" : "Bruce Bowman",
-      "screen_name" : "brucebowman",
-      "protected" : false,
-      "id_str" : "7912462",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698248727568384000\/mykVUeoS_normal.jpg",
-      "id" : 7912462,
-      "verified" : false
-    }
-  },
-  "id" : 12052552820,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "CS5",
-      "indices" : [ 10, 14 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12052638566",
-  "text" : "Fireworks #CS5 Recovered Files feature should of been included in Windows also.",
-  "id" : 12052638566,
   "created_at" : "2010-04-12 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -8234,56 +8183,6 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "katy rucker",
-      "screen_name" : "katyrucker",
-      "indices" : [ 0, 11 ],
-      "id_str" : "540255575",
-      "id" : 540255575
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11637457061",
-  "text" : "@katyrucker that's not a dumb question - it's a good question and my answer is I don't know.  :\/ sorry",
-  "id" : 11637457061,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11652289617",
-  "text" : "Visual Studio crashed twice today. I think this is the first time I've ever had it crash on me twice in a day, maybe I shouldn't code today",
-  "id" : 11652289617,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Adam Crutchfield",
       "screen_name" : "A_Crutch",
       "indices" : [ 0, 9 ],
@@ -8325,6 +8224,56 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11628587298",
   "text" : "Writing descriptions for my portfolio - What's the nice way to say \"they hired a developer that bastardize the layout?\"",
   "id" : 11628587298,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "katy rucker",
+      "screen_name" : "katyrucker",
+      "indices" : [ 0, 11 ],
+      "id_str" : "540255575",
+      "id" : 540255575
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11637457061",
+  "text" : "@katyrucker that's not a dumb question - it's a good question and my answer is I don't know.  :\/ sorry",
+  "id" : 11637457061,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11652289617",
+  "text" : "Visual Studio crashed twice today. I think this is the first time I've ever had it crash on me twice in a day, maybe I shouldn't code today",
+  "id" : 11652289617,
   "created_at" : "2010-04-05 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

@@ -103,7 +103,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "daveweigel",
       "protected" : false,
       "id_str" : "13524182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780778734202781696\/plk8mMjX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999649964870451201\/-Co_Xkx4_normal.jpg",
       "id" : 13524182,
       "verified" : true
     }
@@ -759,7 +759,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "283647521266491392",
   "text" : "RT @beep: Current status: http:\/\/t.co\/XVmeydwi",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1311,7 +1311,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "281952978435440640",
   "text" : "RT @beep: CSS discussed in Campfire today:\n\n1. mark:befoer\n2. nargin: 0;\n3. display: mone;\n\nyou guys need any websites builted",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1583,7 +1583,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -2161,7 +2161,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -2194,7 +2194,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -2238,7 +2238,7 @@ Grailbird.data.tweets_2012_12 =
     "in_reply_to_screen_name" : "06b",
     "in_reply_to_user_id_str" : "30257040",
     "user" : {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -2355,6 +2355,7 @@ Grailbird.data.tweets_2012_12 =
         "resize" : "fit",
         "w" : 400
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vdr355Nf"
     } ],
     "hashtags" : [ ],
@@ -2402,6 +2403,7 @@ Grailbird.data.tweets_2012_12 =
           "resize" : "fit",
           "w" : 400
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vdr355Nf"
       } ],
       "hashtags" : [ ],
@@ -2674,7 +2676,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -2719,7 +2721,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "278513182035824642",
   "text" : "RT @bradcolbow: You had one job! http:\/\/t.co\/I8YH5Ks2 (via @bdielman)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Brad Dielman",
@@ -2905,7 +2907,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -3266,7 +3268,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -3315,11 +3317,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 275997699818520576,
     "created_at" : "2012-12-04 16:19:14 +0000",
     "user" : {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 202571491,
       "verified" : false
     }

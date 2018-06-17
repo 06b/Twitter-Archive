@@ -39,7 +39,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "21034666735697920",
   "text" : "RT @fscklog: New year resolutions: 960x640, 1024x768, 1366x768 and 2560x1440.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -426,13 +426,7 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BRING THE SOUND",
-      "screen_name" : "bringthesound",
-      "indices" : [ 3, 17 ],
-      "id_str" : "836353917512462338",
-      "id" : 836353917512462338
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "heatwave",
@@ -744,7 +738,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "20161415834767360",
   "text" : "RT @beep: I\u2019m flying today, so it\u2019s probably safe to assume today\u2019s tweets will all be typed a.) in uppercase and b.) with my fist.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1007,11 +1001,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 19772114588409856,
     "created_at" : "2010-12-28 15:10:14 +0000",
     "user" : {
-      "name" : "molly e. holzschlag",
+      "name" : "This Miss Molly",
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935922168520613888\/ZKSd7cRN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983071002568507393\/eaRL-TU2_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -2623,7 +2617,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "obiwankimberly",
       "protected" : false,
       "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891116087408025600\/6dJrfUih_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971188478800289793\/2xS1-l86_normal.jpg",
       "id" : 279713,
       "verified" : false
     }
@@ -3036,7 +3030,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Festung M\u00FCngersdorf",
+      "name" : "Dem Caspers seins\u2122",
       "screen_name" : "tcaspers",
       "indices" : [ 3, 12 ],
       "id_str" : "29883",
@@ -3063,11 +3057,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15063491241054208,
     "created_at" : "2010-12-15 15:19:50 +0000",
     "user" : {
-      "name" : "Festung M\u00FCngersdorf",
+      "name" : "Dem Caspers seins\u2122",
       "screen_name" : "tcaspers",
       "protected" : false,
       "id_str" : "29883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952579076954484736\/OwHQYT3D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995332643100209152\/TtzqRZIx_normal.jpg",
       "id" : 29883,
       "verified" : false
     }
@@ -3265,7 +3259,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952038842990706691\/fx76UAHg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993347612232183808\/ZDTX2zbj_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -6253,7 +6247,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "timesopen",
+      "name" : "Times Open",
       "screen_name" : "timesopen",
       "indices" : [ 40, 50 ],
       "id_str" : "1880582342",
@@ -6352,7 +6346,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847556940028923905\/xlh3pLCr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006925171100250112\/MsVoUMUT_normal.jpg",
       "id" : 82433,
       "verified" : false
     }

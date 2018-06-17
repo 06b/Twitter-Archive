@@ -267,6 +267,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Pa2mlPNR56"
     } ],
     "hashtags" : [ ],
@@ -308,6 +309,7 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 768
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Pa2mlPNR56"
       } ],
       "hashtags" : [ ],
@@ -671,7 +673,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hay Kranen",
+      "name" : "\uD83C\uDD77\uD83C\uDD70\uD83C\uDD88 \uD83C\uDD7A\uD83C\uDD81\uD83C\uDD70\uD83C\uDD7D\uD83C\uDD74\uD83C\uDD7D",
       "screen_name" : "hayify",
       "indices" : [ 3, 10 ],
       "id_str" : "6257562",
@@ -708,7 +710,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 349826943442632704,
     "created_at" : "2013-06-26 09:50:17 +0000",
     "user" : {
-      "name" : "Hay Kranen",
+      "name" : "\uD83C\uDD77\uD83C\uDD70\uD83C\uDD88 \uD83C\uDD7A\uD83C\uDD81\uD83C\uDD70\uD83C\uDD7D\uD83C\uDD74\uD83C\uDD7D",
       "screen_name" : "hayify",
       "protected" : false,
       "id_str" : "6257562",
@@ -746,7 +748,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "349655125696069633",
   "text" : "RT @vlh: Entertaining the idea that I may in fact have magnetic super powers since I seem to go through external hard drives at a superhuma\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -987,6 +989,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VZdYnsLtkF"
     } ],
     "hashtags" : [ ],
@@ -1034,6 +1037,7 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 768
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VZdYnsLtkF"
       } ],
       "hashtags" : [ ],
@@ -1193,7 +1197,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348172582077480962",
   "text" : "RT @rcayabyab: ok, i kind of want to watch \u2018jobs\u2019 now. \u201Cthe typeface isn't a pressing issue\u201D \u201Cget out\u201D http:\/\/t.co\/bSH108lpBx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1502,6 +1506,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6AZoYbazxe"
     } ],
     "hashtags" : [ {
@@ -1956,7 +1961,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -1989,7 +1994,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -2022,7 +2027,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -2055,7 +2060,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -2230,7 +2235,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "346966153568059393",
   "text" : "RT @siegel: \"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2318,6 +2323,7 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 576
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ubn7lkf26f"
       } ],
       "hashtags" : [ ],
@@ -2476,7 +2482,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "346644378619621376",
   "text" : "RT @vlh: What a cute billboard concept! IBM Billboards that double as benches, ramps or mini shelters: http:\/\/t.co\/sXCvled3UX",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3092,6 +3098,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EFCphZ1Q2Q"
     } ],
     "hashtags" : [ ],
@@ -3434,6 +3441,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/E73vUjf37k"
     } ],
     "hashtags" : [ {
@@ -3452,7 +3460,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "344060857573064705",
   "text" : "RT @aral: RT @suhajdab: So tell me please which button closes the #elevator door!? #uifail #uxfail \n\nhttp:\/\/t.co\/E73vUjf37k\n\nvia @julianche\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Suhajda Bernadett",
@@ -3496,6 +3504,7 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/E73vUjf37k"
       } ],
       "hashtags" : [ {
@@ -3636,6 +3645,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TCEo4zTKyo"
     } ],
     "hashtags" : [ ],
@@ -3677,6 +3687,7 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/TCEo4zTKyo"
       } ],
       "hashtags" : [ ],
@@ -3692,7 +3703,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "xstex",
       "protected" : false,
       "id_str" : "14742479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/955114335969431552\/ttJetarV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993975120187285504\/jjZVrPMA_normal.jpg",
       "id" : 14742479,
       "verified" : false
     }
@@ -4044,7 +4055,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "341546930901487617",
   "text" : "RT @acavoulacos: On Wednesday, #Marvel NOW released the first issue of chronicling the all-female mutant team of X-Men http:\/\/t.co\/sYOZPApN\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4079,117 +4090,6 @@ Grailbird.data.tweets_2013_06 =
   },
   "id" : 341546930901487617,
   "created_at" : "2013-06-03 13:28:28 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "indices" : [ 3, 11 ],
-      "id_str" : "24974216",
-      "id" : 24974216
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/necolas\/status\/340949413574897664\/photo\/1",
-      "indices" : [ 78, 100 ],
-      "url" : "http:\/\/t.co\/UZ3EoaRIrt",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BLtLr2rCcAAGc95.jpg",
-      "id_str" : "340949413579091968",
-      "id" : 340949413579091968,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BLtLr2rCcAAGc95.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 371,
-        "resize" : "fit",
-        "w" : 660
-      }, {
-        "h" : 371,
-        "resize" : "fit",
-        "w" : 660
-      }, {
-        "h" : 371,
-        "resize" : "fit",
-        "w" : 660
-      }, {
-        "h" : 371,
-        "resize" : "fit",
-        "w" : 660
-      } ],
-      "display_url" : "pic.twitter.com\/UZ3EoaRIrt"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "340962719731679234",
-  "text" : "RT @necolas: \"A phone number is required to purchase this phone\" \u2026wait, what? http:\/\/t.co\/UZ3EoaRIrt",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/necolas\/status\/340949413574897664\/photo\/1",
-        "indices" : [ 65, 87 ],
-        "url" : "http:\/\/t.co\/UZ3EoaRIrt",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BLtLr2rCcAAGc95.jpg",
-        "id_str" : "340949413579091968",
-        "id" : 340949413579091968,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BLtLr2rCcAAGc95.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 371,
-          "resize" : "fit",
-          "w" : 660
-        }, {
-          "h" : 371,
-          "resize" : "fit",
-          "w" : 660
-        }, {
-          "h" : 371,
-          "resize" : "fit",
-          "w" : 660
-        }, {
-          "h" : 371,
-          "resize" : "fit",
-          "w" : 660
-        } ],
-        "display_url" : "pic.twitter.com\/UZ3EoaRIrt"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "340949413574897664",
-    "text" : "\"A phone number is required to purchase this phone\" \u2026wait, what? http:\/\/t.co\/UZ3EoaRIrt",
-    "id" : 340949413574897664,
-    "created_at" : "2013-06-01 21:54:09 +0000",
-    "user" : {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "protected" : false,
-      "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933453711371726849\/q5DMj4ZN_normal.jpg",
-      "id" : 24974216,
-      "verified" : false
-    }
-  },
-  "id" : 340962719731679234,
-  "created_at" : "2013-06-01 22:47:01 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

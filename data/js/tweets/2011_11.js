@@ -393,6 +393,7 @@ Grailbird.data.tweets_2011_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DAdCU4tu"
     } ],
     "hashtags" : [ ],
@@ -434,6 +435,7 @@ Grailbird.data.tweets_2011_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DAdCU4tu"
       } ],
       "hashtags" : [ ],
@@ -576,7 +578,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -1022,7 +1024,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "141181466318082049",
   "text" : "RT @happycog: Give the web geek on your list the entire @abookapart library and save 30% off. http:\/\/t.co\/9oL5dCJQ #fb",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "A Book Apart",
@@ -1500,7 +1502,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "estellevw",
       "protected" : false,
       "id_str" : "6320592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943592404396908544\/VXHUBZ7f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972318534058393605\/aae9923L_normal.jpg",
       "id" : 6320592,
       "verified" : false
     }
@@ -2100,7 +2102,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Clarke \u00A0\uD83E\uDD8D",
+      "name" : "Andy Clarke",
       "screen_name" : "Malarkey",
       "indices" : [ 3, 12 ],
       "id_str" : "34163",
@@ -2127,7 +2129,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 137889774911492097,
     "created_at" : "2011-11-19 13:47:38 +0000",
     "user" : {
-      "name" : "Andy Clarke \u00A0\uD83E\uDD8D",
+      "name" : "Andy Clarke",
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
@@ -2531,7 +2533,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849243635178778624\/JXnBOvr__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996375435234570240\/AobDpgxZ_normal.jpg",
       "id" : 18247541,
       "verified" : false
     }
@@ -2697,7 +2699,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "evanrachelwood",
       "protected" : false,
       "id_str" : "366010246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780881253683826689\/3YDO7csf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991429131605753856\/tqLX6AOO_normal.jpg",
       "id" : 366010246,
       "verified" : true
     }
@@ -2940,7 +2942,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137242139103997953",
   "text" : "RT @zeldman: I want to start a Why Conference and hold it across the street from the How Conference.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3083,7 +3085,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "136931208826322944",
   "text" : "RT @bradcolbow: There is a movement afoot to boycott all things Kardashian. Once again I'm way ahead of the curve on this one.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3161,7 +3163,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847556940028923905\/xlh3pLCr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006925171100250112\/MsVoUMUT_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -3947,7 +3949,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "benschwarz",
       "protected" : false,
       "id_str" : "14431882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/890548072509358082\/1UgNSB6W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984604774862487552\/hHtGStrF_normal.jpg",
       "id" : 14431882,
       "verified" : false
     }
@@ -4089,6 +4091,7 @@ Grailbird.data.tweets_2011_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iSJhSUiH"
     } ],
     "hashtags" : [ ],
@@ -4136,6 +4139,7 @@ Grailbird.data.tweets_2011_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/iSJhSUiH"
       } ],
       "hashtags" : [ ],
@@ -4432,7 +4436,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -5180,11 +5184,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 134304553314164736,
     "created_at" : "2011-11-09 16:21:15 +0000",
     "user" : {
-      "name" : "molly e. holzschlag",
+      "name" : "This Miss Molly",
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935922168520613888\/ZKSd7cRN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983071002568507393\/eaRL-TU2_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -5284,7 +5288,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638497284779601920\/qQwXTzIm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -5638,7 +5642,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Rieger",
+      "name" : "Bryan Rieger \uD83C\uDF65",
       "screen_name" : "bryanrieger",
       "indices" : [ 3, 15 ],
       "id_str" : "755367",
@@ -5652,7 +5656,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134260166991425536",
   "text" : "RT @bryanrieger: \"No Flash Player for mobile platforms means don't use Flash on websites, period. The era of Flash on the web is over.\"  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Aral Balkan",
@@ -5671,7 +5675,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 134186236695937024,
     "created_at" : "2011-11-09 08:31:06 +0000",
     "user" : {
-      "name" : "Bryan Rieger",
+      "name" : "Bryan Rieger \uD83C\uDF65",
       "screen_name" : "bryanrieger",
       "protected" : false,
       "id_str" : "755367",
@@ -5709,7 +5713,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134260067741605888",
   "text" : "RT @beep: Nothing I like more than opening a link in a new tab, only to be greeted by a blank page and `javascript:void(0)` in the addre ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6678,7 +6682,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "jeremydmiller",
       "protected" : false,
       "id_str" : "14048978",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908371785476796416\/doVfJ52x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/978710340992057344\/ATy0hIcG_normal.jpg",
       "id" : 14048978,
       "verified" : false
     }
@@ -6856,7 +6860,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -7271,7 +7275,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -7305,7 +7309,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "131454834888015873",
   "text" : "RT @drinkerthinker: \u201CThe password supplied does not meet the minimum complexity requirements. Please try again.\u201D\nGOD FORBID you tell me  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

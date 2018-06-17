@@ -742,7 +742,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "108536296150007808",
   "text" : "RT @meyerweb: If your site says \"we require _____ to access our site\" and \"_____\" isn't \"a web browser\", odds are you're doing it wrong.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1613,7 +1613,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "reybango",
       "protected" : false,
       "id_str" : "1589691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889882579700256768\/cwV68q_3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973405635126607873\/ahBt1uYs_normal.jpg",
       "id" : 1589691,
       "verified" : true
     }
@@ -2002,7 +2002,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "105740474005995520",
   "text" : "RT @mrgan: If you're bummed about punting features, look at it this way: your product now has a future.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "liquidvanilla",
       "protected" : false,
       "id_str" : "91495036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935910055744098304\/16B0HpBG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007370768957739008\/M0SK0kNc_normal.jpg",
       "id" : 91495036,
       "verified" : false
     }
@@ -2986,7 +2986,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "104279936721895424",
   "text" : "RT @beep: Dear HP:\n\nhttp:\/\/t.co\/WFqqnvB\n\nBunnies, hugs, and sunshine,\n\n- @beep",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Ethan Marcotte",
@@ -4471,11 +4471,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 103205936147083264,
     "created_at" : "2011-08-15 20:46:27 +0000",
     "user" : {
-      "name" : "FREUDENREICH MEDIA",
-      "screen_name" : "freudenreich_m",
+      "name" : "Tobias Freudenreich",
+      "screen_name" : "leiterprobt",
       "protected" : false,
       "id_str" : "21309029",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628490464937668608\/HdPyGy76_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999402388426448896\/8Ls1F2x-_normal.jpg",
       "id" : 21309029,
       "verified" : false
     }
@@ -4894,7 +4894,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -4921,11 +4921,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 102957028313542656,
     "created_at" : "2011-08-15 04:17:23 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950082860324564992\/6cKgeovA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981330152918458369\/IxcliBDz_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -4998,7 +4998,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "102514612464918528",
   "text" : "RT @beep: Wait what. http:\/\/t.co\/bBK1AtG",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6625,7 +6625,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "79221310",
       "id" : 79221310
     }, {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "indices" : [ 52, 65 ],
       "id_str" : "15629200",
@@ -6645,7 +6645,7 @@ Grailbird.data.tweets_2011_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nicole Sullivan",
+        "name" : "Nicole Sullivan \uD83D\uDC8E",
         "screen_name" : "stubbornella",
         "indices" : [ 37, 50 ],
         "id_str" : "15629200",
@@ -6857,12 +6857,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy O",
-      "screen_name" : "AndyO1217",
-      "indices" : [ 0, 10 ],
-      "id_str" : "101398543",
-      "id" : 101398543
-    }, {
       "name" : "Miker",
       "screen_name" : "mikeranochak",
       "indices" : [ 32, 45 ],
@@ -6890,7 +6884,7 @@ Grailbird.data.tweets_2011_08 =
   "id" : 100923372673830912,
   "in_reply_to_status_id" : 100921844365930496,
   "created_at" : "2011-08-09 13:36:21 +0000",
-  "in_reply_to_screen_name" : "AndyO1217",
+  "in_reply_to_screen_name" : "andyo729",
   "in_reply_to_user_id_str" : "101398543",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -7620,7 +7614,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "turoczy",
       "protected" : false,
       "id_str" : "1340521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757089654453604352\/USQ8svT1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988986389436878848\/1PU0tuXw_normal.jpg",
       "id" : 1340521,
       "verified" : false
     }

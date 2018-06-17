@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "indices" : [ 3, 16 ],
       "id_str" : "15629200",
@@ -160,7 +160,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 208094727655014400,
     "created_at" : "2012-05-31 07:17:03 +0000",
     "user" : {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
@@ -184,7 +184,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -211,11 +211,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 208070559832096768,
     "created_at" : "2012-05-31 05:41:01 +0000",
     "user" : {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 202571491,
       "verified" : false
     }
@@ -520,7 +520,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -540,7 +540,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -567,11 +567,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 206868002233266176,
     "created_at" : "2012-05-27 22:02:29 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950082860324564992\/6cKgeovA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981330152918458369\/IxcliBDz_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -803,7 +803,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "aarron",
       "protected" : false,
       "id_str" : "9463382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727883346035023874\/pvWNeypQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964324581480763392\/0o45uLUD_normal.jpg",
       "id" : 9463382,
       "verified" : false
     }
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "205131002908123137",
   "text" : "RT @drinkerthinker: My name is awkward\nI live on the second floor\nI live upstairs from you\nYes i think you've seen me before",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1164,6 +1164,7 @@ Grailbird.data.tweets_2012_05 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fuSXWrG3"
       } ],
       "hashtags" : [ {
@@ -1426,7 +1427,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -1601,6 +1602,7 @@ Grailbird.data.tweets_2012_05 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7waHiyMp"
     } ],
     "hashtags" : [ ],
@@ -1624,7 +1626,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1651,11 +1653,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 204220005448040448,
     "created_at" : "2012-05-20 14:40:18 +0000",
     "user" : {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 202571491,
       "verified" : false
     }
@@ -1726,7 +1728,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -1771,11 +1773,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 203558186681249793,
     "created_at" : "2012-05-18 18:50:28 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950082860324564992\/6cKgeovA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981330152918458369\/IxcliBDz_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -1809,7 +1811,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "204184633275990016",
   "text" : "RT @drinkerthinker: You guys didn't tell me it's \u201Cpeople who have never been in an airport before\u201D day!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2322,7 +2324,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -2367,7 +2369,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 201037168746045440,
     "created_at" : "2012-05-11 19:52:50 +0000",
     "user" : {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -2432,7 +2434,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "aarron",
       "protected" : false,
       "id_str" : "9463382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727883346035023874\/pvWNeypQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964324581480763392\/0o45uLUD_normal.jpg",
       "id" : 9463382,
       "verified" : false
     }
@@ -2551,67 +2553,6 @@ Grailbird.data.tweets_2012_05 =
   "created_at" : "2012-05-10 18:15:53 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "indices" : [ 3, 11 ],
-      "id_str" : "24974216",
-      "id" : 24974216
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 119, 140 ],
-      "url" : "https:\/\/t.co\/G8osr2aM",
-      "expanded_url" : "https:\/\/github.com\/necolas\/normalize.css\/issues\/94",
-      "display_url" : "github.com\/necolas\/normal\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "200636363912130560",
-  "text" : "RT @necolas: Looking for feedback on the future of Normalize.css: removing legacy support, semantic versioning, etc. - https:\/\/t.co\/G8osr2aM",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 106, 127 ],
-        "url" : "https:\/\/t.co\/G8osr2aM",
-        "expanded_url" : "https:\/\/github.com\/necolas\/normalize.css\/issues\/94",
-        "display_url" : "github.com\/necolas\/normal\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "200620714519306242",
-    "text" : "Looking for feedback on the future of Normalize.css: removing legacy support, semantic versioning, etc. - https:\/\/t.co\/G8osr2aM",
-    "id" : 200620714519306242,
-    "created_at" : "2012-05-10 16:18:00 +0000",
-    "user" : {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "protected" : false,
-      "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933453711371726849\/q5DMj4ZN_normal.jpg",
-      "id" : 24974216,
-      "verified" : false
-    }
-  },
-  "id" : 200636363912130560,
-  "created_at" : "2012-05-10 17:20:11 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2979,7 +2920,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -3006,11 +2947,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200286593532182529,
     "created_at" : "2012-05-09 18:10:19 +0000",
     "user" : {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 202571491,
       "verified" : false
     }
@@ -3268,7 +3209,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3335,7 +3276,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "aarron",
       "protected" : false,
       "id_str" : "9463382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727883346035023874\/pvWNeypQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964324581480763392\/0o45uLUD_normal.jpg",
       "id" : 9463382,
       "verified" : false
     }
@@ -3604,7 +3545,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -3769,8 +3710,8 @@ Grailbird.data.tweets_2012_05 =
       "name" : "Nice Web Type",
       "screen_name" : "nicewebtype",
       "indices" : [ 3, 15 ],
-      "id_str" : "9179362",
-      "id" : 9179362
+      "id_str" : "3309229102",
+      "id" : 3309229102
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3803,11 +3744,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 198473806350790657,
     "created_at" : "2012-05-04 18:06:57 +0000",
     "user" : {
-      "name" : "Nice Web Type",
-      "screen_name" : "nicewebtype",
+      "name" : "Typesetting",
+      "screen_name" : "typesetting",
       "protected" : false,
       "id_str" : "9179362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1178572878\/blue-beanie_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999834369656213505\/pwssNXVq_normal.jpg",
       "id" : 9179362,
       "verified" : false
     }
@@ -4124,7 +4065,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "197853285766537216",
   "text" : "RT @beep: Cats: when you need someone to run up, sit next to you, stare at you silently for a minute, noisily fart, and then *sprint* ou ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

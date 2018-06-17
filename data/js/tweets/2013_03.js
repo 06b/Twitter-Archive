@@ -81,7 +81,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "flowchainsensei",
       "protected" : false,
       "id_str" : "42469463",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/890456019696046080\/yVwfjfHW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980078463884365825\/oFjHe2i5_normal.jpg",
       "id" : 42469463,
       "verified" : false
     }
@@ -132,7 +132,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "ctrlaltjustine",
       "protected" : false,
       "id_str" : "18210275",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951152001269805057\/llThvP60_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/961737146779537408\/6faDzR9x_normal.jpg",
       "id" : 18210275,
       "verified" : false
     }
@@ -205,7 +205,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -489,7 +489,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thomas Fuchs \uD83E\uDD26\u200D\u2642\uFE0F",
+      "name" : "Thomas Fuchs \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "thomasfuchs",
       "indices" : [ 3, 15 ],
       "id_str" : "6927562",
@@ -524,6 +524,7 @@ Grailbird.data.tweets_2013_03 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SIjSYs6w6i"
     } ],
     "hashtags" : [ ],
@@ -565,6 +566,7 @@ Grailbird.data.tweets_2013_03 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SIjSYs6w6i"
       } ],
       "hashtags" : [ ],
@@ -576,11 +578,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 315903293320740865,
     "created_at" : "2013-03-24 19:09:49 +0000",
     "user" : {
-      "name" : "Thomas Fuchs \uD83E\uDD26\u200D\u2642\uFE0F",
+      "name" : "Thomas Fuchs \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/934619752768647168\/4ixrnv8S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995501313101361152\/RBHPHFCU_normal.jpg",
       "id" : 6927562,
       "verified" : true
     }
@@ -760,6 +762,7 @@ Grailbird.data.tweets_2013_03 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nB5mxqPN4V"
     } ],
     "hashtags" : [ ],
@@ -801,6 +804,7 @@ Grailbird.data.tweets_2013_03 =
           "resize" : "fit",
           "w" : 768
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nB5mxqPN4V"
       } ],
       "hashtags" : [ ],
@@ -836,7 +840,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PoliticalMath",
+      "name" : "PoliMath",
       "screen_name" : "politicalmath",
       "indices" : [ 3, 17 ],
       "id_str" : "36667104",
@@ -863,7 +867,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 261306448234024960,
     "created_at" : "2012-10-25 03:21:26 +0000",
     "user" : {
-      "name" : "PoliticalMath",
+      "name" : "PoliMath",
       "screen_name" : "politicalmath",
       "protected" : false,
       "id_str" : "36667104",
@@ -1076,6 +1080,7 @@ Grailbird.data.tweets_2013_03 =
         "resize" : "fit",
         "w" : 960
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MSGED6Nliv"
     } ],
     "hashtags" : [ {
@@ -1143,7 +1148,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "314426045535223808",
   "text" : "RT @rcayabyab: hey photoshop, you can stop being a little b!t@h right now. thanks. i still don\u2019t see how people work in this program.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1268,13 +1273,13 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "indices" : [ 3, 16 ],
       "id_str" : "15629200",
       "id" : 15629200
     }, {
-      "name" : "\uD83C\uDF3F\uD83C\uDFB9\uD83C\uDF3F",
+      "name" : "bye",
       "screen_name" : "bysusanlin",
       "indices" : [ 84, 95 ],
       "id_str" : "913260157210988544",
@@ -1296,7 +1301,7 @@ Grailbird.data.tweets_2013_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83C\uDF3F\uD83C\uDFB9\uD83C\uDF3F",
+        "name" : "bye",
         "screen_name" : "bysusanlin",
         "indices" : [ 66, 77 ],
         "id_str" : "913260157210988544",
@@ -1317,7 +1322,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 314080918652473345,
     "created_at" : "2013-03-19 18:28:21 +0000",
     "user" : {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
@@ -1363,7 +1368,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "R\u0334\u0344\u0329y\u0336\u030A\u0339\u0327a\u0335\u0304\u0345\u0348n\u0334\u0302\u0344\u0324\u0329 \u0337\u0342\u033C\u0316B\u0334\u031A\u0345l\u0338\u0305\u031Fo\u0336\u033F\u0302\u0359\u0326c\u0338\u0358\u0345k\u0336\u030C\u031A\u0345\u0349",
+      "name" : "Ryan",
       "screen_name" : "ryan",
       "indices" : [ 3, 8 ],
       "id_str" : "862681",
@@ -1398,6 +1403,7 @@ Grailbird.data.tweets_2013_03 =
         "resize" : "fit",
         "w" : 409
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/zrRs4bDRH3"
     } ],
     "hashtags" : [ ],
@@ -1407,7 +1413,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "313768178310336512",
   "text" : "RT @ryan: This is by far the best bit of user interface design I have ever seen. Ever. EVER. http:\/\/t.co\/zrRs4bDRH3",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1439,6 +1445,7 @@ Grailbird.data.tweets_2013_03 =
           "resize" : "fit",
           "w" : 409
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/zrRs4bDRH3"
       } ],
       "hashtags" : [ ],
@@ -1450,7 +1457,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 313755123295854592,
     "created_at" : "2013-03-18 20:53:45 +0000",
     "user" : {
-      "name" : "R\u0334\u0344\u0329y\u0336\u030A\u0339\u0327a\u0335\u0304\u0345\u0348n\u0334\u0302\u0344\u0324\u0329 \u0337\u0342\u033C\u0316B\u0334\u031A\u0345l\u0338\u0305\u031Fo\u0336\u033F\u0302\u0359\u0326c\u0338\u0358\u0345k\u0336\u030C\u031A\u0345\u0349",
+      "name" : "Ryan",
       "screen_name" : "ryan",
       "protected" : false,
       "id_str" : "862681",
@@ -2177,7 +2184,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -2200,7 +2207,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "310818162268585987",
   "text" : "RT @KuraFire: \u201CI believe that web designers should know how to code, at least a little HTML &amp; CSS.\u201D \u2014 @hellofisher #rwdprocess",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Steve Fisher",
@@ -2222,11 +2229,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 310814384790306816,
     "created_at" : "2013-03-10 18:08:18 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950082860324564992\/6cKgeovA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981330152918458369\/IxcliBDz_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -2246,13 +2253,13 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
       "id" : 22253
     }, {
-      "name" : "Aaron Gustafson \uD83D\uDE80\uD83D\uDD78",
+      "name" : "Aaron Gustafson",
       "screen_name" : "AaronGustafson",
       "indices" : [ 110, 125 ],
       "id_str" : "12028",
@@ -2269,10 +2276,10 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "310818081293344768",
   "text" : "RT @KuraFire: \u201CTools like Boostrap or jQuery are great for prototyping, but they can also become a crutch.\u201D \u2014 @AaronGustafson #rwdprocess",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Aaron Gustafson \uD83D\uDE80\uD83D\uDD78",
+        "name" : "Aaron Gustafson",
         "screen_name" : "AaronGustafson",
         "indices" : [ 96, 111 ],
         "id_str" : "12028",
@@ -2291,11 +2298,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 310812588235714560,
     "created_at" : "2013-03-10 18:01:10 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950082860324564992\/6cKgeovA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981330152918458369\/IxcliBDz_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -2466,7 +2473,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "310078621777801216",
   "text" : "RT @drinkerthinker: This is a CAPTCHA I can get behind.  http:\/\/t.co\/dc7g9iaENQ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2876,7 +2883,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "aarron",
       "protected" : false,
       "id_str" : "9463382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727883346035023874\/pvWNeypQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964324581480763392\/0o45uLUD_normal.jpg",
       "id" : 9463382,
       "verified" : false
     }
@@ -3140,11 +3147,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 308422915211272192,
     "created_at" : "2013-03-04 03:45:27 +0000",
     "user" : {
-      "name" : "Lauren Celenza \uD83D\uDCAB",
-      "screen_name" : "heylaurenmae",
+      "name" : "Lauren Celenza",
+      "screen_name" : "laurencza",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943319114826895360\/ix5xeb0D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003413430382891011\/aMj9MITT_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }
@@ -3262,6 +3269,7 @@ Grailbird.data.tweets_2013_03 =
         "resize" : "fit",
         "w" : 3552
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oT4ag34RID"
     } ],
     "hashtags" : [ ],

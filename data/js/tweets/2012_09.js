@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "Cincinnati Problems",
+      "name" : "Cincinnati \uD83D\uDC94",
       "screen_name" : "CincyProblems",
       "indices" : [ 27, 41 ],
       "id_str" : "414303697",
@@ -1218,7 +1218,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Cincinnati Problems",
+        "name" : "Cincinnati \uD83D\uDC94",
         "screen_name" : "CincyProblems",
         "indices" : [ 12, 26 ],
         "id_str" : "414303697",
@@ -1253,6 +1253,7 @@ Grailbird.data.tweets_2012_09 =
           "resize" : "fit",
           "w" : 628
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RPLG87QC"
       } ],
       "hashtags" : [ {
@@ -1735,7 +1736,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Andy Clarke \u00A0\uD83E\uDD8D",
+        "name" : "Andy Clarke",
         "screen_name" : "Malarkey",
         "indices" : [ 124, 133 ],
         "id_str" : "34163",
@@ -1839,7 +1840,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -2008,7 +2009,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "247517321982255104",
   "text" : "RT @beep: It\u2019s totally natural when a hard drive starts to smell like smoke while it\u2019s formatting right guys wait guys where are you going",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2272,7 +2273,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -2449,7 +2450,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "245599055118495744",
   "text" : "RT @bradcolbow: Oh man, your tweet is WAY better: RT @jasonrobb Drop shadows, not bombs.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jason Robb",
@@ -2597,7 +2598,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244959926865248257",
   "text" : "RT @odannyboy: RIP Bill Moggridge, coiner of the term \u201Cinteraction design.\u201D Stunned.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3008,7 +3009,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3260,7 +3261,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "paul_irish",
       "protected" : false,
       "id_str" : "1671811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420826194083213312\/CP1RmLa3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972186419274776576\/LaJS_MKO_normal.jpg",
       "id" : 1671811,
       "verified" : false
     }
@@ -3286,7 +3287,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "77834603",
       "id" : 77834603
     }, {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
       "indices" : [ 85, 91 ],
       "id_str" : "202571491",
@@ -3303,7 +3304,7 @@ Grailbird.data.tweets_2012_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "charlotte \uD83D\uDC96",
+        "name" : "@idiot",
         "screen_name" : "idiot",
         "indices" : [ 71, 77 ],
         "id_str" : "202571491",
@@ -3596,7 +3597,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }

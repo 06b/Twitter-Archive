@@ -48,7 +48,7 @@ Grailbird.data.tweets_2011_10 =
   "id_str" : "131178368237453313",
   "text" : "RT @drinkerthinker: \u201CTrajan.\u201D\n\u201CWhat?\u201D\n\u201CTrajan.\u201D\n\u201CWha \u2013 for the love of god, are you talking about the font on the menu?\u201D\n#gonowwedding",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -622,7 +622,7 @@ Grailbird.data.tweets_2011_10 =
   "id_str" : "130027741566349313",
   "text" : "RT @beep: 1. Open Photoshop\n2. Drag item to a location\n3. Release mouse\n4. Watch object move 10px past intended position\n5. Go to #2. Wh ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1525,7 +1525,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 0, 9 ],
       "id_str" : "22253",
@@ -1760,6 +1760,7 @@ Grailbird.data.tweets_2011_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BzmtsXve"
       } ],
       "hashtags" : [ ],
@@ -1841,6 +1842,7 @@ Grailbird.data.tweets_2011_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rOwxzqhw"
       } ],
       "hashtags" : [ ],
@@ -3285,7 +3287,7 @@ Grailbird.data.tweets_2011_10 =
   "id_str" : "126010857430855680",
   "text" : "RT @beep: \u201CYour call is very important to us, though we\u2019ll do our best to disprove that over the next fifty-nine minutes of soul-crushin ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3393,7 +3395,7 @@ Grailbird.data.tweets_2011_10 =
   "id_str" : "125359684822642688",
   "text" : "RT @beep: Update Flash. Watch Flash cease working in primary browser. Begin quietly humming \u201CWe Shall Overcome,\u201D perhaps while eye twitches.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3660,11 +3662,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 124874242960535552,
     "created_at" : "2011-10-14 15:48:34 +0000",
     "user" : {
-      "name" : "Jason CT",
+      "name" : "\uD835\uDD41\uD835\uDD52\uD835\uDD64\uD835\uDD60\uD835\uDD5F \u2102\uD835\uDD63\uD835\uDD52\uD835\uDD5F\uD835\uDD57\uD835\uDD60\uD835\uDD63\uD835\uDD55\uD835\uDD4B\uD835\uDD56\uD835\uDD52\uD835\uDD58\uD835\uDD66\uD835\uDD56",
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926218726403387393\/BnvhfXPB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004957141449560065\/NyeU_x6W_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }
@@ -3957,6 +3959,7 @@ Grailbird.data.tweets_2011_10 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HTN2bUJp"
       } ],
       "hashtags" : [ ],
@@ -6189,7 +6192,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "sethrrr",
       "protected" : false,
       "id_str" : "44438721",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428602644865642496\/fnJhYazr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974878661693259778\/cX4kQUF8_normal.jpg",
       "id" : 44438721,
       "verified" : false
     }
@@ -6310,11 +6313,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 121027991932370945,
     "created_at" : "2011-10-04 01:04:56 +0000",
     "user" : {
-      "name" : "Lauren Celenza \uD83D\uDCAB",
-      "screen_name" : "heylaurenmae",
+      "name" : "Lauren Celenza",
+      "screen_name" : "laurencza",
       "protected" : false,
       "id_str" : "14840798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943319114826895360\/ix5xeb0D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003413430382891011\/aMj9MITT_normal.jpg",
       "id" : 14840798,
       "verified" : false
     }
@@ -6505,7 +6508,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "darbooth",
       "protected" : false,
       "id_str" : "167289455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763217511525462016\/bcyQoUzW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970764210761187328\/ctoVTWEK_normal.jpg",
       "id" : 167289455,
       "verified" : true
     }

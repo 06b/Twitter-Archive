@@ -453,28 +453,6 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6702039654",
-  "text" : "It figures I would get sick when I would be on my break.",
-  "id" : 6702039654,
-  "created_at" : "2009-12-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "6678117559",
   "text" : "Freelance + Myself = Happy",
   "id" : 6678117559,
@@ -497,10 +475,10 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6646823290",
-  "text" : "Attempting to set up prestashop on godaddy. Ugh!",
-  "id" : 6646823290,
-  "created_at" : "2009-12-14 00:00:00 +0000",
+  "id_str" : "6702039654",
+  "text" : "It figures I would get sick when I would be on my break.",
+  "id" : 6702039654,
+  "created_at" : "2009-12-15 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -522,6 +500,28 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6667029520",
   "text" : "School sent another email just as an image. Link in email still is denied. Honestly, UC just stop...",
   "id" : 6667029520,
+  "created_at" : "2009-12-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6646823290",
+  "text" : "Attempting to set up prestashop on godaddy. Ugh!",
+  "id" : 6646823290,
   "created_at" : "2009-12-14 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

@@ -502,7 +502,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "163020003443097600",
   "text" : "RT @AndrewCrow: It's like PowerPoint actively goes out of its way to destroy good design.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952038842990706691\/fx76UAHg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993347612232183808\/ZDTX2zbj_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -654,7 +654,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "0xA_T",
       "protected" : false,
       "id_str" : "19468426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951876291141259264\/xRF-FtsD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/958033002331742210\/PKH70cSH_normal.jpg",
       "id" : 19468426,
       "verified" : false
     }
@@ -1022,7 +1022,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "162249289400201217",
   "text" : "RT @beep: Welp, looks like I\u2019ll have to start hosting my own email again. http:\/\/t.co\/PGNaSEuR",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1314,7 +1314,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -1341,11 +1341,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 161896092286464001,
     "created_at" : "2012-01-24 19:40:10 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F \u2764\uFE0F\uD83E\uDD47",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950082860324564992\/6cKgeovA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981330152918458369\/IxcliBDz_normal.jpg",
       "id" : 22253,
       "verified" : false
     }
@@ -1463,12 +1463,6 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 3, 13 ],
       "id_str" : "111783",
       "id" : 111783
-    }, {
-      "name" : "\uF8FFMacTheDave",
-      "screen_name" : "MacTheDave",
-      "indices" : [ 101, 112 ],
-      "id_str" : "387220429",
-      "id" : 387220429
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1480,13 +1474,7 @@ Grailbird.data.tweets_2012_01 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "\uF8FFMacTheDave",
-        "screen_name" : "MacTheDave",
-        "indices" : [ 86, 97 ],
-        "id_str" : "387220429",
-        "id" : 387220429
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -1983,7 +1971,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -2034,7 +2022,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -2113,7 +2101,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950540756388798464\/0D_nzn9G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/968595834446082048\/X3dnCTV5_normal.jpg",
       "id" : 4816,
       "verified" : true
     }
@@ -2449,7 +2437,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -2673,7 +2661,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -3367,7 +3355,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "157147680412409856",
   "text" : "RT @happycog: RT @bengie some sites are truly beautiful until I look at their code.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Gregory Van Looy",
@@ -4418,6 +4406,7 @@ Grailbird.data.tweets_2012_01 =
         "resize" : "fit",
         "w" : 960
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IweYEiJj"
     } ],
     "hashtags" : [ ],
@@ -4465,6 +4454,7 @@ Grailbird.data.tweets_2012_01 =
           "resize" : "fit",
           "w" : 960
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/IweYEiJj"
       } ],
       "hashtags" : [ ],
@@ -4601,7 +4591,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "SubtleGradient",
       "protected" : false,
       "id_str" : "14405464",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566657299\/thomas-aylott-75_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974751815680983040\/6zOfX-Ls_normal.jpg",
       "id" : 14405464,
       "verified" : false
     }
@@ -4762,11 +4752,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 154262263665143808,
     "created_at" : "2012-01-03 18:06:04 +0000",
     "user" : {
-      "name" : "Jason CT",
+      "name" : "\uD835\uDD41\uD835\uDD52\uD835\uDD64\uD835\uDD60\uD835\uDD5F \u2102\uD835\uDD63\uD835\uDD52\uD835\uDD5F\uD835\uDD57\uD835\uDD60\uD835\uDD63\uD835\uDD55\uD835\uDD4B\uD835\uDD56\uD835\uDD52\uD835\uDD58\uD835\uDD66\uD835\uDD56",
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926218726403387393\/BnvhfXPB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004957141449560065\/NyeU_x6W_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }

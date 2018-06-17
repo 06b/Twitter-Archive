@@ -1,56 +1,5 @@
 Grailbird.data.tweets_2012_08 = 
  [ {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "indices" : [ 3, 11 ],
-      "id_str" : "24974216",
-      "id" : 24974216
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241525303506264064",
-  "text" : "RT @necolas: First rule of code rewrites: anticipate the number of new (and old) bugs you'll generate. Multiply by 10.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "241517235779276800",
-    "text" : "First rule of code rewrites: anticipate the number of new (and old) bugs you'll generate. Multiply by 10.",
-    "id" : 241517235779276800,
-    "created_at" : "2012-08-31 12:46:10 +0000",
-    "user" : {
-      "name" : "Nicolas",
-      "screen_name" : "necolas",
-      "protected" : false,
-      "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933453711371726849\/q5DMj4ZN_normal.jpg",
-      "id" : 24974216,
-      "verified" : false
-    }
-  },
-  "id" : 241525303506264064,
-  "created_at" : "2012-08-31 13:18:14 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -624,7 +573,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -668,7 +617,7 @@ Grailbird.data.tweets_2012_08 =
     "in_reply_to_screen_name" : "06b",
     "in_reply_to_user_id_str" : "30257040",
     "user" : {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -884,7 +833,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -951,7 +900,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Adobe",
       "protected" : false,
       "id_str" : "63786611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948272427930226688\/gdfJDOvo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006989963081084933\/wsR4bOQO_normal.jpg",
       "id" : 63786611,
       "verified" : true
     }
@@ -1251,7 +1200,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847556940028923905\/xlh3pLCr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006925171100250112\/MsVoUMUT_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -1315,7 +1264,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
       "indices" : [ 3, 9 ],
       "id_str" : "202571491",
@@ -1352,11 +1301,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 238694249976168449,
     "created_at" : "2012-08-23 17:48:38 +0000",
     "user" : {
-      "name" : "charlotte \uD83D\uDC96",
+      "name" : "@idiot",
       "screen_name" : "idiot",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 202571491,
       "verified" : false
     }
@@ -1382,7 +1331,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 11, 24 ],
       "id_str" : "15947967",
@@ -1476,7 +1425,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 3, 16 ],
       "id_str" : "15947967",
@@ -1520,7 +1469,7 @@ Grailbird.data.tweets_2012_08 =
     "in_reply_to_screen_name" : "06b",
     "in_reply_to_user_id_str" : "30257040",
     "user" : {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "protected" : false,
       "id_str" : "15947967",
@@ -1801,7 +1750,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -1882,7 +1831,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -1919,11 +1868,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237626862208159744,
     "created_at" : "2012-08-20 19:07:13 +0000",
     "user" : {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870843483493474304\/CkGmcxZQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979726848618913793\/rFhl_vGT_normal.jpg",
       "id" : 14465898,
       "verified" : false
     }
@@ -2013,7 +1962,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "237313268912386049",
   "text" : "RT @BehanceJobs: Ohio-based creatives: MKTGINC has a digital art director opportunity in Cincinnati. http:\/\/t.co\/npHTErxn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2142,7 +2091,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "kerem",
       "protected" : false,
       "id_str" : "18359862",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914775571342569472\/yl4Msdmo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003835641732349957\/FUFSRM2q_normal.jpg",
       "id" : 18359862,
       "verified" : true
     }
@@ -2413,7 +2362,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "236090330036961281",
   "text" : "RT @procload: I love this CSS trick for truncating text: http:\/\/t.co\/TZsEbsyC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2442,76 +2391,6 @@ Grailbird.data.tweets_2012_08 =
   },
   "id" : 236090330036961281,
   "created_at" : "2012-08-16 13:21:35 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Thierry",
-      "screen_name" : "thierrykoblentz",
-      "indices" : [ 3, 19 ],
-      "id_str" : "30132802",
-      "id" : 30132802
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 116, 136 ],
-      "url" : "http:\/\/t.co\/WQWKv9aU",
-      "expanded_url" : "http:\/\/bit.ly\/NopzDd",
-      "display_url" : "bit.ly\/NopzDd"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "236079262996774913",
-  "text" : "RT @thierrykoblentz: Here's how to make some easy money: tell people chained classes may be more specific than a ID http:\/\/t.co\/WQWKv9aU ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Chris Coyier",
-        "screen_name" : "chriscoyier",
-        "indices" : [ 120, 132 ],
-        "id_str" : "793830",
-        "id" : 793830
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "bet",
-        "indices" : [ 133, 137 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 95, 115 ],
-        "url" : "http:\/\/t.co\/WQWKv9aU",
-        "expanded_url" : "http:\/\/bit.ly\/NopzDd",
-        "display_url" : "bit.ly\/NopzDd"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "235986274060754944",
-    "text" : "Here's how to make some easy money: tell people chained classes may be more specific than a ID http:\/\/t.co\/WQWKv9aU via @chriscoyier #bet #$",
-    "id" : 235986274060754944,
-    "created_at" : "2012-08-16 06:28:06 +0000",
-    "user" : {
-      "name" : "Thierry",
-      "screen_name" : "thierrykoblentz",
-      "protected" : false,
-      "id_str" : "30132802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1668093955\/avatar_normal.jpg",
-      "id" : 30132802,
-      "verified" : false
-    }
-  },
-  "id" : 236079262996774913,
-  "created_at" : "2012-08-16 12:37:37 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3148,7 +3027,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "nphase",
       "protected" : false,
       "id_str" : "11001592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814601120920137728\/So6JFp_D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005831565459492864\/95zfXl4w_normal.jpg",
       "id" : 11001592,
       "verified" : false
     }
@@ -3690,7 +3569,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "233300801722908672",
   "text" : "RT @philnelson: @CurtisOden @beep @zeldman Use a hack once and it\u2019s a hack. Use it three times and it\u2019s a design pattern.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Curtis Oden",
@@ -4453,6 +4332,7 @@ Grailbird.data.tweets_2012_08 =
         "resize" : "fit",
         "w" : 471
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0RfYH4f3"
     } ],
     "hashtags" : [ {
@@ -4988,7 +4868,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "230669687233593345",
   "text" : "RT @aigacleveland: Members Only, DM us by 3pm on 8\/4 for a chance to win a FREE PASS to local responsive web design workshop http:\/\/t.co ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Build Right Workshop",

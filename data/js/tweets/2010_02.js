@@ -304,6 +304,39 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Adam Crutchfield",
+      "screen_name" : "A_Crutch",
+      "indices" : [ 0, 9 ],
+      "id_str" : "46945962",
+      "id" : 46945962
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "9491360091",
+  "geo" : { },
+  "id_str" : "9491712156",
+  "in_reply_to_user_id" : 46945962,
+  "text" : "@A_Crutch Welcome to the internet",
+  "id" : 9491712156,
+  "in_reply_to_status_id" : 9491360091,
+  "created_at" : "2010-02-22 00:00:00 +0000",
+  "in_reply_to_screen_name" : "A_Crutch",
+  "in_reply_to_user_id_str" : "46945962",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Bruce Floyd",
       "screen_name" : "brucefloyd",
       "indices" : [ 3, 14 ],
@@ -356,7 +389,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "brucefloyd",
       "protected" : false,
       "id_str" : "9972002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945164969183674368\/wHJCP16o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996930311735914496\/2QEoypb8_normal.jpg",
       "id" : 9972002,
       "verified" : false
     }
@@ -452,26 +485,21 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Crutchfield",
-      "screen_name" : "A_Crutch",
-      "indices" : [ 0, 9 ],
-      "id_str" : "46945962",
-      "id" : 46945962
+      "name" : "katy rucker",
+      "screen_name" : "katyrucker",
+      "indices" : [ 0, 11 ],
+      "id_str" : "540255575",
+      "id" : 540255575
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "9491360091",
   "geo" : { },
-  "id_str" : "9491712156",
-  "in_reply_to_user_id" : 46945962,
-  "text" : "@A_Crutch Welcome to the internet",
-  "id" : 9491712156,
-  "in_reply_to_status_id" : 9491360091,
-  "created_at" : "2010-02-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "A_Crutch",
-  "in_reply_to_user_id_str" : "46945962",
+  "id_str" : "9437438759",
+  "text" : "@katyrucker Make sure to put the contents of your katie\/portfolio folder into your public_html  and not a subfolder",
+  "id" : 9437438759,
+  "created_at" : "2010-02-21 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -518,34 +546,6 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "9413465224",
   "text" : "The girlscouts are back. I have to run everytime I try to leave the store",
   "id" : 9413465224,
-  "created_at" : "2010-02-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "katy rucker",
-      "screen_name" : "katyrucker",
-      "indices" : [ 0, 11 ],
-      "id_str" : "540255575",
-      "id" : 540255575
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9437438759",
-  "text" : "@katyrucker Make sure to put the contents of your katie\/portfolio folder into your public_html  and not a subfolder",
-  "id" : 9437438759,
   "created_at" : "2010-02-21 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -891,7 +891,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 0, 6 ],
       "id_str" : "14465898",
@@ -924,7 +924,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 0, 6 ],
       "id_str" : "14465898",
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "99843",
       "id" : 99843
     }, {
-      "name" : "\uD83C\uDF08",
+      "name" : "Tantek \u00C7elik",
       "screen_name" : "t",
       "indices" : [ 102, 104 ],
       "id_str" : "11628",
@@ -1625,7 +1625,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski \uD83C\uDFD9\uD83D\uDCBB",
+      "name" : "Marc Grabanski",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",

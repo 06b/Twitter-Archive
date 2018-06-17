@@ -370,6 +370,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LjHKArXL8f"
     } ],
     "hashtags" : [ ],
@@ -456,6 +457,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 900
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lUycxvwqLd"
     } ],
     "hashtags" : [ ],
@@ -497,6 +499,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 900
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lUycxvwqLd"
       } ],
       "hashtags" : [ ],
@@ -593,7 +596,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "jessicard",
       "protected" : false,
       "id_str" : "253464752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926332091775586305\/0VcnLhtI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992845587379773440\/g34b_UQw_normal.jpg",
       "id" : 253464752,
       "verified" : true
     }
@@ -829,6 +832,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VJceg0I1bI"
     } ],
     "hashtags" : [ ],
@@ -870,6 +874,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VJceg0I1bI"
       } ],
       "hashtags" : [ ],
@@ -1098,7 +1103,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957395340453449728\/OGi4UnQb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008114589836431360\/-qEeA4Lc_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }
@@ -1153,6 +1158,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 815
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/67U15XEQCI"
     } ],
     "hashtags" : [ ],
@@ -1284,6 +1290,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CXqyvsseeF"
     } ],
     "hashtags" : [ {
@@ -1328,6 +1335,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/CXqyvsseeF"
       } ],
       "hashtags" : [ {
@@ -1571,6 +1579,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 949
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3zyiqDr2lX"
     } ],
     "hashtags" : [ ],
@@ -2130,6 +2139,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/GjNF9NM4O6"
       } ],
       "hashtags" : [ {
@@ -2522,7 +2532,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "378892819722534913",
   "text" : "RT @snookca: Want a SMACSS sticker? http:\/\/t.co\/ZEGl0s5S7T",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2808,7 +2818,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF82\uD83C\uDF81 eevee \uD83C\uDF81\uD83C\uDF82",
+      "name" : "\uD83D\uDC7B\uD83D\uDD75\uFE0F eevee \uD83D\uDD75\uFE0F\uD83D\uDC7B",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2835,7 +2845,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377934228543270912,
     "created_at" : "2013-09-11 23:18:36 +0000",
     "user" : {
-      "name" : "\uD83C\uDF82\uD83C\uDF81 eevee \uD83C\uDF81\uD83C\uDF82",
+      "name" : "\uD83D\uDC7B\uD83D\uDD75\uFE0F eevee \uD83D\uDD75\uFE0F\uD83D\uDC7B",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -3278,6 +3288,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ryTLfLELNa"
     } ],
     "hashtags" : [ ],
@@ -3325,6 +3336,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ryTLfLELNa"
       } ],
       "hashtags" : [ ],
@@ -3340,7 +3352,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "glenathan",
       "protected" : false,
       "id_str" : "48552048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/270258241\/glen_on_the_rocks-medium_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000781421454209025\/VzTTs6v7_normal.jpg",
       "id" : 48552048,
       "verified" : false
     }
@@ -3420,6 +3432,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vq4qUIYMO2"
     } ],
     "hashtags" : [ ],
@@ -3461,6 +3474,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vq4qUIYMO2"
       } ],
       "hashtags" : [ ],
@@ -3739,7 +3753,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "boagworld",
       "protected" : false,
       "id_str" : "12830",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927137373682577408\/92QKMHtT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001927351222095872\/S79RdpZR_normal.jpg",
       "id" : 12830,
       "verified" : true
     }

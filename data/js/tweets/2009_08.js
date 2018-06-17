@@ -77,9 +77,9 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3587600321",
-  "text" : "So close to finishing the burial vaults order forms",
-  "id" : 3587600321,
+  "id_str" : "3573480322",
+  "text" : "Essential Learning for Ruby and Rails via Nettuts+ http:\/\/bit.ly\/1cBDXX",
+  "id" : 3573480322,
   "created_at" : "2009-08-27 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -99,9 +99,9 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3573480322",
-  "text" : "Essential Learning for Ruby and Rails via Nettuts+ http:\/\/bit.ly\/1cBDXX",
-  "id" : 3573480322,
+  "id_str" : "3587600321",
+  "text" : "So close to finishing the burial vaults order forms",
+  "id" : 3587600321,
   "created_at" : "2009-08-27 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

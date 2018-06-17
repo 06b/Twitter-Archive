@@ -3,7 +3,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick H.",
+      "name" : "Patrick Hildebrandt",
       "screen_name" : "pHildebrandt",
       "indices" : [ 0, 13 ],
       "id_str" : "15947967",
@@ -97,7 +97,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "362308807600246785",
   "text" : "RT @RWD: \u201CWell, Bob: responsive design\u2019s neat, but I have some concerns.\u201D\n\u201CThat\u2019s fair, Frank. But did you know MAGNETO USES IT.\u201D\n\n(bob is \u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -153,10 +153,10 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "362308799404580864",
   "text" : "RT @RWD: In case you were looking for a reason to use responsive design it is in use by the X-Men so GOOD DAY http:\/\/t.co\/BfhqxJLRVA \/via @\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Chris Williams",
+        "name" : "Chris Williams \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
         "screen_name" : "amboy00",
         "indices" : [ 129, 137 ],
         "id_str" : "755692",
@@ -226,7 +226,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ally",
+      "name" : "Ally Long",
       "screen_name" : "allyelle",
       "indices" : [ 3, 12 ],
       "id_str" : "16803618",
@@ -245,7 +245,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "362253683846676481",
   "text" : "RT @allyelle: Hahahaha error message of the day! http:\/\/t.co\/kJNdlIxXr0",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 362231214779809792,
     "created_at" : "2013-07-30 15:20:26 +0000",
     "user" : {
-      "name" : "Ally",
+      "name" : "Ally Long",
       "screen_name" : "allyelle",
       "protected" : false,
       "id_str" : "16803618",
@@ -550,7 +550,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "360786187499212800",
   "text" : "RT @aral: RT @RightSaidJames: @aral See also: http:\/\/t.co\/hoGoFr0IW9\n\nHah, yes, a classic :) (Adobe Updater)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "James Sheasby Thomas",
@@ -880,7 +880,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -914,7 +914,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359723948696539137",
   "text" : "RT @jonasdowney: When writing copy for your website or app, write like you\u2019re talking to a friend. A friend who has no idea what the hell i\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1037,6 +1037,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4IhzYLhZU0"
     } ],
     "hashtags" : [ ],
@@ -1078,6 +1079,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4IhzYLhZU0"
       } ],
       "hashtags" : [ ],
@@ -1133,57 +1135,6 @@ Grailbird.data.tweets_2013_07 =
   "created_at" : "2013-07-22 15:45:17 +0000",
   "in_reply_to_screen_name" : "SergioAG10",
   "in_reply_to_user_id_str" : "112919156",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "God",
-      "screen_name" : "TheTweetOfGod",
-      "indices" : [ 3, 17 ],
-      "id_str" : "204832963",
-      "id" : 204832963
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "359074620655546368",
-  "text" : "RT @TheTweetOfGod: The Bible is 100% accurate. Especially when thrown at close range.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "358282319494254595",
-    "text" : "The Bible is 100% accurate. Especially when thrown at close range.",
-    "id" : 358282319494254595,
-    "created_at" : "2013-07-19 17:48:56 +0000",
-    "user" : {
-      "name" : "God",
-      "screen_name" : "TheTweetOfGod",
-      "protected" : false,
-      "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577952058680070144\/6hlNZ0_Y_normal.jpeg",
-      "id" : 204832963,
-      "verified" : false
-    }
-  },
-  "id" : 359074620655546368,
-  "created_at" : "2013-07-21 22:17:15 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1842,6 +1793,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 740
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ir4Y5NSHnC"
     } ],
     "hashtags" : [ {
@@ -1983,7 +1935,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "357602883539181568",
   "text" : "RT @jonathanpenn: OH @kognate: \u201CI describe injecting an agile process on top of waterfall as \u2018rafting\u2019.\u201D",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "kognate",
@@ -2480,7 +2432,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Future Is Weird",
+      "name" : "\u201CHampton\u201D",
       "screen_name" : "hcatlin",
       "indices" : [ 3, 11 ],
       "id_str" : "12986052",
@@ -2510,7 +2462,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356926842160164864,
     "created_at" : "2013-07-16 00:02:45 +0000",
     "user" : {
-      "name" : "The Future Is Weird",
+      "name" : "\u201CHampton\u201D",
       "screen_name" : "hcatlin",
       "protected" : false,
       "id_str" : "12986052",
@@ -2534,7 +2486,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "&c.",
+      "name" : "c",
       "screen_name" : "socdf",
       "indices" : [ 3, 9 ],
       "id_str" : "531703765",
@@ -2569,6 +2521,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oWDm79PRx3"
     } ],
     "hashtags" : [ ],
@@ -2610,6 +2563,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 1536
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oWDm79PRx3"
       } ],
       "hashtags" : [ ],
@@ -2621,11 +2575,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356616797417521155,
     "created_at" : "2013-07-15 03:30:45 +0000",
     "user" : {
-      "name" : "&c.",
+      "name" : "c",
       "screen_name" : "socdf",
       "protected" : false,
       "id_str" : "531703765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954789350876758016\/ZKF3uyHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002559780240678912\/fkpOaA2e_normal.jpg",
       "id" : 531703765,
       "verified" : false
     }
@@ -2778,7 +2732,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "356855048736747523",
   "text" : "RT @rcayabyab: haha made my day. \u007BRT @N4T4Li3: YOU WANT TO TALK TO ME ABOUT #WIREFRAMES?! http:\/\/t.co\/C6MrkfKqm5  #idesigneverysitelikeitsm\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Natalie Kuhn",
@@ -2895,6 +2849,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 578
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HWwBVKqycI"
     } ],
     "hashtags" : [ ],
@@ -2942,6 +2897,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 578
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HWwBVKqycI"
       } ],
       "hashtags" : [ ],
@@ -3008,7 +2964,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "maarf",
       "protected" : false,
       "id_str" : "4350781",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/466479308148449280\/R5xiil4y_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000006423865188353\/NNnxIKtz_normal.jpg",
       "id" : 4350781,
       "verified" : false
     }
@@ -3074,6 +3030,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 689
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/IE1YUtvEjv"
       } ],
       "hashtags" : [ ],
@@ -3167,7 +3124,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355505533324759041",
   "text" : "RT @TJLuoma: Chrome pretending to be Safari pretending to be Gecko pretending to be Mozilla.\n\nReminds me of the old saying: \u201CSniff glue, no\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3245,7 +3202,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355389882287407104",
   "text" : "RT @JennLukas: Who doesn\u2019t need an octopus made of Avenir? One day left to make this shirt happen: https:\/\/t.co\/FwTxPrZWkf",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3848,7 +3805,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "blowdart",
       "protected" : false,
       "id_str" : "1847381",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744594437733392384\/tre7dY7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977262779584339968\/qo-39vSi_normal.jpg",
       "id" : 1847381,
       "verified" : true
     }
@@ -4016,6 +3973,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sapEXpjIw7"
     } ],
     "hashtags" : [ ],
@@ -4063,6 +4021,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sapEXpjIw7"
       } ],
       "hashtags" : [ ],
@@ -4078,7 +4037,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "sacca",
       "protected" : false,
       "id_str" : "586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668902554957316096\/IpjBGyjC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005962140421771264\/hDfGcMd3_normal.jpg",
       "id" : 586,
       "verified" : true
     }
@@ -4428,7 +4387,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "jmechner",
       "protected" : false,
       "id_str" : "21378183",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000143450460\/1ecc7283f710d5e43d3571ae0c9ea481_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000658909827338240\/UG-A96jZ_normal.jpg",
       "id" : 21378183,
       "verified" : true
     }
