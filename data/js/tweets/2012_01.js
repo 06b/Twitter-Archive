@@ -519,7 +519,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "AndrewCrow",
       "protected" : false,
       "id_str" : "1153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993347612232183808\/ZDTX2zbj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054614164604211200\/FL6ZUWba_normal.jpg",
       "id" : 1153,
       "verified" : true
     }
@@ -628,7 +628,13 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jordan",
+      "screen_name" : "quarkon",
+      "indices" : [ 3, 11 ],
+      "id_str" : "1026587698818174976",
+      "id" : 1026587698818174976
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1314,7 +1320,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -1341,7 +1347,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 161896092286464001,
     "created_at" : "2012-01-24 19:40:10 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
@@ -2101,7 +2107,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/968595834446082048\/X3dnCTV5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022932965892939776\/aJgE2T5l_normal.jpg",
       "id" : 4816,
       "verified" : true
     }
@@ -2485,7 +2491,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rude Ayelo",
+      "name" : "\u0280\u1D1C\u1D05\u1D07",
       "screen_name" : "Rude",
       "indices" : [ 3, 8 ],
       "id_str" : "2711641",
@@ -2518,7 +2524,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 158638847880732673,
     "created_at" : "2012-01-15 19:57:03 +0000",
     "user" : {
-      "name" : "Rude Ayelo",
+      "name" : "\u0280\u1D1C\u1D05\u1D07",
       "screen_name" : "Rude",
       "protected" : false,
       "id_str" : "2711641",
@@ -3527,7 +3533,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "burakson",
       "protected" : false,
       "id_str" : "92050860",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527752973699399681\/rIRRv3CH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033062852402262017\/sRU-iLDb_normal.jpg",
       "id" : 92050860,
       "verified" : false
     }
@@ -3566,7 +3572,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "156909617841045504",
   "text" : "RT @untitled_mag: This Girl Snuck Into a Russian Military Rocket Factory http:\/\/t.co\/grTKqFND",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4591,7 +4597,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "SubtleGradient",
       "protected" : false,
       "id_str" : "14405464",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974751815680983040\/6zOfX-Ls_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022160768622645250\/CrKK5uDG_normal.jpg",
       "id" : 14405464,
       "verified" : false
     }
@@ -4752,11 +4758,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 154262263665143808,
     "created_at" : "2012-01-03 18:06:04 +0000",
     "user" : {
-      "name" : "\uD835\uDD41\uD835\uDD52\uD835\uDD64\uD835\uDD60\uD835\uDD5F \u2102\uD835\uDD63\uD835\uDD52\uD835\uDD5F\uD835\uDD57\uD835\uDD60\uD835\uDD63\uD835\uDD55\uD835\uDD4B\uD835\uDD56\uD835\uDD52\uD835\uDD58\uD835\uDD66\uD835\uDD56",
+      "name" : "\uD835\uDE79\uD835\uDE8A\uD835\uDE9C\uD835\uDE98\uD835\uDE97 \uD835\uDE72\uD835\uDE9B\uD835\uDE8A\uD835\uDE97\uD835\uDE8F\uD835\uDE98\uD835\uDE9B\uD835\uDE8D\uD835\uDE83\uD835\uDE8E\uD835\uDE8A\uD835\uDE90\uD835\uDE9E\uD835\uDE8E",
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004957141449560065\/NyeU_x6W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060028224166682625\/wwtLcnlx_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }

@@ -235,57 +235,6 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ale\u0161 Kot",
-      "screen_name" : "ales_kot",
-      "indices" : [ 3, 12 ],
-      "id_str" : "17885562",
-      "id" : 17885562
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "152566602573955072",
-  "text" : "RT @ales_kot: Marvel Comics supports SOPA. Effective immediately, I've stopped buying all Marvel comics. This, of course, isn't a light- ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "152415782922485761",
-    "text" : "Marvel Comics supports SOPA. Effective immediately, I've stopped buying all Marvel comics. This, of course, isn't a light-hearted decision.",
-    "id" : 152415782922485761,
-    "created_at" : "2011-12-29 15:48:49 +0000",
-    "user" : {
-      "name" : "Ale\u0161 Kot",
-      "screen_name" : "ales_kot",
-      "protected" : false,
-      "id_str" : "17885562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976136419025580033\/UycV3HH__normal.jpg",
-      "id" : 17885562,
-      "verified" : false
-    }
-  },
-  "id" : 152566602573955072,
-  "created_at" : "2011-12-30 01:48:07 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1072,7 +1021,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1302,7 +1251,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2620\uFE0F\uD83D\uDC3B\uD83C\uDD82\uD83C\uDD84\uD83C\uDD74 \u2620\uFE0F\uD83D\uDC3B",
+      "name" : "sue is ON STAYCATION w\/ \uD83E\uDDD4\uD83C\uDFFD\uD83D\uDC15\uD83D\uDC3A",
       "screen_name" : "deathbearbrown",
       "indices" : [ 3, 18 ],
       "id_str" : "21491212",
@@ -1329,11 +1278,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 150311789136064513,
     "created_at" : "2011-12-23 20:28:17 +0000",
     "user" : {
-      "name" : "\u2620\uFE0F\uD83D\uDC3B\uD83C\uDD82\uD83C\uDD84\uD83C\uDD74 \u2620\uFE0F\uD83D\uDC3B",
+      "name" : "sue is ON STAYCATION w\/ \uD83E\uDDD4\uD83C\uDFFD\uD83D\uDC15\uD83D\uDC3A",
       "screen_name" : "deathbearbrown",
       "protected" : false,
       "id_str" : "21491212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957462482531962880\/dfA6o6ZL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058158861406720002\/xxnc2thR_normal.jpg",
       "id" : 21491212,
       "verified" : false
     }
@@ -1375,7 +1324,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Koon @ INSIDE THE HOUSE FRAN!",
+      "name" : "skoon the man Lee",
       "screen_name" : "lazycoder",
       "indices" : [ 3, 13 ],
       "id_str" : "697163",
@@ -1424,11 +1373,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 149535975519952896,
     "created_at" : "2011-12-21 17:05:29 +0000",
     "user" : {
-      "name" : "Scott Koon @ INSIDE THE HOUSE FRAN!",
+      "name" : "skoon the man Lee",
       "screen_name" : "lazycoder",
       "protected" : false,
       "id_str" : "697163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999754984785821696\/HXs6frH9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063526351443976192\/rvFM_mBU_normal.jpg",
       "id" : 697163,
       "verified" : false
     }
@@ -1499,7 +1448,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "mpbranigan",
       "protected" : false,
       "id_str" : "212110673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992403926673776643\/VnOBeeg9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060036582219100162\/A9dRs423_normal.jpg",
       "id" : 212110673,
       "verified" : false
     }
@@ -2186,7 +2135,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "BKeenan",
       "protected" : false,
       "id_str" : "16809579",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/830067619411742721\/Cn-2-8tU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009099840582832129\/ZKMm7Eu-_normal.jpg",
       "id" : 16809579,
       "verified" : false
     }
@@ -2231,7 +2180,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "CarolynLeighS",
       "protected" : false,
       "id_str" : "14289304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005982462999171072\/a4s9e-j7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036454833270784000\/j6mzMmFY_normal.jpg",
       "id" : 14289304,
       "verified" : false
     }
@@ -3598,7 +3547,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3735,7 +3684,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "swissmiss",
       "protected" : false,
       "id_str" : "1504011",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970340112868442114\/_2BAgWQv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047808427563671553\/WEYM5zOh_normal.jpg",
       "id" : 1504011,
       "verified" : false
     }
@@ -4530,7 +4479,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4557,7 +4506,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

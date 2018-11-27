@@ -90,6 +90,61 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13106212024",
+  "text" : "Took some canned air to my laptop. Hopefully that will help the 'smells like melting plastic' issue",
+  "id" : 13106212024,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13112722694",
+  "geo" : { },
+  "id_str" : "13124302229",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller Do it, it you are able to that just shows you have the skills and will help you learn more.",
+  "id" : 13124302229,
+  "in_reply_to_status_id" : 13112722694,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Creative Suite",
       "screen_name" : "Creativesuite",
@@ -452,61 +507,6 @@ Grailbird.data.tweets_2010_04 =
   "text" : "@leslie_hiller Z - Zapf Dingbats",
   "id" : 13106027976,
   "in_reply_to_status_id" : 13105835767,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13106212024",
-  "text" : "Took some canned air to my laptop. Hopefully that will help the 'smells like melting plastic' issue",
-  "id" : 13106212024,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "13112722694",
-  "geo" : { },
-  "id_str" : "13124302229",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller Do it, it you are able to that just shows you have the skills and will help you learn more.",
-  "id" : 13124302229,
-  "in_reply_to_status_id" : 13112722694,
   "created_at" : "2010-04-30 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
@@ -1053,7 +1053,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1921,6 +1921,61 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12798410257",
+  "text" : "Too many drop shadows",
+  "id" : 12798410257,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12802098966",
+  "geo" : { },
+  "id_str" : "12803125736",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller  UC Education Center map, every room had a drop shadow, it was a pain to remove them all",
+  "id" : 12803125736,
+  "in_reply_to_status_id" : 12802098966,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "leslie hiller",
       "screen_name" : "leslie_hiller",
@@ -1995,61 +2050,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-25 00:00:00 +0000",
   "in_reply_to_screen_name" : "deidrehazel",
   "in_reply_to_user_id_str" : "17497512",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12798410257",
-  "text" : "Too many drop shadows",
-  "id" : 12798410257,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12802098966",
-  "geo" : { },
-  "id_str" : "12803125736",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller  UC Education Center map, every room had a drop shadow, it was a pain to remove them all",
-  "id" : 12803125736,
-  "in_reply_to_status_id" : 12802098966,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2169,6 +2169,85 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "katy rucker",
+      "screen_name" : "katyrucker",
+      "indices" : [ 0, 11 ],
+      "id_str" : "540255575",
+      "id" : 540255575
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12671898737",
+  "text" : "@katyrucker I believe most of us are, are you only attending one?",
+  "id" : 12671898737,
+  "created_at" : "2010-04-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sergio A. Garcia",
+      "screen_name" : "SergioAG10",
+      "indices" : [ 3, 14 ],
+      "id_str" : "112919156",
+      "id" : 112919156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12672601535",
+  "text" : "RT @SergioAG10: Adobe Workshops tomorrow! Intense times dudes",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "12672310490",
+    "text" : "Adobe Workshops tomorrow! Intense times dudes",
+    "id" : 12672310490,
+    "created_at" : "2010-04-23 00:55:32 +0000",
+    "user" : {
+      "name" : "Sergio A. Garcia",
+      "screen_name" : "SergioAG10",
+      "protected" : false,
+      "id_str" : "112919156",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572582729938518016\/92xyH3K4_normal.jpeg",
+      "id" : 112919156,
+      "verified" : false
+    }
+  },
+  "id" : 12672601535,
+  "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3043,11 +3122,11 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12707057955,
     "created_at" : "2010-04-23 15:05:35 +0000",
     "user" : {
-      "name" : "\uD835\uDD41\uD835\uDD52\uD835\uDD64\uD835\uDD60\uD835\uDD5F \u2102\uD835\uDD63\uD835\uDD52\uD835\uDD5F\uD835\uDD57\uD835\uDD60\uD835\uDD63\uD835\uDD55\uD835\uDD4B\uD835\uDD56\uD835\uDD52\uD835\uDD58\uD835\uDD66\uD835\uDD56",
+      "name" : "\uD835\uDE79\uD835\uDE8A\uD835\uDE9C\uD835\uDE98\uD835\uDE97 \uD835\uDE72\uD835\uDE9B\uD835\uDE8A\uD835\uDE97\uD835\uDE8F\uD835\uDE98\uD835\uDE9B\uD835\uDE8D\uD835\uDE83\uD835\uDE8E\uD835\uDE8A\uD835\uDE90\uD835\uDE9E\uD835\uDE8E",
       "screen_name" : "JasonCT",
       "protected" : false,
       "id_str" : "14123301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004957141449560065\/NyeU_x6W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060028224166682625\/wwtLcnlx_normal.jpg",
       "id" : 14123301,
       "verified" : true
     }
@@ -3615,85 +3694,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12671693518",
   "text" : "@katyrucker Oh god tomorrow is going to be an interesting day, you have to eat lunch with us",
   "id" : 12671693518,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "katy rucker",
-      "screen_name" : "katyrucker",
-      "indices" : [ 0, 11 ],
-      "id_str" : "540255575",
-      "id" : 540255575
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12671898737",
-  "text" : "@katyrucker I believe most of us are, are you only attending one?",
-  "id" : 12671898737,
-  "created_at" : "2010-04-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sergio A. Garcia",
-      "screen_name" : "SergioAG10",
-      "indices" : [ 3, 14 ],
-      "id_str" : "112919156",
-      "id" : 112919156
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12672601535",
-  "text" : "RT @SergioAG10: Adobe Workshops tomorrow! Intense times dudes",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12672310490",
-    "text" : "Adobe Workshops tomorrow! Intense times dudes",
-    "id" : 12672310490,
-    "created_at" : "2010-04-23 00:55:32 +0000",
-    "user" : {
-      "name" : "Sergio A. Garcia",
-      "screen_name" : "SergioAG10",
-      "protected" : false,
-      "id_str" : "112919156",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572582729938518016\/92xyH3K4_normal.jpeg",
-      "id" : 112919156,
-      "verified" : false
-    }
-  },
-  "id" : 12672601535,
   "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -4306,7 +4306,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -4412,7 +4412,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -4805,7 +4805,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "ilovetypography",
       "protected" : false,
       "id_str" : "9779032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928476692363878400\/rWnV1GlJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059147796375199745\/hV1ptxcV_normal.jpg",
       "id" : 9779032,
       "verified" : true
     }
@@ -4943,6 +4943,72 @@ Grailbird.data.tweets_2010_04 =
   "text" : "Step 1 - Complete, Begin Step 2 - Shock Collars",
   "id" : 12363655226,
   "created_at" : "2010-04-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12291668092",
+  "geo" : { },
+  "id_str" : "12294515288",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller When you get a chance, I noticed an extra \",\" on your website when you remove it send it back and I'll update it for you.",
+  "id" : 12294515288,
+  "in_reply_to_status_id" : 12291668092,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12295371935",
+  "geo" : { },
+  "id_str" : "12295485466",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller Would I joke about this? Look on the bright side you don't have to print it out and I caught it before someone else did.",
+  "id" : 12295485466,
+  "in_reply_to_status_id" : 12295371935,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -5133,72 +5199,6 @@ Grailbird.data.tweets_2010_04 =
   "text" : "@leslie_hiller Good luck!",
   "id" : 12294374323,
   "in_reply_to_status_id" : 12293337849,
-  "created_at" : "2010-04-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12291668092",
-  "geo" : { },
-  "id_str" : "12294515288",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller When you get a chance, I noticed an extra \",\" on your website when you remove it send it back and I'll update it for you.",
-  "id" : 12294515288,
-  "in_reply_to_status_id" : 12291668092,
-  "created_at" : "2010-04-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12295371935",
-  "geo" : { },
-  "id_str" : "12295485466",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller Would I joke about this? Look on the bright side you don't have to print it out and I caught it before someone else did.",
-  "id" : 12295485466,
-  "in_reply_to_status_id" : 12295371935,
   "created_at" : "2010-04-16 00:00:00 +0000",
   "in_reply_to_screen_name" : "leslie_hiller",
   "in_reply_to_user_id_str" : "121884957",
@@ -6031,6 +6031,70 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Eric Draven",
+      "screen_name" : "erikdraven",
+      "indices" : [ 0, 11 ],
+      "id_str" : "193070289",
+      "id" : 193070289
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12052276928",
+  "geo" : { },
+  "id_str" : "12052344384",
+  "in_reply_to_user_id" : 9435382,
+  "text" : "@erikdraven Seems as if adobe thinks web designers only use and care about flash.",
+  "id" : 12052344384,
+  "in_reply_to_status_id" : 12052276928,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "MausHax",
+  "in_reply_to_user_id_str" : "9435382",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Greg Rewis",
+      "screen_name" : "garazi",
+      "indices" : [ 22, 29 ],
+      "id_str" : "662533",
+      "id" : 662533
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CS5",
+      "indices" : [ 108, 112 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12052462625",
+  "text" : "Adobe should of given @garazi more time. We could of dealt with less flash and more Dreamweaver & Fireworks #CS5",
+  "id" : 12052462625,
+  "created_at" : "2010-04-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -6831,7 +6895,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "catmachine",
       "protected" : false,
       "id_str" : "788525",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947853786004979713\/71D59cnq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058040256447082496\/6GTwWmk4_normal.jpg",
       "id" : 788525,
       "verified" : false
     }
@@ -6851,7 +6915,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Christopher",
+      "name" : "Jon Christopher",
       "screen_name" : "jchristopher",
       "indices" : [ 3, 16 ],
       "id_str" : "5685152",
@@ -6884,7 +6948,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12051304175,
     "created_at" : "2010-04-12 15:19:54 +0000",
     "user" : {
-      "name" : "Jonathan Christopher",
+      "name" : "Jon Christopher",
       "screen_name" : "jchristopher",
       "protected" : false,
       "id_str" : "5685152",
@@ -7065,70 +7129,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Eric Draven",
-      "screen_name" : "erikdraven",
-      "indices" : [ 0, 11 ],
-      "id_str" : "193070289",
-      "id" : 193070289
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12052276928",
-  "geo" : { },
-  "id_str" : "12052344384",
-  "in_reply_to_user_id" : 9435382,
-  "text" : "@erikdraven Seems as if adobe thinks web designers only use and care about flash.",
-  "id" : 12052344384,
-  "in_reply_to_status_id" : 12052276928,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "MausHax",
-  "in_reply_to_user_id_str" : "9435382",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Greg Rewis",
-      "screen_name" : "garazi",
-      "indices" : [ 22, 29 ],
-      "id_str" : "662533",
-      "id" : 662533
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "CS5",
-      "indices" : [ 108, 112 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12052462625",
-  "text" : "Adobe should of given @garazi more time. We could of dealt with less flash and more Dreamweaver & Fireworks #CS5",
-  "id" : 12052462625,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -7169,7 +7169,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "ilovetypography",
       "protected" : false,
       "id_str" : "9779032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928476692363878400\/rWnV1GlJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059147796375199745\/hV1ptxcV_normal.jpg",
       "id" : 9779032,
       "verified" : true
     }

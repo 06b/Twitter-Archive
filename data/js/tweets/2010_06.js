@@ -436,6 +436,28 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "17304576073",
+  "text" : "Oh snap! Shaft finally released Bakemonogatari 15. About time",
+  "id" : 17304576073,
+  "created_at" : "2010-06-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "17333182358",
   "text" : "Created a subroutine called FailWhale() for the web app I'm working on",
   "id" : 17333182358,
@@ -533,28 +555,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17362694120",
   "text" : "Just requested to get my full time offer in writing before I decide to sign anything.",
   "id" : 17362694120,
-  "created_at" : "2010-06-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17304576073",
-  "text" : "Oh snap! Shaft finally released Bakemonogatari 15. About time",
-  "id" : 17304576073,
   "created_at" : "2010-06-29 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -1202,7 +1202,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1961,6 +1961,28 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16474127029",
+  "text" : "Running all three machines at work",
+  "id" : 16474127029,
+  "created_at" : "2010-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "AIGA Cincinnati",
       "screen_name" : "aigacincinnati",
@@ -2082,28 +2104,6 @@ Grailbird.data.tweets_2010_06 =
     }
   },
   "id" : 16464915892,
-  "created_at" : "2010-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16474127029",
-  "text" : "Running all three machines at work",
-  "id" : 16474127029,
   "created_at" : "2010-06-18 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -3379,6 +3379,39 @@ Grailbird.data.tweets_2010_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "15981202209",
+  "geo" : { },
+  "id_str" : "15981297828",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller Was it the Hartz Lunch & Learn?",
+  "id" : 15981297828,
+  "in_reply_to_status_id" : 15981202209,
+  "created_at" : "2010-06-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
   "in_reply_to_status_id_str" : "15981355465",
   "geo" : { },
   "id_str" : "15981399612",
@@ -3507,39 +3540,6 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "15981202209",
-  "geo" : { },
-  "id_str" : "15981297828",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller Was it the Hartz Lunch & Learn?",
-  "id" : 15981297828,
-  "in_reply_to_status_id" : 15981202209,
-  "created_at" : "2010-06-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3608,7 +3608,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3662,7 +3662,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016428073451970565\/J1xe0LzB_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -4360,7 +4360,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "firstcrusader",
       "protected" : false,
       "id_str" : "7824992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920374951634403329\/aBgq4CKD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057033555275120641\/E3mac8b2_normal.jpg",
       "id" : 7824992,
       "verified" : false
     }
@@ -4487,75 +4487,6 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Petra Gregorov\u00E1",
-      "screen_name" : "PetraGregorova",
-      "indices" : [ 3, 18 ],
-      "id_str" : "14538913",
-      "id" : 14538913
-    }, {
-      "name" : "Derek Featherstone",
-      "screen_name" : "feather",
-      "indices" : [ 33, 41 ],
-      "id_str" : "12491",
-      "id" : 12491
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "InterACTbook",
-      "indices" : [ 100, 113 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15943518931",
-  "text" : "RT @PetraGregorova: listening to @feather doing his session on Accessibility at the InterACT Summit #InterACTbook",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Derek Featherstone",
-        "screen_name" : "feather",
-        "indices" : [ 13, 21 ],
-        "id_str" : "12491",
-        "id" : 12491
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "InterACTbook",
-        "indices" : [ 80, 93 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15943479650",
-    "text" : "listening to @feather doing his session on Accessibility at the InterACT Summit #InterACTbook",
-    "id" : 15943479650,
-    "created_at" : "2010-06-11 17:16:49 +0000",
-    "user" : {
-      "name" : "Petra Gregorov\u00E1",
-      "screen_name" : "PetraGregorova",
-      "protected" : false,
-      "id_str" : "14538913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936686278787166213\/ZXyzqg5P_normal.jpg",
-      "id" : 14538913,
-      "verified" : false
-    }
-  },
-  "id" : 15943518931,
-  "created_at" : "2010-06-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Lisa Eldred",
       "screen_name" : "firstcrusader",
       "indices" : [ 3, 17 ],
@@ -4590,7 +4521,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "firstcrusader",
       "protected" : false,
       "id_str" : "7824992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920374951634403329\/aBgq4CKD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057033555275120641\/E3mac8b2_normal.jpg",
       "id" : 7824992,
       "verified" : false
     }
@@ -4738,7 +4669,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "brucefloyd",
       "protected" : false,
       "id_str" : "9972002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996930311735914496\/2QEoypb8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066870549937381376\/-rQRc3O2_normal.jpg",
       "id" : 9972002,
       "verified" : false
     }
@@ -4816,63 +4747,6 @@ Grailbird.data.tweets_2010_06 =
     }
   },
   "id" : 15948862548,
-  "created_at" : "2010-06-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Petra Gregorov\u00E1",
-      "screen_name" : "PetraGregorova",
-      "indices" : [ 3, 18 ],
-      "id_str" : "14538913",
-      "id" : 14538913
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "InterACTbook",
-      "indices" : [ 30, 43 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15952292206",
-  "text" : "RT @PetraGregorova: thank you #InterACTbook Summit for some great sessions http:\/\/twitpic.com\/1vwldv",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitpic.com\" rel=\"nofollow\"\u003ETwitpic\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "InterACTbook",
-        "indices" : [ 10, 23 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15952037115",
-    "text" : "thank you #InterACTbook Summit for some great sessions http:\/\/twitpic.com\/1vwldv",
-    "id" : 15952037115,
-    "created_at" : "2010-06-11 19:53:26 +0000",
-    "user" : {
-      "name" : "Petra Gregorov\u00E1",
-      "screen_name" : "PetraGregorova",
-      "protected" : false,
-      "id_str" : "14538913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936686278787166213\/ZXyzqg5P_normal.jpg",
-      "id" : 14538913,
-      "verified" : false
-    }
-  },
-  "id" : 15952292206,
   "created_at" : "2010-06-11 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -5411,6 +5285,57 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Irish",
+      "screen_name" : "paul_irish",
+      "indices" : [ 3, 14 ],
+      "id_str" : "1671811",
+      "id" : 1671811
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15728755901",
+  "text" : "RT @paul_irish: WTF is HTML5 and why should we all care: http:\/\/www.focus.com\/images\/view\/11905\/ Slick infographic.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15725445201",
+    "text" : "WTF is HTML5 and why should we all care: http:\/\/www.focus.com\/images\/view\/11905\/ Slick infographic.",
+    "id" : 15725445201,
+    "created_at" : "2010-06-08 18:56:57 +0000",
+    "user" : {
+      "name" : "Paul Irish",
+      "screen_name" : "paul_irish",
+      "protected" : false,
+      "id_str" : "1671811",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972186419274776576\/LaJS_MKO_normal.jpg",
+      "id" : 1671811,
+      "verified" : false
+    }
+  },
+  "id" : 15728755901,
+  "created_at" : "2010-06-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5537,7 +5462,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "14108346",
       "id" : 14108346
     }, {
-      "name" : "Zoe Gillenwater",
+      "name" : "Zoe Mickley Gillenwater",
       "screen_name" : "zomigi",
       "indices" : [ 59, 66 ],
       "id_str" : "58802066",
@@ -5572,7 +5497,7 @@ Grailbird.data.tweets_2010_06 =
         "id_str" : "14108346",
         "id" : 14108346
       }, {
-        "name" : "Zoe Gillenwater",
+        "name" : "Zoe Mickley Gillenwater",
         "screen_name" : "zomigi",
         "indices" : [ 45, 52 ],
         "id_str" : "58802066",
@@ -5895,7 +5820,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927630833984458752\/KD1lE9TX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017148583504760832\/y9fjbsDv_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -5964,57 +5889,6 @@ Grailbird.data.tweets_2010_06 =
     }
   },
   "id" : 15726608422,
-  "created_at" : "2010-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Paul Irish",
-      "screen_name" : "paul_irish",
-      "indices" : [ 3, 14 ],
-      "id_str" : "1671811",
-      "id" : 1671811
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15728755901",
-  "text" : "RT @paul_irish: WTF is HTML5 and why should we all care: http:\/\/www.focus.com\/images\/view\/11905\/ Slick infographic.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15725445201",
-    "text" : "WTF is HTML5 and why should we all care: http:\/\/www.focus.com\/images\/view\/11905\/ Slick infographic.",
-    "id" : 15725445201,
-    "created_at" : "2010-06-08 18:56:57 +0000",
-    "user" : {
-      "name" : "Paul Irish",
-      "screen_name" : "paul_irish",
-      "protected" : false,
-      "id_str" : "1671811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972186419274776576\/LaJS_MKO_normal.jpg",
-      "id" : 1671811,
-      "verified" : false
-    }
-  },
-  "id" : 15728755901,
   "created_at" : "2010-06-08 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -6404,63 +6278,6 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Damitz",
-      "screen_name" : "timmit",
-      "indices" : [ 3, 10 ],
-      "id_str" : "15449556",
-      "id" : 15449556
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "HOWconf",
-      "indices" : [ 81, 89 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15650636225",
-  "text" : "RT @timmit: A smart designer is someone who knows more than how to use the tools #HOWconf",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "HOWconf",
-        "indices" : [ 69, 77 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15646904877",
-    "text" : "A smart designer is someone who knows more than how to use the tools #HOWconf",
-    "id" : 15646904877,
-    "created_at" : "2010-06-07 18:13:45 +0000",
-    "user" : {
-      "name" : "Tim Damitz",
-      "screen_name" : "timmit",
-      "protected" : false,
-      "id_str" : "15449556",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788799950486401024\/hFwjECcd_normal.jpg",
-      "id" : 15449556,
-      "verified" : false
-    }
-  },
-  "id" : 15650636225,
-  "created_at" : "2010-06-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Ethan Marcotte",
       "screen_name" : "beep",
       "indices" : [ 3, 8 ],
@@ -6613,7 +6430,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016428073451970565\/J1xe0LzB_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -6780,7 +6597,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -7028,6 +6845,102 @@ Grailbird.data.tweets_2010_06 =
   "text" : "Architype Renner - Just wish it had more weights RT @danrubin: Twitterverse: what's the one typeface you can't live without? #typography",
   "id" : 15516986725,
   "created_at" : "2010-06-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kimberly Blessing",
+      "screen_name" : "obiwankimberly",
+      "indices" : [ 3, 18 ],
+      "id_str" : "279713",
+      "id" : 279713
+    }, {
+      "name" : "Shelley Powers",
+      "screen_name" : "shelleypowers",
+      "indices" : [ 51, 65 ],
+      "id_str" : "14986841",
+      "id" : 14986841
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15410933648",
+  "text" : "RT @obiwankimberly: LOL! Apple = Microsoft now! RT @shelleypowers Cheap shot Apple: create HTML5 site and only allow Safari access http: ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Shelley Powers",
+        "screen_name" : "shelleypowers",
+        "indices" : [ 31, 45 ],
+        "id_str" : "14986841",
+        "id" : 14986841
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15408406237",
+    "text" : "LOL! Apple = Microsoft now! RT @shelleypowers Cheap shot Apple: create HTML5 site and only allow Safari access http:\/\/www.apple.com\/html5\/",
+    "id" : 15408406237,
+    "created_at" : "2010-06-04 11:15:11 +0000",
+    "user" : {
+      "name" : "Kimberly Blessing",
+      "screen_name" : "obiwankimberly",
+      "protected" : false,
+      "id_str" : "279713",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971188478800289793\/2xS1-l86_normal.jpg",
+      "id" : 279713,
+      "verified" : false
+    }
+  },
+  "id" : 15410933648,
+  "created_at" : "2010-06-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "leslie hiller",
+      "screen_name" : "leslie_hiller",
+      "indices" : [ 0, 14 ],
+      "id_str" : "121884957",
+      "id" : 121884957
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "15395489458",
+  "geo" : { },
+  "id_str" : "15411184301",
+  "in_reply_to_user_id" : 121884957,
+  "text" : "@leslie_hiller Don't feel uncomfortable since your calendar is blank. Remember you'll have tasks soon enough, just wait till our meeting.",
+  "id" : 15411184301,
+  "in_reply_to_status_id" : 15395489458,
+  "created_at" : "2010-06-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "leslie_hiller",
+  "in_reply_to_user_id_str" : "121884957",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -7532,102 +7445,6 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kimberly Blessing",
-      "screen_name" : "obiwankimberly",
-      "indices" : [ 3, 18 ],
-      "id_str" : "279713",
-      "id" : 279713
-    }, {
-      "name" : "Shelley Powers",
-      "screen_name" : "shelleypowers",
-      "indices" : [ 51, 65 ],
-      "id_str" : "14986841",
-      "id" : 14986841
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15410933648",
-  "text" : "RT @obiwankimberly: LOL! Apple = Microsoft now! RT @shelleypowers Cheap shot Apple: create HTML5 site and only allow Safari access http: ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Shelley Powers",
-        "screen_name" : "shelleypowers",
-        "indices" : [ 31, 45 ],
-        "id_str" : "14986841",
-        "id" : 14986841
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15408406237",
-    "text" : "LOL! Apple = Microsoft now! RT @shelleypowers Cheap shot Apple: create HTML5 site and only allow Safari access http:\/\/www.apple.com\/html5\/",
-    "id" : 15408406237,
-    "created_at" : "2010-06-04 11:15:11 +0000",
-    "user" : {
-      "name" : "Kimberly Blessing",
-      "screen_name" : "obiwankimberly",
-      "protected" : false,
-      "id_str" : "279713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971188478800289793\/2xS1-l86_normal.jpg",
-      "id" : 279713,
-      "verified" : false
-    }
-  },
-  "id" : 15410933648,
-  "created_at" : "2010-06-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "leslie hiller",
-      "screen_name" : "leslie_hiller",
-      "indices" : [ 0, 14 ],
-      "id_str" : "121884957",
-      "id" : 121884957
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "15395489458",
-  "geo" : { },
-  "id_str" : "15411184301",
-  "in_reply_to_user_id" : 121884957,
-  "text" : "@leslie_hiller Don't feel uncomfortable since your calendar is blank. Remember you'll have tasks soon enough, just wait till our meeting.",
-  "id" : 15411184301,
-  "in_reply_to_status_id" : 15395489458,
-  "created_at" : "2010-06-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "leslie_hiller",
-  "in_reply_to_user_id_str" : "121884957",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "katy rucker",
       "screen_name" : "katyrucker",
       "indices" : [ 3, 14 ],
@@ -7802,7 +7619,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan \uD83D\uDC8E",
+      "name" : "Nicole Sullivan",
       "screen_name" : "stubbornella",
       "indices" : [ 11, 24 ],
       "id_str" : "15629200",

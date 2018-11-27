@@ -8,6 +8,28 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "22711665037",
+  "text" : "Meeting Time",
+  "id" : 22711665037,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "22720136679",
   "text" : "Work on design, hibernate laptop, pull battery out by accident before hibernation completed.",
   "id" : 22720136679,
@@ -131,7 +153,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016428073451970565\/J1xe0LzB_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -162,28 +184,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "22735885662",
   "text" : "#nowplaying \"The Device Has Been Modified V2\" by Victims of Science",
   "id" : 22735885662,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22711665037",
-  "text" : "Meeting Time",
-  "id" : 22711665037,
   "created_at" : "2010-09-01 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -1330,7 +1330,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1342,6 +1342,28 @@ Grailbird.data.tweets_2010_08 =
   "text" : "Connection Strings - So about six months ago, I wrote what I consider my first web application. When I say,... http:\/\/tumblr.com\/xtagmhqxg",
   "id" : 22032565126,
   "created_at" : "2010-08-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21912106396",
+  "text" : "Today our hosting company converted a file that would of prevented me working as long as I did on my weekend... two days too late",
+  "id" : 21912106396,
+  "created_at" : "2010-08-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1520,28 +1542,6 @@ Grailbird.data.tweets_2010_08 =
   "created_at" : "2010-08-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "emily_lyn",
   "in_reply_to_user_id_str" : "30580889",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21912106396",
-  "text" : "Today our hosting company converted a file that would of prevented me working as long as I did on my weekend... two days too late",
-  "id" : 21912106396,
-  "created_at" : "2010-08-23 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2719,11 +2719,11 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "9779032",
       "id" : 9779032
     }, {
-      "name" : "Adobe Typekit",
-      "screen_name" : "typekit",
+      "name" : "Adobe Fonts",
+      "screen_name" : "Typekit",
       "indices" : [ 68, 76 ],
-      "id_str" : "30065033",
-      "id" : 30065033
+      "id_str" : "1025462893007884288",
+      "id" : 1025462893007884288
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2791,6 +2791,34 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21194916746",
+  "text" : "RT @smashingmag: Reinventing Yourself as a Designer: Will it be Necessary? - http:\/\/bit.ly\/bJV6HD",
+  "id" : 21194916746,
+  "created_at" : "2010-08-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Frutiger",
       "screen_name" : "AFrutiger",
       "indices" : [ 0, 10 ],
@@ -2830,34 +2858,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "21194664137",
   "text" : "Today is my grandma's birthday. She's 85 I think? She doesn't understand what I do for a living. I tell her I make pages of the Internet.",
   "id" : 21194664137,
-  "created_at" : "2010-08-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Smashing Magazine",
-      "screen_name" : "smashingmag",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15736190",
-      "id" : 15736190
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21194916746",
-  "text" : "RT @smashingmag: Reinventing Yourself as a Designer: Will it be Necessary? - http:\/\/bit.ly\/bJV6HD",
-  "id" : 21194916746,
   "created_at" : "2010-08-15 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -4146,6 +4146,28 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20678239381",
+  "text" : "Purchased Kingdom Hearts Re:Chain of Memories. Maybe I'll find the time to play it this month",
+  "id" : 20678239381,
+  "created_at" : "2010-08-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -4212,28 +4234,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20746669635",
   "text" : "Hot pick is really not my color",
   "id" : 20746669635,
-  "created_at" : "2010-08-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20678239381",
-  "text" : "Purchased Kingdom Hearts Re:Chain of Memories. Maybe I'll find the time to play it this month",
-  "id" : 20678239381,
   "created_at" : "2010-08-09 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -4502,7 +4502,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5503,6 +5503,45 @@ Grailbird.data.tweets_2010_08 =
     }, {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
+      "indices" : [ 37, 48 ],
+      "id_str" : "112919156",
+      "id" : 112919156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "16847464540",
+  "geo" : { },
+  "id_str" : "20164172460",
+  "in_reply_to_user_id" : 14610709,
+  "text" : "@surpass ^AF the set up went fine w\/ @SergioAG10, but there seems to be a problem - he's being billed yet he's my free surpatty referral",
+  "id" : 20164172460,
+  "in_reply_to_status_id" : 16847464540,
+  "created_at" : "2010-08-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "surpass",
+  "in_reply_to_user_id_str" : "14610709",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Surpass Hosting",
+      "screen_name" : "surpass",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14610709",
+      "id" : 14610709
+    }, {
+      "name" : "Sergio A. Garcia",
+      "screen_name" : "SergioAG10",
       "indices" : [ 13, 24 ],
       "id_str" : "112919156",
       "id" : 112919156
@@ -5636,7 +5675,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5728,45 +5767,6 @@ Grailbird.data.tweets_2010_08 =
   "text" : "Came back to my desk to find a zombie apocalypse graph and a lolcat chart",
   "id" : 20162704888,
   "created_at" : "2010-08-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Surpass Hosting",
-      "screen_name" : "surpass",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14610709",
-      "id" : 14610709
-    }, {
-      "name" : "Sergio A. Garcia",
-      "screen_name" : "SergioAG10",
-      "indices" : [ 37, 48 ],
-      "id_str" : "112919156",
-      "id" : 112919156
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "16847464540",
-  "geo" : { },
-  "id_str" : "20164172460",
-  "in_reply_to_user_id" : 14610709,
-  "text" : "@surpass ^AF the set up went fine w\/ @SergioAG10, but there seems to be a problem - he's being billed yet he's my free surpatty referral",
-  "id" : 20164172460,
-  "in_reply_to_status_id" : 16847464540,
-  "created_at" : "2010-08-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "surpass",
-  "in_reply_to_user_id_str" : "14610709",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

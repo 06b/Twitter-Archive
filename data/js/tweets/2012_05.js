@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan \uD83D\uDC8E",
+      "name" : "Nicole Sullivan",
       "screen_name" : "stubbornella",
       "indices" : [ 3, 16 ],
       "id_str" : "15629200",
@@ -160,7 +160,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 208094727655014400,
     "created_at" : "2012-05-31 07:17:03 +0000",
     "user" : {
-      "name" : "Nicole Sullivan \uD83D\uDC8E",
+      "name" : "Nicole Sullivan",
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
@@ -540,7 +540,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -567,7 +567,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 206868002233266176,
     "created_at" : "2012-05-27 22:02:29 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
@@ -694,7 +694,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "205655172435816450",
   "text" : "RT @Boris: Why was the Apple logo upside down on laptops when the lid was open? http:\/\/t.co\/NWPaQL1p",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1728,7 +1728,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -1773,7 +1773,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 203558186681249793,
     "created_at" : "2012-05-18 18:50:28 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
@@ -2164,7 +2164,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "odannyboy",
       "protected" : false,
       "id_str" : "3252",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948395760940232709\/6vioO_fm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066007801514741760\/nVt9ZroG_normal.jpg",
       "id" : 3252,
       "verified" : true
     }
@@ -3142,7 +3142,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ryanseddon",
       "protected" : false,
       "id_str" : "16219635",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720374784148647936\/L052_VQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052339317803106304\/GtRISTl-_normal.jpg",
       "id" : 16219635,
       "verified" : false
     }
@@ -3209,7 +3209,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3802,60 +3802,6 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Moved to @WeirdFacts",
-      "screen_name" : "SoMindBlowing",
-      "indices" : [ 3, 17 ],
-      "id_str" : "58063102",
-      "id" : 58063102
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "198402800349229056",
-  "text" : "RT @SoMindBlowing: Have you ever walked into a room and forgot why you went there? Thats god playing Sims and he just cancelled your act ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "mindblowing",
-        "indices" : [ 122, 134 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "198246576718741504",
-    "text" : "Have you ever walked into a room and forgot why you went there? Thats god playing Sims and he just cancelled your action. #mindblowing",
-    "id" : 198246576718741504,
-    "created_at" : "2012-05-04 03:04:01 +0000",
-    "user" : {
-      "name" : "Art",
-      "screen_name" : "CalIigraphy",
-      "protected" : false,
-      "id_str" : "370419168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710304710515789825\/dLApKpu7_normal.jpg",
-      "id" : 370419168,
-      "verified" : false
-    }
-  },
-  "id" : 198402800349229056,
-  "created_at" : "2012-05-04 13:24:48 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 0, 11 ],
@@ -3981,7 +3927,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "thebeebs",
       "protected" : false,
       "id_str" : "16637625",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943774946739871744\/2RcSH0Mc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044222720802729985\/cCJlUL6d_normal.jpg",
       "id" : 16637625,
       "verified" : false
     }

@@ -497,9 +497,9 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6667029520",
-  "text" : "School sent another email just as an image. Link in email still is denied. Honestly, UC just stop...",
-  "id" : 6667029520,
+  "id_str" : "6646823290",
+  "text" : "Attempting to set up prestashop on godaddy. Ugh!",
+  "id" : 6646823290,
   "created_at" : "2009-12-14 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -519,9 +519,9 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6646823290",
-  "text" : "Attempting to set up prestashop on godaddy. Ugh!",
-  "id" : 6646823290,
+  "id_str" : "6667029520",
+  "text" : "School sent another email just as an image. Link in email still is denied. Honestly, UC just stop...",
+  "id" : 6667029520,
   "created_at" : "2009-12-14 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

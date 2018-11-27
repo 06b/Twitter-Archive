@@ -126,7 +126,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058164694945619970\/om_YJls2_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -939,7 +939,7 @@ Grailbird.data.tweets_2013_12 =
   "id_str" : "415233521242746880",
   "text" : "RT @Ben_Hall: All Breakfast Menus Should Work Like This http:\/\/t.co\/Sa4iZesQXF",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1785,7 +1785,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan \uD83D\uDC8E",
+      "name" : "Nicole Sullivan",
       "screen_name" : "stubbornella",
       "indices" : [ 3, 16 ],
       "id_str" : "15629200",
@@ -1812,7 +1812,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 413420313867599872,
     "created_at" : "2013-12-18 21:27:38 +0000",
     "user" : {
-      "name" : "Nicole Sullivan \uD83D\uDC8E",
+      "name" : "Nicole Sullivan",
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
@@ -1968,13 +1968,7 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 0, 10 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1987,7 +1981,7 @@ Grailbird.data.tweets_2013_12 =
   "id" : 412988442557952000,
   "in_reply_to_status_id" : 412949050393362432,
   "created_at" : "2013-12-17 16:51:32 +0000",
-  "in_reply_to_screen_name" : "anonimews",
+  "in_reply_to_screen_name" : "mewgurt",
   "in_reply_to_user_id_str" : "1443614275",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2099,7 +2093,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058164694945619970\/om_YJls2_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -2119,7 +2113,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 3, 11 ],
       "id_str" : "768197",
@@ -2146,7 +2140,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 412649638114516993,
     "created_at" : "2013-12-16 18:25:15 +0000",
     "user" : {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
@@ -2804,18 +2798,9 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 3, 11 ],
       "id_str" : "61133",
       "id" : 61133
-    }, {
-      "name" : "Mike Monteiro wants @jack fired.",
-      "screen_name" : "monteiro",
-      "indices" : [ 77, 86 ],
-      "id_str" : "2426",
-      "id" : 2426
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "aeasf",
-      "indices" : [ 87, 93 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2824,13 +2809,7 @@ Grailbird.data.tweets_2013_12 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/mac\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Mike Monteiro wants @jack fired.",
-        "screen_name" : "monteiro",
-        "indices" : [ 64, 73 ],
-        "id_str" : "2426",
-        "id" : 2426
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ {
         "text" : "aeasf",
@@ -3068,7 +3047,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "mikemetcalf",
       "protected" : false,
       "id_str" : "27032389",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987355352801792000\/14eGTngo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054881138852814848\/eC47N84e_normal.jpg",
       "id" : 27032389,
       "verified" : false
     }
@@ -3122,7 +3101,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "BRITTNEY_O",
       "protected" : false,
       "id_str" : "18204077",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637440941121519616\/9w7ERG0N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059663523691814912\/RWHdv2C6_normal.jpg",
       "id" : 18204077,
       "verified" : false
     }
@@ -3242,6 +3221,88 @@ Grailbird.data.tweets_2013_12 =
   "text" : "One day I will make a presentation that (may or may not) include a loading screen that will use commit messages from The Sims.",
   "id" : 409899718911614977,
   "created_at" : "2013-12-09 04:18:03 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "kels",
+      "screen_name" : "kelsroaach",
+      "indices" : [ 3, 14 ],
+      "id_str" : "2182871491",
+      "id" : 2182871491
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "409798155819966465",
+  "text" : "RT @kelsroaach: So my mom will stop smoking &amp; so will my stepdad if I get a million retweets, lol ok. Ha help me guys. http:\/\/t.co\/ee5E4FWO\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/kelsroaach\/status\/408383980870701056\/photo\/1",
+        "indices" : [ 107, 129 ],
+        "url" : "http:\/\/t.co\/ee5E4FWOMV",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BarfERnCQAAw8yI.jpg",
+        "id_str" : "408383980770050048",
+        "id" : 408383980770050048,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BarfERnCQAAw8yI.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/ee5E4FWOMV"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "408383980870701056",
+    "text" : "So my mom will stop smoking &amp; so will my stepdad if I get a million retweets, lol ok. Ha help me guys. http:\/\/t.co\/ee5E4FWOMV",
+    "id" : 408383980870701056,
+    "created_at" : "2013-12-04 23:55:03 +0000",
+    "user" : {
+      "name" : "kels",
+      "screen_name" : "kelsroaach",
+      "protected" : false,
+      "id_str" : "2182871491",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055219340859998208\/dhzSaIGi_normal.jpg",
+      "id" : 2182871491,
+      "verified" : false
+    }
+  },
+  "id" : 409798155819966465,
+  "created_at" : "2013-12-08 21:34:28 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3615,7 +3676,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "GlitteringPony",
       "protected" : false,
       "id_str" : "517939492",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697478640347455488\/9tmQwfVA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066541424374501376\/w4DppcO-_normal.jpg",
       "id" : 517939492,
       "verified" : false
     }
@@ -3845,7 +3906,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "royvanrijn",
       "protected" : false,
       "id_str" : "18733178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/989147976185647105\/ShocHf6E_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057605447706914818\/lW61WAZ4_normal.jpg",
       "id" : 18733178,
       "verified" : false
     }
@@ -3982,62 +4043,6 @@ Grailbird.data.tweets_2013_12 =
   "text" : "One of those days where you work on your day off to catch up due to a busy week to suddenly receiving an email which frees up the workload",
   "id" : 408014783032459264,
   "created_at" : "2013-12-03 23:27:59 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cat",
-      "screen_name" : "cfarm",
-      "indices" : [ 3, 9 ],
-      "id_str" : "3938181",
-      "id" : 3938181
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "407970368528588800",
-  "text" : "RT @cfarm: Rage against HTML form inputs w\/o clickable labels. Basic usability that most sites ignore! So easy to fix, people: http:\/\/t.co\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 116, 138 ],
-        "url" : "http:\/\/t.co\/bAoUO6dv5c",
-        "expanded_url" : "http:\/\/blog.goodsense.io\/2012\/12\/07\/dont-be-lazy-use-html-labels-correctly\/",
-        "display_url" : "blog.goodsense.io\/2012\/12\/07\/don\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "407886643597565952",
-    "text" : "Rage against HTML form inputs w\/o clickable labels. Basic usability that most sites ignore! So easy to fix, people: http:\/\/t.co\/bAoUO6dv5c",
-    "id" : 407886643597565952,
-    "created_at" : "2013-12-03 14:58:48 +0000",
-    "user" : {
-      "name" : "Cat",
-      "screen_name" : "cfarm",
-      "protected" : false,
-      "id_str" : "3938181",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3237198900\/469ef3fa7dd51578f657d295c9ead2f4_normal.jpeg",
-      "id" : 3938181,
-      "verified" : false
-    }
-  },
-  "id" : 407970368528588800,
-  "created_at" : "2013-12-03 20:31:30 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4217,7 +4222,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058164694945619970\/om_YJls2_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }

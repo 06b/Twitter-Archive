@@ -405,12 +405,6 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 78, 88 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    }, {
       "name" : "PiGo",
       "screen_name" : "Rhymenocerus",
       "indices" : [ 95, 108 ],
@@ -855,7 +849,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "benjsperry",
       "protected" : false,
       "id_str" : "18158023",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/932756888218824704\/ckvuURFJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060037170688417792\/vZ7iAWXV_normal.jpg",
       "id" : 18158023,
       "verified" : false
     }
@@ -947,13 +941,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 0, 10 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -969,7 +957,7 @@ Grailbird.data.tweets_2013_08 =
   "text" : "@anonimews https:\/\/t.co\/Hqd56s5DFT Enough said - it's in writing",
   "id" : 372356458962108416,
   "created_at" : "2013-08-27 13:54:32 +0000",
-  "in_reply_to_screen_name" : "anonimews",
+  "in_reply_to_screen_name" : "mewgurt",
   "in_reply_to_user_id_str" : "1443614275",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -1244,7 +1232,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "illumidk",
       "protected" : false,
       "id_str" : "317132541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1395746100\/illumi_twitter_logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044548789216976896\/BAWTEwfY_normal.jpg",
       "id" : 317132541,
       "verified" : false
     }
@@ -2080,7 +2068,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2228,7 +2216,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 368733458144563200,
     "created_at" : "2013-08-17 13:58:01 +0000",
     "user" : {
-      "name" : "alyssa, computers friend",
+      "name" : "Alyssa",
       "screen_name" : "qyliss",
       "protected" : false,
       "id_str" : "485076559",
@@ -2726,7 +2714,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "antonpeck",
       "protected" : false,
       "id_str" : "681333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977248861940076544\/M6HtJKIL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043223813809291264\/WhYi6E-U_normal.jpg",
       "id" : 681333,
       "verified" : false
     }
@@ -2829,13 +2817,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 37, 47 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "YouCantRememberEverything",
@@ -3146,7 +3128,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "22199970",
       "id" : 22199970
     }, {
-      "name" : "Nicole Sullivan \uD83D\uDC8E",
+      "name" : "Nicole Sullivan",
       "screen_name" : "stubbornella",
       "indices" : [ 60, 73 ],
       "id_str" : "15629200",
@@ -3163,7 +3145,7 @@ Grailbird.data.tweets_2013_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nicole Sullivan \uD83D\uDC8E",
+        "name" : "Nicole Sullivan",
         "screen_name" : "stubbornella",
         "indices" : [ 46, 59 ],
         "id_str" : "15629200",
@@ -3360,7 +3342,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 3, 11 ],
       "id_str" : "768197",
@@ -3387,7 +3369,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 366116057431293952,
     "created_at" : "2013-08-10 08:37:24 +0000",
     "user" : {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
@@ -4466,13 +4448,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 0, 10 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -4490,7 +4466,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 364385438233931776,
   "in_reply_to_status_id" : 364375028705402880,
   "created_at" : "2013-08-05 14:00:33 +0000",
-  "in_reply_to_screen_name" : "anonimews",
+  "in_reply_to_screen_name" : "mewgurt",
   "in_reply_to_user_id_str" : "1443614275",
   "user" : {
     "name" : "Adrian D. Alvarez",

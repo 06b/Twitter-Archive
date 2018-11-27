@@ -2,79 +2,6 @@ Grailbird.data.tweets_2013_06 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kevin Church \uD83D\uDD96\uD83C\uDFFB",
-      "screen_name" : "Kevin_Church",
-      "indices" : [ 3, 16 ],
-      "id_str" : "6016062",
-      "id" : 6016062
-    }, {
-      "name" : "Corinna Bechko",
-      "screen_name" : "CorinnaBechko",
-      "indices" : [ 50, 64 ],
-      "id_str" : "16959316",
-      "id" : 16959316
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 94, 116 ],
-      "url" : "http:\/\/t.co\/ZS1U9kXsGk",
-      "expanded_url" : "http:\/\/imgur.com\/gallery\/iKxWt1c",
-      "display_url" : "imgur.com\/gallery\/iKxWt1c"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "351497715668090880",
-  "text" : "RT @Kevin_Church: This is an important cat photo. @CorinnaBechko needs to see this cat photo. http:\/\/t.co\/ZS1U9kXsGk",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Corinna Bechko",
-        "screen_name" : "CorinnaBechko",
-        "indices" : [ 32, 46 ],
-        "id_str" : "16959316",
-        "id" : 16959316
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 76, 98 ],
-        "url" : "http:\/\/t.co\/ZS1U9kXsGk",
-        "expanded_url" : "http:\/\/imgur.com\/gallery\/iKxWt1c",
-        "display_url" : "imgur.com\/gallery\/iKxWt1c"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "351462564225486850",
-    "text" : "This is an important cat photo. @CorinnaBechko needs to see this cat photo. http:\/\/t.co\/ZS1U9kXsGk",
-    "id" : 351462564225486850,
-    "created_at" : "2013-06-30 22:09:39 +0000",
-    "user" : {
-      "name" : "Kevin Church \uD83D\uDD96\uD83C\uDFFB",
-      "screen_name" : "Kevin_Church",
-      "protected" : false,
-      "id_str" : "6016062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734694473108721664\/osbLp9Qs_normal.jpg",
-      "id" : 6016062,
-      "verified" : false
-    }
-  },
-  "id" : 351497715668090880,
-  "created_at" : "2013-07-01 00:29:20 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -906,7 +833,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348548869556154368",
   "text" : "RT @sec_reactions: umm... maybe... I forgot to lock my screen?!?! - by _2501 http:\/\/t.co\/yTbradzLmW",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1114,7 +1041,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058164694945619970\/om_YJls2_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -1673,7 +1600,7 @@ Grailbird.data.tweets_2013_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2745,7 +2672,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058164694945619970\/om_YJls2_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -3254,7 +3181,7 @@ Grailbird.data.tweets_2013_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3703,7 +3630,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "xstex",
       "protected" : false,
       "id_str" : "14742479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993975120187285504\/jjZVrPMA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059179229705920512\/0_926Dyg_normal.jpg",
       "id" : 14742479,
       "verified" : false
     }

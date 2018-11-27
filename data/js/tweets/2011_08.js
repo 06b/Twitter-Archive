@@ -1138,7 +1138,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1270,7 +1270,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1613,7 +1613,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "reybango",
       "protected" : false,
       "id_str" : "1589691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973405635126607873\/ahBt1uYs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031619762940403713\/0GvBTqfb_normal.jpg",
       "id" : 1589691,
       "verified" : true
     }
@@ -2019,7 +2019,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "mrgan",
       "protected" : false,
       "id_str" : "35293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925719886457847808\/Vuf2uyPY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061064201383202817\/GEbnQCgk_normal.jpg",
       "id" : 35293,
       "verified" : true
     }
@@ -2291,11 +2291,11 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "INFINITEHANNAH\u2122",
+      "name" : "hannah rine",
       "screen_name" : "infinitehannah",
       "indices" : [ 3, 18 ],
-      "id_str" : "809628706675294208",
-      "id" : 809628706675294208
+      "id_str" : "91495036",
+      "id" : 91495036
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2318,11 +2318,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 104970351972331521,
     "created_at" : "2011-08-20 17:37:36 +0000",
     "user" : {
-      "name" : "HANNAH RINE\u00AE",
-      "screen_name" : "liquidvanilla",
+      "name" : "hannah rine",
+      "screen_name" : "infinitehannah",
       "protected" : false,
       "id_str" : "91495036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007370768957739008\/M0SK0kNc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044660155709820928\/xhZy5eSp_normal.jpg",
       "id" : 91495036,
       "verified" : false
     }
@@ -2809,57 +2809,6 @@ Grailbird.data.tweets_2011_08 =
   "text" : "Tried kraken, Savings - No Savings.... Tried Smush.it, Savings - 18.19%",
   "id" : 104299193203564545,
   "created_at" : "2011-08-18 21:10:40 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steven Frank",
-      "screen_name" : "stevenf",
-      "indices" : [ 3, 11 ],
-      "id_str" : "733813",
-      "id" : 733813
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "104294713233903616",
-  "text" : "RT @stevenf: July 1: TouchPad goes on sale. August 5: TouchPad discounted $100. August 18: Touchpad discontinued. 49 day lifespan.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "104292659316797440",
-    "text" : "July 1: TouchPad goes on sale. August 5: TouchPad discounted $100. August 18: Touchpad discontinued. 49 day lifespan.",
-    "id" : 104292659316797440,
-    "created_at" : "2011-08-18 20:44:42 +0000",
-    "user" : {
-      "name" : "Steven Frank",
-      "screen_name" : "stevenf",
-      "protected" : false,
-      "id_str" : "733813",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838378818\/avatar_normal.png",
-      "id" : 733813,
-      "verified" : true
-    }
-  },
-  "id" : 104294713233903616,
-  "created_at" : "2011-08-18 20:52:51 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4258,7 +4207,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4418,7 +4367,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "harryfk",
       "protected" : false,
       "id_str" : "49302333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/688355726079737858\/k6HaVooV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036680031190360065\/6Uh9eNru_normal.jpg",
       "id" : 49302333,
       "verified" : false
     }
@@ -4894,7 +4843,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -4921,7 +4870,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 102957028313542656,
     "created_at" : "2011-08-15 04:17:23 +0000",
     "user" : {
-      "name" : "Faruk Ate\u015F",
+      "name" : "Faruk Ate\u015F, Supernova",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
@@ -6533,7 +6482,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6625,7 +6574,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "79221310",
       "id" : 79221310
     }, {
-      "name" : "Nicole Sullivan \uD83D\uDC8E",
+      "name" : "Nicole Sullivan",
       "screen_name" : "stubbornella",
       "indices" : [ 52, 65 ],
       "id_str" : "15629200",
@@ -6645,7 +6594,7 @@ Grailbird.data.tweets_2011_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nicole Sullivan \uD83D\uDC8E",
+        "name" : "Nicole Sullivan",
         "screen_name" : "stubbornella",
         "indices" : [ 37, 50 ],
         "id_str" : "15629200",
@@ -6764,7 +6713,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "laurakurup",
       "protected" : false,
       "id_str" : "27122297",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563107265356787715\/GpjRIOic_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025571989673525249\/hB_qDQrq_normal.jpg",
       "id" : 27122297,
       "verified" : false
     }
@@ -7563,7 +7512,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "klepas",
       "protected" : false,
       "id_str" : "1734001",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847689619072143360\/BZusTovP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050496231103819776\/V19xNy3R_normal.jpg",
       "id" : 1734001,
       "verified" : false
     }

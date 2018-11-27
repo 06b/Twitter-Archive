@@ -875,7 +875,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1595,7 +1595,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski",
+      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -1628,7 +1628,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28924591097,
     "created_at" : "2010-10-27 21:07:51 +0000",
     "user" : {
-      "name" : "Marc Grabanski",
+      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
@@ -1718,7 +1718,7 @@ Grailbird.data.tweets_2010_10 =
     "in_reply_to_screen_name" : "beep",
     "in_reply_to_user_id_str" : "12534",
     "user" : {
-      "name" : "Ryan",
+      "name" : "Ryan Bateman",
       "screen_name" : "rynbtmn",
       "protected" : false,
       "id_str" : "6790312",
@@ -1867,7 +1867,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2270,7 +2270,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2473,7 +2473,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Grabanski",
+      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -2500,7 +2500,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28818102708,
     "created_at" : "2010-10-26 19:16:51 +0000",
     "user" : {
-      "name" : "Marc Grabanski",
+      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
@@ -2671,7 +2671,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 3, 11 ],
       "id_str" : "768197",
@@ -2701,7 +2701,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28670241226,
     "created_at" : "2010-10-25 07:55:03 +0000",
     "user" : {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "protected" : false,
       "id_str" : "768197",
@@ -2930,7 +2930,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -4365,7 +4365,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927630833984458752\/KD1lE9TX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017148583504760832\/y9fjbsDv_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -5082,7 +5082,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -5505,7 +5505,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927630833984458752\/KD1lE9TX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017148583504760832\/y9fjbsDv_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -5596,7 +5596,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAdesign",
       "protected" : false,
       "id_str" : "19619047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927630833984458752\/KD1lE9TX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017148583504760832\/y9fjbsDv_normal.jpg",
       "id" : 19619047,
       "verified" : true
     }
@@ -6080,80 +6080,12 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
   },
   "id" : 27365873530,
-  "created_at" : "2010-10-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mike Aleo \uD83E\uDD85",
-      "screen_name" : "MichaelAleo",
-      "indices" : [ 3, 15 ],
-      "id_str" : "17913992",
-      "id" : 17913992
-    }, {
-      "name" : "Snook",
-      "screen_name" : "snookca",
-      "indices" : [ 17, 25 ],
-      "id_str" : "12591",
-      "id" : 12591
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27365950438",
-  "text" : "RT @michaelaleo: @snookca Apparently, * looks like ass in ... WinXP.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Snook",
-        "screen_name" : "snookca",
-        "indices" : [ 0, 8 ],
-        "id_str" : "12591",
-        "id" : 12591
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "27355511411",
-    "geo" : { },
-    "id_str" : "27356018075",
-    "in_reply_to_user_id" : 12591,
-    "text" : "@snookca Apparently, * looks like ass in ... WinXP.",
-    "id" : 27356018075,
-    "in_reply_to_status_id" : 27355511411,
-    "created_at" : "2010-10-14 16:22:51 +0000",
-    "in_reply_to_screen_name" : "snookca",
-    "in_reply_to_user_id_str" : "12591",
-    "user" : {
-      "name" : "Mike Aleo \uD83E\uDD85",
-      "screen_name" : "MichaelAleo",
-      "protected" : false,
-      "id_str" : "17913992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960574395499667456\/opaMOpE8_normal.jpg",
-      "id" : 17913992,
-      "verified" : false
-    }
-  },
-  "id" : 27365950438,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -6287,6 +6219,28 @@ Grailbird.data.tweets_2010_10 =
   "text" : "I remember when my sensei wrote B!tch on the board and told two girls it meant \"pretty\". hahaha my sensei was so awesome.",
   "id" : 27372264169,
   "created_at" : "2010-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "27271804274",
+  "text" : "a few months ago I pointed out to a friend that their site said they were still a student... today someone did that to me...Time to update",
+  "id" : 27271804274,
+  "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -6486,28 +6440,6 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27263437623",
   "text" : "RT @snookca: A Comic Sans documentary? It could happen. http:\/\/is.gd\/g0voM",
   "id" : 27263437623,
-  "created_at" : "2010-10-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27271804274",
-  "text" : "a few months ago I pointed out to a friend that their site said they were still a student... today someone did that to me...Time to update",
-  "id" : 27271804274,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -7699,6 +7631,28 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "26782434336",
+  "text" : "I haven't worked in the computer lab for about two years and I can still remember how to set up the wireless.",
+  "id" : 26782434336,
+  "created_at" : "2010-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "26783479933",
   "text" : "Monday - I'm buying Sonic the Hedgehog 4. Anyone who tries to get in my way will be beat with my sega genesis",
   "id" : 26783479933,
@@ -7868,28 +7822,6 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26777479441",
   "text" : "I was just asked if i was wearing nail polish",
   "id" : 26777479441,
-  "created_at" : "2010-10-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26782434336",
-  "text" : "I haven't worked in the computer lab for about two years and I can still remember how to set up the wireless.",
-  "id" : 26782434336,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -8450,7 +8382,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8881,6 +8813,28 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26323585546",
+  "text" : "I remember when I was young and I would visit design portals... Sad to think how many of them are gone now...",
+  "id" : 26323585546,
+  "created_at" : "2010-10-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
@@ -9013,7 +8967,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "AIGAChicago",
       "protected" : false,
       "id_str" : "28088118",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003726528268496896\/6hYrMmwp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014222543689924610\/H126fvd8_normal.jpg",
       "id" : 28088118,
       "verified" : false
     }
@@ -9180,28 +9134,6 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26318666190",
   "text" : "\"If you\u2019re building the next Internet hit, the last thing you want is a fail whale.\" - Microsoft LOL!",
   "id" : 26318666190,
-  "created_at" : "2010-10-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26323585546",
-  "text" : "I remember when I was young and I would visit design portals... Sad to think how many of them are gone now...",
-  "id" : 26323585546,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",

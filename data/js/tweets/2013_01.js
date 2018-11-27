@@ -422,7 +422,7 @@ Grailbird.data.tweets_2013_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -568,7 +568,7 @@ Grailbird.data.tweets_2013_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -607,67 +607,6 @@ Grailbird.data.tweets_2013_01 =
   "text" : "Just realized that a conversation I had about a week ago I heard \"universal design\" and my mind registered \"international design\" instead",
   "id" : 294994083141799936,
   "created_at" : "2013-01-26 02:24:04 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dan Beacon",
-      "screen_name" : "jordanekay",
-      "indices" : [ 3, 14 ],
-      "id_str" : "1651403610",
-      "id" : 1651403610
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 47, 67 ],
-      "url" : "http:\/\/t.co\/OK7P1VEN",
-      "expanded_url" : "http:\/\/flatluigi.tumblr.com\/post\/41443795900\/did-you-know-how-hilarious-the-patch-notes-to-the-sims",
-      "display_url" : "flatluigi.tumblr.com\/post\/414437959\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "294926114625826816",
-  "text" : "RT @jordanekay: Commit messages from\nThe Sims. http:\/\/t.co\/OK7P1VEN",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter for  iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 31, 51 ],
-        "url" : "http:\/\/t.co\/OK7P1VEN",
-        "expanded_url" : "http:\/\/flatluigi.tumblr.com\/post\/41443795900\/did-you-know-how-hilarious-the-patch-notes-to-the-sims",
-        "display_url" : "flatluigi.tumblr.com\/post\/414437959\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "294894779593015297",
-    "text" : "Commit messages from\nThe Sims. http:\/\/t.co\/OK7P1VEN",
-    "id" : 294894779593015297,
-    "created_at" : "2013-01-25 19:49:28 +0000",
-    "user" : {
-      "name" : "Jordan Kay",
-      "screen_name" : "_Jordan",
-      "protected" : false,
-      "id_str" : "14166065",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936434229323251713\/DqreMSw6_normal.jpg",
-      "id" : 14166065,
-      "verified" : false
-    }
-  },
-  "id" : 294926114625826816,
-  "created_at" : "2013-01-25 21:53:59 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -2270,7 +2209,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "wearecolorblind",
       "protected" : false,
       "id_str" : "42866855",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1616958333\/blob_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032980333220773888\/38QyCUqq_normal.jpg",
       "id" : 42866855,
       "verified" : false
     }
@@ -2867,7 +2806,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "paulmsmith",
       "protected" : false,
       "id_str" : "811976",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3292831918\/6201d63655bbbe234dbdb4597f927c5e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023235603855560704\/lkAx6Fkq_normal.jpg",
       "id" : 811976,
       "verified" : false
     }
@@ -3123,6 +3062,79 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "tom robinson",
+      "screen_name" : "tlrobinson",
+      "indices" : [ 3, 14 ],
+      "id_str" : "14206068",
+      "id" : 14206068
+    }, {
+      "name" : "Reddit",
+      "screen_name" : "reddit",
+      "indices" : [ 97, 104 ],
+      "id_str" : "811377",
+      "id" : 811377
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 71, 91 ],
+      "url" : "http:\/\/t.co\/WKS4KEah",
+      "expanded_url" : "http:\/\/i.imgur.com\/BZGyi.jpeg",
+      "display_url" : "i.imgur.com\/BZGyi.jpeg"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "286917379110367232",
+  "text" : "RT @tlrobinson: George Orwell must be rolling in his grave about this: http:\/\/t.co\/WKS4KEah \/via @reddit",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Reddit",
+        "screen_name" : "reddit",
+        "indices" : [ 81, 88 ],
+        "id_str" : "811377",
+        "id" : 811377
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 55, 75 ],
+        "url" : "http:\/\/t.co\/WKS4KEah",
+        "expanded_url" : "http:\/\/i.imgur.com\/BZGyi.jpeg",
+        "display_url" : "i.imgur.com\/BZGyi.jpeg"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "286914687025688578",
+    "text" : "George Orwell must be rolling in his grave about this: http:\/\/t.co\/WKS4KEah \/via @reddit",
+    "id" : 286914687025688578,
+    "created_at" : "2013-01-03 19:19:26 +0000",
+    "user" : {
+      "name" : "tom robinson",
+      "screen_name" : "tlrobinson",
+      "protected" : false,
+      "id_str" : "14206068",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000853310157\/a0e3b1296ad4bad4a668803a54a79afd_normal.jpeg",
+      "id" : 14206068,
+      "verified" : false
+    }
+  },
+  "id" : 286917379110367232,
+  "created_at" : "2013-01-03 19:30:08 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3289,7 +3301,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "jontangerine",
       "protected" : false,
       "id_str" : "7629722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985128024864690176\/OLZOykY5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1026622687903404032\/f-THltRJ_normal.jpg",
       "id" : 7629722,
       "verified" : false
     }
@@ -3570,7 +3582,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Rieger \uD83C\uDF65",
+      "name" : "Bryan Rieger",
       "screen_name" : "bryanrieger",
       "indices" : [ 3, 15 ],
       "id_str" : "755367",
@@ -3613,11 +3625,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 286557742850772993,
     "created_at" : "2013-01-02 19:41:04 +0000",
     "user" : {
-      "name" : "Bryan Rieger \uD83C\uDF65",
+      "name" : "Bryan Rieger",
       "screen_name" : "bryanrieger",
       "protected" : false,
       "id_str" : "755367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945738774046130176\/xHnmp1fh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058010840534827009\/WlMuWyyB_normal.jpg",
       "id" : 755367,
       "verified" : false
     }

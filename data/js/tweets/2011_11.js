@@ -228,7 +228,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "bigmediumjosh",
       "protected" : false,
       "id_str" : "7552082",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581098479298084864\/4LiXBCy4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1045717319891210240\/8oTmJ_4o_normal.jpg",
       "id" : 7552082,
       "verified" : false
     }
@@ -781,7 +781,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "161035197",
       "id" : 161035197
     }, {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 14, 22 ],
       "id_str" : "768197",
@@ -798,7 +798,7 @@ Grailbird.data.tweets_2011_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Haack the planet",
+        "name" : "Boom Haackalacka",
         "screen_name" : "haacked",
         "indices" : [ 0, 8 ],
         "id_str" : "768197",
@@ -2133,7 +2133,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Malarkey",
       "protected" : false,
       "id_str" : "34163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914095991782903808\/usRVA7Eq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021326913242042368\/9l_CSW9G_normal.jpg",
       "id" : 34163,
       "verified" : false
     }
@@ -2153,7 +2153,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zoe Gillenwater",
+      "name" : "Zoe Mickley Gillenwater",
       "screen_name" : "zomigi",
       "indices" : [ 3, 10 ],
       "id_str" : "58802066",
@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 117286037058883584,
     "created_at" : "2011-09-23 17:15:44 +0000",
     "user" : {
-      "name" : "Zoe Gillenwater",
+      "name" : "Zoe Mickley Gillenwater",
       "screen_name" : "zomigi",
       "protected" : false,
       "id_str" : "58802066",
@@ -3163,7 +3163,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006925171100250112\/MsVoUMUT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043618590899855360\/9OeUGHsD_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -4436,7 +4436,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016428073451970565\/J1xe0LzB_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -4710,7 +4710,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "PowersBraden",
       "protected" : false,
       "id_str" : "17231467",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476882160599965697\/AFPFufqa_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042891829086175232\/JOTlByRu_normal.jpg",
       "id" : 17231467,
       "verified" : false
     }
@@ -5188,7 +5188,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983071002568507393\/eaRL-TU2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063511668339220480\/hqVNBfl__normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -5288,7 +5288,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "aigacincinnati",
       "protected" : false,
       "id_str" : "18202661",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004469643698982912\/hhWsktd5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016428073451970565\/J1xe0LzB_normal.jpg",
       "id" : 18202661,
       "verified" : false
     }
@@ -5642,7 +5642,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Rieger \uD83C\uDF65",
+      "name" : "Bryan Rieger",
       "screen_name" : "bryanrieger",
       "indices" : [ 3, 15 ],
       "id_str" : "755367",
@@ -5675,11 +5675,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 134186236695937024,
     "created_at" : "2011-11-09 08:31:06 +0000",
     "user" : {
-      "name" : "Bryan Rieger \uD83C\uDF65",
+      "name" : "Bryan Rieger",
       "screen_name" : "bryanrieger",
       "protected" : false,
       "id_str" : "755367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945738774046130176\/xHnmp1fh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058010840534827009\/WlMuWyyB_normal.jpg",
       "id" : 755367,
       "verified" : false
     }
@@ -6682,7 +6682,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "jeremydmiller",
       "protected" : false,
       "id_str" : "14048978",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/978710340992057344\/ATy0hIcG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058412452746997760\/x5ngC4-l_normal.jpg",
       "id" : 14048978,
       "verified" : false
     }
@@ -6860,7 +6860,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006511844574580737\/YCtWuGcY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -7023,57 +7023,6 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@HeyYouDesigner if you're going to design a different button than the standard button, don't be lazy and not design the hover state",
   "id" : 132178716922089472,
   "created_at" : "2011-11-03 19:33:56 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "AuthorSupport.com",
-      "screen_name" : "AuthorSupport",
-      "indices" : [ 3, 17 ],
-      "id_str" : "25119233",
-      "id" : 25119233
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "132153446756397057",
-  "text" : "RT @AuthorSupport: FACT: Creative people need to nap throughout the day to recharge.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "132122450073886720",
-    "text" : "FACT: Creative people need to nap throughout the day to recharge.",
-    "id" : 132122450073886720,
-    "created_at" : "2011-11-03 15:50:21 +0000",
-    "user" : {
-      "name" : "AuthorSupport.com",
-      "screen_name" : "AuthorSupport",
-      "protected" : false,
-      "id_str" : "25119233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/494889103586893824\/xGl2-PIp_normal.jpeg",
-      "id" : 25119233,
-      "verified" : false
-    }
-  },
-  "id" : 132153446756397057,
-  "created_at" : "2011-11-03 17:53:31 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",

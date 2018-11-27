@@ -156,7 +156,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Chris Williams \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+        "name" : "Kris Kringle Williams",
         "screen_name" : "amboy00",
         "indices" : [ 129, 137 ],
         "id_str" : "755692",
@@ -286,13 +286,7 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 116, 126 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -415,7 +409,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -798,57 +792,6 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liz Meriwether",
-      "screen_name" : "lizmeriwether",
-      "indices" : [ 3, 17 ],
-      "id_str" : "41614813",
-      "id" : 41614813
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "359893849302253571",
-  "text" : "RT @lizmeriwether: Television from the 90s is so sweet. Everyone is trying to be a good person and they all wear such comfortable pants. Wh\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "359853941850243073",
-    "text" : "Television from the 90s is so sweet. Everyone is trying to be a good person and they all wear such comfortable pants. What happened to us?",
-    "id" : 359853941850243073,
-    "created_at" : "2013-07-24 01:54:00 +0000",
-    "user" : {
-      "name" : "Liz Meriwether",
-      "screen_name" : "lizmeriwether",
-      "protected" : false,
-      "id_str" : "41614813",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664317017026007040\/b4HQp3d7_normal.jpg",
-      "id" : 41614813,
-      "verified" : true
-    }
-  },
-  "id" : 359893849302253571,
-  "created_at" : "2013-07-24 04:32:34 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Barry Dorrans",
       "screen_name" : "blowdart",
       "indices" : [ 3, 12 ],
@@ -965,7 +908,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359716953369227264",
   "text" : "RT @bug_reports: Cannot move the truck next to the S.S. Anne.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1179,7 +1122,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "hypatiadotca",
       "protected" : false,
       "id_str" : "6742522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777680485501722624\/ZOiZulxt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066762240462807040\/JnSeHve9_normal.jpg",
       "id" : 6742522,
       "verified" : true
     }
@@ -2098,7 +2041,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058164694945619970\/om_YJls2_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -2118,7 +2061,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jo Dodd",
+      "name" : "Ghostly Odd",
       "screen_name" : "jkdodd",
       "indices" : [ 3, 10 ],
       "id_str" : "11611082",
@@ -2167,7 +2110,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357209133608484864,
     "created_at" : "2013-07-16 18:44:28 +0000",
     "user" : {
-      "name" : "Jo Dodd",
+      "name" : "Ghostly Odd",
       "screen_name" : "jkdodd",
       "protected" : false,
       "id_str" : "11611082",
@@ -2216,7 +2159,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "357193491249496067",
   "text" : "RT @jquery: JavaScript for Designers - Rachel Nabors: http:\/\/t.co\/AcHngiC0uj via @YouTube",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "YouTube",
@@ -2473,119 +2416,6 @@ Grailbird.data.tweets_2013_07 =
   },
   "id" : 357143694958264321,
   "created_at" : "2013-07-16 14:24:27 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "c",
-      "screen_name" : "socdf",
-      "indices" : [ 3, 9 ],
-      "id_str" : "531703765",
-      "id" : 531703765
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/socdf\/status\/356616797417521155\/photo\/1",
-      "indices" : [ 63, 85 ],
-      "url" : "http:\/\/t.co\/oWDm79PRx3",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
-      "id_str" : "356616797421715457",
-      "id" : 356616797421715457,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
-      "sizes" : [ {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1536
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 900
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 510
-      }, {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1536
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/oWDm79PRx3"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "357143392557342721",
-  "text" : "RT @socdf: Perhaps the saddest name for any butter substitute. http:\/\/t.co\/oWDm79PRx3",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/socdf\/status\/356616797417521155\/photo\/1",
-        "indices" : [ 52, 74 ],
-        "url" : "http:\/\/t.co\/oWDm79PRx3",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
-        "id_str" : "356616797421715457",
-        "id" : 356616797421715457,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPL1FntCQAE9UnI.jpg",
-        "sizes" : [ {
-          "h" : 2048,
-          "resize" : "fit",
-          "w" : 1536
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 900
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 510
-        }, {
-          "h" : 2048,
-          "resize" : "fit",
-          "w" : 1536
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/oWDm79PRx3"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "356616797417521155",
-    "text" : "Perhaps the saddest name for any butter substitute. http:\/\/t.co\/oWDm79PRx3",
-    "id" : 356616797417521155,
-    "created_at" : "2013-07-15 03:30:45 +0000",
-    "user" : {
-      "name" : "c",
-      "screen_name" : "socdf",
-      "protected" : false,
-      "id_str" : "531703765",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002559780240678912\/fkpOaA2e_normal.jpg",
-      "id" : 531703765,
-      "verified" : false
-    }
-  },
-  "id" : 357143392557342721,
-  "created_at" : "2013-07-16 14:23:14 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -3336,13 +3166,7 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 68, 78 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3839,7 +3663,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "353159400069939200",
   "text" : "RT @teleject: AT&amp;T's updating their Privacy Policy to make (more) money off of you. Opt-out by through \"review those choices\" link- http:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4153,7 +3977,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "sw17ch",
       "protected" : false,
       "id_str" : "21629944",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481676740767395840\/7yVjdXmD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023241328878964736\/S27ndnI0_normal.jpg",
       "id" : 21629944,
       "verified" : false
     }

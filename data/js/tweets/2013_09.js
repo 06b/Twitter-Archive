@@ -148,57 +148,6 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fraser Speirs",
-      "screen_name" : "fraserspeirs",
-      "indices" : [ 3, 16 ],
-      "id_str" : "644603",
-      "id" : 644603
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "384400918684266496",
-  "text" : "RT @fraserspeirs: \u201CI wanted a flying car and all I got was a way for the entire planet to communicate instantly via massively powerful pock\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "384142114088427520",
-    "text" : "\u201CI wanted a flying car and all I got was a way for the entire planet to communicate instantly via massively powerful pocket computers.\u201D",
-    "id" : 384142114088427520,
-    "created_at" : "2013-09-29 02:26:31 +0000",
-    "user" : {
-      "name" : "Fraser Speirs",
-      "screen_name" : "fraserspeirs",
-      "protected" : false,
-      "id_str" : "644603",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918781223677259776\/BNUM1rhT_normal.jpg",
-      "id" : 644603,
-      "verified" : false
-    }
-  },
-  "id" : 384400918684266496,
-  "created_at" : "2013-09-29 19:34:55 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -296,7 +245,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925537797649457152\/t3oznBxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058164694945619970\/om_YJls2_normal.jpg",
       "id" : 126030998,
       "verified" : false
     }
@@ -596,7 +545,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "jessicard",
       "protected" : false,
       "id_str" : "253464752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992845587379773440\/g34b_UQw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050488774281519104\/F-rrsFNJ_normal.jpg",
       "id" : 253464752,
       "verified" : true
     }
@@ -737,7 +686,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haack the planet",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 0, 8 ],
       "id_str" : "768197",
@@ -932,7 +881,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Montano-Rayford",
+      "name" : "Mike Montano-Rayford \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "MikeMontanoME",
       "indices" : [ 0, 14 ],
       "id_str" : "393782233",
@@ -1047,7 +996,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "rUv",
       "protected" : false,
       "id_str" : "10415712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807261035652677633\/BHj4tvhH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053685085982154753\/Il2qd9Eg_normal.jpg",
       "id" : 10415712,
       "verified" : true
     }
@@ -1103,7 +1052,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "stevewerby",
       "protected" : false,
       "id_str" : "21435367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008114589836431360\/-qEeA4Lc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066836498341928963\/JhSPwlEA_normal.jpg",
       "id" : 21435367,
       "verified" : false
     }
@@ -1303,7 +1252,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381520447579226112",
   "text" : "RT @ftcreature: When you flip a picture of bats hanging upside down they become exceptionally sassier. #truestory http:\/\/t.co\/CXqyvsseeF",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1409,12 +1358,6 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 59, 72 ],
       "id_str" : "22791292",
       "id" : 22791292
-    }, {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 73, 83 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1437,13 +1380,7 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emily Egan",
-      "screen_name" : "anonimews",
-      "indices" : [ 0, 10 ],
-      "id_str" : "1443614275",
-      "id" : 1443614275
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1456,7 +1393,7 @@ Grailbird.data.tweets_2013_09 =
   "id" : 381127336369745920,
   "in_reply_to_status_id" : 381125946654203904,
   "created_at" : "2013-09-20 18:46:52 +0000",
-  "in_reply_to_screen_name" : "anonimews",
+  "in_reply_to_screen_name" : "mewgurt",
   "in_reply_to_user_id_str" : "1443614275",
   "user" : {
     "name" : "Adrian D. Alvarez",
@@ -2161,7 +2098,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "FredericJacobs",
       "protected" : false,
       "id_str" : "18018877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859258212599517184\/Jxu9PicI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036526136677871616\/BkItxZRC_normal.jpg",
       "id" : 18018877,
       "verified" : true
     }
@@ -2354,7 +2291,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "379626557070774274",
   "text" : "RT @bakadesuyo: Checklist: Are you doing these five things to be the best? http:\/\/t.co\/3lpCUoLagC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2818,7 +2755,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC7B\uD83D\uDD75\uFE0F eevee \uD83D\uDD75\uFE0F\uD83D\uDC7B",
+      "name" : "\u2615\uD83E\uDD83 eevee \uD83E\uDD83\u2615",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2845,11 +2782,11 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377934228543270912,
     "created_at" : "2013-09-11 23:18:36 +0000",
     "user" : {
-      "name" : "\uD83D\uDC7B\uD83D\uDD75\uFE0F eevee \uD83D\uDD75\uFE0F\uD83D\uDC7B",
+      "name" : "\u2615\uD83E\uDD83 eevee \uD83E\uDD83\u2615",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870472485321363456\/VjPvng-x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047031517711671298\/v_20WGkZ_normal.jpg",
       "id" : 14412937,
       "verified" : false
     }
@@ -3079,7 +3016,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "kate_the_great",
       "protected" : false,
       "id_str" : "5683632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823525773155987456\/3p1euY-V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027318571465093120\/fbBWiD_F_normal.jpg",
       "id" : 5683632,
       "verified" : false
     }
@@ -3736,7 +3673,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "375590039553839104",
   "text" : "RT @boagworld: Dear designers, never show a design to a client before you have shown it to your developer.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3922,7 +3859,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ceej",
+      "name" : "ceej",
       "screen_name" : "ceejoyner",
       "indices" : [ 3, 13 ],
       "id_str" : "535849334",
@@ -3949,7 +3886,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 374208987522408448,
     "created_at" : "2013-09-01 16:35:49 +0000",
     "user" : {
-      "name" : "Ceej",
+      "name" : "ceej",
       "screen_name" : "ceejoyner",
       "protected" : false,
       "id_str" : "535849334",
