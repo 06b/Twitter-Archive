@@ -2768,7 +2768,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "indices" : [ 3, 12 ],
       "id_str" : "34543",
@@ -2795,7 +2795,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 6707230506229760,
     "created_at" : "2010-11-22 13:55:03 +0000",
     "user" : {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "protected" : false,
       "id_str" : "34543",
@@ -4528,7 +4528,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE74\uD835\uDE95\uD835\uDE92\uD835\uDE93\uD835\uDE8A\uD835\uDE91\u2007\uD835\uDE7C\uD835\uDE8A\uD835\uDE97\uD835\uDE98\uD835\uDE9B",
+      "name" : "Elijah Manor",
       "screen_name" : "elijahmanor",
       "indices" : [ 3, 15 ],
       "id_str" : "9453872",
@@ -4585,7 +4585,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 4259844127195136,
     "created_at" : "2010-11-15 19:50:00 +0000",
     "user" : {
-      "name" : "\uD835\uDE74\uD835\uDE95\uD835\uDE92\uD835\uDE93\uD835\uDE8A\uD835\uDE91\u2007\uD835\uDE7C\uD835\uDE8A\uD835\uDE97\uD835\uDE98\uD835\uDE9B",
+      "name" : "Elijah Manor",
       "screen_name" : "elijahmanor",
       "protected" : false,
       "id_str" : "9453872",
@@ -6142,7 +6142,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "indices" : [ 3, 12 ],
       "id_str" : "34543",

@@ -133,7 +133,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "19198505",
       "id" : 19198505
     }, {
-      "name" : "GetGlue (now Telfie)",
+      "name" : "GetGlue",
       "screen_name" : "GetGlue",
       "indices" : [ 88, 96 ],
       "id_str" : "1571579137",
@@ -153,7 +153,7 @@ Grailbird.data.tweets_2010_12 =
     "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "GetGlue (now Telfie)",
+        "name" : "GetGlue",
         "screen_name" : "GetGlue",
         "indices" : [ 73, 81 ],
         "id_str" : "1571579137",
@@ -407,7 +407,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041997062940704768\/LgiBUl-C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074233061754077184\/kEXhjG6K_normal.jpg",
       "id" : 14246782,
       "verified" : true
     }
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063511668339220480\/hqVNBfl__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084524260339544064\/SE1QTQNt_normal.jpg",
       "id" : 5827,
       "verified" : false
     }
@@ -3061,7 +3061,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "tcaspers",
       "protected" : false,
       "id_str" : "29883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018161376622149632\/_vwGAbYQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074356607650275328\/qqD5tCDu_normal.jpg",
       "id" : 29883,
       "verified" : false
     }
@@ -4623,7 +4623,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "indices" : [ 3, 12 ],
       "id_str" : "34543",
@@ -4650,7 +4650,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 12327286015533057,
     "created_at" : "2010-12-08 02:07:08 +0000",
     "user" : {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "protected" : false,
       "id_str" : "34543",
@@ -6346,7 +6346,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043618590899855360\/9OeUGHsD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1083813663633375232\/ioZPaGfD_normal.jpg",
       "id" : 82433,
       "verified" : false
     }

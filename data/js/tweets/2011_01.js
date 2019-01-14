@@ -6433,7 +6433,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "indices" : [ 3, 12 ],
       "id_str" : "34543",
@@ -6460,7 +6460,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 28239590745706496,
     "created_at" : "2011-01-20 23:56:57 +0000",
     "user" : {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "protected" : false,
       "id_str" : "34543",
@@ -7796,7 +7796,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
+      "name" : "Marc \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "indices" : [ 18, 24 ],
       "id_str" : "14465898",
@@ -10725,7 +10725,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "daringfireball",
       "protected" : false,
       "id_str" : "10760422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425948730\/DF-Star-Logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068658191041536001\/q1bHVBDc_normal.jpg",
       "id" : 10760422,
       "verified" : false
     }
@@ -11959,7 +11959,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
+      "name" : "Marc \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -11986,7 +11986,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 23169375917834240,
     "created_at" : "2011-01-07 00:09:44 +0000",
     "user" : {
-      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
+      "name" : "Marc \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",

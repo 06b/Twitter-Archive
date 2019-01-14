@@ -4364,65 +4364,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "how now",
-      "screen_name" : "brownpau",
-      "indices" : [ 3, 12 ],
-      "id_str" : "7755",
-      "id" : 7755
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "83189693847580672",
-  "text" : "RT @brownpau: I don't always use a mouse, but when I do, I use gloves and I put it directly on top of the laptop trackpad. http:\/\/t.co\/t ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "lulzsec",
-        "indices" : [ 129, 137 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 109, 128 ],
-        "url" : "http:\/\/t.co\/tW114gE",
-        "expanded_url" : "http:\/\/www.mirror.co.uk\/news\/top-stories\/2011\/06\/21\/essex-teenager-held-for-being-lulzsec-hacking-mastermind-115875-23216720\/",
-        "display_url" : "mirror.co.uk\/news\/top-stori\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "83180199210004481",
-    "text" : "I don't always use a mouse, but when I do, I use gloves and I put it directly on top of the laptop trackpad. http:\/\/t.co\/tW114gE #lulzsec",
-    "id" : 83180199210004481,
-    "created_at" : "2011-06-21 14:31:19 +0000",
-    "user" : {
-      "name" : "how now",
-      "screen_name" : "brownpau",
-      "protected" : false,
-      "id_str" : "7755",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562773792615706625\/bGInZFSN_normal.jpeg",
-      "id" : 7755,
-      "verified" : false
-    }
-  },
-  "id" : 83189693847580672,
-  "created_at" : "2011-06-21 15:09:03 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 0, 11 ],
@@ -8270,7 +8211,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796069133926350848\/Gk12QrZC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067184832914964480\/EPIjUVct_normal.jpg",
       "id" : 15629200,
       "verified" : false
     }
@@ -11001,7 +10942,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949287080231952384\/8ztpArYE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077213902755282944\/fLV_AS9p_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -11885,7 +11826,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043618590899855360\/9OeUGHsD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1083813663633375232\/ioZPaGfD_normal.jpg",
       "id" : 82433,
       "verified" : false
     }
@@ -13688,7 +13629,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "indices" : [ 0, 9 ],
       "id_str" : "34543",
@@ -13856,7 +13797,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "stefsull",
       "protected" : false,
       "id_str" : "82433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043618590899855360\/9OeUGHsD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1083813663633375232\/ioZPaGfD_normal.jpg",
       "id" : 82433,
       "verified" : false
     }

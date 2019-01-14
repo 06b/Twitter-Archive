@@ -744,7 +744,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
+      "name" : "Marc \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "indices" : [ 3, 9 ],
       "id_str" : "14465898",
@@ -771,7 +771,7 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10883034480,
     "created_at" : "2010-03-22 17:49:20 +0000",
     "user" : {
-      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
+      "name" : "Marc \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "protected" : false,
       "id_str" : "14465898",
@@ -1916,7 +1916,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE48\uD835\uDE56\uD835\uDE67\uD835\uDE58 \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
+      "name" : "Marc \uD835\uDE42\uD835\uDE67\uD835\uDE56\uD835\uDE57\uD835\uDE56\uD835\uDE63\uD835\uDE68\uD835\uDE60\uD835\uDE5E \u270C\uFE0F",
       "screen_name" : "1Marc",
       "indices" : [ 0, 6 ],
       "id_str" : "14465898",
@@ -2174,7 +2174,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "mholzschlag",
       "protected" : false,
       "id_str" : "5827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063511668339220480\/hqVNBfl__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084524260339544064\/SE1QTQNt_normal.jpg",
       "id" : 5827,
       "verified" : false
     }

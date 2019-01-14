@@ -1,5 +1,8475 @@
 Grailbird.data.tweets_2018_11 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "We are Colorblind",
+      "screen_name" : "wearecolorblind",
+      "indices" : [ 3, 19 ],
+      "id_str" : "42866855",
+      "id" : 42866855
+    }, {
+      "name" : "Justin Reyna",
+      "screen_name" : "justinreyreyna",
+      "indices" : [ 71, 86 ],
+      "id_str" : "2866322021",
+      "id" : 2866322021
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/wearecolorblind\/status\/1062792039887237126\/photo\/1",
+      "indices" : [ 112, 135 ],
+      "url" : "https:\/\/t.co\/Xn1cm6r8jE",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Dr_LufzXcAU8MhJ.png",
+      "id_str" : "1062792036754092037",
+      "id" : 1062792036754092037,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dr_LufzXcAU8MhJ.png",
+      "sizes" : [ {
+        "h" : 810,
+        "resize" : "fit",
+        "w" : 810
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 810,
+        "resize" : "fit",
+        "w" : 810
+      }, {
+        "h" : 810,
+        "resize" : "fit",
+        "w" : 810
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/Xn1cm6r8jE"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 88, 111 ],
+      "url" : "https:\/\/t.co\/pl5cgEz4OW",
+      "expanded_url" : "https:\/\/buff.ly\/2QrYvZX",
+      "display_url" : "buff.ly\/2QrYvZX"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068720799601823744",
+  "text" : "RT @wearecolorblind: A great guide to color accessibility in design by @justinreyreyna: https:\/\/t.co\/pl5cgEz4OW https:\/\/t.co\/Xn1cm6r8jE",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Justin Reyna",
+        "screen_name" : "justinreyreyna",
+        "indices" : [ 50, 65 ],
+        "id_str" : "2866322021",
+        "id" : 2866322021
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/wearecolorblind\/status\/1062792039887237126\/photo\/1",
+        "indices" : [ 91, 114 ],
+        "url" : "https:\/\/t.co\/Xn1cm6r8jE",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dr_LufzXcAU8MhJ.png",
+        "id_str" : "1062792036754092037",
+        "id" : 1062792036754092037,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dr_LufzXcAU8MhJ.png",
+        "sizes" : [ {
+          "h" : 810,
+          "resize" : "fit",
+          "w" : 810
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 810,
+          "resize" : "fit",
+          "w" : 810
+        }, {
+          "h" : 810,
+          "resize" : "fit",
+          "w" : 810
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/Xn1cm6r8jE"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 67, 90 ],
+        "url" : "https:\/\/t.co\/pl5cgEz4OW",
+        "expanded_url" : "https:\/\/buff.ly\/2QrYvZX",
+        "display_url" : "buff.ly\/2QrYvZX"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1062792039887237126",
+    "text" : "A great guide to color accessibility in design by @justinreyreyna: https:\/\/t.co\/pl5cgEz4OW https:\/\/t.co\/Xn1cm6r8jE",
+    "id" : 1062792039887237126,
+    "created_at" : "2018-11-14 19:39:02 +0000",
+    "user" : {
+      "name" : "We are Colorblind",
+      "screen_name" : "wearecolorblind",
+      "protected" : false,
+      "id_str" : "42866855",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032980333220773888\/38QyCUqq_normal.jpg",
+      "id" : 42866855,
+      "verified" : false
+    }
+  },
+  "id" : 1068720799601823744,
+  "created_at" : "2018-12-01 04:17:49 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "We are Colorblind",
+      "screen_name" : "wearecolorblind",
+      "indices" : [ 3, 19 ],
+      "id_str" : "42866855",
+      "id" : 42866855
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068720310411816960",
+  "text" : "RT @wearecolorblind: You can break a good color palette down into three categories: Greys, Primary color(s) and Accent colors https:\/\/t.co\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 105, 128 ],
+        "url" : "https:\/\/t.co\/Q5IytASWNd",
+        "expanded_url" : "https:\/\/twitter.com\/WalterStephanie\/status\/1062984701361692672",
+        "display_url" : "twitter.com\/WalterStephani\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1063830624967032833",
+    "text" : "You can break a good color palette down into three categories: Greys, Primary color(s) and Accent colors https:\/\/t.co\/Q5IytASWNd",
+    "id" : 1063830624967032833,
+    "created_at" : "2018-11-17 16:26:00 +0000",
+    "user" : {
+      "name" : "We are Colorblind",
+      "screen_name" : "wearecolorblind",
+      "protected" : false,
+      "id_str" : "42866855",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032980333220773888\/38QyCUqq_normal.jpg",
+      "id" : 42866855,
+      "verified" : false
+    }
+  },
+  "id" : 1068720310411816960,
+  "created_at" : "2018-12-01 04:15:52 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "indices" : [ 3, 11 ],
+      "id_str" : "13567",
+      "id" : 13567
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 64, 87 ],
+      "url" : "https:\/\/t.co\/ZEX9pRMpnL",
+      "expanded_url" : "https:\/\/www.smashingmagazine.com\/2018\/11\/guide-pwa-progressive-web-applications\/",
+      "display_url" : "smashingmagazine.com\/2018\/11\/guide-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068713300295335936",
+  "text" : "RT @codepo8: An Extensive Guide To Progressive Web Applications https:\/\/t.co\/ZEX9pRMpnL",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 51, 74 ],
+        "url" : "https:\/\/t.co\/ZEX9pRMpnL",
+        "expanded_url" : "https:\/\/www.smashingmagazine.com\/2018\/11\/guide-pwa-progressive-web-applications\/",
+        "display_url" : "smashingmagazine.com\/2018\/11\/guide-\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1067478540340187137",
+    "text" : "An Extensive Guide To Progressive Web Applications https:\/\/t.co\/ZEX9pRMpnL",
+    "id" : 1067478540340187137,
+    "created_at" : "2018-11-27 18:01:31 +0000",
+    "user" : {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "protected" : false,
+      "id_str" : "13567",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666904408\/codepo8_normal.png",
+      "id" : 13567,
+      "verified" : false
+    }
+  },
+  "id" : 1068713300295335936,
+  "created_at" : "2018-12-01 03:48:01 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 45, 68 ],
+      "url" : "https:\/\/t.co\/IHpe4q2NQa",
+      "expanded_url" : "https:\/\/developers.google.com\/web\/fundamentals\/performance\/optimizing-content-efficiency\/client-hints\/",
+      "display_url" : "developers.google.com\/web\/fundamenta\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068705175148351488",
+  "text" : "RT @css: Adapting to Users with Client Hints https:\/\/t.co\/IHpe4q2NQa\n\n(The browser can tell the server what kind of capabilities it has. Ra\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 36, 59 ],
+        "url" : "https:\/\/t.co\/IHpe4q2NQa",
+        "expanded_url" : "https:\/\/developers.google.com\/web\/fundamentals\/performance\/optimizing-content-efficiency\/client-hints\/",
+        "display_url" : "developers.google.com\/web\/fundamenta\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1067475643909197824",
+    "text" : "Adapting to Users with Client Hints https:\/\/t.co\/IHpe4q2NQa\n\n(The browser can tell the server what kind of capabilities it has. Rad, right?)",
+    "id" : 1067475643909197824,
+    "created_at" : "2018-11-27 17:50:00 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068705175148351488,
+  "created_at" : "2018-12-01 03:15:43 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068542675345973248",
+  "text" : "RT @css: If you're stick of \"it depends\" style answers when you ask \"what should I learn next?\" perhaps you could pick something off of one\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 196, 219 ],
+        "url" : "https:\/\/t.co\/LB7Y47MgLw",
+        "expanded_url" : "https:\/\/buff.ly\/2Ob9KFS",
+        "display_url" : "buff.ly\/2Ob9KFS"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1026327005753749509",
+    "text" : "If you're stick of \"it depends\" style answers when you ask \"what should I learn next?\" perhaps you could pick something off of one of these developer roadmaps people have been putting out lately: https:\/\/t.co\/LB7Y47MgLw",
+    "id" : 1026327005753749509,
+    "created_at" : "2018-08-06 04:40:01 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068542675345973248,
+  "created_at" : "2018-11-30 16:30:01 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1032521490879705088\/video\/1",
+      "indices" : [ 100, 123 ],
+      "url" : "https:\/\/t.co\/PEJBrFsU9a",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1032521400710520832\/pu\/img\/Ei9hnXcDviY4t8mc.jpg",
+      "id_str" : "1032521400710520832",
+      "id" : 1032521400710520832,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1032521400710520832\/pu\/img\/Ei9hnXcDviY4t8mc.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 404,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1212
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1212
+      }, {
+        "h" : 713,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/PEJBrFsU9a"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/iXQqYDeIF2",
+      "expanded_url" : "https:\/\/picular.co\/",
+      "display_url" : "picular.co"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068541515012730881",
+  "text" : "RT @smashingmag: For the bookmarks. A search engine for\u2026 colors.\n\n\u21AC Picular\nhttps:\/\/t.co\/iXQqYDeIF2 https:\/\/t.co\/PEJBrFsU9a",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1032521490879705088\/video\/1",
+        "indices" : [ 83, 106 ],
+        "url" : "https:\/\/t.co\/PEJBrFsU9a",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1032521400710520832\/pu\/img\/Ei9hnXcDviY4t8mc.jpg",
+        "id_str" : "1032521400710520832",
+        "id" : 1032521400710520832,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1032521400710520832\/pu\/img\/Ei9hnXcDviY4t8mc.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 404,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1212
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1212
+        }, {
+          "h" : 713,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/PEJBrFsU9a"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 59, 82 ],
+        "url" : "https:\/\/t.co\/iXQqYDeIF2",
+        "expanded_url" : "https:\/\/picular.co\/",
+        "display_url" : "picular.co"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1032521490879705088",
+    "text" : "For the bookmarks. A search engine for\u2026 colors.\n\n\u21AC Picular\nhttps:\/\/t.co\/iXQqYDeIF2 https:\/\/t.co\/PEJBrFsU9a",
+    "id" : 1032521490879705088,
+    "created_at" : "2018-08-23 06:54:41 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 1068541515012730881,
+  "created_at" : "2018-11-30 16:25:24 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068536752661561344",
+  "text" : "RT @smashingmag: \u201CPsychological principles and examples for inspiration to enhance the customer experience.\u201D Please use respectfully and re\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1028888064884703232\/photo\/1",
+        "indices" : [ 184, 207 ],
+        "url" : "https:\/\/t.co\/dCBpKulLID",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DkdYEPqX4AAHw6o.jpg",
+        "id_str" : "1028887869824425984",
+        "id" : 1028887869824425984,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DkdYEPqX4AAHw6o.jpg",
+        "sizes" : [ {
+          "h" : 1176,
+          "resize" : "fit",
+          "w" : 1972
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 406,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 716,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1176,
+          "resize" : "fit",
+          "w" : 1972
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/dCBpKulLID"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 136, 159 ],
+        "url" : "https:\/\/t.co\/oUET4dJSEj",
+        "expanded_url" : "http:\/\/DigitalPsychology.io",
+        "display_url" : "DigitalPsychology.io"
+      }, {
+        "indices" : [ 160, 183 ],
+        "url" : "https:\/\/t.co\/LdXa1pb3xy",
+        "expanded_url" : "https:\/\/digitalpsychology.io",
+        "display_url" : "digitalpsychology.io"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1028888064884703232",
+    "text" : "\u201CPsychological principles and examples for inspiration to enhance the customer experience.\u201D Please use respectfully and responsibly.\n\n\u21AC https:\/\/t.co\/oUET4dJSEj\nhttps:\/\/t.co\/LdXa1pb3xy https:\/\/t.co\/dCBpKulLID",
+    "id" : 1028888064884703232,
+    "created_at" : "2018-08-13 06:16:45 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 1068536752661561344,
+  "created_at" : "2018-11-30 16:06:28 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "slim! \uD83D\uDEA8",
+      "screen_name" : "soylentqueen",
+      "indices" : [ 3, 16 ],
+      "id_str" : "62533574",
+      "id" : 62533574
+    }, {
+      "name" : "Antony Courtney",
+      "screen_name" : "antonycourtney",
+      "indices" : [ 18, 33 ],
+      "id_str" : "30433264",
+      "id" : 30433264
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/7lqbmZi63Z",
+      "expanded_url" : "http:\/\/users.eecs.northwestern.edu\/~scl025\/files\/ply-uist.pdf",
+      "display_url" : "users.eecs.northwestern.edu\/~scl025\/files\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068535918242529282",
+  "text" : "RT @soylentqueen: @antonycourtney Preprint (see pages 3-4 and 6-7 especially): https:\/\/t.co\/7lqbmZi63Z This version focuses on the learning\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Antony Courtney",
+        "screen_name" : "antonycourtney",
+        "indices" : [ 0, 15 ],
+        "id_str" : "30433264",
+        "id" : 30433264
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 61, 84 ],
+        "url" : "https:\/\/t.co\/7lqbmZi63Z",
+        "expanded_url" : "http:\/\/users.eecs.northwestern.edu\/~scl025\/files\/ply-uist.pdf",
+        "display_url" : "users.eecs.northwestern.edu\/~scl025\/files\/\u2026"
+      } ]
+    },
+    "in_reply_to_status_id_str" : "1028765838424256512",
+    "geo" : { },
+    "id_str" : "1028782571029778432",
+    "in_reply_to_user_id" : 30433264,
+    "text" : "@antonycourtney Preprint (see pages 3-4 and 6-7 especially): https:\/\/t.co\/7lqbmZi63Z This version focuses on the learning sciences aspect of the work, but I\u2019m hoping to post a follow-up working paper that digs into the PL perspective a little more. Too many ideas for one paper!",
+    "id" : 1028782571029778432,
+    "in_reply_to_status_id" : 1028765838424256512,
+    "created_at" : "2018-08-12 23:17:33 +0000",
+    "in_reply_to_screen_name" : "antonycourtney",
+    "in_reply_to_user_id_str" : "30433264",
+    "user" : {
+      "name" : "slim! \uD83D\uDEA8",
+      "screen_name" : "soylentqueen",
+      "protected" : false,
+      "id_str" : "62533574",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079011970228006912\/Awddkyw6_normal.jpg",
+      "id" : 62533574,
+      "verified" : false
+    }
+  },
+  "id" : 1068535918242529282,
+  "created_at" : "2018-11-30 16:03:10 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "slim! \uD83D\uDEA8",
+      "screen_name" : "soylentqueen",
+      "indices" : [ 3, 16 ],
+      "id_str" : "62533574",
+      "id" : 62533574
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068535805197594624",
+  "text" : "RT @soylentqueen: pleased to announce I've crossed the last item off my undergraduate bucket list by publishing a paper with the following\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/soylentqueen\/status\/1028691788956147712\/photo\/1",
+        "indices" : [ 131, 154 ],
+        "url" : "https:\/\/t.co\/oP2ZrHDbH8",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DkalDMuXoAAcsvb.jpg",
+        "id_str" : "1028691039274639360",
+        "id" : 1028691039274639360,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DkalDMuXoAAcsvb.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 164,
+          "resize" : "fit",
+          "w" : 808
+        }, {
+          "h" : 164,
+          "resize" : "fit",
+          "w" : 808
+        }, {
+          "h" : 138,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 164,
+          "resize" : "fit",
+          "w" : 808
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/oP2ZrHDbH8"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1028691788956147712",
+    "text" : "pleased to announce I've crossed the last item off my undergraduate bucket list by publishing a paper with the following sentence: https:\/\/t.co\/oP2ZrHDbH8",
+    "id" : 1028691788956147712,
+    "created_at" : "2018-08-12 17:16:49 +0000",
+    "user" : {
+      "name" : "slim! \uD83D\uDEA8",
+      "screen_name" : "soylentqueen",
+      "protected" : false,
+      "id_str" : "62533574",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079011970228006912\/Awddkyw6_normal.jpg",
+      "id" : 62533574,
+      "verified" : false
+    }
+  },
+  "id" : 1068535805197594624,
+  "created_at" : "2018-11-30 16:02:43 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068531245804658690",
+  "text" : "RT @smashingmag: CSS-only solution to switch text color for different backgrounds to keep it WCAG contrast compliant, using HSL colors and\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Facundo Corradini",
+        "screen_name" : "fcorradini",
+        "indices" : [ 140, 151 ],
+        "id_str" : "21103451",
+        "id" : 21103451
+      }, {
+        "name" : "Ida Aalen",
+        "screen_name" : "idaaa",
+        "indices" : [ 156, 162 ],
+        "id_str" : "16838378",
+        "id" : 16838378
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1029292543559778304\/photo\/1",
+        "indices" : [ 231, 254 ],
+        "url" : "https:\/\/t.co\/kmL6roFG8W",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DkioE8IW4AARd8S.jpg",
+        "id_str" : "1029257317668282368",
+        "id" : 1029257317668282368,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DkioE8IW4AARd8S.jpg",
+        "sizes" : [ {
+          "h" : 816,
+          "resize" : "fit",
+          "w" : 1284
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 763,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 816,
+          "resize" : "fit",
+          "w" : 1284
+        }, {
+          "h" : 432,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/kmL6roFG8W"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 175, 198 ],
+        "url" : "https:\/\/t.co\/Xi6Xof4Vom",
+        "expanded_url" : "https:\/\/css-tricks.com\/switch-font-color-for-different-backgrounds-with-css\/",
+        "display_url" : "css-tricks.com\/switch-font-co\u2026"
+      }, {
+        "indices" : [ 207, 230 ],
+        "url" : "https:\/\/t.co\/OwO5k9bn0O",
+        "expanded_url" : "https:\/\/codepen.io\/facundocorradini\/pen\/LBVvyq",
+        "display_url" : "codepen.io\/facundocorradi\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1029292543559778304",
+    "text" : "CSS-only solution to switch text color for different backgrounds to keep it WCAG contrast compliant, using HSL colors and CSS variables. by @fcorradini via @idaaa.\n\n\u21AC Article\nhttps:\/\/t.co\/Xi6Xof4Vom\n\n\u21AC Demo\nhttps:\/\/t.co\/OwO5k9bn0O https:\/\/t.co\/kmL6roFG8W",
+    "id" : 1029292543559778304,
+    "created_at" : "2018-08-14 09:04:00 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 1068531245804658690,
+  "created_at" : "2018-11-30 15:44:36 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068531219695091714",
+  "text" : "RT @smashingmag: What\u2019s the impact and difference of  display: none, visibility: hidden, opacity: 0, clip-path and max-height: 0 with overf\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Adam Laki",
+        "screen_name" : "_iamadam",
+        "indices" : [ 218, 227 ],
+        "id_str" : "19669653",
+        "id" : 19669653
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1029471976111390726\/photo\/1",
+        "indices" : [ 229, 252 ],
+        "url" : "https:\/\/t.co\/5xZ4E4DWZL",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DkirWksXgAA9b2K.jpg",
+        "id_str" : "1029260919149395968",
+        "id" : 1029260919149395968,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DkirWksXgAA9b2K.jpg",
+        "sizes" : [ {
+          "h" : 413,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 728,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 836,
+          "resize" : "fit",
+          "w" : 1378
+        }, {
+          "h" : 836,
+          "resize" : "fit",
+          "w" : 1378
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/5xZ4E4DWZL"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 191, 214 ],
+        "url" : "https:\/\/t.co\/ZLb6rWGtrq",
+        "expanded_url" : "https:\/\/pineco.de\/element-hiding-techniques-in-css\/",
+        "display_url" : "pineco.de\/element-hiding\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1029471976111390726",
+    "text" : "What\u2019s the impact and difference of  display: none, visibility: hidden, opacity: 0, clip-path and max-height: 0 with overflow: hidden?\n\nA great refresher on Element Hiding Techniques in CSS. https:\/\/t.co\/ZLb6rWGtrq by @_iamadam. https:\/\/t.co\/5xZ4E4DWZL",
+    "id" : 1029471976111390726,
+    "created_at" : "2018-08-14 20:57:00 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 1068531219695091714,
+  "created_at" : "2018-11-30 15:44:29 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1030481915562930177\/photo\/1",
+      "indices" : [ 101, 124 ],
+      "url" : "https:\/\/t.co\/7ybVBWuO1d",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/Dk0B09PXoAApdxY.jpg",
+      "id_str" : "1030481899041562624",
+      "id" : 1030481899041562624,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/Dk0B09PXoAApdxY.jpg",
+      "sizes" : [ {
+        "h" : 334,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 1018
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 1018
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 1018
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/7ybVBWuO1d"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/rukBFKEBcW",
+      "expanded_url" : "https:\/\/buff.ly\/2vWnrAe",
+      "display_url" : "buff.ly\/2vWnrAe"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068530498186690561",
+  "text" : "RT @css: \"How I taught myself to create 50 pieces of animation in 100 days\"\n\nhttps:\/\/t.co\/rukBFKEBcW https:\/\/t.co\/7ybVBWuO1d",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1030481915562930177\/photo\/1",
+        "indices" : [ 92, 115 ],
+        "url" : "https:\/\/t.co\/7ybVBWuO1d",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/Dk0B09PXoAApdxY.jpg",
+        "id_str" : "1030481899041562624",
+        "id" : 1030481899041562624,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/Dk0B09PXoAApdxY.jpg",
+        "sizes" : [ {
+          "h" : 334,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 1018
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 1018
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 1018
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/7ybVBWuO1d"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 68, 91 ],
+        "url" : "https:\/\/t.co\/rukBFKEBcW",
+        "expanded_url" : "https:\/\/buff.ly\/2vWnrAe",
+        "display_url" : "buff.ly\/2vWnrAe"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1030481915562930177",
+    "text" : "\"How I taught myself to create 50 pieces of animation in 100 days\"\n\nhttps:\/\/t.co\/rukBFKEBcW https:\/\/t.co\/7ybVBWuO1d",
+    "id" : 1030481915562930177,
+    "created_at" : "2018-08-17 15:50:08 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068530498186690561,
+  "created_at" : "2018-11-30 15:41:37 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068527656294014976",
+  "text" : "RT @smashingmag: Visual cheat sheets for CSS Grid Layout and Flexbox. With everything from alignment to auto-flow. \n\n\u21AC Flexbox Cheatsheet\nh\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1030607937453010946\/photo\/1",
+        "indices" : [ 188, 211 ],
+        "url" : "https:\/\/t.co\/GtdAt7h9TT",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dk10Q_lUwAAJwMh.jpg",
+        "id_str" : "1030607725032423424",
+        "id" : 1030607725032423424,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dk10Q_lUwAAJwMh.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 697,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 952,
+          "resize" : "fit",
+          "w" : 1640
+        }, {
+          "h" : 395,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 952,
+          "resize" : "fit",
+          "w" : 1640
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/GtdAt7h9TT"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1030607937453010946\/photo\/1",
+        "indices" : [ 188, 211 ],
+        "url" : "https:\/\/t.co\/GtdAt7h9TT",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dk10R1iUwAAAYEu.jpg",
+        "id_str" : "1030607739515355136",
+        "id" : 1030607739515355136,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dk10R1iUwAAAYEu.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1332,
+          "resize" : "fit",
+          "w" : 2078
+        }, {
+          "h" : 436,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 769,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1313,
+          "resize" : "fit",
+          "w" : 2048
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/GtdAt7h9TT"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 121, 144 ],
+        "url" : "https:\/\/t.co\/DWyQDMNff7",
+        "expanded_url" : "http:\/\/flexbox.malven.co",
+        "display_url" : "flexbox.malven.co"
+      }, {
+        "indices" : [ 164, 187 ],
+        "url" : "https:\/\/t.co\/QyUXrdVDao",
+        "expanded_url" : "http:\/\/grid.malven.co\/",
+        "display_url" : "grid.malven.co"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1030607937453010946",
+    "text" : "Visual cheat sheets for CSS Grid Layout and Flexbox. With everything from alignment to auto-flow. \n\n\u21AC Flexbox Cheatsheet\nhttps:\/\/t.co\/DWyQDMNff7\n\n\u21AC Grid Cheatsheet\nhttps:\/\/t.co\/QyUXrdVDao https:\/\/t.co\/GtdAt7h9TT",
+    "id" : 1030607937453010946,
+    "created_at" : "2018-08-18 00:10:54 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 1068527656294014976,
+  "created_at" : "2018-11-30 15:30:20 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068520886188175361",
+  "text" : "RT @css: \"When deciding between a checkbox and toggle switch control, it is better to focus on the usage context instead of their function.\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1031584151311474689\/photo\/1",
+        "indices" : [ 157, 180 ],
+        "url" : "https:\/\/t.co\/bKbZXsER9a",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DlDsUZbX0AMi3dr.png",
+        "id_str" : "1031584149835075587",
+        "id" : 1031584149835075587,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DlDsUZbX0AMi3dr.png",
+        "sizes" : [ {
+          "h" : 516,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 516,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 439,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 516,
+          "resize" : "fit",
+          "w" : 800
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/bKbZXsER9a"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 133, 156 ],
+        "url" : "https:\/\/t.co\/jNabI0uIfy",
+        "expanded_url" : "https:\/\/buff.ly\/2B8X7J8",
+        "display_url" : "buff.ly\/2B8X7J8"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1031584151311474689",
+    "text" : "\"When deciding between a checkbox and toggle switch control, it is better to focus on the usage context instead of their function.\"\n\nhttps:\/\/t.co\/jNabI0uIfy https:\/\/t.co\/bKbZXsER9a",
+    "id" : 1031584151311474689,
+    "created_at" : "2018-08-20 16:50:02 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068520886188175361,
+  "created_at" : "2018-11-30 15:03:26 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068519813490733057",
+  "text" : "RT @css: From sledgehammer to subtle, we've got suggestions on how to handle a really long word when the element it's in isn't wide enough\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1033167082458890240\/photo\/1",
+        "indices" : [ 239, 262 ],
+        "url" : "https:\/\/t.co\/bWd7FnLVC4",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DlaL_CVXcAE5EuK.jpg",
+        "id_str" : "1033167079602614273",
+        "id" : 1033167079602614273,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DlaL_CVXcAE5EuK.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 1154
+        }, {
+          "h" : 265,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 1154
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 1154
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/bWd7FnLVC4"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 215, 238 ],
+        "url" : "https:\/\/t.co\/iZulY0iIOk",
+        "expanded_url" : "https:\/\/css-tricks.com\/where-lines-break-is-complicated-heres-all-the-related-css-and-html\/",
+        "display_url" : "css-tricks.com\/where-lines-br\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1033167082458890240",
+    "text" : "From sledgehammer to subtle, we've got suggestions on how to handle a really long word when the element it's in isn't wide enough to hold it. \n\nWhere Lines Break is Complicated. Here\u2019s all the Related CSS and HTML.\nhttps:\/\/t.co\/iZulY0iIOk https:\/\/t.co\/bWd7FnLVC4",
+    "id" : 1033167082458890240,
+    "created_at" : "2018-08-25 01:40:02 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068519813490733057,
+  "created_at" : "2018-11-30 14:59:10 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Bond",
+      "screen_name" : "MattBond21",
+      "indices" : [ 3, 14 ],
+      "id_str" : "55446763",
+      "id" : 55446763
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068517898388455424",
+  "text" : "RT @MattBond21: In 2012 I started working on the Atlassian Design System (v1 and v2). This week I wrote up what I remember as the key lesso\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Asana Design",
+        "screen_name" : "DesigningAsana",
+        "indices" : [ 183, 198 ],
+        "id_str" : "997222225257287680",
+        "id" : 997222225257287680
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 199, 222 ],
+        "url" : "https:\/\/t.co\/gHOEytRjOP",
+        "expanded_url" : "https:\/\/medium.com\/asana-design\/the-key-lessons-i-learned-creating-a-popular-design-system-d078c817b4dd",
+        "display_url" : "medium.com\/asana-design\/t\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1029738093140570112",
+    "text" : "In 2012 I started working on the Atlassian Design System (v1 and v2). This week I wrote up what I remember as the key lessons from that experience as we ramp up our systems effort at @DesigningAsana https:\/\/t.co\/gHOEytRjOP",
+    "id" : 1029738093140570112,
+    "created_at" : "2018-08-15 14:34:27 +0000",
+    "user" : {
+      "name" : "Matt Bond",
+      "screen_name" : "MattBond21",
+      "protected" : false,
+      "id_str" : "55446763",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902565323181670400\/4Rz5lRF9_normal.jpg",
+      "id" : 55446763,
+      "verified" : false
+    }
+  },
+  "id" : 1068517898388455424,
+  "created_at" : "2018-11-30 14:51:33 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Cennydd Bowles",
+      "screen_name" : "Cennydd",
+      "indices" : [ 3, 11 ],
+      "id_str" : "68003",
+      "id" : 68003
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068504527714885633",
+  "text" : "RT @Cennydd: Designers: what one software tool do you wish you knew better but haven\u2019t had time or energy to pick up?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1068467284031799296",
+    "text" : "Designers: what one software tool do you wish you knew better but haven\u2019t had time or energy to pick up?",
+    "id" : 1068467284031799296,
+    "created_at" : "2018-11-30 11:30:26 +0000",
+    "user" : {
+      "name" : "Cennydd Bowles",
+      "screen_name" : "Cennydd",
+      "protected" : false,
+      "id_str" : "68003",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913073641004421120\/8_mV8oFO_normal.jpg",
+      "id" : 68003,
+      "verified" : false
+    }
+  },
+  "id" : 1068504527714885633,
+  "created_at" : "2018-11-30 13:58:25 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Gannon",
+      "screen_name" : "ChrisGannon",
+      "indices" : [ 3, 15 ],
+      "id_str" : "25484316",
+      "id" : 25484316
+    }, {
+      "name" : "CodePen.IO",
+      "screen_name" : "CodePen",
+      "indices" : [ 34, 42 ],
+      "id_str" : "517021184",
+      "id" : 517021184
+    }, {
+      "name" : "GreenSock",
+      "screen_name" : "greensock",
+      "indices" : [ 67, 77 ],
+      "id_str" : "24910558",
+      "id" : 24910558
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/ChrisGannon\/status\/1026626759951826944\/photo\/1",
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/XIy6YXBz05",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/Dj9OC--WwAIjri7.jpg",
+      "id_str" : "1026625053235003394",
+      "id" : 1026625053235003394,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/Dj9OC--WwAIjri7.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 600,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 600,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 600,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 510,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/XIy6YXBz05"
+    } ],
+    "hashtags" : [ {
+      "text" : "svg",
+      "indices" : [ 78, 82 ]
+    }, {
+      "text" : "Westworld",
+      "indices" : [ 83, 93 ]
+    }, {
+      "text" : "ui",
+      "indices" : [ 94, 97 ]
+    }, {
+      "text" : "javascript",
+      "indices" : [ 98, 109 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 43, 66 ],
+      "url" : "https:\/\/t.co\/GyAKUyAqLP",
+      "expanded_url" : "https:\/\/codepen.io\/chrisgannon\/details\/djjZBq\/",
+      "display_url" : "codepen.io\/chrisgannon\/de\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068270865656307712",
+  "text" : "RT @ChrisGannon: Westworld Slider @CodePen https:\/\/t.co\/GyAKUyAqLP @greensock #svg #Westworld #ui #javascript https:\/\/t.co\/XIy6YXBz05",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "CodePen.IO",
+        "screen_name" : "CodePen",
+        "indices" : [ 17, 25 ],
+        "id_str" : "517021184",
+        "id" : 517021184
+      }, {
+        "name" : "GreenSock",
+        "screen_name" : "greensock",
+        "indices" : [ 50, 60 ],
+        "id_str" : "24910558",
+        "id" : 24910558
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ChrisGannon\/status\/1026626759951826944\/photo\/1",
+        "indices" : [ 93, 116 ],
+        "url" : "https:\/\/t.co\/XIy6YXBz05",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/Dj9OC--WwAIjri7.jpg",
+        "id_str" : "1026625053235003394",
+        "id" : 1026625053235003394,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/Dj9OC--WwAIjri7.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 510,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/XIy6YXBz05"
+      } ],
+      "hashtags" : [ {
+        "text" : "svg",
+        "indices" : [ 61, 65 ]
+      }, {
+        "text" : "Westworld",
+        "indices" : [ 66, 76 ]
+      }, {
+        "text" : "ui",
+        "indices" : [ 77, 80 ]
+      }, {
+        "text" : "javascript",
+        "indices" : [ 81, 92 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 26, 49 ],
+        "url" : "https:\/\/t.co\/GyAKUyAqLP",
+        "expanded_url" : "https:\/\/codepen.io\/chrisgannon\/details\/djjZBq\/",
+        "display_url" : "codepen.io\/chrisgannon\/de\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1026626759951826944",
+    "text" : "Westworld Slider @CodePen https:\/\/t.co\/GyAKUyAqLP @greensock #svg #Westworld #ui #javascript https:\/\/t.co\/XIy6YXBz05",
+    "id" : 1026626759951826944,
+    "created_at" : "2018-08-07 00:31:08 +0000",
+    "user" : {
+      "name" : "Chris Gannon",
+      "screen_name" : "ChrisGannon",
+      "protected" : false,
+      "id_str" : "25484316",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054782607882362880\/F97kwc4B_normal.jpg",
+      "id" : 25484316,
+      "verified" : false
+    }
+  },
+  "id" : 1068270865656307712,
+  "created_at" : "2018-11-29 22:29:56 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 68, 91 ],
+      "url" : "https:\/\/t.co\/n5yeVPoA2A",
+      "expanded_url" : "https:\/\/buff.ly\/2LTPpYe",
+      "display_url" : "buff.ly\/2LTPpYe"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068270217627869184",
+  "text" : "RT @css: \"a simple CSS formula to remove top space from your text\"\n\nhttps:\/\/t.co\/n5yeVPoA2A\n\nKevin Powell dug into this not long ago as wel\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1030232002556055552\/photo\/1",
+        "indices" : [ 157, 180 ],
+        "url" : "https:\/\/t.co\/IlxpdkEdWp",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DkweiyCXoAEAEnY.jpg",
+        "id_str" : "1030231997657096193",
+        "id" : 1030231997657096193,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DkweiyCXoAEAEnY.jpg",
+        "sizes" : [ {
+          "h" : 408,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 1000
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 1000
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 1000
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/IlxpdkEdWp"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 59, 82 ],
+        "url" : "https:\/\/t.co\/n5yeVPoA2A",
+        "expanded_url" : "https:\/\/buff.ly\/2LTPpYe",
+        "display_url" : "buff.ly\/2LTPpYe"
+      }, {
+        "indices" : [ 133, 156 ],
+        "url" : "https:\/\/t.co\/WGO1xWAzof",
+        "expanded_url" : "https:\/\/buff.ly\/2pDMogE",
+        "display_url" : "buff.ly\/2pDMogE"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1030232002556055552",
+    "text" : "\"a simple CSS formula to remove top space from your text\"\n\nhttps:\/\/t.co\/n5yeVPoA2A\n\nKevin Powell dug into this not long ago as well: https:\/\/t.co\/WGO1xWAzof https:\/\/t.co\/IlxpdkEdWp",
+    "id" : 1030232002556055552,
+    "created_at" : "2018-08-16 23:17:04 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068270217627869184,
+  "created_at" : "2018-11-29 22:27:22 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "UX Choice",
+      "screen_name" : "uxchoice",
+      "indices" : [ 3, 12 ],
+      "id_str" : "3280444964",
+      "id" : 3280444964
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ux",
+      "indices" : [ 113, 116 ]
+    }, {
+      "text" : "ui",
+      "indices" : [ 117, 120 ]
+    }, {
+      "text" : "design",
+      "indices" : [ 121, 128 ]
+    }, {
+      "text" : "uidesign",
+      "indices" : [ 129, 138 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 87, 110 ],
+      "url" : "https:\/\/t.co\/NbPQunWued",
+      "expanded_url" : "http:\/\/ow.ly\/M4Dl30lz28N",
+      "display_url" : "ow.ly\/M4Dl30lz28N"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068269227000381441",
+  "text" : "RT @uxchoice: 3 Tips for Designing Better Websites for Colorblind Users - Read here -  https:\/\/t.co\/NbPQunWued\n.\n#ux #ui #design #uidesign\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite Inc.\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "ux",
+        "indices" : [ 99, 102 ]
+      }, {
+        "text" : "ui",
+        "indices" : [ 103, 106 ]
+      }, {
+        "text" : "design",
+        "indices" : [ 107, 114 ]
+      }, {
+        "text" : "uidesign",
+        "indices" : [ 115, 124 ]
+      }, {
+        "text" : "uxdesign",
+        "indices" : [ 125, 134 ]
+      }, {
+        "text" : "accessibility",
+        "indices" : [ 135, 149 ]
+      }, {
+        "text" : "colorBlind",
+        "indices" : [ 150, 161 ]
+      }, {
+        "text" : "userexperiencedesign",
+        "indices" : [ 162, 183 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 73, 96 ],
+        "url" : "https:\/\/t.co\/NbPQunWued",
+        "expanded_url" : "http:\/\/ow.ly\/M4Dl30lz28N",
+        "display_url" : "ow.ly\/M4Dl30lz28N"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1033963586098524160",
+    "text" : "3 Tips for Designing Better Websites for Colorblind Users - Read here -  https:\/\/t.co\/NbPQunWued\n.\n#ux #ui #design #uidesign #uxdesign #accessibility #colorBlind #userexperiencedesign",
+    "id" : 1033963586098524160,
+    "created_at" : "2018-08-27 06:25:03 +0000",
+    "user" : {
+      "name" : "UX Choice",
+      "screen_name" : "uxchoice",
+      "protected" : false,
+      "id_str" : "3280444964",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071370100425482240\/bIPfhPH8_normal.jpg",
+      "id" : 3280444964,
+      "verified" : false
+    }
+  },
+  "id" : 1068269227000381441,
+  "created_at" : "2018-11-29 22:23:25 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 111, 134 ],
+      "url" : "https:\/\/t.co\/5ma8exFVOt",
+      "expanded_url" : "https:\/\/dribbble.com\/shots\/4464263-Apartments-Comparison-Animation",
+      "display_url" : "dribbble.com\/shots\/4464263-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068269119869542401",
+  "text" : "RT @smashingmag: Great UX pattern for a comparison configurator or comparison table. By Bart\u0142omiej Pierzcha\u0142a. https:\/\/t.co\/5ma8exFVOt http\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1033965905515110400\/photo\/1",
+        "indices" : [ 118, 141 ],
+        "url" : "https:\/\/t.co\/F9hv9LZBCb",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DlliIVOXoAAwBLp.jpg",
+        "id_str" : "1033965484734128128",
+        "id" : 1033965484734128128,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DlliIVOXoAAwBLp.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 510,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/F9hv9LZBCb"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 94, 117 ],
+        "url" : "https:\/\/t.co\/5ma8exFVOt",
+        "expanded_url" : "https:\/\/dribbble.com\/shots\/4464263-Apartments-Comparison-Animation",
+        "display_url" : "dribbble.com\/shots\/4464263-\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1033965905515110400",
+    "text" : "Great UX pattern for a comparison configurator or comparison table. By Bart\u0142omiej Pierzcha\u0142a. https:\/\/t.co\/5ma8exFVOt https:\/\/t.co\/F9hv9LZBCb",
+    "id" : 1033965905515110400,
+    "created_at" : "2018-08-27 06:34:16 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 1068269119869542401,
+  "created_at" : "2018-11-29 22:23:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aaron Gustafson",
+      "screen_name" : "AaronGustafson",
+      "indices" : [ 3, 18 ],
+      "id_str" : "12028",
+      "id" : 12028
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 94, 117 ],
+      "url" : "https:\/\/t.co\/zwgZF9qiWw",
+      "expanded_url" : "https:\/\/alistapart.com\/article\/conversational-semantics",
+      "display_url" : "alistapart.com\/article\/conver\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068268572441485312",
+  "text" : "RT @AaronGustafson: I've written a new article looking at HTML with voice interfaces in mind: https:\/\/t.co\/zwgZF9qiWw",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 74, 97 ],
+        "url" : "https:\/\/t.co\/zwgZF9qiWw",
+        "expanded_url" : "https:\/\/alistapart.com\/article\/conversational-semantics",
+        "display_url" : "alistapart.com\/article\/conver\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1035172619358593025",
+    "text" : "I've written a new article looking at HTML with voice interfaces in mind: https:\/\/t.co\/zwgZF9qiWw",
+    "id" : 1035172619358593025,
+    "created_at" : "2018-08-30 14:29:19 +0000",
+    "user" : {
+      "name" : "Aaron Gustafson",
+      "screen_name" : "AaronGustafson",
+      "protected" : false,
+      "id_str" : "12028",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072555514456928256\/6RYfq4Sz_normal.jpg",
+      "id" : 12028,
+      "verified" : false
+    }
+  },
+  "id" : 1068268572441485312,
+  "created_at" : "2018-11-29 22:20:49 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 85, 108 ],
+      "url" : "https:\/\/t.co\/rl630o5aNU",
+      "expanded_url" : "https:\/\/buff.ly\/2NEB66V",
+      "display_url" : "buff.ly\/2NEB66V"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068265927135903744",
+  "text" : "RT @css: Oooo `font-min-size` and `font-max-size` will be nice. They are in Fonts 4: https:\/\/t.co\/rl630o5aNU\n\nWill make fluid typography a\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 76, 99 ],
+        "url" : "https:\/\/t.co\/rl630o5aNU",
+        "expanded_url" : "https:\/\/buff.ly\/2NEB66V",
+        "display_url" : "buff.ly\/2NEB66V"
+      }, {
+        "indices" : [ 166, 189 ],
+        "url" : "https:\/\/t.co\/hGa6ZtzqdR",
+        "expanded_url" : "https:\/\/buff.ly\/2NC5kHz",
+        "display_url" : "buff.ly\/2NC5kHz"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1036602966155948035",
+    "text" : "Oooo `font-min-size` and `font-max-size` will be nice. They are in Fonts 4: https:\/\/t.co\/rl630o5aNU\n\nWill make fluid typography a bit easier to write and understand. https:\/\/t.co\/hGa6ZtzqdR",
+    "id" : 1036602966155948035,
+    "created_at" : "2018-09-03 13:13:00 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068265927135903744,
+  "created_at" : "2018-11-29 22:10:19 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068261833474301952",
+  "text" : "RT @css: &gt; Combining fonts is one of the trickiest parts of typography. Here\u2019s a guide, combined with an example to help you get font combi\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037065287802204160\/photo\/1",
+        "indices" : [ 173, 196 ],
+        "url" : "https:\/\/t.co\/b1YVma24jg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmRlYfRXgAArAeG.jpg",
+        "id_str" : "1037065285587664896",
+        "id" : 1037065285587664896,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmRlYfRXgAArAeG.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 451,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 952,
+          "resize" : "fit",
+          "w" : 1434
+        }, {
+          "h" : 797,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 952,
+          "resize" : "fit",
+          "w" : 1434
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/b1YVma24jg"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037065287802204160\/photo\/1",
+        "indices" : [ 173, 196 ],
+        "url" : "https:\/\/t.co\/b1YVma24jg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmRlYfXWsAEqDr6.jpg",
+        "id_str" : "1037065285612777473",
+        "id" : 1037065285612777473,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmRlYfXWsAEqDr6.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 940,
+          "resize" : "fit",
+          "w" : 1430
+        }, {
+          "h" : 447,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 940,
+          "resize" : "fit",
+          "w" : 1430
+        }, {
+          "h" : 789,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/b1YVma24jg"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 149, 172 ],
+        "url" : "https:\/\/t.co\/J0srZj7CII",
+        "expanded_url" : "https:\/\/buff.ly\/2NbzZeJ",
+        "display_url" : "buff.ly\/2NbzZeJ"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1037065287802204160",
+    "text" : "&gt; Combining fonts is one of the trickiest parts of typography. Here\u2019s a guide, combined with an example to help you get font combinations right.\n\nhttps:\/\/t.co\/J0srZj7CII https:\/\/t.co\/b1YVma24jg",
+    "id" : 1037065287802204160,
+    "created_at" : "2018-09-04 19:50:07 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068261833474301952,
+  "created_at" : "2018-11-29 21:54:03 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Benjamin De Cock",
+      "screen_name" : "bdc",
+      "indices" : [ 3, 7 ],
+      "id_str" : "10209392",
+      "id" : 10209392
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/bdc\/status\/1037007612678561792\/photo\/1",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/IwQFyiyh6l",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DmQw6O9U0AAQAa9.jpg",
+      "id_str" : "1037007591207915520",
+      "id" : 1037007591207915520,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmQw6O9U0AAQAa9.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 511,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1940,
+        "resize" : "fit",
+        "w" : 2580
+      }, {
+        "h" : 902,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1540,
+        "resize" : "fit",
+        "w" : 2048
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/IwQFyiyh6l"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068261651588280320",
+  "text" : "RT @bdc: Quick example of an alternating two column layout made with CSS Grid: https:\/\/t.co\/IwQFyiyh6l",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/bdc\/status\/1037007612678561792\/photo\/1",
+        "indices" : [ 70, 93 ],
+        "url" : "https:\/\/t.co\/IwQFyiyh6l",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmQw6O9U0AAQAa9.jpg",
+        "id_str" : "1037007591207915520",
+        "id" : 1037007591207915520,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmQw6O9U0AAQAa9.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 511,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1940,
+          "resize" : "fit",
+          "w" : 2580
+        }, {
+          "h" : 902,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1540,
+          "resize" : "fit",
+          "w" : 2048
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/IwQFyiyh6l"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1037007612678561792",
+    "text" : "Quick example of an alternating two column layout made with CSS Grid: https:\/\/t.co\/IwQFyiyh6l",
+    "id" : 1037007612678561792,
+    "created_at" : "2018-09-04 16:00:56 +0000",
+    "user" : {
+      "name" : "Benjamin De Cock",
+      "screen_name" : "bdc",
+      "protected" : false,
+      "id_str" : "10209392",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458893509638893568\/cB72nwa7_normal.png",
+      "id" : 10209392,
+      "verified" : false
+    }
+  },
+  "id" : 1068261651588280320,
+  "created_at" : "2018-11-29 21:53:19 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Eric Meyer",
+      "screen_name" : "meyerweb",
+      "indices" : [ 3, 12 ],
+      "id_str" : "646533",
+      "id" : 646533
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CSS",
+      "indices" : [ 33, 37 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 94, 117 ],
+      "url" : "https:\/\/t.co\/TQBEDmUxEj",
+      "expanded_url" : "https:\/\/meyerweb.com\/eric\/thoughts\/2018\/09\/05\/variable-font-support\/",
+      "display_url" : "meyerweb.com\/eric\/thoughts\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068261069616021504",
+  "text" : "RT @meyerweb: A short note about #CSS variable font support, browsers, and operating systems. https:\/\/t.co\/TQBEDmUxEj",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "CSS",
+        "indices" : [ 19, 23 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 80, 103 ],
+        "url" : "https:\/\/t.co\/TQBEDmUxEj",
+        "expanded_url" : "https:\/\/meyerweb.com\/eric\/thoughts\/2018\/09\/05\/variable-font-support\/",
+        "display_url" : "meyerweb.com\/eric\/thoughts\/\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1037355568766304257",
+    "text" : "A short note about #CSS variable font support, browsers, and operating systems. https:\/\/t.co\/TQBEDmUxEj",
+    "id" : 1037355568766304257,
+    "created_at" : "2018-09-05 15:03:35 +0000",
+    "user" : {
+      "name" : "Eric Meyer",
+      "screen_name" : "meyerweb",
+      "protected" : false,
+      "id_str" : "646533",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671335262459334657\/O6oMcV8M_normal.png",
+      "id" : 646533,
+      "verified" : false
+    }
+  },
+  "id" : 1068261069616021504,
+  "created_at" : "2018-11-29 21:51:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037561042711314432\/photo\/1",
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/dnpri0mAjy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DmYoQ-1XgAAmPYO.jpg",
+      "id_str" : "1037561036365332480",
+      "id" : 1037561036365332480,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmYoQ-1XgAAmPYO.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 672,
+        "resize" : "fit",
+        "w" : 951
+      }, {
+        "h" : 672,
+        "resize" : "fit",
+        "w" : 951
+      }, {
+        "h" : 481,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 672,
+        "resize" : "fit",
+        "w" : 951
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/dnpri0mAjy"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037561042711314432\/photo\/1",
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/dnpri0mAjy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DmYoRPOWsAAT7hd.jpg",
+      "id_str" : "1037561040765104128",
+      "id" : 1037561040765104128,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmYoRPOWsAAT7hd.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 693,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 924,
+        "resize" : "fit",
+        "w" : 1600
+      }, {
+        "h" : 924,
+        "resize" : "fit",
+        "w" : 1600
+      }, {
+        "h" : 393,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/dnpri0mAjy"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 53, 76 ],
+      "url" : "https:\/\/t.co\/7Wcs4eE9ce",
+      "expanded_url" : "https:\/\/buff.ly\/2Nd1dEY",
+      "display_url" : "buff.ly\/2Nd1dEY"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068260142628651008",
+  "text" : "RT @css: Designing UI with Color Blind Users in Mind https:\/\/t.co\/7Wcs4eE9ce https:\/\/t.co\/dnpri0mAjy",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037561042711314432\/photo\/1",
+        "indices" : [ 68, 91 ],
+        "url" : "https:\/\/t.co\/dnpri0mAjy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmYoQ-1XgAAmPYO.jpg",
+        "id_str" : "1037561036365332480",
+        "id" : 1037561036365332480,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmYoQ-1XgAAmPYO.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 672,
+          "resize" : "fit",
+          "w" : 951
+        }, {
+          "h" : 672,
+          "resize" : "fit",
+          "w" : 951
+        }, {
+          "h" : 481,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 672,
+          "resize" : "fit",
+          "w" : 951
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/dnpri0mAjy"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037561042711314432\/photo\/1",
+        "indices" : [ 68, 91 ],
+        "url" : "https:\/\/t.co\/dnpri0mAjy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmYoRPOWsAAT7hd.jpg",
+        "id_str" : "1037561040765104128",
+        "id" : 1037561040765104128,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmYoRPOWsAAT7hd.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 693,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 924,
+          "resize" : "fit",
+          "w" : 1600
+        }, {
+          "h" : 924,
+          "resize" : "fit",
+          "w" : 1600
+        }, {
+          "h" : 393,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/dnpri0mAjy"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 44, 67 ],
+        "url" : "https:\/\/t.co\/7Wcs4eE9ce",
+        "expanded_url" : "https:\/\/buff.ly\/2Nd1dEY",
+        "display_url" : "buff.ly\/2Nd1dEY"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1037561042711314432",
+    "text" : "Designing UI with Color Blind Users in Mind https:\/\/t.co\/7Wcs4eE9ce https:\/\/t.co\/dnpri0mAjy",
+    "id" : 1037561042711314432,
+    "created_at" : "2018-09-06 04:40:04 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068260142628651008,
+  "created_at" : "2018-11-29 21:47:19 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 73, 96 ],
+      "url" : "https:\/\/t.co\/NIMB3RC510",
+      "expanded_url" : "https:\/\/www.stefanjudis.com\/blog\/three-input-element-properties-that-i-discovered-while-reading-mdn\/",
+      "display_url" : "stefanjudis.com\/blog\/three-inp\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068259663068712960",
+  "text" : "RT @css: 3 &lt;input&gt; properties that I discovered while reading MDN: https:\/\/t.co\/NIMB3RC510\n\n1. text inputs have `input.defaultValue`\n\n2. ch\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 64, 87 ],
+        "url" : "https:\/\/t.co\/NIMB3RC510",
+        "expanded_url" : "https:\/\/www.stefanjudis.com\/blog\/three-input-element-properties-that-i-discovered-while-reading-mdn\/",
+        "display_url" : "stefanjudis.com\/blog\/three-inp\u2026"
+      }, {
+        "indices" : [ 172, 195 ],
+        "url" : "https:\/\/t.co\/llfXnVGaIZ",
+        "expanded_url" : "https:\/\/css-tricks.com\/indeterminate-checkboxes\/",
+        "display_url" : "css-tricks.com\/indeterminate-\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1040348645806235648",
+    "text" : "3 &lt;input&gt; properties that I discovered while reading MDN: https:\/\/t.co\/NIMB3RC510\n\n1. text inputs have `input.defaultValue`\n\n2. checkboxes have `input.indeterminate` https:\/\/t.co\/llfXnVGaIZ\n\n3. You can access information about what text is selected and what direction!",
+    "id" : 1040348645806235648,
+    "created_at" : "2018-09-13 21:17:00 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068259663068712960,
+  "created_at" : "2018-11-29 21:45:25 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bruce Lawson",
+      "screen_name" : "brucel",
+      "indices" : [ 3, 10 ],
+      "id_str" : "409823",
+      "id" : 409823
+    }, {
+      "name" : "Sara Soueidan",
+      "screen_name" : "SaraSoueidan",
+      "indices" : [ 129, 142 ],
+      "id_str" : "717654410",
+      "id" : 717654410
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068258034600878080",
+  "text" : "RT @brucel: Why don\u2019t we add a &lt;lovely&gt; element to HTML? - a beast of a blogpost sparked by an interesting discussion with @SaraSoueidan, @\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Sara Soueidan",
+        "screen_name" : "SaraSoueidan",
+        "indices" : [ 117, 130 ],
+        "id_str" : "717654410",
+        "id" : 717654410
+      }, {
+        "name" : "Chris Lilley",
+        "screen_name" : "svgeesus",
+        "indices" : [ 132, 141 ],
+        "id_str" : "128295889",
+        "id" : 128295889
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 148, 171 ],
+        "url" : "https:\/\/t.co\/18cRJoJFjt",
+        "expanded_url" : "https:\/\/www.brucelawson.co.uk\/2018\/why-so-hard-to-add-new-html-elements\/",
+        "display_url" : "brucelawson.co.uk\/2018\/why-so-ha\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1050031332473131008",
+    "text" : "Why don\u2019t we add a &lt;lovely&gt; element to HTML? - a beast of a blogpost sparked by an interesting discussion with @SaraSoueidan, @svgeesus et al https:\/\/t.co\/18cRJoJFjt",
+    "id" : 1050031332473131008,
+    "created_at" : "2018-10-10 14:32:32 +0000",
+    "user" : {
+      "name" : "Bruce Lawson",
+      "screen_name" : "brucel",
+      "protected" : false,
+      "id_str" : "409823",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807277326539046912\/EZR6qL-S_normal.jpg",
+      "id" : 409823,
+      "verified" : false
+    }
+  },
+  "id" : 1068258034600878080,
+  "created_at" : "2018-11-29 21:38:57 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "An Event Apart",
+      "screen_name" : "aneventapart",
+      "indices" : [ 3, 16 ],
+      "id_str" : "40930287",
+      "id" : 40930287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068257464800473088",
+  "text" : "RT @aneventapart: \u201CShowing buttons as disabled until a form is complete might seem like a good idea. It is not. They usually create a lousy\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "a11y",
+        "indices" : [ 239, 244 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 246, 269 ],
+        "url" : "https:\/\/t.co\/PiMHdhrKBF",
+        "expanded_url" : "https:\/\/axesslab.com\/disabled-buttons-suck\/",
+        "display_url" : "axesslab.com\/disabled-butto\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1052534953953636352",
+    "text" : "\u201CShowing buttons as disabled until a form is complete might seem like a good idea. It is not. They usually create a lousy user experience and exclude many people with disabilities. Here\u2019s why disabled buttons suck and what to do instead.\u201D #a11y\n\nhttps:\/\/t.co\/PiMHdhrKBF",
+    "id" : 1052534953953636352,
+    "created_at" : "2018-10-17 12:21:02 +0000",
+    "user" : {
+      "name" : "An Event Apart",
+      "screen_name" : "aneventapart",
+      "protected" : false,
+      "id_str" : "40930287",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987320146879541248\/xZjjuWg4_normal.jpg",
+      "id" : 40930287,
+      "verified" : false
+    }
+  },
+  "id" : 1068257464800473088,
+  "created_at" : "2018-11-29 21:36:41 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068252942673870848",
+  "text" : "RT @css: &gt; The red asterisks make users more fearful, it increases the risk of errors and reduces the form completion rate.\n\nhttps:\/\/t.co\/T\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037327751705976833\/photo\/1",
+        "indices" : [ 143, 166 ],
+        "url" : "https:\/\/t.co\/CUdDxEOZGg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmVUF6iXgAAAO-b.jpg",
+        "id_str" : "1037327749768249344",
+        "id" : 1037327749768249344,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmVUF6iXgAAAO-b.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 559,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 317,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 559,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 559,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/CUdDxEOZGg"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1037327751705976833\/photo\/1",
+        "indices" : [ 143, 166 ],
+        "url" : "https:\/\/t.co\/CUdDxEOZGg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmVUF5LXcAAByeV.jpg",
+        "id_str" : "1037327749403340800",
+        "id" : 1037327749403340800,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmVUF5LXcAAByeV.jpg",
+        "sizes" : [ {
+          "h" : 331,
+          "resize" : "fit",
+          "w" : 2000
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 331,
+          "resize" : "fit",
+          "w" : 2000
+        }, {
+          "h" : 113,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 199,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/CUdDxEOZGg"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 119, 142 ],
+        "url" : "https:\/\/t.co\/TOofFfdJy2",
+        "expanded_url" : "https:\/\/buff.ly\/2La5bub",
+        "display_url" : "buff.ly\/2La5bub"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1037327751705976833",
+    "text" : "&gt; The red asterisks make users more fearful, it increases the risk of errors and reduces the form completion rate.\n\nhttps:\/\/t.co\/TOofFfdJy2 https:\/\/t.co\/CUdDxEOZGg",
+    "id" : 1037327751705976833,
+    "created_at" : "2018-09-05 13:13:03 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068252942673870848,
+  "created_at" : "2018-11-29 21:18:43 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hector minto",
+      "screen_name" : "hminto",
+      "indices" : [ 3, 10 ],
+      "id_str" : "55346045",
+      "id" : 55346045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068252291025784833",
+  "text" : "RT @hminto: Great video!  Big issue in education and business.  Get this out there and remember Win Ctrl C turns these colour filters on in\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "Windows10",
+        "indices" : [ 128, 138 ]
+      }, {
+        "text" : "ColourBlindAwarenessDay",
+        "indices" : [ 140, 164 ]
+      }, {
+        "text" : "accessibility",
+        "indices" : [ 165, 179 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 180, 203 ],
+        "url" : "https:\/\/t.co\/ClytkcGY2T",
+        "expanded_url" : "https:\/\/twitter.com\/colourblindorg\/status\/1037576476873424896",
+        "display_url" : "twitter.com\/colourblindorg\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1037622582818811905",
+    "text" : "Great video!  Big issue in education and business.  Get this out there and remember Win Ctrl C turns these colour filters on in #Windows10. #ColourBlindAwarenessDay #accessibility https:\/\/t.co\/ClytkcGY2T",
+    "id" : 1037622582818811905,
+    "created_at" : "2018-09-06 08:44:36 +0000",
+    "user" : {
+      "name" : "hector minto",
+      "screen_name" : "hminto",
+      "protected" : false,
+      "id_str" : "55346045",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930821652241354752\/Fd8GUXOR_normal.jpg",
+      "id" : 55346045,
+      "verified" : false
+    }
+  },
+  "id" : 1068252291025784833,
+  "created_at" : "2018-11-29 21:16:08 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Mezzell",
+      "screen_name" : "JustinMezzell",
+      "indices" : [ 3, 17 ],
+      "id_str" : "16026475",
+      "id" : 16026475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068249669090885632",
+  "text" : "RT @JustinMezzell: I made this during a mentorship to demonstrate how limited color palettes can influence and drive alternative solutions\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/JustinMezzell\/status\/1040662104963899392\/photo\/1",
+        "indices" : [ 174, 197 ],
+        "url" : "https:\/\/t.co\/WkDOWfgXLJ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DnEsc03VsAArZbH.jpg",
+        "id_str" : "1040661862638006272",
+        "id" : 1040661862638006272,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DnEsc03VsAArZbH.jpg",
+        "sizes" : [ {
+          "h" : 699,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 858,
+          "resize" : "fit",
+          "w" : 1472
+        }, {
+          "h" : 858,
+          "resize" : "fit",
+          "w" : 1472
+        }, {
+          "h" : 396,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/WkDOWfgXLJ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1040662104963899392",
+    "text" : "I made this during a mentorship to demonstrate how limited color palettes can influence and drive alternative solutions for lighting and shadow. Maybe it will help you, too! https:\/\/t.co\/WkDOWfgXLJ",
+    "id" : 1040662104963899392,
+    "created_at" : "2018-09-14 18:02:35 +0000",
+    "user" : {
+      "name" : "Justin Mezzell",
+      "screen_name" : "JustinMezzell",
+      "protected" : false,
+      "id_str" : "16026475",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875721203197071360\/H3zmUdAQ_normal.jpg",
+      "id" : 16026475,
+      "verified" : true
+    }
+  },
+  "id" : 1068249669090885632,
+  "created_at" : "2018-11-29 21:05:42 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 116, 139 ],
+      "url" : "https:\/\/t.co\/scaXxpF523",
+      "expanded_url" : "http:\/\/gooddesignisgoodbusiness.tumblr.com\/",
+      "display_url" : "gooddesignisgoodbusiness.tumblr.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068247932892270594",
+  "text" : "RT @css: &gt; This is a spot where I'm saving some beautiful IBM work I come across in the form of hi-res posters.\n\nhttps:\/\/t.co\/scaXxpF523 ht\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1044697314340868096\/photo\/1",
+        "indices" : [ 131, 154 ],
+        "url" : "https:\/\/t.co\/nUvfYWVqNQ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dn-Cq5gXsAAgOXR.jpg",
+        "id_str" : "1044697312075952128",
+        "id" : 1044697312075952128,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dn-Cq5gXsAAgOXR.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 366,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 646,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1108,
+          "resize" : "fit",
+          "w" : 2058
+        }, {
+          "h" : 1103,
+          "resize" : "fit",
+          "w" : 2048
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/nUvfYWVqNQ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 107, 130 ],
+        "url" : "https:\/\/t.co\/scaXxpF523",
+        "expanded_url" : "http:\/\/gooddesignisgoodbusiness.tumblr.com\/",
+        "display_url" : "gooddesignisgoodbusiness.tumblr.com"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1044697314340868096",
+    "text" : "&gt; This is a spot where I'm saving some beautiful IBM work I come across in the form of hi-res posters.\n\nhttps:\/\/t.co\/scaXxpF523 https:\/\/t.co\/nUvfYWVqNQ",
+    "id" : 1044697314340868096,
+    "created_at" : "2018-09-25 21:17:03 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068247932892270594,
+  "created_at" : "2018-11-29 20:58:48 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "indices" : [ 3, 11 ],
+      "id_str" : "13567",
+      "id" : 13567
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 58, 81 ],
+      "url" : "https:\/\/t.co\/uFTCxZyFQt",
+      "expanded_url" : "https:\/\/medium.com\/@amyalexandraleak\/should-you-use-alt-text-or-a-caption-48311e259ded",
+      "display_url" : "medium.com\/@amyalexandral\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068247727950184453",
+  "text" : "RT @codepo8: \u201CWriting good text alternatives\u201D by Amy Leak https:\/\/t.co\/uFTCxZyFQt\n\nSpoiler: it is not \"image\"",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 45, 68 ],
+        "url" : "https:\/\/t.co\/uFTCxZyFQt",
+        "expanded_url" : "https:\/\/medium.com\/@amyalexandraleak\/should-you-use-alt-text-or-a-caption-48311e259ded",
+        "display_url" : "medium.com\/@amyalexandral\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1044688048443850754",
+    "text" : "\u201CWriting good text alternatives\u201D by Amy Leak https:\/\/t.co\/uFTCxZyFQt\n\nSpoiler: it is not \"image\"",
+    "id" : 1044688048443850754,
+    "created_at" : "2018-09-25 20:40:14 +0000",
+    "user" : {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "protected" : false,
+      "id_str" : "13567",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666904408\/codepo8_normal.png",
+      "id" : 13567,
+      "verified" : false
+    }
+  },
+  "id" : 1068247727950184453,
+  "created_at" : "2018-11-29 20:58:00 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Addy Osmani",
+      "screen_name" : "addyosmani",
+      "indices" : [ 3, 14 ],
+      "id_str" : "35432643",
+      "id" : 35432643
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 45, 68 ],
+      "url" : "https:\/\/t.co\/jgnciHyqFY",
+      "expanded_url" : "http:\/\/bit.ly\/perf-budgeting",
+      "display_url" : "bit.ly\/perf-budgeting"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068237773214228480",
+  "text" : "RT @addyosmani: Start Performance Budgeting: https:\/\/t.co\/jgnciHyqFY ~ if you\u2019re building a web experience and want to stay fast, a perform\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/addyosmani\/status\/1049547508224016384\/photo\/1",
+        "indices" : [ 152, 175 ],
+        "url" : "https:\/\/t.co\/vxetCxcU6V",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DpCe6O8UUAAOF0U.jpg",
+        "id_str" : "1049513436458012672",
+        "id" : 1049513436458012672,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DpCe6O8UUAAOF0U.jpg",
+        "sizes" : [ {
+          "h" : 1532,
+          "resize" : "fit",
+          "w" : 2960
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 352,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1060,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 621,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/vxetCxcU6V"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 29, 52 ],
+        "url" : "https:\/\/t.co\/jgnciHyqFY",
+        "expanded_url" : "http:\/\/bit.ly\/perf-budgeting",
+        "display_url" : "bit.ly\/perf-budgeting"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1049547508224016384",
+    "text" : "Start Performance Budgeting: https:\/\/t.co\/jgnciHyqFY ~ if you\u2019re building a web experience and want to stay fast, a performance budget can be critical. https:\/\/t.co\/vxetCxcU6V",
+    "id" : 1049547508224016384,
+    "created_at" : "2018-10-09 06:30:00 +0000",
+    "user" : {
+      "name" : "Addy Osmani",
+      "screen_name" : "addyosmani",
+      "protected" : false,
+      "id_str" : "35432643",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053159168197111808\/8eipWrau_normal.jpg",
+      "id" : 35432643,
+      "verified" : true
+    }
+  },
+  "id" : 1068237773214228480,
+  "created_at" : "2018-11-29 20:18:26 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lee Munroe",
+      "screen_name" : "leemunroe",
+      "indices" : [ 3, 13 ],
+      "id_str" : "9445012",
+      "id" : 9445012
+    }, {
+      "name" : "Matej Latin",
+      "screen_name" : "matejlatin",
+      "indices" : [ 60, 71 ],
+      "id_str" : "117172905",
+      "id" : 117172905
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068236282055352321",
+  "text" : "RT @leemunroe: Rhythm in Web Typography \u2014 a meaty post from @matejlatin with lots of type best practices for the web https:\/\/t.co\/ogbItrMcm\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Matej Latin",
+        "screen_name" : "matejlatin",
+        "indices" : [ 45, 56 ],
+        "id_str" : "117172905",
+        "id" : 117172905
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/leemunroe\/status\/1054447304453832705\/photo\/1",
+        "indices" : [ 126, 149 ],
+        "url" : "https:\/\/t.co\/uAJ97fjkuR",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DqImPCwXQAUu-Xu.jpg",
+        "id_str" : "1054447302637731845",
+        "id" : 1054447302637731845,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DqImPCwXQAUu-Xu.jpg",
+        "sizes" : [ {
+          "h" : 764,
+          "resize" : "fit",
+          "w" : 1146
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 764,
+          "resize" : "fit",
+          "w" : 1146
+        }, {
+          "h" : 764,
+          "resize" : "fit",
+          "w" : 1146
+        }, {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/uAJ97fjkuR"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/leemunroe\/status\/1054447304453832705\/photo\/1",
+        "indices" : [ 126, 149 ],
+        "url" : "https:\/\/t.co\/uAJ97fjkuR",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DqImO_RWwAEZmZd.jpg",
+        "id_str" : "1054447301702369281",
+        "id" : 1054447301702369281,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DqImO_RWwAEZmZd.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 354,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 401,
+          "resize" : "fit",
+          "w" : 770
+        }, {
+          "h" : 401,
+          "resize" : "fit",
+          "w" : 770
+        }, {
+          "h" : 401,
+          "resize" : "fit",
+          "w" : 770
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/uAJ97fjkuR"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/leemunroe\/status\/1054447304453832705\/photo\/1",
+        "indices" : [ 126, 149 ],
+        "url" : "https:\/\/t.co\/uAJ97fjkuR",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DqImPByXQAE30he.jpg",
+        "id_str" : "1054447302377684993",
+        "id" : 1054447302377684993,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DqImPByXQAE30he.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 369,
+          "resize" : "fit",
+          "w" : 770
+        }, {
+          "h" : 326,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 369,
+          "resize" : "fit",
+          "w" : 770
+        }, {
+          "h" : 369,
+          "resize" : "fit",
+          "w" : 770
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/uAJ97fjkuR"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/leemunroe\/status\/1054447304453832705\/photo\/1",
+        "indices" : [ 126, 149 ],
+        "url" : "https:\/\/t.co\/uAJ97fjkuR",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DqImPCeX0AEFmGM.jpg",
+        "id_str" : "1054447302562271233",
+        "id" : 1054447302562271233,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DqImPCeX0AEFmGM.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 361,
+          "resize" : "fit",
+          "w" : 770
+        }, {
+          "h" : 361,
+          "resize" : "fit",
+          "w" : 770
+        }, {
+          "h" : 361,
+          "resize" : "fit",
+          "w" : 770
+        }, {
+          "h" : 319,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/uAJ97fjkuR"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 102, 125 ],
+        "url" : "https:\/\/t.co\/ogbItrMcmg",
+        "expanded_url" : "https:\/\/buff.ly\/2AcEqBR",
+        "display_url" : "buff.ly\/2AcEqBR"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1054447304453832705",
+    "text" : "Rhythm in Web Typography \u2014 a meaty post from @matejlatin with lots of type best practices for the web https:\/\/t.co\/ogbItrMcmg https:\/\/t.co\/uAJ97fjkuR",
+    "id" : 1054447304453832705,
+    "created_at" : "2018-10-22 19:00:02 +0000",
+    "user" : {
+      "name" : "Lee Munroe",
+      "screen_name" : "leemunroe",
+      "protected" : false,
+      "id_str" : "9445012",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074151412303572993\/m_wdSACy_normal.jpg",
+      "id" : 9445012,
+      "verified" : false
+    }
+  },
+  "id" : 1068236282055352321,
+  "created_at" : "2018-11-29 20:12:31 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Carie Fisher",
+      "screen_name" : "cariefisher",
+      "indices" : [ 3, 15 ],
+      "id_str" : "153510452",
+      "id" : 153510452
+    }, {
+      "name" : "Envato Tuts+",
+      "screen_name" : "tutsplus",
+      "indices" : [ 24, 33 ],
+      "id_str" : "17163743",
+      "id" : 17163743
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "accessibility",
+      "indices" : [ 66, 80 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068234026538942465",
+  "text" : "RT @cariefisher: thanks @tutsplus for asking me to write for your #accessibility series!\ncheck out my article on Designing Accessible Conte\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Envato Tuts+",
+        "screen_name" : "tutsplus",
+        "indices" : [ 7, 16 ],
+        "id_str" : "17163743",
+        "id" : 17163743
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "accessibility",
+        "indices" : [ 49, 63 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 166, 189 ],
+        "url" : "https:\/\/t.co\/H7YSu7hh1C",
+        "expanded_url" : "https:\/\/webdesign.tutsplus.com\/articles\/designing-accessible-content-typography-font-styling-and-structure--cms-31934",
+        "display_url" : "webdesign.tutsplus.com\/articles\/desig\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1055444668534677504",
+    "text" : "thanks @tutsplus for asking me to write for your #accessibility series!\ncheck out my article on Designing Accessible Content: Typography, Font Styling, and Structure https:\/\/t.co\/H7YSu7hh1C",
+    "id" : 1055444668534677504,
+    "created_at" : "2018-10-25 13:03:12 +0000",
+    "user" : {
+      "name" : "Carie Fisher",
+      "screen_name" : "cariefisher",
+      "protected" : false,
+      "id_str" : "153510452",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052591665611923456\/CDmf6zeM_normal.jpg",
+      "id" : 153510452,
+      "verified" : false
+    }
+  },
+  "id" : 1068234026538942465,
+  "created_at" : "2018-11-29 20:03:33 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068222788442435584",
+  "text" : "RT @css: \u201CModern technology can be complex, but complexity by itself is neither good nor bad: it is confusion that is bad.\u201D - Don Norman\n\nh\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 129, 152 ],
+        "url" : "https:\/\/t.co\/WXHTwxX8J1",
+        "expanded_url" : "https:\/\/uxdesign.cc\/taming-complexity-c44c0447dec5",
+        "display_url" : "uxdesign.cc\/taming-complex\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1067460544670679043",
+    "text" : "\u201CModern technology can be complex, but complexity by itself is neither good nor bad: it is confusion that is bad.\u201D - Don Norman\n\nhttps:\/\/t.co\/WXHTwxX8J1\n\nCan we write CSS that handles complexity but isn't in itself complex or confusing?",
+    "id" : 1067460544670679043,
+    "created_at" : "2018-11-27 16:50:00 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068222788442435584,
+  "created_at" : "2018-11-29 19:18:54 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Janelle Shane",
+      "screen_name" : "JanelleCShane",
+      "indices" : [ 3, 17 ],
+      "id_str" : "2460047754",
+      "id" : 2460047754
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 108, 131 ],
+      "url" : "https:\/\/t.co\/Wtz0ewei9v",
+      "expanded_url" : "https:\/\/www.usap.gov\/videoclipsandmaps\/palWebCam.cfm",
+      "display_url" : "usap.gov\/videoclipsandm\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068222264020226049",
+  "text" : "RT @JanelleCShane: Important update: the Palmer Station penguin cam is operational, and has zoomed way in! \nhttps:\/\/t.co\/Wtz0ewei9v https:\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/JanelleCShane\/status\/1068196906344505344\/photo\/1",
+        "indices" : [ 113, 136 ],
+        "url" : "https:\/\/t.co\/SpvHH4KKtH",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DtL_WyVU4AAdQO0.jpg",
+        "id_str" : "1068196828573655040",
+        "id" : 1068196828573655040,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DtL_WyVU4AAdQO0.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 800
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/SpvHH4KKtH"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 89, 112 ],
+        "url" : "https:\/\/t.co\/Wtz0ewei9v",
+        "expanded_url" : "https:\/\/www.usap.gov\/videoclipsandmaps\/palWebCam.cfm",
+        "display_url" : "usap.gov\/videoclipsandm\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1068196906344505344",
+    "text" : "Important update: the Palmer Station penguin cam is operational, and has zoomed way in! \nhttps:\/\/t.co\/Wtz0ewei9v https:\/\/t.co\/SpvHH4KKtH",
+    "id" : 1068196906344505344,
+    "created_at" : "2018-11-29 17:36:03 +0000",
+    "user" : {
+      "name" : "Janelle Shane",
+      "screen_name" : "JanelleCShane",
+      "protected" : false,
+      "id_str" : "2460047754",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760660597427941376\/XdM-kqUr_normal.jpg",
+      "id" : 2460047754,
+      "verified" : false
+    }
+  },
+  "id" : 1068222264020226049,
+  "created_at" : "2018-11-29 19:16:49 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Web Platform\u00A0News",
+      "screen_name" : "WebPlatformNews",
+      "indices" : [ 3, 19 ],
+      "id_str" : "2423884231",
+      "id" : 2423884231
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 120, 143 ],
+      "url" : "https:\/\/t.co\/Z08Nb4lBdK",
+      "expanded_url" : "https:\/\/github.com\/simevidas\/webplatformnews-weekly\/blob\/master\/issues\/%5Bya%5D%20Issue%20052%20from%202018-05-21.md",
+      "display_url" : "github.com\/simevidas\/webp\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068221668005502976",
+  "text" : "RT @WebPlatformNews: Improving the accessibility of &lt;ins&gt; and &lt;del&gt; elements with  visually-hidden text \u27A1\uFE0E  https:\/\/t.co\/Z08Nb4lBdK https:\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/WebPlatformNews\/status\/1003476559674707968\/photo\/1",
+        "indices" : [ 123, 146 ],
+        "url" : "https:\/\/t.co\/o9RwNowDvN",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/De0QlvqWkAAndxT.jpg",
+        "id_str" : "1003476532608798720",
+        "id" : 1003476532608798720,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/De0QlvqWkAAndxT.jpg",
+        "sizes" : [ {
+          "h" : 317,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 954,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 559,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1002,
+          "resize" : "fit",
+          "w" : 2152
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/o9RwNowDvN"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 99, 122 ],
+        "url" : "https:\/\/t.co\/Z08Nb4lBdK",
+        "expanded_url" : "https:\/\/github.com\/simevidas\/webplatformnews-weekly\/blob\/master\/issues\/%5Bya%5D%20Issue%20052%20from%202018-05-21.md",
+        "display_url" : "github.com\/simevidas\/webp\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1003476559674707968",
+    "text" : "Improving the accessibility of &lt;ins&gt; and &lt;del&gt; elements with  visually-hidden text \u27A1\uFE0E  https:\/\/t.co\/Z08Nb4lBdK https:\/\/t.co\/o9RwNowDvN",
+    "id" : 1003476559674707968,
+    "created_at" : "2018-06-04 03:20:30 +0000",
+    "user" : {
+      "name" : "Web Platform\u00A0News",
+      "screen_name" : "WebPlatformNews",
+      "protected" : false,
+      "id_str" : "2423884231",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042979045393289216\/kHHPKYLP_normal.jpg",
+      "id" : 2423884231,
+      "verified" : false
+    }
+  },
+  "id" : 1068221668005502976,
+  "created_at" : "2018-11-29 19:14:26 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brad Frost",
+      "screen_name" : "brad_frost",
+      "indices" : [ 3, 14 ],
+      "id_str" : "11855482",
+      "id" : 11855482
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 45, 68 ],
+      "url" : "https:\/\/t.co\/cu1252opPk",
+      "expanded_url" : "https:\/\/codepen.io\/jkantner\/pen\/MGMMVo",
+      "display_url" : "codepen.io\/jkantner\/pen\/M\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068220278923280384",
+  "text" : "RT @brad_frost: This is freaking incredible. https:\/\/t.co\/cu1252opPk",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 29, 52 ],
+        "url" : "https:\/\/t.co\/cu1252opPk",
+        "expanded_url" : "https:\/\/codepen.io\/jkantner\/pen\/MGMMVo",
+        "display_url" : "codepen.io\/jkantner\/pen\/M\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1004011677069774848",
+    "text" : "This is freaking incredible. https:\/\/t.co\/cu1252opPk",
+    "id" : 1004011677069774848,
+    "created_at" : "2018-06-05 14:46:52 +0000",
+    "user" : {
+      "name" : "Brad Frost",
+      "screen_name" : "brad_frost",
+      "protected" : false,
+      "id_str" : "11855482",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
+      "id" : 11855482,
+      "verified" : false
+    }
+  },
+  "id" : 1068220278923280384,
+  "created_at" : "2018-11-29 19:08:55 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Harry Roberts",
+      "screen_name" : "csswizardry",
+      "indices" : [ 3, 15 ],
+      "id_str" : "24765829",
+      "id" : 24765829
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068219298085261318",
+  "text" : "RT @csswizardry: One of my favourite client graphs showing the before and after (and an unfortunate third-party outage\u2014they\u2019ll cripple you)\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/csswizardry\/status\/1003881067189800962\/photo\/1",
+        "indices" : [ 281, 304 ],
+        "url" : "https:\/\/t.co\/eo2IrXmMGO",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/De6ADGVXkAAh0kk.jpg",
+        "id_str" : "1003880557678399488",
+        "id" : 1003880557678399488,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/De6ADGVXkAAh0kk.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 145,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 468,
+          "resize" : "fit",
+          "w" : 2196
+        }, {
+          "h" : 256,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 436,
+          "resize" : "fit",
+          "w" : 2048
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/eo2IrXmMGO"
+      } ],
+      "hashtags" : [ {
+        "text" : "perfmatters",
+        "indices" : [ 268, 280 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1003881067189800962",
+    "text" : "One of my favourite client graphs showing the before and after (and an unfortunate third-party outage\u2014they\u2019ll cripple you) of a performance engagement we had together. Just one week\u2019s dedicated performance work led to consistent 2.61\u00D7 global performance improvements. #perfmatters https:\/\/t.co\/eo2IrXmMGO",
+    "id" : 1003881067189800962,
+    "created_at" : "2018-06-05 06:07:52 +0000",
+    "user" : {
+      "name" : "Harry Roberts",
+      "screen_name" : "csswizardry",
+      "protected" : false,
+      "id_str" : "24765829",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
+      "id" : 24765829,
+      "verified" : true
+    }
+  },
+  "id" : 1068219298085261318,
+  "created_at" : "2018-11-29 19:05:01 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Vincent Le Moign",
+      "screen_name" : "webalys",
+      "indices" : [ 3, 11 ],
+      "id_str" : "149365844",
+      "id" : 149365844
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068218746869882883",
+  "text" : "RT @webalys: How does one design 30,000 icons you might ask? \u00A0One at a time, very slowly and deliberately. \n\nCheck out the effort that went\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/webalys\/status\/1004720973243920384\/photo\/1",
+        "indices" : [ 194, 217 ],
+        "url" : "https:\/\/t.co\/uzO4nZtfPy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DfF7A1dVAAAv7h2.jpg",
+        "id_str" : "1004719446160637952",
+        "id" : 1004719446160637952,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DfF7A1dVAAAv7h2.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1944
+        }, {
+          "h" : 2107,
+          "resize" : "fit",
+          "w" : 2000
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 645
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 1139
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/uzO4nZtfPy"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 170, 193 ],
+        "url" : "https:\/\/t.co\/iMxraX3Pge",
+        "expanded_url" : "https:\/\/medium.com\/streamline-icons\/whats-new-in-streamline-3-0-1439d0951931",
+        "display_url" : "medium.com\/streamline-ico\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1004720973243920384",
+    "text" : "How does one design 30,000 icons you might ask? \u00A0One at a time, very slowly and deliberately. \n\nCheck out the effort that went into the upcoming Streamline 3.0 icon set: https:\/\/t.co\/iMxraX3Pge https:\/\/t.co\/uzO4nZtfPy",
+    "id" : 1004720973243920384,
+    "created_at" : "2018-06-07 13:45:21 +0000",
+    "user" : {
+      "name" : "Vincent Le Moign",
+      "screen_name" : "webalys",
+      "protected" : false,
+      "id_str" : "149365844",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1160142761\/vincent_normal.jpg",
+      "id" : 149365844,
+      "verified" : false
+    }
+  },
+  "id" : 1068218746869882883,
+  "created_at" : "2018-11-29 19:02:50 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mandy Michael",
+      "screen_name" : "Mandy_Kerr",
+      "indices" : [ 3, 14 ],
+      "id_str" : "42413226",
+      "id" : 42413226
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068213561019768832",
+  "text" : "RT @Mandy_Kerr: I\u2019m more convinced than ever that variable fonts are an important part of the future of web design so I wrote this article\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 160, 183 ],
+        "url" : "https:\/\/t.co\/AOW0II6DoQ",
+        "expanded_url" : "https:\/\/adobe.ly\/2IZvkdz",
+        "display_url" : "adobe.ly\/2IZvkdz"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1005340117559472128",
+    "text" : "I\u2019m more convinced than ever that variable fonts are an important part of the future of web design so I wrote this article for designers about the benefits! \uD83C\uDF1F\n\nhttps:\/\/t.co\/AOW0II6DoQ",
+    "id" : 1005340117559472128,
+    "created_at" : "2018-06-09 06:45:36 +0000",
+    "user" : {
+      "name" : "Mandy Michael",
+      "screen_name" : "Mandy_Kerr",
+      "protected" : false,
+      "id_str" : "42413226",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057810707595456512\/c417NQm3_normal.jpg",
+      "id" : 42413226,
+      "verified" : false
+    }
+  },
+  "id" : 1068213561019768832,
+  "created_at" : "2018-11-29 18:42:14 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Camille Le Roux",
+      "screen_name" : "CamilleLeRoux",
+      "indices" : [ 3, 17 ],
+      "id_str" : "128881149",
+      "id" : 128881149
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "uxstrat",
+      "indices" : [ 127, 135 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068213244265938944",
+  "text" : "RT @CamilleLeRoux: Rachel Liu talks about how to design by taking into account cultural differences. A fascinating case study! #uxstrat htt\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/CamilleLeRoux\/status\/1006119952108187648\/photo\/1",
+        "indices" : [ 117, 140 ],
+        "url" : "https:\/\/t.co\/u71McuXSib",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DfZz5ezX4AIT7Wg.jpg",
+        "id_str" : "1006118998122160130",
+        "id" : 1006118998122160130,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DfZz5ezX4AIT7Wg.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 900,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1536,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 510,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1536,
+          "resize" : "fit",
+          "w" : 2048
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/u71McuXSib"
+      } ],
+      "hashtags" : [ {
+        "text" : "uxstrat",
+        "indices" : [ 108, 116 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1006119952108187648",
+    "text" : "Rachel Liu talks about how to design by taking into account cultural differences. A fascinating case study! #uxstrat https:\/\/t.co\/u71McuXSib",
+    "id" : 1006119952108187648,
+    "created_at" : "2018-06-11 10:24:24 +0000",
+    "user" : {
+      "name" : "Camille Le Roux",
+      "screen_name" : "CamilleLeRoux",
+      "protected" : false,
+      "id_str" : "128881149",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514793530187739136\/BNwr323C_normal.jpeg",
+      "id" : 128881149,
+      "verified" : false
+    }
+  },
+  "id" : 1068213244265938944,
+  "created_at" : "2018-11-29 18:40:58 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Web Platform\u00A0News",
+      "screen_name" : "WebPlatformNews",
+      "indices" : [ 3, 19 ],
+      "id_str" : "2423884231",
+      "id" : 2423884231
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 100, 123 ],
+      "url" : "https:\/\/t.co\/eRngeXXe7B",
+      "expanded_url" : "https:\/\/github.com\/simevidas\/webplatformnews-weekly\/blob\/master\/issues\/%5Bxz%5D%20Issue%20053%20from%202018-05-28.md",
+      "display_url" : "github.com\/simevidas\/webp\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068213074543423489",
+  "text" : "RT @WebPlatformNews: Insufficient color contrast cannot be reliably detected with automated tools \u261E https:\/\/t.co\/eRngeXXe7B https:\/\/t.co\/nw\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/WebPlatformNews\/status\/1006377952026775552\/photo\/1",
+        "indices" : [ 103, 126 ],
+        "url" : "https:\/\/t.co\/nw1rhTHhwf",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DfdYZCOWsAE_733.jpg",
+        "id_str" : "1006370228857647105",
+        "id" : 1006370228857647105,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DfdYZCOWsAE_733.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 359,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1112,
+          "resize" : "fit",
+          "w" : 2108
+        }, {
+          "h" : 1080,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 633,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/nw1rhTHhwf"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 79, 102 ],
+        "url" : "https:\/\/t.co\/eRngeXXe7B",
+        "expanded_url" : "https:\/\/github.com\/simevidas\/webplatformnews-weekly\/blob\/master\/issues\/%5Bxz%5D%20Issue%20053%20from%202018-05-28.md",
+        "display_url" : "github.com\/simevidas\/webp\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1006377952026775552",
+    "text" : "Insufficient color contrast cannot be reliably detected with automated tools \u261E https:\/\/t.co\/eRngeXXe7B https:\/\/t.co\/nw1rhTHhwf",
+    "id" : 1006377952026775552,
+    "created_at" : "2018-06-12 03:29:36 +0000",
+    "user" : {
+      "name" : "Web Platform\u00A0News",
+      "screen_name" : "WebPlatformNews",
+      "protected" : false,
+      "id_str" : "2423884231",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042979045393289216\/kHHPKYLP_normal.jpg",
+      "id" : 2423884231,
+      "verified" : false
+    }
+  },
+  "id" : 1068213074543423489,
+  "created_at" : "2018-11-29 18:40:18 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1007397274622857218\/photo\/1",
+      "indices" : [ 91, 114 ],
+      "url" : "https:\/\/t.co\/cXLZOdQ4H0",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DfrqnlWVMAAWfAl.jpg",
+      "id_str" : "1007375432432300032",
+      "id" : 1007375432432300032,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DfrqnlWVMAAWfAl.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 646
+      }, {
+        "h" : 994,
+        "resize" : "fit",
+        "w" : 944
+      }, {
+        "h" : 994,
+        "resize" : "fit",
+        "w" : 944
+      }, {
+        "h" : 994,
+        "resize" : "fit",
+        "w" : 944
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/cXLZOdQ4H0"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 67, 90 ],
+      "url" : "https:\/\/t.co\/qVCRPyJLWL",
+      "expanded_url" : "https:\/\/jessepollak.github.io\/card\/",
+      "display_url" : "jessepollak.github.io\/card\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1068211076460888069",
+  "text" : "RT @css: \"Make your credit card form better in one line of code.\"\n\nhttps:\/\/t.co\/qVCRPyJLWL https:\/\/t.co\/cXLZOdQ4H0",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1007397274622857218\/photo\/1",
+        "indices" : [ 82, 105 ],
+        "url" : "https:\/\/t.co\/cXLZOdQ4H0",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DfrqnlWVMAAWfAl.jpg",
+        "id_str" : "1007375432432300032",
+        "id" : 1007375432432300032,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DfrqnlWVMAAWfAl.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 646
+        }, {
+          "h" : 994,
+          "resize" : "fit",
+          "w" : 944
+        }, {
+          "h" : 994,
+          "resize" : "fit",
+          "w" : 944
+        }, {
+          "h" : 994,
+          "resize" : "fit",
+          "w" : 944
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/cXLZOdQ4H0"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 58, 81 ],
+        "url" : "https:\/\/t.co\/qVCRPyJLWL",
+        "expanded_url" : "https:\/\/jessepollak.github.io\/card\/",
+        "display_url" : "jessepollak.github.io\/card\/"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1007397274622857218",
+    "text" : "\"Make your credit card form better in one line of code.\"\n\nhttps:\/\/t.co\/qVCRPyJLWL https:\/\/t.co\/cXLZOdQ4H0",
+    "id" : 1007397274622857218,
+    "created_at" : "2018-06-14 23:00:01 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068211076460888069,
+  "created_at" : "2018-11-29 18:32:21 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jordan Moore",
+      "screen_name" : "jordanmoore",
+      "indices" : [ 3, 15 ],
+      "id_str" : "9398872",
+      "id" : 9398872
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068210429636370432",
+  "text" : "RT @jordanmoore: Social network design challenges:\n\n- Provide context and attribution\n- Rethink features facilitating positive feedback loo\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1008032929744850944",
+    "text" : "Social network design challenges:\n\n- Provide context and attribution\n- Rethink features facilitating positive feedback loops (likes, claps, retweets) or explore countermeasures\n- Encourage diversity of opinion\n- Prize reason and truth over hyperbole\n- Fix the relevancy algorithm",
+    "id" : 1008032929744850944,
+    "created_at" : "2018-06-16 17:05:53 +0000",
+    "user" : {
+      "name" : "Jordan Moore",
+      "screen_name" : "jordanmoore",
+      "protected" : false,
+      "id_str" : "9398872",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067222317317701632\/SsUr0smW_normal.jpg",
+      "id" : 9398872,
+      "verified" : false
+    }
+  },
+  "id" : 1068210429636370432,
+  "created_at" : "2018-11-29 18:29:47 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andy Budd",
+      "screen_name" : "andybudd",
+      "indices" : [ 3, 12 ],
+      "id_str" : "60033",
+      "id" : 60033
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068210012571541504",
+  "text" : "RT @andybudd: Front end code quality and performance has a MASSIVE effect on the user experience. I\u2019m\nStarting to get really fed up seeing\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1009029908947980289",
+    "text" : "Front end code quality and performance has a MASSIVE effect on the user experience. I\u2019m\nStarting to get really fed up seeing machine generated front end code being spat out of libraries by back end developers that would never have passed muster 6 years ago.",
+    "id" : 1009029908947980289,
+    "created_at" : "2018-06-19 11:07:31 +0000",
+    "user" : {
+      "name" : "Andy Budd",
+      "screen_name" : "andybudd",
+      "protected" : false,
+      "id_str" : "60033",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756889658290765824\/mVz2gO19_normal.jpg",
+      "id" : 60033,
+      "verified" : false
+    }
+  },
+  "id" : 1068210012571541504,
+  "created_at" : "2018-11-29 18:28:08 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068209578700144640",
+  "text" : "RT @css: \"Repaintless.css in a lightweight animation library that consists only of animations that don't cause reflows and repaints\"\n\nhttps\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 125, 148 ],
+        "url" : "https:\/\/t.co\/qBFxGiuoQJ",
+        "expanded_url" : "http:\/\/szynszyliszys.github.io\/repaintless\/",
+        "display_url" : "szynszyliszys.github.io\/repaintless\/"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1009465908249669632",
+    "text" : "\"Repaintless.css in a lightweight animation library that consists only of animations that don't cause reflows and repaints\"\n\nhttps:\/\/t.co\/qBFxGiuoQJ\n\n(All the movement here is done with FLIP for 60fps performance.)",
+    "id" : 1009465908249669632,
+    "created_at" : "2018-06-20 16:00:02 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1068209578700144640,
+  "created_at" : "2018-11-29 18:26:24 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Harry Roberts",
+      "screen_name" : "csswizardry",
+      "indices" : [ 3, 15 ],
+      "id_str" : "24765829",
+      "id" : 24765829
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068168864163344384",
+  "text" : "RT @csswizardry: Can any W3 historians tell us why it\u2019s `&lt;link rel=\"stylesheet\" \/&gt;` and not `&lt;style src=\"\u2026\"&gt;`?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1068154542192242688",
+    "text" : "Can any W3 historians tell us why it\u2019s `&lt;link rel=\"stylesheet\" \/&gt;` and not `&lt;style src=\"\u2026\"&gt;`?",
+    "id" : 1068154542192242688,
+    "created_at" : "2018-11-29 14:47:42 +0000",
+    "user" : {
+      "name" : "Harry Roberts",
+      "screen_name" : "csswizardry",
+      "protected" : false,
+      "id_str" : "24765829",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842511021\/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
+      "id" : 24765829,
+      "verified" : true
+    }
+  },
+  "id" : 1068168864163344384,
+  "created_at" : "2018-11-29 15:44:37 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Guillermo Rauch",
+      "screen_name" : "rauchg",
+      "indices" : [ 3, 10 ],
+      "id_str" : "15540222",
+      "id" : 15540222
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068002900549533697",
+  "text" : "RT @rauchg: This `browsh` text-based browser is so. amazingly. good.\nThis is what the elders expected `lynx` to become\n\nhttps:\/\/t.co\/nkTmcw\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/rauchg\/status\/1016217612772990977\/photo\/1",
+        "indices" : [ 132, 155 ],
+        "url" : "https:\/\/t.co\/3BtkYfR91G",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DhpUVayUwAEqKKL.jpg",
+        "id_str" : "1016217392869851137",
+        "id" : 1016217392869851137,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DhpUVayUwAEqKKL.jpg",
+        "sizes" : [ {
+          "h" : 626,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 976,
+          "resize" : "fit",
+          "w" : 1870
+        }, {
+          "h" : 355,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 976,
+          "resize" : "fit",
+          "w" : 1870
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/3BtkYfR91G"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 108, 131 ],
+        "url" : "https:\/\/t.co\/nkTmcwk3c3",
+        "expanded_url" : "https:\/\/github.com\/browsh-org\/browsh",
+        "display_url" : "github.com\/browsh-org\/bro\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1016217612772990977",
+    "text" : "This `browsh` text-based browser is so. amazingly. good.\nThis is what the elders expected `lynx` to become\n\nhttps:\/\/t.co\/nkTmcwk3c3 https:\/\/t.co\/3BtkYfR91G",
+    "id" : 1016217612772990977,
+    "created_at" : "2018-07-09 07:08:53 +0000",
+    "user" : {
+      "name" : "Guillermo Rauch",
+      "screen_name" : "rauchg",
+      "protected" : false,
+      "id_str" : "15540222",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029230542716264448\/LgLb--Of_normal.jpg",
+      "id" : 15540222,
+      "verified" : true
+    }
+  },
+  "id" : 1068002900549533697,
+  "created_at" : "2018-11-29 04:45:08 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1068002248410710017",
+  "text" : "ME: \"Hi, this is a request to delete this member profile from site XYZ\"\n\nXYZ: \"This information can be found on google, so it will not be removed\"\n\nMe: \"Please reference number [redacted] where you had no problem doing so a year ago. I believe this violates GDPR Right to erasure\"",
+  "id" : 1068002248410710017,
+  "created_at" : "2018-11-29 04:42:33 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067994435781386241",
+  "text" : "RT @css: \"Recent AB tests we\u2019ve done suggest that many ecommerce sites could see an increase in mobile conversion rate by adding a \u201Cbar\u201D of\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1017076045764222976\/photo\/1",
+        "indices" : [ 260, 283 ],
+        "url" : "https:\/\/t.co\/VssyXVExoH",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dhx-S7WUwAEY4qw.png",
+        "id_str" : "1016826479512961025",
+        "id" : 1016826479512961025,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dhx-S7WUwAEY4qw.png",
+        "sizes" : [ {
+          "h" : 497,
+          "resize" : "fit",
+          "w" : 733
+        }, {
+          "h" : 497,
+          "resize" : "fit",
+          "w" : 733
+        }, {
+          "h" : 461,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 497,
+          "resize" : "fit",
+          "w" : 733
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/VssyXVExoH"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 236, 259 ],
+        "url" : "https:\/\/t.co\/LdPjRSXo16",
+        "expanded_url" : "http:\/\/growthrock.co\/ecommerce-mobile-home-page-navigation\/",
+        "display_url" : "growthrock.co\/ecommerce-mobi\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1017076045764222976",
+    "text" : "\"Recent AB tests we\u2019ve done suggest that many ecommerce sites could see an increase in mobile conversion rate by adding a \u201Cbar\u201D of navigation links at the top of their mobile homepage, instead of relying solely on the hamburger menu.\"\n\nhttps:\/\/t.co\/LdPjRSXo16 https:\/\/t.co\/VssyXVExoH",
+    "id" : 1017076045764222976,
+    "created_at" : "2018-07-11 16:00:00 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067994435781386241,
+  "created_at" : "2018-11-29 04:11:30 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Patrick Brosset",
+      "screen_name" : "patrickbrosset",
+      "indices" : [ 3, 18 ],
+      "id_str" : "17022950",
+      "id" : 17022950
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 20, 43 ],
+      "url" : "https:\/\/t.co\/vDEmKn43mv",
+      "expanded_url" : "https:\/\/play.typedetail.com\/",
+      "display_url" : "play.typedetail.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067972480789348352",
+  "text" : "RT @patrickbrosset: https:\/\/t.co\/vDEmKn43mv is really cool for playing with variable fonts.\n\nWhat's even cooler you ask? Playing with them\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Firefox DevTools",
+        "screen_name" : "FirefoxDevTools",
+        "indices" : [ 130, 146 ],
+        "id_str" : "1599870367",
+        "id" : 1599870367
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/patrickbrosset\/status\/1019227824698351616\/photo\/1",
+        "indices" : [ 181, 204 ],
+        "url" : "https:\/\/t.co\/u7848OSMbJ",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DiUGM3DW4AASVDn.jpg",
+        "id_str" : "1019227708675514368",
+        "id" : 1019227708675514368,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DiUGM3DW4AASVDn.jpg",
+        "sizes" : [ {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1214
+        }, {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1214
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 759,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 430,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/u7848OSMbJ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 0, 23 ],
+        "url" : "https:\/\/t.co\/vDEmKn43mv",
+        "expanded_url" : "https:\/\/play.typedetail.com\/",
+        "display_url" : "play.typedetail.com"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1019227824698351616",
+    "text" : "https:\/\/t.co\/vDEmKn43mv is really cool for playing with variable fonts.\n\nWhat's even cooler you ask? Playing with them right from @FirefoxDevTools (in Firefox Nightly for now only) https:\/\/t.co\/u7848OSMbJ",
+    "id" : 1019227824698351616,
+    "created_at" : "2018-07-17 14:30:24 +0000",
+    "user" : {
+      "name" : "Patrick Brosset",
+      "screen_name" : "patrickbrosset",
+      "protected" : false,
+      "id_str" : "17022950",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049195344775598080\/__CcrJNY_normal.jpg",
+      "id" : 17022950,
+      "verified" : false
+    }
+  },
+  "id" : 1067972480789348352,
+  "created_at" : "2018-11-29 02:44:16 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ilya Grigorik",
+      "screen_name" : "igrigorik",
+      "indices" : [ 3, 13 ],
+      "id_str" : "9980812",
+      "id" : 9980812
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 50, 73 ],
+      "url" : "https:\/\/t.co\/fndQVEE56x",
+      "expanded_url" : "http:\/\/bit.ly\/2NmP9xg",
+      "display_url" : "bit.ly\/2NmP9xg"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067972384995590144",
+  "text" : "RT @igrigorik: Building the Google Photos Web UI: https:\/\/t.co\/fndQVEE56x \u2014 turns out, a \"simple\" photo grid ain't so simple and a performa\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/igrigorik\/status\/1019618297514418176\/photo\/1",
+        "indices" : [ 223, 246 ],
+        "url" : "https:\/\/t.co\/lvnSmyp1JQ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DiXP2ZDUwAAt3kh.jpg",
+        "id_str" : "1019449424014000128",
+        "id" : 1019449424014000128,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DiXP2ZDUwAAt3kh.jpg",
+        "sizes" : [ {
+          "h" : 363,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 982,
+          "resize" : "fit",
+          "w" : 1842
+        }, {
+          "h" : 982,
+          "resize" : "fit",
+          "w" : 1842
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/lvnSmyp1JQ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 35, 58 ],
+        "url" : "https:\/\/t.co\/fndQVEE56x",
+        "expanded_url" : "http:\/\/bit.ly\/2NmP9xg",
+        "display_url" : "bit.ly\/2NmP9xg"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1019618297514418176",
+    "text" : "Building the Google Photos Web UI: https:\/\/t.co\/fndQVEE56x \u2014 turns out, a \"simple\" photo grid ain't so simple and a performant grid is no small feat! An awesome under the hood look at the magic behind Google Photos layout. https:\/\/t.co\/lvnSmyp1JQ",
+    "id" : 1019618297514418176,
+    "created_at" : "2018-07-18 16:22:00 +0000",
+    "user" : {
+      "name" : "Ilya Grigorik",
+      "screen_name" : "igrigorik",
+      "protected" : false,
+      "id_str" : "9980812",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458689841186611200\/SMmZLt2Y_normal.jpeg",
+      "id" : 9980812,
+      "verified" : true
+    }
+  },
+  "id" : 1067972384995590144,
+  "created_at" : "2018-11-29 02:43:53 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Calvano",
+      "screen_name" : "paulcalvano",
+      "indices" : [ 3, 15 ],
+      "id_str" : "1521995292",
+      "id" : 1521995292
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067967476208672768",
+  "text" : "RT @paulcalvano: Brotli compression can shave off up to 25% more bytes compared to Gzip compression, and it's widely supported. But how muc\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/paulcalvano\/status\/1022105827178684416\/photo\/1",
+        "indices" : [ 259, 282 ],
+        "url" : "https:\/\/t.co\/llUoIliHA5",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Di8_pYWX4AE3GoT.jpg",
+        "id_str" : "1022105620579868673",
+        "id" : 1022105620579868673,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Di8_pYWX4AE3GoT.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 785,
+          "resize" : "fit",
+          "w" : 1011
+        }, {
+          "h" : 528,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 785,
+          "resize" : "fit",
+          "w" : 1011
+        }, {
+          "h" : 785,
+          "resize" : "fit",
+          "w" : 1011
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/llUoIliHA5"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 235, 258 ],
+        "url" : "https:\/\/t.co\/MlcIaqlVl2",
+        "expanded_url" : "https:\/\/paulcalvano.com\/index.php\/2018\/07\/25\/brotli-compression-how-much-will-it-reduce-your-content\/",
+        "display_url" : "paulcalvano.com\/index.php\/2018\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1022105827178684416",
+    "text" : "Brotli compression can shave off up to 25% more bytes compared to Gzip compression, and it's widely supported. But how much will it help your site? I wrote a blog post and a simple tool that helps you figure this out for your content! https:\/\/t.co\/MlcIaqlVl2 https:\/\/t.co\/llUoIliHA5",
+    "id" : 1022105827178684416,
+    "created_at" : "2018-07-25 13:06:33 +0000",
+    "user" : {
+      "name" : "Paul Calvano",
+      "screen_name" : "paulcalvano",
+      "protected" : false,
+      "id_str" : "1521995292",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652211754164948992\/qISf45Za_normal.jpg",
+      "id" : 1521995292,
+      "verified" : false
+    }
+  },
+  "id" : 1067967476208672768,
+  "created_at" : "2018-11-29 02:24:22 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067965145920536576",
+  "text" : "RT @smashingmag: \u201CEmbrace performance budgets and learn to live within them. For mobile, aim for a JS budget of &lt; 170KB minified\/compressed\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Addy Osmani",
+        "screen_name" : "addyosmani",
+        "indices" : [ 208, 219 ],
+        "id_str" : "35432643",
+        "id" : 35432643
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/1024968471556382720\/photo\/1",
+        "indices" : [ 244, 267 ],
+        "url" : "https:\/\/t.co\/hpQP3pp4b3",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DjlrRsmXoAET85E.jpg",
+        "id_str" : "1024968341977538561",
+        "id" : 1024968341977538561,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DjlrRsmXoAET85E.jpg",
+        "sizes" : [ {
+          "h" : 444,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 377,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 444,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 444,
+          "resize" : "fit",
+          "w" : 800
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/hpQP3pp4b3"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 220, 243 ],
+        "url" : "https:\/\/t.co\/LRi3bwRwdj",
+        "expanded_url" : "https:\/\/medium.com\/@addyosmani\/the-cost-of-javascript-in-2018-7d8950fbb5d4",
+        "display_url" : "medium.com\/@addyosmani\/th\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1024968471556382720",
+    "text" : "\u201CEmbrace performance budgets and learn to live within them. For mobile, aim for a JS budget of &lt; 170KB minified\/compressed. Uncompressed this is still ~0.7MB of code.\u201D\n\n\u21AC The Cost Of JavaScript In 2018 by @addyosmani\nhttps:\/\/t.co\/LRi3bwRwdj https:\/\/t.co\/hpQP3pp4b3",
+    "id" : 1024968471556382720,
+    "created_at" : "2018-08-02 10:41:41 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 1067965145920536576,
+  "created_at" : "2018-11-29 02:15:07 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1027301392229314560\/photo\/1",
+      "indices" : [ 101, 124 ],
+      "url" : "https:\/\/t.co\/q9slGB03vD",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DkG1K-2UYAA2aQc.jpg",
+      "id_str" : "1027301390291329024",
+      "id" : 1027301390291329024,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DkG1K-2UYAA2aQc.jpg",
+      "sizes" : [ {
+        "h" : 512,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 512,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 512,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/q9slGB03vD"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/CPCbJxIWVK",
+      "expanded_url" : "https:\/\/css-tricks.com\/heres-how-i-recreated-theory11s-login-form-how-would-you-do-it\/",
+      "display_url" : "css-tricks.com\/heres-how-i-re\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067960762923134976",
+  "text" : "RT @css: Here's how I recreated theory11's login form \u2014 how would you do it? https:\/\/t.co\/CPCbJxIWVK https:\/\/t.co\/q9slGB03vD",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/publicize.wp.com\/\" rel=\"nofollow\"\u003EWordPress.com\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Real_CSS_Tricks\/status\/1027301392229314560\/photo\/1",
+        "indices" : [ 92, 115 ],
+        "url" : "https:\/\/t.co\/q9slGB03vD",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DkG1K-2UYAA2aQc.jpg",
+        "id_str" : "1027301390291329024",
+        "id" : 1027301390291329024,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DkG1K-2UYAA2aQc.jpg",
+        "sizes" : [ {
+          "h" : 512,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 512,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 512,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/q9slGB03vD"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 68, 91 ],
+        "url" : "https:\/\/t.co\/CPCbJxIWVK",
+        "expanded_url" : "https:\/\/css-tricks.com\/heres-how-i-recreated-theory11s-login-form-how-would-you-do-it\/",
+        "display_url" : "css-tricks.com\/heres-how-i-re\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1027301392229314560",
+    "text" : "Here's how I recreated theory11's login form \u2014 how would you do it? https:\/\/t.co\/CPCbJxIWVK https:\/\/t.co\/q9slGB03vD",
+    "id" : 1027301392229314560,
+    "created_at" : "2018-08-08 21:11:52 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067960762923134976,
+  "created_at" : "2018-11-29 01:57:42 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Laura Summers",
+      "screen_name" : "summerscope",
+      "indices" : [ 3, 15 ],
+      "id_str" : "54474959",
+      "id" : 54474959
+    }, {
+      "name" : "Monica Dinculescu",
+      "screen_name" : "notwaldorf",
+      "indices" : [ 54, 65 ],
+      "id_str" : "167834639",
+      "id" : 167834639
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067960286949318657",
+  "text" : "RT @summerscope: TIL about this rad resource built by @notwaldorf to compare font rendering for your font stack avoiding ugly and annoying\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Monica Dinculescu",
+        "screen_name" : "notwaldorf",
+        "indices" : [ 37, 48 ],
+        "id_str" : "167834639",
+        "id" : 167834639
+      }, {
+        "name" : "Ben Schwarz",
+        "screen_name" : "benschwarz",
+        "indices" : [ 182, 193 ],
+        "id_str" : "14431882",
+        "id" : 14431882
+      }, {
+        "name" : "MelbJS",
+        "screen_name" : "melbjs",
+        "indices" : [ 197, 204 ],
+        "id_str" : "334488320",
+        "id" : 334488320
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 207, 230 ],
+        "url" : "https:\/\/t.co\/zKylI01QLg",
+        "expanded_url" : "https:\/\/meowni.ca\/font-style-matcher\/",
+        "display_url" : "meowni.ca\/font-style-mat\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1027116853724733445",
+    "text" : "TIL about this rad resource built by @notwaldorf to compare font rendering for your font stack avoiding ugly and annoying mismatches when the custom font is loaded and swaps out \uD83D\uDC4F\uD83D\uDE0E\n\n@benschwarz at @melbjs \n\nhttps:\/\/t.co\/zKylI01QLg",
+    "id" : 1027116853724733445,
+    "created_at" : "2018-08-08 08:58:35 +0000",
+    "user" : {
+      "name" : "Laura Summers",
+      "screen_name" : "summerscope",
+      "protected" : false,
+      "id_str" : "54474959",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987239074845966336\/-K1TOJla_normal.jpg",
+      "id" : 54474959,
+      "verified" : false
+    }
+  },
+  "id" : 1067960286949318657,
+  "created_at" : "2018-11-29 01:55:48 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sean Thomas Larkin (\u8096\u6069)",
+      "screen_name" : "TheLarkInn",
+      "indices" : [ 3, 14 ],
+      "id_str" : "17607249",
+      "id" : 17607249
+    }, {
+      "name" : "Brian Holt",
+      "screen_name" : "holtbt",
+      "indices" : [ 34, 41 ],
+      "id_str" : "194479949",
+      "id" : 194479949
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/eAXM5a3izF",
+      "expanded_url" : "http:\/\/LinkedIn.com",
+      "display_url" : "LinkedIn.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067959508016734214",
+  "text" : "RT @TheLarkInn: Enjoying watching @holtbt show people what it's like to load https:\/\/t.co\/eAXM5a3izF on 2G\/3G (36+ seconds). That's 95% of\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Brian Holt",
+        "screen_name" : "holtbt",
+        "indices" : [ 18, 25 ],
+        "id_str" : "194479949",
+        "id" : 194479949
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 61, 84 ],
+        "url" : "https:\/\/t.co\/eAXM5a3izF",
+        "expanded_url" : "http:\/\/LinkedIn.com",
+        "display_url" : "LinkedIn.com"
+      }, {
+        "indices" : [ 250, 273 ],
+        "url" : "https:\/\/t.co\/M2ZL9JI0JQ",
+        "expanded_url" : "https:\/\/youtu.be\/1rLO29KVyqY?t=3h6m22s",
+        "display_url" : "youtu.be\/1rLO29KVyqY?t=\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1028310944827375616",
+    "text" : "Enjoying watching @holtbt show people what it's like to load https:\/\/t.co\/eAXM5a3izF on 2G\/3G (36+ seconds). That's 95% of your sessions lost for emerging markets. Instantly. Choosing the right architecture matters, even if it means starting over. \n\nhttps:\/\/t.co\/M2ZL9JI0JQ",
+    "id" : 1028310944827375616,
+    "created_at" : "2018-08-11 16:03:28 +0000",
+    "user" : {
+      "name" : "Sean Thomas Larkin (\u8096\u6069)",
+      "screen_name" : "TheLarkInn",
+      "protected" : false,
+      "id_str" : "17607249",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923008231689003008\/ChLxnzy9_normal.jpg",
+      "id" : 17607249,
+      "verified" : false
+    }
+  },
+  "id" : 1067959508016734214,
+  "created_at" : "2018-11-29 01:52:43 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jessica Kerr",
+      "screen_name" : "jessitron",
+      "indices" : [ 3, 13 ],
+      "id_str" : "25103",
+      "id" : 25103
+    }, {
+      "name" : "Nora Jones",
+      "screen_name" : "nora_js",
+      "indices" : [ 124, 132 ],
+      "id_str" : "37360448",
+      "id" : 37360448
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067957788209491971",
+  "text" : "RT @jessitron: Safety is not eliminating errors.\nIt\u2019s improving our ability to react to them and lowering the blast radius. @nora_js #REDep\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Nora Jones",
+        "screen_name" : "nora_js",
+        "indices" : [ 109, 117 ],
+        "id_str" : "37360448",
+        "id" : 37360448
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/jessitron\/status\/1030237286871400448\/photo\/1",
+        "indices" : [ 132, 155 ],
+        "url" : "https:\/\/t.co\/V9cO2dvrb4",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DkwjWM2UUAA0TRM.jpg",
+        "id_str" : "1030237279074144256",
+        "id" : 1030237279074144256,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DkwjWM2UUAA0TRM.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 342,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1031,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 604,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1031,
+          "resize" : "fit",
+          "w" : 2048
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/V9cO2dvrb4"
+      } ],
+      "hashtags" : [ {
+        "text" : "REDeployConf",
+        "indices" : [ 118, 131 ]
+      } ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "1030237009544019968",
+    "geo" : { },
+    "id_str" : "1030237286871400448",
+    "in_reply_to_user_id" : 25103,
+    "text" : "Safety is not eliminating errors.\nIt\u2019s improving our ability to react to them and lowering the blast radius. @nora_js #REDeployConf https:\/\/t.co\/V9cO2dvrb4",
+    "id" : 1030237286871400448,
+    "in_reply_to_status_id" : 1030237009544019968,
+    "created_at" : "2018-08-16 23:38:04 +0000",
+    "in_reply_to_screen_name" : "jessitron",
+    "in_reply_to_user_id_str" : "25103",
+    "user" : {
+      "name" : "Jessica Kerr",
+      "screen_name" : "jessitron",
+      "protected" : false,
+      "id_str" : "25103",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893202935009615872\/ef-H8FtJ_normal.jpg",
+      "id" : 25103,
+      "verified" : false
+    }
+  },
+  "id" : 1067957788209491971,
+  "created_at" : "2018-11-29 01:45:53 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Charlie Croom",
+      "screen_name" : "CharlieCroom",
+      "indices" : [ 3, 16 ],
+      "id_str" : "311738663",
+      "id" : 311738663
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067956692669861888",
+  "text" : "RT @CharlieCroom: One downside of PWAs is that it can be hard to tell when things change; there's no version notes in the store :(\n\nTo try\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "TwitterPWA",
+        "indices" : [ 269, 280 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 215, 238 ],
+        "url" : "https:\/\/t.co\/ZU1S2KQv5a",
+        "expanded_url" : "https:\/\/twitter.com\/i\/release_notes",
+        "display_url" : "twitter.com\/i\/release_notes"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1030596030339768321",
+    "text" : "One downside of PWAs is that it can be hard to tell when things change; there's no version notes in the store :(\n\nTo try and keep people in the loop with changes, we're starting web release notes (incl os specific) https:\/\/t.co\/ZU1S2KQv5a\n\nIt's been a big week, enjoy! #TwitterPWA",
+    "id" : 1030596030339768321,
+    "created_at" : "2018-08-17 23:23:35 +0000",
+    "user" : {
+      "name" : "Charlie Croom",
+      "screen_name" : "CharlieCroom",
+      "protected" : false,
+      "id_str" : "311738663",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440571257906421760\/YvCKDWrf_normal.jpeg",
+      "id" : 311738663,
+      "verified" : false
+    }
+  },
+  "id" : 1067956692669861888,
+  "created_at" : "2018-11-29 01:41:31 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Arnaud Delafosse",
+      "screen_name" : "arnauddelafosse",
+      "indices" : [ 3, 19 ],
+      "id_str" : "47571604",
+      "id" : 47571604
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "UX",
+      "indices" : [ 44, 47 ]
+    }, {
+      "text" : "UI",
+      "indices" : [ 48, 51 ]
+    }, {
+      "text" : "CSS",
+      "indices" : [ 70, 74 ]
+    }, {
+      "text" : "a11y",
+      "indices" : [ 99, 104 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067956315073449984",
+  "text" : "RT @arnauddelafosse: Indeed. Some real-life #UX #UI examples and some #CSS goodies too for instant #a11y gratification. \uD83D\uDC4D\nNotes from the ta\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "UX",
+        "indices" : [ 23, 26 ]
+      }, {
+        "text" : "UI",
+        "indices" : [ 27, 30 ]
+      }, {
+        "text" : "CSS",
+        "indices" : [ 49, 53 ]
+      }, {
+        "text" : "a11y",
+        "indices" : [ 78, 83 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 131, 154 ],
+        "url" : "https:\/\/t.co\/OAjfBbJz3Q",
+        "expanded_url" : "http:\/\/juliegrundy.id.au\/links\/low-vis\/notes.html",
+        "display_url" : "juliegrundy.id.au\/links\/low-vis\/\u2026"
+      }, {
+        "indices" : [ 244, 267 ],
+        "url" : "https:\/\/t.co\/YxCuX1lHZz",
+        "expanded_url" : "https:\/\/twitter.com\/webaxe\/status\/1004375322421182464",
+        "display_url" : "twitter.com\/webaxe\/status\/\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1004734796138938369",
+    "text" : "Indeed. Some real-life #UX #UI examples and some #CSS goodies too for instant #a11y gratification. \uD83D\uDC4D\nNotes from the talk are here: https:\/\/t.co\/OAjfBbJz3Q\nBTW, luv the\ninput,\nbutton \u007B\n   border: 1px solid transparent;\n \u007D\nfor High Contrast Mode https:\/\/t.co\/YxCuX1lHZz",
+    "id" : 1004734796138938369,
+    "created_at" : "2018-06-07 14:40:17 +0000",
+    "user" : {
+      "name" : "Arnaud Delafosse",
+      "screen_name" : "arnauddelafosse",
+      "protected" : false,
+      "id_str" : "47571604",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786609920779161601\/iHF-J-42_normal.jpg",
+      "id" : 47571604,
+      "verified" : false
+    }
+  },
+  "id" : 1067956315073449984,
+  "created_at" : "2018-11-29 01:40:01 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marc Edwards",
+      "screen_name" : "marcedwards",
+      "indices" : [ 3, 15 ],
+      "id_str" : "18865450",
+      "id" : 18865450
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/marcedwards\/status\/865462502661832704\/photo\/1",
+      "indices" : [ 65, 88 ],
+      "url" : "https:\/\/t.co\/7ynb2gdGH2",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAK9iJ2VYAEdz6e.jpg",
+      "id_str" : "865462472865570817",
+      "id" : 865462472865570817,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAK9iJ2VYAEdz6e.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 536,
+        "resize" : "fit",
+        "w" : 790
+      }, {
+        "h" : 536,
+        "resize" : "fit",
+        "w" : 790
+      }, {
+        "h" : 536,
+        "resize" : "fit",
+        "w" : 790
+      }, {
+        "h" : 461,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/7ynb2gdGH2"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 41, 64 ],
+      "url" : "https:\/\/t.co\/IWMFPrAYQe",
+      "expanded_url" : "https:\/\/bjango.com\/articles\/iconspeedruns\/",
+      "display_url" : "bjango.com\/articles\/icons\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067955769054760960",
+  "text" : "RT @marcedwards: Vector icon speed runs. https:\/\/t.co\/IWMFPrAYQe https:\/\/t.co\/7ynb2gdGH2",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/marcedwards\/status\/865462502661832704\/photo\/1",
+        "indices" : [ 48, 71 ],
+        "url" : "https:\/\/t.co\/7ynb2gdGH2",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAK9iJ2VYAEdz6e.jpg",
+        "id_str" : "865462472865570817",
+        "id" : 865462472865570817,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAK9iJ2VYAEdz6e.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 536,
+          "resize" : "fit",
+          "w" : 790
+        }, {
+          "h" : 536,
+          "resize" : "fit",
+          "w" : 790
+        }, {
+          "h" : 536,
+          "resize" : "fit",
+          "w" : 790
+        }, {
+          "h" : 461,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/7ynb2gdGH2"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 24, 47 ],
+        "url" : "https:\/\/t.co\/IWMFPrAYQe",
+        "expanded_url" : "https:\/\/bjango.com\/articles\/iconspeedruns\/",
+        "display_url" : "bjango.com\/articles\/icons\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "865462502661832704",
+    "text" : "Vector icon speed runs. https:\/\/t.co\/IWMFPrAYQe https:\/\/t.co\/7ynb2gdGH2",
+    "id" : 865462502661832704,
+    "created_at" : "2017-05-19 07:01:54 +0000",
+    "user" : {
+      "name" : "Marc Edwards",
+      "screen_name" : "marcedwards",
+      "protected" : false,
+      "id_str" : "18865450",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060115552021098496\/pVI98tPR_normal.jpg",
+      "id" : 18865450,
+      "verified" : true
+    }
+  },
+  "id" : 1067955769054760960,
+  "created_at" : "2018-11-29 01:37:51 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
+      "screen_name" : "_developit",
+      "indices" : [ 3, 14 ],
+      "id_str" : "16495353",
+      "id" : 16495353
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067951484975964160",
+  "text" : "RT @_developit: \uD83D\uDCE6 Size Plugin for Webpack!\n\n\uD83D\uDD75\uFE0F\u200D\u2640\uFE0F Keep an eye on those bundle sizes...\n\uD83C\uDFCB\uFE0F\u200D\u2642\uFE0F Shows compressed sizes\n#\uFE0F\u20E3 Compares even if fi\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/_developit\/status\/1033051134087323649\/photo\/1",
+        "indices" : [ 190, 213 ],
+        "url" : "https:\/\/t.co\/Qx2pV3Soas",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DlYfjhqUYAEXu6b.png",
+        "id_str" : "1033047859719856129",
+        "id" : 1033047859719856129,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DlYfjhqUYAEXu6b.png",
+        "sizes" : [ {
+          "h" : 484,
+          "resize" : "fit",
+          "w" : 1204
+        }, {
+          "h" : 484,
+          "resize" : "fit",
+          "w" : 1204
+        }, {
+          "h" : 482,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 273,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/Qx2pV3Soas"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 166, 189 ],
+        "url" : "https:\/\/t.co\/FavNc6RDLK",
+        "expanded_url" : "https:\/\/github.com\/GoogleChromeLabs\/size-plugin",
+        "display_url" : "github.com\/GoogleChromeLa\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1033051134087323649",
+    "text" : "\uD83D\uDCE6 Size Plugin for Webpack!\n\n\uD83D\uDD75\uFE0F\u200D\u2640\uFE0F Keep an eye on those bundle sizes...\n\uD83C\uDFCB\uFE0F\u200D\u2642\uFE0F Shows compressed sizes\n#\uFE0F\u20E3 Compares even if file hashes change\n&gt; npm i -D size-plugin\nhttps:\/\/t.co\/FavNc6RDLK https:\/\/t.co\/Qx2pV3Soas",
+    "id" : 1033051134087323649,
+    "created_at" : "2018-08-24 17:59:18 +0000",
+    "user" : {
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
+      "screen_name" : "_developit",
+      "protected" : false,
+      "id_str" : "16495353",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983777756147343360\/LQqydtiV_normal.jpg",
+      "id" : 16495353,
+      "verified" : false
+    }
+  },
+  "id" : 1067951484975964160,
+  "created_at" : "2018-11-29 01:20:50 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nathan Curtis",
+      "screen_name" : "nathanacurtis",
+      "indices" : [ 3, 17 ],
+      "id_str" : "9125002",
+      "id" : 9125002
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067951383515725824",
+  "text" : "RT @nathanacurtis: Visual Breaking Change in Design Systems:\nWe Respect Code APIs. But What About Color, Type and Space?\n\nMy latest on @med\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Medium",
+        "screen_name" : "Medium",
+        "indices" : [ 116, 123 ],
+        "id_str" : "571202103",
+        "id" : 571202103
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 125, 148 ],
+        "url" : "https:\/\/t.co\/XAg2R3gu24",
+        "expanded_url" : "https:\/\/medium.com\/@nathanacurtis\/visual-breaking-change-in-design-systems-1e9109fac9c4",
+        "display_url" : "medium.com\/@nathanacurtis\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1033212473321644032",
+    "text" : "Visual Breaking Change in Design Systems:\nWe Respect Code APIs. But What About Color, Type and Space?\n\nMy latest on @medium.\nhttps:\/\/t.co\/XAg2R3gu24",
+    "id" : 1033212473321644032,
+    "created_at" : "2018-08-25 04:40:24 +0000",
+    "user" : {
+      "name" : "Nathan Curtis",
+      "screen_name" : "nathanacurtis",
+      "protected" : false,
+      "id_str" : "9125002",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/962561017455697920\/MK5KUgk6_normal.jpg",
+      "id" : 9125002,
+      "verified" : false
+    }
+  },
+  "id" : 1067951383515725824,
+  "created_at" : "2018-11-29 01:20:26 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067950409799671808",
+  "text" : "RT @css: \u201CHTML isn\u2019t just the foundation that we build our websites on it plays a vital role in making our websites function as expected ac\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Mandy Michael",
+        "screen_name" : "Mandy_Kerr",
+        "indices" : [ 172, 183 ],
+        "id_str" : "42413226",
+        "id" : 42413226
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1033698087624220672\/photo\/1",
+        "indices" : [ 257, 280 ],
+        "url" : "https:\/\/t.co\/vO3tv7bFl2",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dlhu7qyXoAEPQLI.jpg",
+        "id_str" : "1033698085858418689",
+        "id" : 1033698085858418689,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dlhu7qyXoAEPQLI.jpg",
+        "sizes" : [ {
+          "h" : 790,
+          "resize" : "fit",
+          "w" : 1486
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 790,
+          "resize" : "fit",
+          "w" : 1486
+        }, {
+          "h" : 638,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 362,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/vO3tv7bFl2"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 233, 256 ],
+        "url" : "https:\/\/t.co\/AVTJyqCKdz",
+        "expanded_url" : "https:\/\/buff.ly\/2KVtlqX",
+        "display_url" : "buff.ly\/2KVtlqX"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1033698087624220672",
+    "text" : "\u201CHTML isn\u2019t just the foundation that we build our websites on it plays a vital role in making our websites function as expected across those platforms and technologies.\u201D \n\n@Mandy_Kerr on Understanding why Semantic HTML is important: https:\/\/t.co\/AVTJyqCKdz https:\/\/t.co\/vO3tv7bFl2",
+    "id" : 1033698087624220672,
+    "created_at" : "2018-08-26 12:50:03 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067950409799671808,
+  "created_at" : "2018-11-29 01:16:33 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ilya Grigorik",
+      "screen_name" : "igrigorik",
+      "indices" : [ 3, 13 ],
+      "id_str" : "9980812",
+      "id" : 9980812
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/XthHebaMnm",
+      "expanded_url" : "http:\/\/bit.ly\/2Pzwikv",
+      "display_url" : "bit.ly\/2Pzwikv"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067950119910350848",
+  "text" : "RT @igrigorik: \"WebPageTest is an invaluable and  amazingly powerful tool...\": https:\/\/t.co\/XthHebaMnm \u2014 amen! Nice WPT overview in latest\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/igrigorik\/status\/1033899651064324098\/photo\/1",
+        "indices" : [ 153, 176 ],
+        "url" : "https:\/\/t.co\/y7mQlC7gFk",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DlZJrgSUUAANhap.jpg",
+        "id_str" : "1033094176278073344",
+        "id" : 1033094176278073344,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DlZJrgSUUAANhap.jpg",
+        "sizes" : [ {
+          "h" : 445,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 445,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 378,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 445,
+          "resize" : "fit",
+          "w" : 800
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/y7mQlC7gFk"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 64, 87 ],
+        "url" : "https:\/\/t.co\/XthHebaMnm",
+        "expanded_url" : "http:\/\/bit.ly\/2Pzwikv",
+        "display_url" : "bit.ly\/2Pzwikv"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1033899651064324098",
+    "text" : "\"WebPageTest is an invaluable and  amazingly powerful tool...\": https:\/\/t.co\/XthHebaMnm \u2014 amen! Nice WPT overview in latest episode of State of the Web. https:\/\/t.co\/y7mQlC7gFk",
+    "id" : 1033899651064324098,
+    "created_at" : "2018-08-27 02:11:00 +0000",
+    "user" : {
+      "name" : "Ilya Grigorik",
+      "screen_name" : "igrigorik",
+      "protected" : false,
+      "id_str" : "9980812",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458689841186611200\/SMmZLt2Y_normal.jpeg",
+      "id" : 9980812,
+      "verified" : true
+    }
+  },
+  "id" : 1067950119910350848,
+  "created_at" : "2018-11-29 01:15:24 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chrome DevTools",
+      "screen_name" : "ChromeDevTools",
+      "indices" : [ 3, 18 ],
+      "id_str" : "2862241270",
+      "id" : 2862241270
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067944599300292608",
+  "text" : "RT @ChromeDevTools: On Friday we released a video version of our \"Optimize Site Speed\" tutorial. Covers the Audits panel, the Coverage tab,\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ChromeDevTools\/status\/1034093176091561985\/photo\/1",
+        "indices" : [ 225, 248 ],
+        "url" : "https:\/\/t.co\/zXjIVjBiqw",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dlkgd-mVAAABjqg.jpg",
+        "id_str" : "1033893288850292736",
+        "id" : 1033893288850292736,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dlkgd-mVAAABjqg.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 391,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 690,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 936,
+          "resize" : "fit",
+          "w" : 1628
+        }, {
+          "h" : 936,
+          "resize" : "fit",
+          "w" : 1628
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/zXjIVjBiqw"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 171, 194 ],
+        "url" : "https:\/\/t.co\/U4DA0eAYRK",
+        "expanded_url" : "https:\/\/youtu.be\/5fLW5Q5ODiE",
+        "display_url" : "youtu.be\/5fLW5Q5ODiE"
+      }, {
+        "indices" : [ 201, 224 ],
+        "url" : "https:\/\/t.co\/PyI8tvvFY4",
+        "expanded_url" : "https:\/\/developers.google.com\/web\/tools\/chrome-devtools\/speed\/get-started",
+        "display_url" : "developers.google.com\/web\/tools\/chro\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1034093176091561985",
+    "text" : "On Friday we released a video version of our \"Optimize Site Speed\" tutorial. Covers the Audits panel, the Coverage tab, request blocking, and the Performance panel.\n\nVid: https:\/\/t.co\/U4DA0eAYRK\n\nDoc: https:\/\/t.co\/PyI8tvvFY4 https:\/\/t.co\/zXjIVjBiqw",
+    "id" : 1034093176091561985,
+    "created_at" : "2018-08-27 15:00:00 +0000",
+    "user" : {
+      "name" : "Chrome DevTools",
+      "screen_name" : "ChromeDevTools",
+      "protected" : false,
+      "id_str" : "2862241270",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762579160099385344\/w5MfsnMn_normal.jpg",
+      "id" : 2862241270,
+      "verified" : true
+    }
+  },
+  "id" : 1067944599300292608,
+  "created_at" : "2018-11-29 00:53:28 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Schoger",
+      "screen_name" : "steveschoger",
+      "indices" : [ 3, 16 ],
+      "id_str" : "101624176",
+      "id" : 101624176
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067926018302902273",
+  "text" : "RT @steveschoger: Been working on the Refactoring UI component gallery all week \uD83E\uDD18\n\nThere's going to be a *ton* of examples to browse throug\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/steveschoger\/status\/1037420946045501446\/photo\/1",
+        "indices" : [ 210, 233 ],
+        "url" : "https:\/\/t.co\/Knn7Xmf9M7",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DmWnuBTUwAARERe.jpg",
+        "id_str" : "1037419698244075520",
+        "id" : 1037419698244075520,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DmWnuBTUwAARERe.jpg",
+        "sizes" : [ {
+          "h" : 447,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 788,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1345,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 1892,
+          "resize" : "fit",
+          "w" : 2880
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/Knn7Xmf9M7"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1037420946045501446",
+    "text" : "Been working on the Refactoring UI component gallery all week \uD83E\uDD18\n\nThere's going to be a *ton* of examples to browse through when looking for ideas. \n\nHere's a few examples of sign-in forms I put together today: https:\/\/t.co\/Knn7Xmf9M7",
+    "id" : 1037420946045501446,
+    "created_at" : "2018-09-05 19:23:22 +0000",
+    "user" : {
+      "name" : "Steve Schoger",
+      "screen_name" : "steveschoger",
+      "protected" : false,
+      "id_str" : "101624176",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012717264108318722\/9lP-d2yM_normal.jpg",
+      "id" : 101624176,
+      "verified" : false
+    }
+  },
+  "id" : 1067926018302902273,
+  "created_at" : "2018-11-28 23:39:38 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mandy Michael",
+      "screen_name" : "Mandy_Kerr",
+      "indices" : [ 3, 14 ],
+      "id_str" : "42413226",
+      "id" : 42413226
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067925444723380224",
+  "text" : "RT @Mandy_Kerr: I was playing around with the viewport and variable font sizing on the weekend. Check out the Codepen using Voto Serif GX b\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Mandy_Kerr\/status\/1039460696604327936\/video\/1",
+        "indices" : [ 213, 236 ],
+        "url" : "https:\/\/t.co\/rzvc3uhKtX",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1039460288444002305\/pu\/img\/wiNiaHKbD8hraSDX.jpg",
+        "id_str" : "1039460288444002305",
+        "id" : 1039460288444002305,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1039460288444002305\/pu\/img\/wiNiaHKbD8hraSDX.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 584,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1480
+        }, {
+          "h" : 331,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1480
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/rzvc3uhKtX"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 140, 163 ],
+        "url" : "https:\/\/t.co\/meadcST2z5",
+        "expanded_url" : "https:\/\/codepen.io\/mandymichael\/pen\/xaPQPr\/",
+        "display_url" : "codepen.io\/mandymichael\/p\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1039460696604327936",
+    "text" : "I was playing around with the viewport and variable font sizing on the weekend. Check out the Codepen using Voto Serif GX by Adam Twardoch\n\nhttps:\/\/t.co\/meadcST2z5\n(Optical sizing can be hard to see in the video) https:\/\/t.co\/rzvc3uhKtX",
+    "id" : 1039460696604327936,
+    "created_at" : "2018-09-11 10:28:36 +0000",
+    "user" : {
+      "name" : "Mandy Michael",
+      "screen_name" : "Mandy_Kerr",
+      "protected" : false,
+      "id_str" : "42413226",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057810707595456512\/c417NQm3_normal.jpg",
+      "id" : 42413226,
+      "verified" : false
+    }
+  },
+  "id" : 1067925444723380224,
+  "created_at" : "2018-11-28 23:37:21 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ted Goas",
+      "screen_name" : "TedGoas",
+      "indices" : [ 3, 11 ],
+      "id_str" : "13957122",
+      "id" : 13957122
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067925243598131200",
+  "text" : "RT @TedGoas: Last month, we quietly shipped a V1 of our Email Design System for Stack Overflow. There's still lots of work to do, but we're\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/TedGoas\/status\/1040248498220879872\/photo\/1",
+        "indices" : [ 278, 301 ],
+        "url" : "https:\/\/t.co\/7ZX3nHgo5s",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Dm-0fo3XsAAkzoe.jpg",
+        "id_str" : "1040248494584475648",
+        "id" : 1040248494584475648,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Dm-0fo3XsAAkzoe.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 844,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1810,
+          "resize" : "fit",
+          "w" : 2574
+        }, {
+          "h" : 1440,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 478,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/7ZX3nHgo5s"
+      } ],
+      "hashtags" : [ {
+        "text" : "emailgeeks",
+        "indices" : [ 266, 277 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 242, 265 ],
+        "url" : "https:\/\/t.co\/UwLG7OM3Aj",
+        "expanded_url" : "https:\/\/stackoverflow.design\/email",
+        "display_url" : "stackoverflow.design\/email"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1040248498220879872",
+    "text" : "Last month, we quietly shipped a V1 of our Email Design System for Stack Overflow. There's still lots of work to do, but we're already seeing folks learning about email's intricacies and using it to build HTML emails that render properly. \u270A\uD83D\uDC8C https:\/\/t.co\/UwLG7OM3Aj #emailgeeks https:\/\/t.co\/7ZX3nHgo5s",
+    "id" : 1040248498220879872,
+    "created_at" : "2018-09-13 14:39:03 +0000",
+    "user" : {
+      "name" : "Ted Goas",
+      "screen_name" : "TedGoas",
+      "protected" : false,
+      "id_str" : "13957122",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044389039833407489\/uEkIf6-w_normal.jpg",
+      "id" : 13957122,
+      "verified" : false
+    }
+  },
+  "id" : 1067925243598131200,
+  "created_at" : "2018-11-28 23:36:33 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 53, 76 ],
+      "url" : "https:\/\/t.co\/lNihKgHray",
+      "expanded_url" : "http:\/\/mediatemple.net\/blog\/tips\/low-hanging-fruit-web-performance\/",
+      "display_url" : "mediatemple.net\/blog\/tips\/low-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067925027612430336",
+  "text" : "RT @css: The Low Hanging Fruit of Web Performance :: https:\/\/t.co\/lNihKgHray",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 44, 67 ],
+        "url" : "https:\/\/t.co\/lNihKgHray",
+        "expanded_url" : "http:\/\/mediatemple.net\/blog\/tips\/low-hanging-fruit-web-performance\/",
+        "display_url" : "mediatemple.net\/blog\/tips\/low-\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1040711036872130560",
+    "text" : "The Low Hanging Fruit of Web Performance :: https:\/\/t.co\/lNihKgHray",
+    "id" : 1040711036872130560,
+    "created_at" : "2018-09-14 21:17:01 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067925027612430336,
+  "created_at" : "2018-11-28 23:35:42 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John Arundel",
+      "screen_name" : "bitfield",
+      "indices" : [ 3, 12 ],
+      "id_str" : "14375294",
+      "id" : 14375294
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067924717057835008",
+  "text" : "RT @bitfield: It\u2019s easier to fix little errors when they happen than to wait until they become a big mess. \u201CI was amazed by the thousands o\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 257, 280 ],
+        "url" : "https:\/\/t.co\/tSZs66X1It",
+        "expanded_url" : "https:\/\/vanwilgenburg.wordpress.com\/2018\/08\/22\/lessons-learned-after-serving-thousands-of-concurrent-users-in-a-devops-team-for-a-year\/",
+        "display_url" : "vanwilgenburg.wordpress.com\/2018\/08\/22\/les\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1040710026804043776",
+    "text" : "It\u2019s easier to fix little errors when they happen than to wait until they become a big mess. \u201CI was amazed by the thousands of daily error messages in the production logs, and that nobody was screaming in panic about it. Now errors are investigated daily.\u201D https:\/\/t.co\/tSZs66X1It",
+    "id" : 1040710026804043776,
+    "created_at" : "2018-09-14 21:13:00 +0000",
+    "user" : {
+      "name" : "John Arundel",
+      "screen_name" : "bitfield",
+      "protected" : false,
+      "id_str" : "14375294",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2550451333\/upr558w4gb7mdgopk0af_normal.jpeg",
+      "id" : 14375294,
+      "verified" : false
+    }
+  },
+  "id" : 1067924717057835008,
+  "created_at" : "2018-11-28 23:34:28 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    }, {
+      "name" : "Eric Bailey",
+      "screen_name" : "ericwbailey",
+      "indices" : [ 13, 25 ],
+      "id_str" : "59969976",
+      "id" : 59969976
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/2uLtt85LjI",
+      "expanded_url" : "https:\/\/noti.st\/ericwbailey\/TcMJFP\/if-it-s-interactive-it-needs-a-focus-style",
+      "display_url" : "noti.st\/ericwbailey\/Tc\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067923160098582531",
+  "text" : "RT @css: Mr. @ericwbailey's slides for \"If it's interactive, it needs a focus style\". Important advice, that. https:\/\/t.co\/2uLtt85LjI",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Eric Bailey",
+        "screen_name" : "ericwbailey",
+        "indices" : [ 4, 16 ],
+        "id_str" : "59969976",
+        "id" : 59969976
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 101, 124 ],
+        "url" : "https:\/\/t.co\/2uLtt85LjI",
+        "expanded_url" : "https:\/\/noti.st\/ericwbailey\/TcMJFP\/if-it-s-interactive-it-needs-a-focus-style",
+        "display_url" : "noti.st\/ericwbailey\/Tc\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1054399505012084736",
+    "text" : "Mr. @ericwbailey's slides for \"If it's interactive, it needs a focus style\". Important advice, that. https:\/\/t.co\/2uLtt85LjI",
+    "id" : 1054399505012084736,
+    "created_at" : "2018-10-22 15:50:06 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067923160098582531,
+  "created_at" : "2018-11-28 23:28:17 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u2744\uD83C\uDF81 eevee \uD83C\uDF81\u2744",
+      "screen_name" : "eevee",
+      "indices" : [ 3, 9 ],
+      "id_str" : "14412937",
+      "id" : 14412937
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/eevee\/status\/1067868134848180224\/photo\/1",
+      "indices" : [ 73, 96 ],
+      "url" : "https:\/\/t.co\/7LLO9R4ds4",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DtHUaMpVsAAgp6W.jpg",
+      "id_str" : "1067868133199818752",
+      "id" : 1067868133199818752,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DtHUaMpVsAAgp6W.jpg",
+      "sizes" : [ {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/7LLO9R4ds4"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067874028352884737",
+  "text" : "RT @eevee: WHERE IS OLD MAN\n\nDID HE DIE???  I MEAN IT'S BEEN 20 YEARS... https:\/\/t.co\/7LLO9R4ds4",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/www.nintendo.com\/countryselector\" rel=\"nofollow\"\u003ENintendo Switch Share\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/eevee\/status\/1067868134848180224\/photo\/1",
+        "indices" : [ 62, 85 ],
+        "url" : "https:\/\/t.co\/7LLO9R4ds4",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DtHUaMpVsAAgp6W.jpg",
+        "id_str" : "1067868133199818752",
+        "id" : 1067868133199818752,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DtHUaMpVsAAgp6W.jpg",
+        "sizes" : [ {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/7LLO9R4ds4"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1067868134848180224",
+    "text" : "WHERE IS OLD MAN\n\nDID HE DIE???  I MEAN IT'S BEEN 20 YEARS... https:\/\/t.co\/7LLO9R4ds4",
+    "id" : 1067868134848180224,
+    "created_at" : "2018-11-28 19:49:38 +0000",
+    "user" : {
+      "name" : "\u2744\uD83C\uDF81 eevee \uD83C\uDF81\u2744",
+      "screen_name" : "eevee",
+      "protected" : false,
+      "id_str" : "14412937",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070456634118307840\/s8TJXv02_normal.jpg",
+      "id" : 14412937,
+      "verified" : false
+    }
+  },
+  "id" : 1067874028352884737,
+  "created_at" : "2018-11-28 20:13:03 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "DPRK News Service",
+      "screen_name" : "DPRK_News",
+      "indices" : [ 3, 13 ],
+      "id_str" : "58569513",
+      "id" : 58569513
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067873663599415296",
+  "text" : "RT @DPRK_News: Ladies, if he:\n\n-provides food for your family\n-fights Japanese bandits\n-adheres to proper ideology\n-is grandmaster of chess\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1067872970150998017",
+    "text" : "Ladies, if he:\n\n-provides food for your family\n-fights Japanese bandits\n-adheres to proper ideology\n-is grandmaster of chess\n-defeats bears in unarmed combat\n-maintains your missiles\n\nHe is not your man. He is Supreme Leader Kim Jong-Un, Father to All Children, Defender of Widows",
+    "id" : 1067872970150998017,
+    "created_at" : "2018-11-28 20:08:50 +0000",
+    "user" : {
+      "name" : "DPRK News Service",
+      "screen_name" : "DPRK_News",
+      "protected" : false,
+      "id_str" : "58569513",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/323235980\/dprk-flag_normal.gif",
+      "id" : 58569513,
+      "verified" : false
+    }
+  },
+  "id" : 1067873663599415296,
+  "created_at" : "2018-11-28 20:11:36 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Travis",
+      "screen_name" : "taestell",
+      "indices" : [ 165, 174 ],
+      "id_str" : "13524672",
+      "id" : 13524672
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067856920009150464",
+  "text" : "Doctor: \"I recommend getting a MRI. What school did you go to?\"\n\nMe: ...what an odd question.. \"[University name]\n\nDoctor: \"ok\"\n\nMe later while suddenly thinking of @taestell : \"Oh bloody hell, was he asking about what highschool I went to?\"",
+  "id" : 1067856920009150464,
+  "created_at" : "2018-11-28 19:05:04 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Emily Egan",
+      "screen_name" : "mewgurt",
+      "indices" : [ 181, 189 ],
+      "id_str" : "1443614275",
+      "id" : 1443614275
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067556653044822016",
+  "text" : "Started writing a draft blog post which originally was going to be a rant about imgur and now I'm doing a path which I don't even know how I ever got to. \n\nProbably for the best... @mewgurt I know it's almost been 4 months but I'll be sending you a preview for some feedback soon.",
+  "id" : 1067556653044822016,
+  "created_at" : "2018-11-27 23:11:54 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "indices" : [ 3, 11 ],
+      "id_str" : "13567",
+      "id" : 13567
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 25, 48 ],
+      "url" : "https:\/\/t.co\/shxxtc52c2",
+      "expanded_url" : "https:\/\/justmarkup.com\/log\/2018\/11\/just-markup\/",
+      "display_url" : "justmarkup.com\/log\/2018\/11\/ju\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067526026668822530",
+  "text" : "RT @codepo8: Just markup\nhttps:\/\/t.co\/shxxtc52c2",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 12, 35 ],
+        "url" : "https:\/\/t.co\/shxxtc52c2",
+        "expanded_url" : "https:\/\/justmarkup.com\/log\/2018\/11\/just-markup\/",
+        "display_url" : "justmarkup.com\/log\/2018\/11\/ju\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1067524031341985792",
+    "text" : "Just markup\nhttps:\/\/t.co\/shxxtc52c2",
+    "id" : 1067524031341985792,
+    "created_at" : "2018-11-27 21:02:17 +0000",
+    "user" : {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "protected" : false,
+      "id_str" : "13567",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666904408\/codepo8_normal.png",
+      "id" : 13567,
+      "verified" : false
+    }
+  },
+  "id" : 1067526026668822530,
+  "created_at" : "2018-11-27 21:10:13 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Boom Haackalacka",
+      "screen_name" : "haacked",
+      "indices" : [ 3, 11 ],
+      "id_str" : "768197",
+      "id" : 768197
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067525559159267329",
+  "text" : "RT @haacked: Son holds up a mirror in front of his chest so I can see myself. \"Hey dad! Check out my ugly Christmas sweater!\"\n\nNice one son\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1067511780501413889",
+    "text" : "Son holds up a mirror in front of his chest so I can see myself. \"Hey dad! Check out my ugly Christmas sweater!\"\n\nNice one son (*wipes away tear*)",
+    "id" : 1067511780501413889,
+    "created_at" : "2018-11-27 20:13:36 +0000",
+    "user" : {
+      "name" : "Boom Haackalacka",
+      "screen_name" : "haacked",
+      "protected" : false,
+      "id_str" : "768197",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935005385676566528\/alycHOR5_normal.jpg",
+      "id" : 768197,
+      "verified" : false
+    }
+  },
+  "id" : 1067525559159267329,
+  "created_at" : "2018-11-27 21:08:21 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "1000 Jutsu",
+      "screen_name" : "HokutoAndy",
+      "indices" : [ 3, 14 ],
+      "id_str" : "91854189",
+      "id" : 91854189
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Megaman",
+      "indices" : [ 54, 62 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067489175002378240",
+  "text" : "RT @HokutoAndy: Did  you know?\n\nThe 1st programmer of #Megaman, Nobuyuki Matsushima, came from programming real industrial machines that if\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/HokutoAndy\/status\/1067079416172371968\/photo\/1",
+        "indices" : [ 265, 288 ],
+        "url" : "https:\/\/t.co\/1X8uuhjRLm",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Ds8GXTgUcAApbpJ.jpg",
+        "id_str" : "1067078634152685568",
+        "id" : 1067078634152685568,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ds8GXTgUcAApbpJ.jpg",
+        "sizes" : [ {
+          "h" : 588,
+          "resize" : "fit",
+          "w" : 880
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 588,
+          "resize" : "fit",
+          "w" : 880
+        }, {
+          "h" : 588,
+          "resize" : "fit",
+          "w" : 880
+        }, {
+          "h" : 454,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/1X8uuhjRLm"
+      } ],
+      "hashtags" : [ {
+        "text" : "Megaman",
+        "indices" : [ 38, 46 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1067079416172371968",
+    "text" : "Did  you know?\n\nThe 1st programmer of #Megaman, Nobuyuki Matsushima, came from programming real industrial machines that if poorly done could take a human life. His meticulous coding lead to the game being very reliable but also more intensive, changing the pacing https:\/\/t.co\/1X8uuhjRLm",
+    "id" : 1067079416172371968,
+    "created_at" : "2018-11-26 15:35:32 +0000",
+    "user" : {
+      "name" : "1000 Jutsu",
+      "screen_name" : "HokutoAndy",
+      "protected" : false,
+      "id_str" : "91854189",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080018968801230848\/k6wpiGyN_normal.jpg",
+      "id" : 91854189,
+      "verified" : false
+    }
+  },
+  "id" : 1067489175002378240,
+  "created_at" : "2018-11-27 18:43:46 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "bad bandori posts",
+      "screen_name" : "badbandoriposts",
+      "indices" : [ 3, 19 ],
+      "id_str" : "1017584261086367745",
+      "id" : 1017584261086367745
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/badbandoriposts\/status\/1067255753528893441\/photo\/1",
+      "indices" : [ 32, 55 ],
+      "url" : "https:\/\/t.co\/W3SOP0dfM5",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Ds-ncy8U4AEoOwk.jpg",
+      "id_str" : "1067255749863071745",
+      "id" : 1067255749863071745,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ds-ncy8U4AEoOwk.jpg",
+      "sizes" : [ {
+        "h" : 588,
+        "resize" : "fit",
+        "w" : 913
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 438,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 588,
+        "resize" : "fit",
+        "w" : 913
+      }, {
+        "h" : 588,
+        "resize" : "fit",
+        "w" : 913
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/W3SOP0dfM5"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067488452848033792",
+  "text" : "RT @badbandoriposts: potassium! https:\/\/t.co\/W3SOP0dfM5",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/badbandoriposts\/status\/1067255753528893441\/photo\/1",
+        "indices" : [ 11, 34 ],
+        "url" : "https:\/\/t.co\/W3SOP0dfM5",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Ds-ncy8U4AEoOwk.jpg",
+        "id_str" : "1067255749863071745",
+        "id" : 1067255749863071745,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ds-ncy8U4AEoOwk.jpg",
+        "sizes" : [ {
+          "h" : 588,
+          "resize" : "fit",
+          "w" : 913
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 438,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 588,
+          "resize" : "fit",
+          "w" : 913
+        }, {
+          "h" : 588,
+          "resize" : "fit",
+          "w" : 913
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/W3SOP0dfM5"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1067255753528893441",
+    "text" : "potassium! https:\/\/t.co\/W3SOP0dfM5",
+    "id" : 1067255753528893441,
+    "created_at" : "2018-11-27 03:16:14 +0000",
+    "user" : {
+      "name" : "bad bandori posts",
+      "screen_name" : "badbandoriposts",
+      "protected" : false,
+      "id_str" : "1017584261086367745",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017584857726062592\/9WY1rLjq_normal.jpg",
+      "id" : 1017584261086367745,
+      "verified" : false
+    }
+  },
+  "id" : 1067488452848033792,
+  "created_at" : "2018-11-27 18:40:54 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "GitHub",
+      "screen_name" : "github",
+      "indices" : [ 3, 10 ],
+      "id_str" : "13334762",
+      "id" : 13334762
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067487061656125446",
+  "text" : "RT @github: With a new release-only option, you can now choose to get notified only when there's a new project release.\n\nSay goodbye \uD83D\uDC4B to t\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/github\/status\/1067483957573373952\/photo\/1",
+        "indices" : [ 166, 189 ],
+        "url" : "https:\/\/t.co\/q1rDhI2Rk4",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DtB2_2pU0AEVEk6.jpg",
+        "id_str" : "1067483951059488769",
+        "id" : 1067483951059488769,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DtB2_2pU0AEVEk6.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/q1rDhI2Rk4"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1067483957573373952",
+    "text" : "With a new release-only option, you can now choose to get notified only when there's a new project release.\n\nSay goodbye \uD83D\uDC4B to the ones you don't want to see anymore. https:\/\/t.co\/q1rDhI2Rk4",
+    "id" : 1067483957573373952,
+    "created_at" : "2018-11-27 18:23:03 +0000",
+    "user" : {
+      "name" : "GitHub",
+      "screen_name" : "github",
+      "protected" : false,
+      "id_str" : "13334762",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017516299143041024\/fLFdcGsl_normal.jpg",
+      "id" : 13334762,
+      "verified" : true
+    }
+  },
+  "id" : 1067487061656125446,
+  "created_at" : "2018-11-27 18:35:23 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Hacker News",
+      "screen_name" : "newsycombinator",
+      "indices" : [ 3, 19 ],
+      "id_str" : "14335498",
+      "id" : 14335498
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 98, 121 ],
+      "url" : "https:\/\/t.co\/zgJOVaGjZD",
+      "expanded_url" : "https:\/\/qz.com\/1437623\/600-free-online-courses-you-can-take-from-universities-worldwide\/",
+      "display_url" : "qz.com\/1437623\/600-fr\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067480090055970817",
+  "text" : "RT @newsycombinator: 190 universities just launched 600 free online courses. Here\u2019s the full list https:\/\/t.co\/zgJOVaGjZD",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.steer.me\" rel=\"nofollow\"\u003Enewsycombinator\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 77, 100 ],
+        "url" : "https:\/\/t.co\/zgJOVaGjZD",
+        "expanded_url" : "https:\/\/qz.com\/1437623\/600-free-online-courses-you-can-take-from-universities-worldwide\/",
+        "display_url" : "qz.com\/1437623\/600-fr\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1055504441472884741",
+    "text" : "190 universities just launched 600 free online courses. Here\u2019s the full list https:\/\/t.co\/zgJOVaGjZD",
+    "id" : 1055504441472884741,
+    "created_at" : "2018-10-25 17:00:43 +0000",
+    "user" : {
+      "name" : "Hacker News",
+      "screen_name" : "newsycombinator",
+      "protected" : false,
+      "id_str" : "14335498",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469397708986269696\/iUrYEOpJ_normal.png",
+      "id" : 14335498,
+      "verified" : false
+    }
+  },
+  "id" : 1067480090055970817,
+  "created_at" : "2018-11-27 18:07:40 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nelo",
+      "screen_name" : "nelonoel",
+      "indices" : [ 3, 12 ],
+      "id_str" : "449614470",
+      "id" : 449614470
+    }, {
+      "name" : "zeldman",
+      "screen_name" : "zeldman",
+      "indices" : [ 14, 22 ],
+      "id_str" : "61133",
+      "id" : 61133
+    }, {
+      "name" : "patrick h. lauke",
+      "screen_name" : "patrick_h_lauke",
+      "indices" : [ 23, 39 ],
+      "id_str" : "14972862",
+      "id" : 14972862
+    }, {
+      "name" : "Sara Soueidan",
+      "screen_name" : "SaraSoueidan",
+      "indices" : [ 40, 53 ],
+      "id_str" : "717654410",
+      "id" : 717654410
+    }, {
+      "name" : "The Paciello Group",
+      "screen_name" : "paciellogroup",
+      "indices" : [ 54, 68 ],
+      "id_str" : "18923531",
+      "id" : 18923531
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067474513351315457",
+  "text" : "RT @nelonoel: @zeldman @patrick_h_lauke @SaraSoueidan @paciellogroup It's nice to see `:focus-visible` getting more attention. Wrote someth\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "zeldman",
+        "screen_name" : "zeldman",
+        "indices" : [ 0, 8 ],
+        "id_str" : "61133",
+        "id" : 61133
+      }, {
+        "name" : "patrick h. lauke",
+        "screen_name" : "patrick_h_lauke",
+        "indices" : [ 9, 25 ],
+        "id_str" : "14972862",
+        "id" : 14972862
+      }, {
+        "name" : "Sara Soueidan",
+        "screen_name" : "SaraSoueidan",
+        "indices" : [ 26, 39 ],
+        "id_str" : "717654410",
+        "id" : 717654410
+      }, {
+        "name" : "The Paciello Group",
+        "screen_name" : "paciellogroup",
+        "indices" : [ 40, 54 ],
+        "id_str" : "18923531",
+        "id" : 18923531
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 152, 175 ],
+        "url" : "https:\/\/t.co\/qUEiP9rr3p",
+        "expanded_url" : "https:\/\/nelo.is\/writing\/styling-better-focus-states\/",
+        "display_url" : "nelo.is\/writing\/stylin\u2026"
+      } ]
+    },
+    "in_reply_to_status_id_str" : "1056887035682807808",
+    "geo" : { },
+    "id_str" : "1056889371834572800",
+    "in_reply_to_user_id" : 61133,
+    "text" : "@zeldman @patrick_h_lauke @SaraSoueidan @paciellogroup It's nice to see `:focus-visible` getting more attention. Wrote something similar a while ago at https:\/\/t.co\/qUEiP9rr3p \uD83D\uDE01",
+    "id" : 1056889371834572800,
+    "in_reply_to_status_id" : 1056887035682807808,
+    "created_at" : "2018-10-29 12:43:56 +0000",
+    "in_reply_to_screen_name" : "zeldman",
+    "in_reply_to_user_id_str" : "61133",
+    "user" : {
+      "name" : "Nelo",
+      "screen_name" : "nelonoel",
+      "protected" : false,
+      "id_str" : "449614470",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057598223869652993\/jV5bglpg_normal.jpg",
+      "id" : 449614470,
+      "verified" : false
+    }
+  },
+  "id" : 1067474513351315457,
+  "created_at" : "2018-11-27 17:45:31 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "zeldman",
+      "screen_name" : "zeldman",
+      "indices" : [ 3, 11 ],
+      "id_str" : "61133",
+      "id" : 61133
+    }, {
+      "name" : "patrick h. lauke",
+      "screen_name" : "patrick_h_lauke",
+      "indices" : [ 62, 78 ],
+      "id_str" : "14972862",
+      "id" : 14972862
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067474296249946112",
+  "text" : "RT @zeldman: \u265B :focus-visible &amp; backward compatibility by @patrick_h_lauke: provide visible focus styles for those who need them, hide from\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "patrick h. lauke",
+        "screen_name" : "patrick_h_lauke",
+        "indices" : [ 49, 65 ],
+        "id_str" : "14972862",
+        "id" : 14972862
+      }, {
+        "name" : "Sara Soueidan",
+        "screen_name" : "SaraSoueidan",
+        "indices" : [ 163, 176 ],
+        "id_str" : "717654410",
+        "id" : 717654410
+      }, {
+        "name" : "The Paciello Group",
+        "screen_name" : "paciellogroup",
+        "indices" : [ 225, 239 ],
+        "id_str" : "18923531",
+        "id" : 18923531
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "webstandards",
+        "indices" : [ 178, 191 ]
+      }, {
+        "text" : "inclusivedesign",
+        "indices" : [ 192, 208 ]
+      }, {
+        "text" : "a11y",
+        "indices" : [ 209, 214 ]
+      }, {
+        "text" : "frontend",
+        "indices" : [ 215, 224 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 242, 265 ],
+        "url" : "https:\/\/t.co\/Bn9FSe8YHk",
+        "expanded_url" : "https:\/\/developer.paciellogroup.com\/blog\/2018\/03\/focus-visible-and-backwards-compatibility\/",
+        "display_url" : "developer.paciellogroup.com\/blog\/2018\/03\/f\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1056887035682807808",
+    "text" : "\u265B :focus-visible &amp; backward compatibility by @patrick_h_lauke: provide visible focus styles for those who need them, hide from those who don\u2019t\u2014w\/o JS. Hat tip @SaraSoueidan. #webstandards #inclusivedesign #a11y #frontend @paciellogroup \n\nhttps:\/\/t.co\/Bn9FSe8YHk",
+    "id" : 1056887035682807808,
+    "created_at" : "2018-10-29 12:34:39 +0000",
+    "user" : {
+      "name" : "zeldman",
+      "screen_name" : "zeldman",
+      "protected" : false,
+      "id_str" : "61133",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077213902755282944\/fLV_AS9p_normal.jpg",
+      "id" : 61133,
+      "verified" : true
+    }
+  },
+  "id" : 1067474296249946112,
+  "created_at" : "2018-11-27 17:44:39 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 68, 91 ],
+      "url" : "https:\/\/t.co\/6xCn34ivel",
+      "expanded_url" : "https:\/\/uxdesign.cc\/the-scandinavian-rule-that-designers-need-to-follow-3fbce5e80330",
+      "display_url" : "uxdesign.cc\/the-scandinavi\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067467135138582531",
+  "text" : "RT @css: The Scandinavian rule that every designer should follow :: https:\/\/t.co\/6xCn34ivel\n\n&gt; The law consists of 10 points. But they are\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 59, 82 ],
+        "url" : "https:\/\/t.co\/6xCn34ivel",
+        "expanded_url" : "https:\/\/uxdesign.cc\/the-scandinavian-rule-that-designers-need-to-follow-3fbce5e80330",
+        "display_url" : "uxdesign.cc\/the-scandinavi\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1057380879910297600",
+    "text" : "The Scandinavian rule that every designer should follow :: https:\/\/t.co\/6xCn34ivel\n\n&gt; The law consists of 10 points. But they are basically revolving around one idea: Be humble. Don\u2019t think or act like you are special or better than anyone else",
+    "id" : 1057380879910297600,
+    "created_at" : "2018-10-30 21:17:01 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067467135138582531,
+  "created_at" : "2018-11-27 17:16:12 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nicole Sullivan",
+      "screen_name" : "stubbornella",
+      "indices" : [ 3, 16 ],
+      "id_str" : "15629200",
+      "id" : 15629200
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 42, 65 ],
+      "url" : "https:\/\/t.co\/4gjDIJr0Le",
+      "expanded_url" : "https:\/\/twitter.com\/nrrrdcore\/status\/1059933016162791424",
+      "display_url" : "twitter.com\/nrrrdcore\/stat\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067464359075606533",
+  "text" : "RT @stubbornella: Design system thread... https:\/\/t.co\/4gjDIJr0Le",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 24, 47 ],
+        "url" : "https:\/\/t.co\/4gjDIJr0Le",
+        "expanded_url" : "https:\/\/twitter.com\/nrrrdcore\/status\/1059933016162791424",
+        "display_url" : "twitter.com\/nrrrdcore\/stat\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1059933453003587584",
+    "text" : "Design system thread... https:\/\/t.co\/4gjDIJr0Le",
+    "id" : 1059933453003587584,
+    "created_at" : "2018-11-06 22:20:02 +0000",
+    "user" : {
+      "name" : "Nicole Sullivan",
+      "screen_name" : "stubbornella",
+      "protected" : false,
+      "id_str" : "15629200",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067184832914964480\/EPIjUVct_normal.jpg",
+      "id" : 15629200,
+      "verified" : false
+    }
+  },
+  "id" : 1067464359075606533,
+  "created_at" : "2018-11-27 17:05:10 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 48, 71 ],
+      "url" : "https:\/\/t.co\/O6I7tqgtQe",
+      "expanded_url" : "https:\/\/jmperezperez.com\/spotify-svg\/",
+      "display_url" : "jmperezperez.com\/spotify-svg\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067270339036626945",
+  "text" : "RT @css: A journey into optimizing an SVG logo: https:\/\/t.co\/O6I7tqgtQe (optimize it, re-use it, responsivize it, etc.)\n\nRelated, check out\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "CodePen.IO",
+        "screen_name" : "CodePen",
+        "indices" : [ 139, 147 ],
+        "id_str" : "517021184",
+        "id" : 517021184
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 39, 62 ],
+        "url" : "https:\/\/t.co\/O6I7tqgtQe",
+        "expanded_url" : "https:\/\/jmperezperez.com\/spotify-svg\/",
+        "display_url" : "jmperezperez.com\/spotify-svg\/"
+      }, {
+        "indices" : [ 208, 231 ],
+        "url" : "https:\/\/t.co\/HszvdWucq7",
+        "expanded_url" : "https:\/\/blog.codepen.io\/2017\/09\/13\/pixel-perfect-codepen-logo\/",
+        "display_url" : "blog.codepen.io\/2017\/09\/13\/pix\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1046789337055150080",
+    "text" : "A journey into optimizing an SVG logo: https:\/\/t.co\/O6I7tqgtQe (optimize it, re-use it, responsivize it, etc.)\n\nRelated, check out how the @CodePen logo was ultra-optimized into a single stroked &lt;path&gt; https:\/\/t.co\/HszvdWucq7",
+    "id" : 1046789337055150080,
+    "created_at" : "2018-10-01 15:50:01 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067270339036626945,
+  "created_at" : "2018-11-27 04:14:12 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "indices" : [ 3, 7 ],
+      "id_str" : "285019665",
+      "id" : 285019665
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 34, 57 ],
+      "url" : "https:\/\/t.co\/ZpCA2UNaRZ",
+      "expanded_url" : "http:\/\/uxmovement.com\/forms\/bad-practices-on-birthdate-form-fields\/",
+      "display_url" : "uxmovement.com\/forms\/bad-prac\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067269776270155776",
+  "text" : "RT @css: Birthdate Form Fields... https:\/\/t.co\/ZpCA2UNaRZ\n\nConfusing: MM\/DD\/YYYY\nDifficult: [Month \uD83D\uDD3D] [Day \uD83D\uDD3D] [Year \uD83D\uDD3D]\nComplex: Calendar Wi\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/css\/status\/1049386463455002626\/photo\/1",
+        "indices" : [ 147, 170 ],
+        "url" : "https:\/\/t.co\/jZNo7HL5qJ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DpArbU3XgAE1drw.jpg",
+        "id_str" : "1049386461634723841",
+        "id" : 1049386461634723841,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DpArbU3XgAE1drw.jpg",
+        "sizes" : [ {
+          "h" : 390,
+          "resize" : "fit",
+          "w" : 380
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 390,
+          "resize" : "fit",
+          "w" : 380
+        }, {
+          "h" : 390,
+          "resize" : "fit",
+          "w" : 380
+        }, {
+          "h" : 390,
+          "resize" : "fit",
+          "w" : 380
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/jZNo7HL5qJ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 25, 48 ],
+        "url" : "https:\/\/t.co\/ZpCA2UNaRZ",
+        "expanded_url" : "http:\/\/uxmovement.com\/forms\/bad-practices-on-birthdate-form-fields\/",
+        "display_url" : "uxmovement.com\/forms\/bad-prac\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1049386463455002626",
+    "text" : "Birthdate Form Fields... https:\/\/t.co\/ZpCA2UNaRZ\n\nConfusing: MM\/DD\/YYYY\nDifficult: [Month \uD83D\uDD3D] [Day \uD83D\uDD3D] [Year \uD83D\uDD3D]\nComplex: Calendar Widget\n\nBaby bear: https:\/\/t.co\/jZNo7HL5qJ",
+    "id" : 1049386463455002626,
+    "created_at" : "2018-10-08 19:50:04 +0000",
+    "user" : {
+      "name" : "CSS-Tricks",
+      "screen_name" : "css",
+      "protected" : false,
+      "id_str" : "285019665",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
+      "id" : 285019665,
+      "verified" : false
+    }
+  },
+  "id" : 1067269776270155776,
+  "created_at" : "2018-11-27 04:11:58 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michael Gehrmann",
+      "screen_name" : "mge_de",
+      "indices" : [ 3, 10 ],
+      "id_str" : "23742780",
+      "id" : 23742780
+    }, {
+      "name" : "Lea Verou",
+      "screen_name" : "LeaVerou",
+      "indices" : [ 95, 104 ],
+      "id_str" : "22199970",
+      "id" : 22199970
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "CSS",
+      "indices" : [ 20, 24 ]
+    }, {
+      "text" : "conicGradient",
+      "indices" : [ 25, 39 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 105, 127 ],
+      "url" : "http:\/\/t.co\/KwCaJGNCLH",
+      "expanded_url" : "http:\/\/codepen.io\/g12n\/pen\/YXEMyQ?editors=110",
+      "display_url" : "codepen.io\/g12n\/pen\/YXEMy\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067269594589642753",
+  "text" : "RT @mge_de: Testing #CSS #conicGradient for stops-count to create a smooth color wheel. Thanks @LeaVerou http:\/\/t.co\/KwCaJGNCLH http:\/\/t.co\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Lea Verou",
+        "screen_name" : "LeaVerou",
+        "indices" : [ 83, 92 ],
+        "id_str" : "22199970",
+        "id" : 22199970
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/mge_de\/status\/615540087955304448\/photo\/1",
+        "indices" : [ 116, 138 ],
+        "url" : "http:\/\/t.co\/G6oCqe2XSC",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CIrWcqwWgAAkeyY.png",
+        "id_str" : "615540087091265536",
+        "id" : 615540087091265536,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIrWcqwWgAAkeyY.png",
+        "sizes" : [ {
+          "h" : 388,
+          "resize" : "fit",
+          "w" : 733
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 388,
+          "resize" : "fit",
+          "w" : 733
+        }, {
+          "h" : 388,
+          "resize" : "fit",
+          "w" : 733
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/G6oCqe2XSC"
+      } ],
+      "hashtags" : [ {
+        "text" : "CSS",
+        "indices" : [ 8, 12 ]
+      }, {
+        "text" : "conicGradient",
+        "indices" : [ 13, 27 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 93, 115 ],
+        "url" : "http:\/\/t.co\/KwCaJGNCLH",
+        "expanded_url" : "http:\/\/codepen.io\/g12n\/pen\/YXEMyQ?editors=110",
+        "display_url" : "codepen.io\/g12n\/pen\/YXEMy\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "615540087955304448",
+    "text" : "Testing #CSS #conicGradient for stops-count to create a smooth color wheel. Thanks @LeaVerou http:\/\/t.co\/KwCaJGNCLH http:\/\/t.co\/G6oCqe2XSC",
+    "id" : 615540087955304448,
+    "created_at" : "2015-06-29 15:19:27 +0000",
+    "user" : {
+      "name" : "Michael Gehrmann",
+      "screen_name" : "mge_de",
+      "protected" : false,
+      "id_str" : "23742780",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834750518903844866\/6YWj5Gmw_normal.jpg",
+      "id" : 23742780,
+      "verified" : false
+    }
+  },
+  "id" : 1067269594589642753,
+  "created_at" : "2018-11-27 04:11:14 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Cl\u00E9ment ROCHE",
+      "screen_name" : "clementroche_",
+      "indices" : [ 3, 17 ],
+      "id_str" : "981589248804519936",
+      "id" : 981589248804519936
+    }, {
+      "name" : "CodePen.IO",
+      "screen_name" : "CodePen",
+      "indices" : [ 71, 79 ],
+      "id_str" : "517021184",
+      "id" : 517021184
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/clementroche_\/status\/1014978825514618880\/video\/1",
+      "indices" : [ 104, 127 ],
+      "url" : "https:\/\/t.co\/F4Qx5byolM",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1014977933855817729\/pu\/img\/bDgd6tU3rn2lJKzn.jpg",
+      "id_str" : "1014977933855817729",
+      "id" : 1014977933855817729,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1014977933855817729\/pu\/img\/bDgd6tU3rn2lJKzn.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 472,
+        "resize" : "fit",
+        "w" : 988
+      }, {
+        "h" : 472,
+        "resize" : "fit",
+        "w" : 988
+      }, {
+        "h" : 325,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 472,
+        "resize" : "fit",
+        "w" : 988
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/F4Qx5byolM"
+    } ],
+    "hashtags" : [ {
+      "text" : "vuejs",
+      "indices" : [ 64, 70 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 80, 103 ],
+      "url" : "https:\/\/t.co\/dBFltBJzTy",
+      "expanded_url" : "https:\/\/codepen.io\/ClementRoche\/full\/papMew\/",
+      "display_url" : "codepen.io\/ClementRoche\/f\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067269556723425280",
+  "text" : "RT @clementroche_: Here is a color gradient generator made with #vuejs @codepen\nhttps:\/\/t.co\/dBFltBJzTy https:\/\/t.co\/F4Qx5byolM",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "CodePen.IO",
+        "screen_name" : "CodePen",
+        "indices" : [ 52, 60 ],
+        "id_str" : "517021184",
+        "id" : 517021184
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/clementroche_\/status\/1014978825514618880\/video\/1",
+        "indices" : [ 85, 108 ],
+        "url" : "https:\/\/t.co\/F4Qx5byolM",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1014977933855817729\/pu\/img\/bDgd6tU3rn2lJKzn.jpg",
+        "id_str" : "1014977933855817729",
+        "id" : 1014977933855817729,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1014977933855817729\/pu\/img\/bDgd6tU3rn2lJKzn.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 472,
+          "resize" : "fit",
+          "w" : 988
+        }, {
+          "h" : 472,
+          "resize" : "fit",
+          "w" : 988
+        }, {
+          "h" : 325,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 472,
+          "resize" : "fit",
+          "w" : 988
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/F4Qx5byolM"
+      } ],
+      "hashtags" : [ {
+        "text" : "vuejs",
+        "indices" : [ 45, 51 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 61, 84 ],
+        "url" : "https:\/\/t.co\/dBFltBJzTy",
+        "expanded_url" : "https:\/\/codepen.io\/ClementRoche\/full\/papMew\/",
+        "display_url" : "codepen.io\/ClementRoche\/f\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1014978825514618880",
+    "text" : "Here is a color gradient generator made with #vuejs @codepen\nhttps:\/\/t.co\/dBFltBJzTy https:\/\/t.co\/F4Qx5byolM",
+    "id" : 1014978825514618880,
+    "created_at" : "2018-07-05 21:06:24 +0000",
+    "user" : {
+      "name" : "Cl\u00E9ment ROCHE",
+      "screen_name" : "clementroche_",
+      "protected" : false,
+      "id_str" : "981589248804519936",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029326722209075201\/TD--K88i_normal.jpg",
+      "id" : 981589248804519936,
+      "verified" : false
+    }
+  },
+  "id" : 1067269556723425280,
+  "created_at" : "2018-11-27 04:11:05 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jason Pamental",
+      "screen_name" : "jpamental",
+      "indices" : [ 3, 13 ],
+      "id_str" : "14049683",
+      "id" : 14049683
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "AEAORL",
+      "indices" : [ 79, 86 ]
+    }, {
+      "text" : "VariableFonts",
+      "indices" : [ 95, 109 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067269366809575424",
+  "text" : "RT @jpamental: I've put my presentation and loads of resources together for my #AEAORL talk on #VariableFonts and Our New Typography togeth\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Notist",
+        "screen_name" : "benotist",
+        "indices" : [ 135, 144 ],
+        "id_str" : "914879648143740928",
+        "id" : 914879648143740928
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "AEAORL",
+        "indices" : [ 64, 71 ]
+      }, {
+        "text" : "VariableFonts",
+        "indices" : [ 80, 94 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 147, 170 ],
+        "url" : "https:\/\/t.co\/4smISrViA0",
+        "expanded_url" : "https:\/\/noti.st\/jpamental\/FUASEQ\/variable-fonts-and-our-new-typography",
+        "display_url" : "noti.st\/jpamental\/FUAS\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1050096320596328448",
+    "text" : "I've put my presentation and loads of resources together for my #AEAORL talk on #VariableFonts and Our New Typography together here on @benotist - https:\/\/t.co\/4smISrViA0 (and there's more on my site as well)",
+    "id" : 1050096320596328448,
+    "created_at" : "2018-10-10 18:50:47 +0000",
+    "user" : {
+      "name" : "Jason Pamental",
+      "screen_name" : "jpamental",
+      "protected" : false,
+      "id_str" : "14049683",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055928890319876096\/Vb-e5d69_normal.jpg",
+      "id" : 14049683,
+      "verified" : false
+    }
+  },
+  "id" : 1067269366809575424,
+  "created_at" : "2018-11-27 04:10:20 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Guillermo Rauch",
+      "screen_name" : "rauchg",
+      "indices" : [ 3, 10 ],
+      "id_str" : "15540222",
+      "id" : 15540222
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067269299839082497",
+  "text" : "RT @rauchg: base58 by satoshi is brilliant \u2013 a gem found inside bitcoin's original codebase\n\nAlso check out base58check \nhttps:\/\/t.co\/nOuXs\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/rauchg\/status\/1050502021080539136\/photo\/1",
+        "indices" : [ 133, 156 ],
+        "url" : "https:\/\/t.co\/cR4y3huzLh",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DpQhqeBUwAAk6Dq.jpg",
+        "id_str" : "1050501626581008384",
+        "id" : 1050501626581008384,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DpQhqeBUwAAk6Dq.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 145,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 437,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 256,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 2342
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/cR4y3huzLh"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 109, 132 ],
+        "url" : "https:\/\/t.co\/nOuXsoyEdB",
+        "expanded_url" : "https:\/\/en.bitcoin.it\/wiki\/Base58Check_encoding",
+        "display_url" : "en.bitcoin.it\/wiki\/Base58Che\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1050502021080539136",
+    "text" : "base58 by satoshi is brilliant \u2013 a gem found inside bitcoin's original codebase\n\nAlso check out base58check \nhttps:\/\/t.co\/nOuXsoyEdB https:\/\/t.co\/cR4y3huzLh",
+    "id" : 1050502021080539136,
+    "created_at" : "2018-10-11 21:42:53 +0000",
+    "user" : {
+      "name" : "Guillermo Rauch",
+      "screen_name" : "rauchg",
+      "protected" : false,
+      "id_str" : "15540222",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029230542716264448\/LgLb--Of_normal.jpg",
+      "id" : 15540222,
+      "verified" : true
+    }
+  },
+  "id" : 1067269299839082497,
+  "created_at" : "2018-11-27 04:10:04 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "indices" : [ 3, 11 ],
+      "id_str" : "13567",
+      "id" : 13567
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 85, 108 ],
+      "url" : "https:\/\/t.co\/8AmvBQ5f5n",
+      "expanded_url" : "https:\/\/css-tricks.com\/styling-the-gutenberg-columns-block\/",
+      "display_url" : "css-tricks.com\/styling-the-gu\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067267989035249664",
+  "text" : "RT @codepo8: Some things about Wordpress Gutenberg:\nHow to style the contents block: https:\/\/t.co\/8AmvBQ5f5n\nA Very Informal Look at Gutenb\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 72, 95 ],
+        "url" : "https:\/\/t.co\/8AmvBQ5f5n",
+        "expanded_url" : "https:\/\/css-tricks.com\/styling-the-gutenberg-columns-block\/",
+        "display_url" : "css-tricks.com\/styling-the-gu\u2026"
+      }, {
+        "indices" : [ 144, 167 ],
+        "url" : "https:\/\/t.co\/BjbJvCqlVM",
+        "expanded_url" : "https:\/\/thatdevgirl.com\/blog\/a-very-informal-look-at-gutenberg-accessibility",
+        "display_url" : "thatdevgirl.com\/blog\/a-very-in\u2026"
+      }, {
+        "indices" : [ 212, 235 ],
+        "url" : "https:\/\/t.co\/3aNaCOKJOX",
+        "expanded_url" : "https:\/\/www.joedolson.com\/2018\/10\/some-gutenberg-accessibility-clarifications\/",
+        "display_url" : "joedolson.com\/2018\/10\/some-g\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1053619664448905216",
+    "text" : "Some things about Wordpress Gutenberg:\nHow to style the contents block: https:\/\/t.co\/8AmvBQ5f5n\nA Very Informal Look at Gutenberg Accessibility https:\/\/t.co\/BjbJvCqlVM\nSome Gutenberg Accessibility Clarifications\nhttps:\/\/t.co\/3aNaCOKJOX",
+    "id" : 1053619664448905216,
+    "created_at" : "2018-10-20 12:11:17 +0000",
+    "user" : {
+      "name" : "Chris Heilmann",
+      "screen_name" : "codepo8",
+      "protected" : false,
+      "id_str" : "13567",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1666904408\/codepo8_normal.png",
+      "id" : 13567,
+      "verified" : false
+    }
+  },
+  "id" : 1067267989035249664,
+  "created_at" : "2018-11-27 04:04:52 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "erik spiekermann",
+      "screen_name" : "espiekermann",
+      "indices" : [ 3, 16 ],
+      "id_str" : "19045458",
+      "id" : 19045458
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 71, 94 ],
+      "url" : "https:\/\/t.co\/CqNlbhhsrx",
+      "expanded_url" : "https:\/\/twitter.com\/miadahlmer\/status\/1054352389380235264",
+      "display_url" : "twitter.com\/miadahlmer\/sta\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1067267688580489216",
+  "text" : "RT @espiekermann: Designers have a nationality and so does their work. https:\/\/t.co\/CqNlbhhsrx",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 53, 76 ],
+        "url" : "https:\/\/t.co\/CqNlbhhsrx",
+        "expanded_url" : "https:\/\/twitter.com\/miadahlmer\/status\/1054352389380235264",
+        "display_url" : "twitter.com\/miadahlmer\/sta\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "1054450303301545984",
+    "text" : "Designers have a nationality and so does their work. https:\/\/t.co\/CqNlbhhsrx",
+    "id" : 1054450303301545984,
+    "created_at" : "2018-10-22 19:11:57 +0000",
+    "user" : {
+      "name" : "erik spiekermann",
+      "screen_name" : "espiekermann",
+      "protected" : false,
+      "id_str" : "19045458",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1367548442\/erik_leica_self_normal.jpg",
+      "id" : 19045458,
+      "verified" : true
+    }
+  },
+  "id" : 1067267688580489216,
+  "created_at" : "2018-11-27 04:03:40 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Yousra Javed",
+      "screen_name" : "CySecProf",
+      "indices" : [ 3, 13 ],
+      "id_str" : "1059861254175682560",
+      "id" : 1059861254175682560
+    }, {
+      "name" : "Publickey",
+      "screen_name" : "publickey",
+      "indices" : [ 114, 124 ],
+      "id_str" : "46054405",
+      "id" : 46054405
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "manga",
+      "indices" : [ 20, 26 ]
+    }, {
+      "text" : "crypto",
+      "indices" : [ 37, 44 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067267223654416385",
+  "text" : "RT @CySecProf: This #manga  guide to #crypto seems like a nice reference for my cryptography class. Concepts like @publickey cryptography a\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Publickey",
+        "screen_name" : "publickey",
+        "indices" : [ 99, 109 ],
+        "id_str" : "46054405",
+        "id" : 46054405
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/CySecProf\/status\/1063868749281927169\/photo\/1",
+        "indices" : [ 206, 229 ],
+        "url" : "https:\/\/t.co\/es6TaaXRF3",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DsOe-9HWoAM3fZ9.jpg",
+        "id_str" : "1063868741384052739",
+        "id" : 1063868741384052739,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DsOe-9HWoAM3fZ9.jpg",
+        "sizes" : [ {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/es6TaaXRF3"
+      } ],
+      "hashtags" : [ {
+        "text" : "manga",
+        "indices" : [ 5, 11 ]
+      }, {
+        "text" : "crypto",
+        "indices" : [ 22, 29 ]
+      }, {
+        "text" : "comics",
+        "indices" : [ 152, 159 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1063868749281927169",
+    "text" : "This #manga  guide to #crypto seems like a nice reference for my cryptography class. Concepts like @publickey cryptography are nicely explained through #comics. Win win situation for me and the comic fans. https:\/\/t.co\/es6TaaXRF3",
+    "id" : 1063868749281927169,
+    "created_at" : "2018-11-17 18:57:30 +0000",
+    "user" : {
+      "name" : "Yousra Javed",
+      "screen_name" : "CySecProf",
+      "protected" : false,
+      "id_str" : "1059861254175682560",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059861455502303233\/rC25If6i_normal.jpg",
+      "id" : 1059861254175682560,
+      "verified" : false
+    }
+  },
+  "id" : 1067267223654416385,
+  "created_at" : "2018-11-27 04:01:49 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -363,7 +8833,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949287080231952384\/8ztpArYE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077213902755282944\/fLV_AS9p_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -928,7 +9398,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -1341,7 +9811,7 @@ Grailbird.data.tweets_2018_11 =
       "id_str" : "158524228",
       "id" : 158524228
     }, {
-      "name" : "Dave Rupert",
+      "name" : "Old Guard Rupert",
       "screen_name" : "davatron5000",
       "indices" : [ 105, 118 ],
       "id_str" : "14839862",
@@ -1358,7 +9828,7 @@ Grailbird.data.tweets_2018_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dave Rupert",
+        "name" : "Old Guard Rupert",
         "screen_name" : "davatron5000",
         "indices" : [ 90, 103 ],
         "id_str" : "14839862",
@@ -1451,7 +9921,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "Mackey_I",
       "protected" : false,
       "id_str" : "1349794218",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/955966153930678272\/lFxDsldx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067320136149823489\/W_rjSS92_normal.jpg",
       "id" : 1349794218,
       "verified" : false
     }
@@ -1471,7 +9941,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Priscilla Snow\uD83D\uDC7B\uD83C\uDFB6",
+      "name" : "Priscilla Snow",
       "screen_name" : "ghoulnoise",
       "indices" : [ 3, 14 ],
       "id_str" : "138635146",
@@ -1560,11 +10030,11 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1066552727340077056,
     "created_at" : "2018-11-25 04:42:40 +0000",
     "user" : {
-      "name" : "Priscilla Snow\uD83D\uDC7B\uD83C\uDFB6",
+      "name" : "Priscilla Snow",
       "screen_name" : "ghoulnoise",
       "protected" : false,
       "id_str" : "138635146",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066561061405507584\/TO3yhNFc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1082783896708804609\/cMoVNeqW_normal.jpg",
       "id" : 138635146,
       "verified" : false
     }
@@ -1815,7 +10285,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -1994,7 +10464,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -3535,7 +12005,7 @@ Grailbird.data.tweets_2018_11 =
   "id_str" : "1064985596467314689",
   "text" : "RT @HouseDemocrats: Open Enrollment only lasts six weeks \u2013 November 1 to December 15. Don\u2019t miss your chance to #GetCovered on https:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -4285,7 +12755,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "chordbug",
       "protected" : false,
       "id_str" : "807585861965664257",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061036443362123781\/FAVvk8K3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074483976591564805\/WYJfQ-Lc_normal.jpg",
       "id" : 807585861965664257,
       "verified" : false
     }
@@ -4795,7 +13265,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rachel Nabors \uD83D\uDC99",
+      "name" : "Rachel \u201CK-Nearest\u201D Nabors \uD83D\uDC99",
       "screen_name" : "rachelnabors",
       "indices" : [ 3, 16 ],
       "id_str" : "9550352",
@@ -4853,7 +13323,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1063887112020389888,
     "created_at" : "2018-11-17 20:10:28 +0000",
     "user" : {
-      "name" : "Rachel Nabors \uD83D\uDC99",
+      "name" : "Rachel \u201CK-Nearest\u201D Nabors \uD83D\uDC99",
       "screen_name" : "rachelnabors",
       "protected" : false,
       "id_str" : "9550352",
@@ -4908,87 +13378,13 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "Jelly_Ehles",
       "protected" : false,
       "id_str" : "391556524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1051343226253131776\/jIXd3hV5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079277442085208064\/edWg5q94_normal.jpg",
       "id" : 391556524,
       "verified" : false
     }
   },
   "id" : 1063929858810671104,
   "created_at" : "2018-11-17 23:00:19 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jeremy Wagner",
-      "screen_name" : "malchata",
-      "indices" : [ 3, 12 ],
-      "id_str" : "549810198",
-      "id" : 549810198
-    }, {
-      "name" : "Firefox Nightly",
-      "screen_name" : "FirefoxNightly",
-      "indices" : [ 70, 85 ],
-      "id_str" : "382769917",
-      "id" : 382769917
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1063929747477069829",
-  "text" : "RT @malchata: WebP support is landing in Edge 18, and just shipped in @FirefoxNightly!\n\nIf you need a guide to help you understand and use\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Firefox Nightly",
-        "screen_name" : "FirefoxNightly",
-        "indices" : [ 56, 71 ],
-        "id_str" : "382769917",
-        "id" : 382769917
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "webperf",
-        "indices" : [ 190, 198 ]
-      }, {
-        "text" : "WebP",
-        "indices" : [ 199, 204 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 166, 189 ],
-        "url" : "https:\/\/t.co\/yO8snymINg",
-        "expanded_url" : "https:\/\/www.smashingmagazine.com\/ebooks\/the-webp-manual\/",
-        "display_url" : "smashingmagazine.com\/ebooks\/the-web\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "1063435584050483201",
-    "text" : "WebP support is landing in Edge 18, and just shipped in @FirefoxNightly!\n\nIf you need a guide to help you understand and use WebP, might I recommend The WebP manual? https:\/\/t.co\/yO8snymINg #webperf #WebP",
-    "id" : 1063435584050483201,
-    "created_at" : "2018-11-16 14:16:15 +0000",
-    "user" : {
-      "name" : "Jeremy Wagner",
-      "screen_name" : "malchata",
-      "protected" : false,
-      "id_str" : "549810198",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038916406396432384\/Wo7TCasR_normal.jpg",
-      "id" : 549810198,
-      "verified" : false
-    }
-  },
-  "id" : 1063929747477069829,
-  "created_at" : "2018-11-17 22:59:53 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -5539,7 +13935,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah Williams \uD83E\uDDD9\uD83C\uDFFE\u200D\u2640\uFE0F",
+      "name" : "Sarah Williams",
       "screen_name" : "NerdyAndNatural",
       "indices" : [ 3, 19 ],
       "id_str" : "898624737298882561",
@@ -5566,7 +13962,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1062414278819565569,
     "created_at" : "2018-11-13 18:37:57 +0000",
     "user" : {
-      "name" : "Sarah Williams \uD83E\uDDD9\uD83C\uDFFE\u200D\u2640\uFE0F",
+      "name" : "Sarah Williams",
       "screen_name" : "NerdyAndNatural",
       "protected" : false,
       "id_str" : "898624737298882561",
@@ -5590,7 +13986,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hazugiving",
+      "name" : "Hazu @ Moving Hell",
       "screen_name" : "Hazukari",
       "indices" : [ 3, 12 ],
       "id_str" : "228803641",
@@ -5679,11 +14075,11 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1062685761198149632,
     "created_at" : "2018-11-14 12:36:43 +0000",
     "user" : {
-      "name" : "Merry Hazumas!",
+      "name" : "Hazu @ Moving Hell",
       "screen_name" : "Hazukari",
       "protected" : false,
       "id_str" : "228803641",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066420683457134592\/zF0yQP3O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080129498547400705\/YArBxpXZ_normal.jpg",
       "id" : 228803641,
       "verified" : false
     }
@@ -5703,7 +14099,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDD54\uD835\uDD68\uD835\uDD56\uD835\uDD63\uD835\uDD67\uD835\uDD60",
+      "name" : "\uD83E\uDD73 \uD835\uDD54\uD835\uDD68\uD835\uDD56\uD835\uDD63\uD835\uDD67\uD835\uDD60 \uD83C\uDF0A\uD83E\uDD40",
       "screen_name" : "acwervo",
       "indices" : [ 3, 11 ],
       "id_str" : "2589952645",
@@ -5993,7 +14389,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "tsunamino",
       "protected" : false,
       "id_str" : "330100136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884178814573490176\/yhz6pSwM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081010358905561088\/pszXeNpq_normal.jpg",
       "id" : 330100136,
       "verified" : false
     }
@@ -6106,7 +14502,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "viiolaceus",
       "protected" : false,
       "id_str" : "24581476",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909517409215815680\/SneFeV8z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077241055639228419\/K5U4g7UQ_normal.jpg",
       "id" : 24581476,
       "verified" : false
     }
@@ -6504,7 +14900,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "jmspool",
       "protected" : false,
       "id_str" : "849101",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866315684673748993\/N_qMCtMo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079844148797165568\/h7rSvsMN_normal.jpg",
       "id" : 849101,
       "verified" : false
     }
@@ -6683,7 +15079,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -7059,7 +15455,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "brownorama",
       "protected" : false,
       "id_str" : "1761051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/968930826397343744\/g-CnZ69t_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070388234633457665\/o7MhqSoa_normal.jpg",
       "id" : 1761051,
       "verified" : false
     }
@@ -7079,7 +15475,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dr. \u1D20\u1D00\u0274 s\u1D04\u029C\u0274\u1D07\u026A\u1D05\u1D07\u0280",
+      "name" : "Tobias \u1D20\u1D00\u0274 s\u1D04\u029C\u0274\u1D07\u026A\u1D05\u1D07\u0280",
       "screen_name" : "vanschneider",
       "indices" : [ 3, 16 ],
       "id_str" : "18971006",
@@ -7230,7 +15626,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 985530655227465728,
     "created_at" : "2018-04-15 14:49:53 +0000",
     "user" : {
-      "name" : "Dr. \u1D20\u1D00\u0274 s\u1D04\u029C\u0274\u1D07\u026A\u1D05\u1D07\u0280",
+      "name" : "Tobias \u1D20\u1D00\u0274 s\u1D04\u029C\u0274\u1D07\u026A\u1D05\u1D07\u0280",
       "screen_name" : "vanschneider",
       "protected" : false,
       "id_str" : "18971006",
@@ -7338,7 +15734,7 @@ Grailbird.data.tweets_2018_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Jeremy Wagner @ Chrome Dev Summit",
+        "name" : "Jeremy Wagner",
         "screen_name" : "malchata",
         "indices" : [ 148, 157 ],
         "id_str" : "549810198",
@@ -7450,7 +15846,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -7925,7 +16321,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -8165,7 +16561,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -8288,7 +16684,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -8660,7 +17056,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -9049,7 +17445,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "danachis",
       "protected" : false,
       "id_str" : "3215861",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/922590580089032704\/0NeEsMBs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1075378398229344256\/3x1njjA2_normal.jpg",
       "id" : 3215861,
       "verified" : false
     }
@@ -9293,7 +17689,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -9364,7 +17760,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -9563,7 +17959,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "atomicthumbs",
       "protected" : false,
       "id_str" : "14063776",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032161032913879040\/twpK_0ZJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080583884524285952\/mojQD56S_normal.jpg",
       "id" : 14063776,
       "verified" : false
     }
@@ -10089,7 +18485,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "DasSurma",
       "protected" : false,
       "id_str" : "15180856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052690668659888133\/UQFb42S7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1076150887003947008\/cBrwAtt3_normal.jpg",
       "id" : 15180856,
       "verified" : false
     }
@@ -10187,7 +18583,7 @@ Grailbird.data.tweets_2018_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "North of Normal",
+        "name" : "North of Normal @ CodeMash",
         "screen_name" : "northofnormal",
         "indices" : [ 173, 187 ],
         "id_str" : "16184869",
@@ -10450,7 +18846,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2726 Nami\u3016\u306A\u307F\u3017\u2726",
+      "name" : "\u2726Nami - waiting for KH3\u2726",
       "screen_name" : "Nami_nyaa",
       "indices" : [ 3, 13 ],
       "id_str" : "2476143312",
@@ -10549,7 +18945,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1036698197874429952,
     "created_at" : "2018-09-03 19:31:25 +0000",
     "user" : {
-      "name" : "\u2726 Nami\u3016\u306A\u307F\u3017\u2726",
+      "name" : "\u2726Nami - waiting for KH3\u2726",
       "screen_name" : "Nami_nyaa",
       "protected" : false,
       "id_str" : "2476143312",
@@ -10737,7 +19133,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "jordanmoore",
       "protected" : false,
       "id_str" : "9398872",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789613663749562368\/SMx-44tG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067222317317701632\/SsUr0smW_normal.jpg",
       "id" : 9398872,
       "verified" : false
     }
@@ -11097,7 +19493,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh",
+      "name" : "Josh \u2728",
       "screen_name" : "JoshWComeau",
       "indices" : [ 3, 15 ],
       "id_str" : "2308474213",
@@ -11155,7 +19551,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1041034330993123328,
     "created_at" : "2018-09-15 18:41:40 +0000",
     "user" : {
-      "name" : "Josh",
+      "name" : "Josh \u2728",
       "screen_name" : "JoshWComeau",
       "protected" : false,
       "id_str" : "2308474213",
@@ -11396,7 +19792,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "BHolmesDev",
       "protected" : false,
       "id_str" : "1042799721948098560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042799872917860352\/whvdNtZg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081576154044268544\/z6BB53Bo_normal.jpg",
       "id" : 1042799721948098560,
       "verified" : false
     }
@@ -11605,7 +20001,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin Beaumont \uD83E\uDD74",
+      "name" : "Kevin Beaumont HIDING FROM TWEETERS",
       "screen_name" : "GossiTheDog",
       "indices" : [ 3, 15 ],
       "id_str" : "19767495",
@@ -11663,11 +20059,11 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1060541540291039232,
     "created_at" : "2018-11-08 14:36:21 +0000",
     "user" : {
-      "name" : "Kevin Beaumont \uD83E\uDD74",
+      "name" : "Kevin Beaumont HIDING FROM TWEETERS",
       "screen_name" : "GossiTheDog",
       "protected" : false,
       "id_str" : "19767495",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044140644900507648\/h9GTxPC__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080722956404297733\/M4NBH4ao_normal.jpg",
       "id" : 19767495,
       "verified" : true
     }
@@ -12338,7 +20734,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "nozakizine",
       "protected" : false,
       "id_str" : "1058400871959035905",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061205554645807104\/3U5f1Wg5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1075201774179409920\/824xZJUT_normal.jpg",
       "id" : 1058400871959035905,
       "verified" : false
     }
@@ -12380,7 +20776,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "???",
+      "name" : "claire",
       "screen_name" : "protosphere_",
       "indices" : [ 3, 16 ],
       "id_str" : "3956018959",
@@ -12469,7 +20865,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1060809547453947904,
     "created_at" : "2018-11-09 08:21:19 +0000",
     "user" : {
-      "name" : "???",
+      "name" : "claire",
       "screen_name" : "protosphere_",
       "protected" : false,
       "id_str" : "3956018959",
@@ -12584,7 +20980,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Harry Leslie Smith",
+      "name" : "Voyage Around My Dad, Harry Leslie Smith",
       "screen_name" : "Harryslaststand",
       "indices" : [ 3, 19 ],
       "id_str" : "209176493",
@@ -12617,11 +21013,11 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1060872844387725314,
     "created_at" : "2018-11-09 12:32:50 +0000",
     "user" : {
-      "name" : "Harry Leslie Smith",
+      "name" : "Voyage Around My Dad, Harry Leslie Smith",
       "screen_name" : "Harryslaststand",
       "protected" : false,
       "id_str" : "209176493",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790022968671768576\/yBw9xXBY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070783591263555584\/QhLjDE1Q_normal.jpg",
       "id" : 209176493,
       "verified" : true
     }
@@ -13192,7 +21588,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eileen to the left",
+      "name" : "egghead",
       "screen_name" : "LightningThieff",
       "indices" : [ 3, 19 ],
       "id_str" : "329465677",
@@ -13467,11 +21863,11 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1060220946303369218,
     "created_at" : "2018-11-07 17:22:26 +0000",
     "user" : {
-      "name" : "eileen to the left",
+      "name" : "egghead",
       "screen_name" : "LightningThieff",
       "protected" : false,
       "id_str" : "329465677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060298626231140354\/XK80uG6r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1069708742957129736\/ri_w8EpD_normal.jpg",
       "id" : 329465677,
       "verified" : false
     }
@@ -13778,7 +22174,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -14069,7 +22465,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "keithkurson",
       "protected" : false,
       "id_str" : "3285511",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053463132654325760\/_ib8D-HK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081630866843918336\/cY_Dj7dM_normal.jpg",
       "id" : 3285511,
       "verified" : false
     }
@@ -14622,7 +23018,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "AaronGustafson",
       "protected" : false,
       "id_str" : "12028",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936801569844051968\/rHW3x9uP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072555514456928256\/6RYfq4Sz_normal.jpg",
       "id" : 12028,
       "verified" : false
     }
@@ -14684,7 +23080,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "cotufa82",
       "protected" : false,
       "id_str" : "2327284665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061281191540785152\/euTSEFKc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074391007129681920\/g2fv1vVz_normal.jpg",
       "id" : 2327284665,
       "verified" : false
     }

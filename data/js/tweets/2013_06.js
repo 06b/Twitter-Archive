@@ -449,7 +449,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "thegrugq",
       "protected" : false,
       "id_str" : "18983429",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534977903377666048\/yWe1PyiZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071987437696516097\/PGisMM4n_normal.jpg",
       "id" : 18983429,
       "verified" : false
     }
@@ -500,7 +500,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "photonstorm",
       "protected" : false,
       "id_str" : "21861033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948156440878993408\/MAH-snGP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080080389698400256\/xbqfPhIL_normal.jpg",
       "id" : 21861033,
       "verified" : false
     }
@@ -1000,7 +1000,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -1037,7 +1037,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 348281341961441281,
     "created_at" : "2013-06-22 03:28:37 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2641,7 +2641,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 346353194819022848,
     "created_at" : "2013-06-16 19:46:51 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -3537,7 +3537,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen Robinson \u26A1\uFE0F",
+      "name" : "Stephen Robinson \u26A1",
       "screen_name" : "xstex",
       "indices" : [ 3, 9 ],
       "id_str" : "14742479",
@@ -3626,11 +3626,11 @@ Grailbird.data.tweets_2013_06 =
     "id" : 343143960228810753,
     "created_at" : "2013-06-07 23:14:30 +0000",
     "user" : {
-      "name" : "Stephen Robinson \u26A1\uFE0F",
+      "name" : "Stephen Robinson \u26A1",
       "screen_name" : "xstex",
       "protected" : false,
       "id_str" : "14742479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059179229705920512\/0_926Dyg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1076520081608323072\/rA3brZhx_normal.jpg",
       "id" : 14742479,
       "verified" : false
     }

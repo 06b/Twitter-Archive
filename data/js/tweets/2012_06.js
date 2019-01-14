@@ -224,7 +224,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Quaranto \uD83D\uDE9B",
+      "name" : "Nick Quaranto \uD83E\uDD99",
       "screen_name" : "qrush",
       "indices" : [ 3, 9 ],
       "id_str" : "5743852",
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 217456413998448643,
     "created_at" : "2012-06-26 03:17:03 +0000",
     "user" : {
-      "name" : "Nick Quaranto \uD83D\uDE9B",
+      "name" : "Nick Quaranto \uD83E\uDD99",
       "screen_name" : "qrush",
       "protected" : false,
       "id_str" : "5743852",
@@ -3649,7 +3649,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "chunwui",
       "protected" : false,
       "id_str" : "20237160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900715588556791809\/AfcDIqD6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071719359876259843\/A7OMn46V_normal.jpg",
       "id" : 20237160,
       "verified" : false
     }

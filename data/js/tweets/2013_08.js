@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2013_08 =
     "text" : "@AdobeFlashPro What does this even mean? Yes? No? Yes! No! http:\/\/t.co\/3Gu7SkCmBC @aral #uxdesignfail",
     "id" : 370461088032497664,
     "created_at" : "2013-08-22 08:23:00 +0000",
-    "in_reply_to_screen_name" : "animatecc",
+    "in_reply_to_screen_name" : "adobeanimate",
     "in_reply_to_user_id_str" : "15667744",
     "user" : {
       "name" : "Simen \u00D8. Gjermundsen",
@@ -2683,7 +2683,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anton D Peck",
+      "name" : "Anton",
       "screen_name" : "antonpeck",
       "indices" : [ 3, 13 ],
       "id_str" : "681333",
@@ -2710,11 +2710,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 367330146396536833,
     "created_at" : "2013-08-13 17:01:46 +0000",
     "user" : {
-      "name" : "Anton D Peck",
+      "name" : "Anton",
       "screen_name" : "antonpeck",
       "protected" : false,
       "id_str" : "681333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043223813809291264\/WhYi6E-U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080652723152928769\/tWAaV-_q_normal.jpg",
       "id" : 681333,
       "verified" : false
     }

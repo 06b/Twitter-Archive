@@ -2291,7 +2291,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hannah rine",
+      "name" : "Hannah Rine",
       "screen_name" : "infinitehannah",
       "indices" : [ 3, 18 ],
       "id_str" : "91495036",
@@ -2318,11 +2318,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 104970351972331521,
     "created_at" : "2011-08-20 17:37:36 +0000",
     "user" : {
-      "name" : "hannah rine",
+      "name" : "Hannah Rine",
       "screen_name" : "infinitehannah",
       "protected" : false,
       "id_str" : "91495036",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044660155709820928\/xhZy5eSp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081709128739885057\/Ys0nM5f8_normal.jpg",
       "id" : 91495036,
       "verified" : false
     }
@@ -4367,7 +4367,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "harryfk",
       "protected" : false,
       "id_str" : "49302333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036680031190360065\/6Uh9eNru_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077516457846755330\/c66YTtpM_normal.jpg",
       "id" : 49302333,
       "verified" : false
     }
@@ -8122,7 +8122,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Vonster",
       "protected" : false,
       "id_str" : "68033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853492721016651776\/iWleQgOS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070542454045106176\/G_JPDbjY_normal.jpg",
       "id" : 68033,
       "verified" : true
     }

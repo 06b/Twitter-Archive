@@ -95,7 +95,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -122,7 +122,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 417771413789868032,
     "created_at" : "2013-12-30 21:37:21 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -894,7 +894,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Hall",
+      "name" : "Ben Hall (Katacoda \uD83D\uDE3A)",
       "screen_name" : "Ben_Hall",
       "indices" : [ 3, 12 ],
       "id_str" : "6898072",
@@ -983,7 +983,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 406356915292471296,
     "created_at" : "2013-11-29 09:40:13 +0000",
     "user" : {
-      "name" : "Ben Hall",
+      "name" : "Ben Hall (Katacoda \uD83D\uDE3A)",
       "screen_name" : "Ben_Hall",
       "protected" : false,
       "id_str" : "6898072",
@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796069133926350848\/Gk12QrZC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067184832914964480\/EPIjUVct_normal.jpg",
       "id" : 15629200,
       "verified" : false
     }
@@ -2029,7 +2029,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -2062,7 +2062,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2089,7 +2089,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 412665052312121344,
     "created_at" : "2013-12-16 19:26:30 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2827,7 +2827,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949287080231952384\/8ztpArYE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077213902755282944\/fLV_AS9p_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -2887,7 +2887,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949287080231952384\/8ztpArYE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077213902755282944\/fLV_AS9p_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -3047,7 +3047,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "mikemetcalf",
       "protected" : false,
       "id_str" : "27032389",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054881138852814848\/eC47N84e_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080925185560068096\/olucsy6c_normal.jpg",
       "id" : 27032389,
       "verified" : false
     }
@@ -3067,7 +3067,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brittney O Simms",
+      "name" : "Brittney O Roland",
       "screen_name" : "BRITTNEY_O",
       "indices" : [ 3, 14 ],
       "id_str" : "18204077",
@@ -3097,7 +3097,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410117748573106176,
     "created_at" : "2013-12-09 18:44:25 +0000",
     "user" : {
-      "name" : "Brittney O Simms",
+      "name" : "Brittney O Roland",
       "screen_name" : "BRITTNEY_O",
       "protected" : false,
       "id_str" : "18204077",
@@ -3221,88 +3221,6 @@ Grailbird.data.tweets_2013_12 =
   "text" : "One day I will make a presentation that (may or may not) include a loading screen that will use commit messages from The Sims.",
   "id" : 409899718911614977,
   "created_at" : "2013-12-09 04:18:03 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "kels",
-      "screen_name" : "kelsroaach",
-      "indices" : [ 3, 14 ],
-      "id_str" : "2182871491",
-      "id" : 2182871491
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "409798155819966465",
-  "text" : "RT @kelsroaach: So my mom will stop smoking &amp; so will my stepdad if I get a million retweets, lol ok. Ha help me guys. http:\/\/t.co\/ee5E4FWO\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/kelsroaach\/status\/408383980870701056\/photo\/1",
-        "indices" : [ 107, 129 ],
-        "url" : "http:\/\/t.co\/ee5E4FWOMV",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BarfERnCQAAw8yI.jpg",
-        "id_str" : "408383980770050048",
-        "id" : 408383980770050048,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BarfERnCQAAw8yI.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/ee5E4FWOMV"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "408383980870701056",
-    "text" : "So my mom will stop smoking &amp; so will my stepdad if I get a million retweets, lol ok. Ha help me guys. http:\/\/t.co\/ee5E4FWOMV",
-    "id" : 408383980870701056,
-    "created_at" : "2013-12-04 23:55:03 +0000",
-    "user" : {
-      "name" : "kels",
-      "screen_name" : "kelsroaach",
-      "protected" : false,
-      "id_str" : "2182871491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055219340859998208\/dhzSaIGi_normal.jpg",
-      "id" : 2182871491,
-      "verified" : false
-    }
-  },
-  "id" : 409798155819966465,
-  "created_at" : "2013-12-08 21:34:28 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -4129,7 +4047,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -4218,7 +4136,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 407363713440956417,
     "created_at" : "2013-12-02 04:20:52 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",

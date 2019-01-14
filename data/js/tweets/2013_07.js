@@ -1998,7 +1998,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2037,7 +2037,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357511939888398337,
     "created_at" : "2013-07-17 14:47:43 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ghostly Odd",
+      "name" : "Jo Dodd",
       "screen_name" : "jkdodd",
       "indices" : [ 3, 10 ],
       "id_str" : "11611082",
@@ -2110,7 +2110,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357209133608484864,
     "created_at" : "2013-07-16 18:44:28 +0000",
     "user" : {
-      "name" : "Ghostly Odd",
+      "name" : "Jo Dodd",
       "screen_name" : "jkdodd",
       "protected" : false,
       "id_str" : "11611082",
@@ -3649,7 +3649,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "indices" : [ 3, 12 ],
       "id_str" : "34543",
@@ -3681,7 +3681,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353147662075310080,
     "created_at" : "2013-07-05 13:45:38 +0000",
     "user" : {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "protected" : false,
       "id_str" : "34543",

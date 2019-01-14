@@ -54,7 +54,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "McGlove",
+      "name" : "THE COOL CAVALIER",
       "screen_name" : "Clarrknulp",
       "indices" : [ 3, 14 ],
       "id_str" : "1252764073",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 632599914334306305,
     "created_at" : "2015-08-15 17:09:07 +0000",
     "user" : {
-      "name" : "McGlove",
+      "name" : "THE COOL CAVALIER",
       "screen_name" : "Clarrknulp",
       "protected" : false,
       "id_str" : "1252764073",
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "leemunroe",
       "protected" : false,
       "id_str" : "9445012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000299563742\/6e88d6bc0a0a627fd4866edc25015975_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074151412303572993\/m_wdSACy_normal.jpg",
       "id" : 9445012,
       "verified" : false
     }
@@ -932,7 +932,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "leemunroe",
       "protected" : false,
       "id_str" : "9445012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000299563742\/6e88d6bc0a0a627fd4866edc25015975_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074151412303572993\/m_wdSACy_normal.jpg",
       "id" : 9445012,
       "verified" : false
     }
@@ -2334,7 +2334,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mint",
+      "name" : "mint \uD83D\uDD1C FC",
       "screen_name" : "mintchipleaf",
       "indices" : [ 3, 16 ],
       "id_str" : "15963621",
@@ -2361,7 +2361,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 658781105080811520,
     "created_at" : "2015-10-26 23:03:49 +0000",
     "user" : {
-      "name" : "mint",
+      "name" : "mint \uD83D\uDD1C FC",
       "screen_name" : "mintchipleaf",
       "protected" : false,
       "id_str" : "15963621",
@@ -2622,7 +2622,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "indices" : [ 3, 14 ],
       "id_str" : "126030998",
@@ -2711,7 +2711,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 658722419818024960,
     "created_at" : "2015-10-26 19:10:38 +0000",
     "user" : {
-      "name" : "Melissa \uD83D\uDCAB",
+      "name" : "badidea \uD83D\uDCAB",
       "screen_name" : "0xabad1dea",
       "protected" : false,
       "id_str" : "126030998",
@@ -2834,7 +2834,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "mkristensen",
       "protected" : false,
       "id_str" : "14165017",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509863271445192704\/uEk4qr3Q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072230315467239424\/3IIDDYAV_normal.jpg",
       "id" : 14165017,
       "verified" : false
     }
@@ -3218,7 +3218,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "InfoSec Taylor Swift \uD83D\uDC8E",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 3, 19 ],
       "id_str" : "2436389418",
@@ -3307,11 +3307,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 658020621729705984,
     "created_at" : "2015-10-24 20:41:56 +0000",
     "user" : {
-      "name" : "InfoSec Taylor Swift \uD83D\uDC8E",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064939033791471616\/zQ6FXbt7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077834183316127745\/41yST6ca_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -3331,7 +3331,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Burnett",
+      "name" : "Mark Burnett \uD80C\uDD88",
       "screen_name" : "m8urnett",
       "indices" : [ 3, 12 ],
       "id_str" : "785486180",
@@ -3420,11 +3420,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 657979291628609536,
     "created_at" : "2015-10-24 17:57:42 +0000",
     "user" : {
-      "name" : "Mark Burnett",
+      "name" : "Mark Burnett \uD80C\uDD88",
       "screen_name" : "m8urnett",
       "protected" : false,
       "id_str" : "785486180",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031790198550458368\/zUSX9L_k_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070083996464295936\/PfEJk9fW_normal.jpg",
       "id" : 785486180,
       "verified" : false
     }
@@ -3574,7 +3574,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "2446269217",
       "id" : 2446269217
     }, {
-      "name" : "Christopher Schmitt",
+      "name" : "The Internet\u2019s Christopher Schmitt",
       "screen_name" : "teleject",
       "indices" : [ 99, 108 ],
       "id_str" : "34543",
@@ -3658,6 +3658,119 @@ Grailbird.data.tweets_2015_10 =
   },
   "id" : 657689051496083456,
   "created_at" : "2015-10-23 22:44:23 +0000",
+  "user" : {
+    "name" : "Adrian D. Alvarez",
+    "screen_name" : "06b",
+    "protected" : false,
+    "id_str" : "30257040",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
+    "id" : 30257040,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "tretton37",
+      "screen_name" : "tretton37",
+      "indices" : [ 3, 13 ],
+      "id_str" : "101450939",
+      "id" : 101450939
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/tretton37\/status\/657534534469197824\/photo\/1",
+      "indices" : [ 60, 83 ],
+      "url" : "https:\/\/t.co\/zuP3B00h7s",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CSAILNjWIAA3mq8.png",
+      "id_str" : "657534534305587200",
+      "id" : 657534534305587200,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CSAILNjWIAA3mq8.png",
+      "sizes" : [ {
+        "h" : 595,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 595,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 595,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 595,
+        "resize" : "fit",
+        "w" : 650
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/zuP3B00h7s"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "657680681959424000",
+  "text" : "RT @tretton37: A public safety reminder. In case of fire... https:\/\/t.co\/zuP3B00h7s",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/tretton37\/status\/657534534469197824\/photo\/1",
+        "indices" : [ 45, 68 ],
+        "url" : "https:\/\/t.co\/zuP3B00h7s",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CSAILNjWIAA3mq8.png",
+        "id_str" : "657534534305587200",
+        "id" : 657534534305587200,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CSAILNjWIAA3mq8.png",
+        "sizes" : [ {
+          "h" : 595,
+          "resize" : "fit",
+          "w" : 650
+        }, {
+          "h" : 595,
+          "resize" : "fit",
+          "w" : 650
+        }, {
+          "h" : 595,
+          "resize" : "fit",
+          "w" : 650
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 595,
+          "resize" : "fit",
+          "w" : 650
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/zuP3B00h7s"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "657534534469197824",
+    "text" : "A public safety reminder. In case of fire... https:\/\/t.co\/zuP3B00h7s",
+    "id" : 657534534469197824,
+    "created_at" : "2015-10-23 12:30:24 +0000",
+    "user" : {
+      "name" : "tretton37",
+      "screen_name" : "tretton37",
+      "protected" : false,
+      "id_str" : "101450939",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036884610913849344\/EfuV-0fe_normal.jpg",
+      "id" : 101450939,
+      "verified" : false
+    }
+  },
+  "id" : 657680681959424000,
+  "created_at" : "2015-10-23 22:11:08 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -5595,7 +5708,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nozomi hayase",
+      "name" : "Nozomi Hayase",
       "screen_name" : "nozomimagine",
       "indices" : [ 3, 16 ],
       "id_str" : "36081258",
@@ -5689,7 +5802,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 655397027619041280,
     "created_at" : "2015-10-17 14:56:42 +0000",
     "user" : {
-      "name" : "nozomi hayase",
+      "name" : "Nozomi Hayase",
       "screen_name" : "nozomimagine",
       "protected" : false,
       "id_str" : "36081258",
@@ -5744,7 +5857,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "bittercoder",
       "protected" : false,
       "id_str" : "15214291",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/55821028\/alex2_square_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072398903528562688\/vsBZpO2c_normal.jpg",
       "id" : 15214291,
       "verified" : false
     }
@@ -7508,7 +7621,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.windowsphone.com\/en-us\/apps\/75067abc-c9d1-47b7-8ace-76aede3911b2\" rel=\"nofollow\"\u003EPeregrine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "InfoSec Taylor Swift \uD83D\uDC8E",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 3, 19 ],
       "id_str" : "2436389418",
@@ -7566,11 +7679,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 653984763376615424,
     "created_at" : "2015-10-13 17:24:52 +0000",
     "user" : {
-      "name" : "InfoSec Taylor Swift \uD83D\uDC8E",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064939033791471616\/zQ6FXbt7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077834183316127745\/41yST6ca_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }

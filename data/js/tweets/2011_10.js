@@ -608,57 +608,6 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ethan Marcotte",
-      "screen_name" : "beep",
-      "indices" : [ 3, 8 ],
-      "id_str" : "12534",
-      "id" : 12534
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "130027741566349313",
-  "text" : "RT @beep: 1. Open Photoshop\n2. Drag item to a location\n3. Release mouse\n4. Watch object move 10px past intended position\n5. Go to #2. Wh ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "130013899322966016",
-    "text" : "1. Open Photoshop\n2. Drag item to a location\n3. Release mouse\n4. Watch object move 10px past intended position\n5. Go to #2. Whilst sobbing.",
-    "id" : 130013899322966016,
-    "created_at" : "2011-10-28 20:11:43 +0000",
-    "user" : {
-      "name" : "Ethan Marcotte",
-      "screen_name" : "beep",
-      "protected" : false,
-      "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947918917493776385\/OGLEPAjr_normal.jpg",
-      "id" : 12534,
-      "verified" : false
-    }
-  },
-  "id" : 130027741566349313,
-  "created_at" : "2011-10-28 21:06:44 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Sergio A. Garcia",
       "screen_name" : "SergioAG10",
       "indices" : [ 3, 14 ],
@@ -1375,7 +1324,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949287080231952384\/8ztpArYE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077213902755282944\/fLV_AS9p_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -1444,7 +1393,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949287080231952384\/8ztpArYE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077213902755282944\/fLV_AS9p_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -6508,7 +6457,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "darbooth",
       "protected" : false,
       "id_str" : "167289455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970764210761187328\/ctoVTWEK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1083762265042481152\/N3amWrPT_normal.jpg",
       "id" : 167289455,
       "verified" : true
     }

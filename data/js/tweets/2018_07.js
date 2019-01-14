@@ -609,7 +609,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yung beardless santa",
+      "name" : "BRAND NEW KENNETH",
       "screen_name" : "ken_wheeler",
       "indices" : [ 3, 15 ],
       "id_str" : "167193309",
@@ -648,11 +648,11 @@ Grailbird.data.tweets_2018_07 =
     "id" : 1022122798649667586,
     "created_at" : "2018-07-25 14:13:59 +0000",
     "user" : {
-      "name" : "yung beardless santa",
+      "name" : "BRAND NEW KENNETH",
       "screen_name" : "ken_wheeler",
       "protected" : false,
       "id_str" : "167193309",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065218468142825472\/1ZO2ZfPx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1082643918095818758\/v-2pQbgC_normal.jpg",
       "id" : 167193309,
       "verified" : false
     }
@@ -950,7 +950,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Good King Eveceslas \u2744\uFE0F\uD83D\uDC69\uD83C\uDFFC\u200D\uD83D\uDD2C\uD83E\uDDE0",
+      "name" : "Eve Forster \u2744\uFE0F\uD83D\uDC69\uD83C\uDFFC\u200D\uD83D\uDD2C\uD83E\uDDE0",
       "screen_name" : "EveForster",
       "indices" : [ 3, 14 ],
       "id_str" : "14852707",
@@ -1039,7 +1039,7 @@ Grailbird.data.tweets_2018_07 =
     "id" : 1020616441727463424,
     "created_at" : "2018-07-21 10:28:16 +0000",
     "user" : {
-      "name" : "Good King Eveceslas \u2744\uFE0F\uD83D\uDC69\uD83C\uDFFC\u200D\uD83D\uDD2C\uD83E\uDDE0",
+      "name" : "Eve Forster \u2744\uFE0F\uD83D\uDC69\uD83C\uDFFC\u200D\uD83D\uDD2C\uD83E\uDDE0",
       "screen_name" : "EveForster",
       "protected" : false,
       "id_str" : "14852707",
@@ -1125,7 +1125,7 @@ Grailbird.data.tweets_2018_07 =
       "id_str" : "2183231114",
       "id" : 2183231114
     }, {
-      "name" : "Foundation for Ligma Awareness",
+      "name" : "CYBERBOHEMIAN",
       "screen_name" : "fireh9lly",
       "indices" : [ 17, 27 ],
       "id_str" : "150606645",
@@ -1157,7 +1157,7 @@ Grailbird.data.tweets_2018_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Foundation for Ligma Awareness",
+        "name" : "CYBERBOHEMIAN",
         "screen_name" : "fireh9lly",
         "indices" : [ 0, 10 ],
         "id_str" : "150606645",
@@ -1297,119 +1297,6 @@ Grailbird.data.tweets_2018_07 =
   },
   "id" : 1020809318172590080,
   "created_at" : "2018-07-21 23:14:41 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Foundation for Ligma Awareness",
-      "screen_name" : "fireh9lly",
-      "indices" : [ 3, 13 ],
-      "id_str" : "150606645",
-      "id" : 150606645
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/fireh9lly\/status\/1020656704785211392\/photo\/1",
-      "indices" : [ 64, 87 ],
-      "url" : "https:\/\/t.co\/beg4Q05ghT",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DioZ0eIX0AEFL0i.jpg",
-      "id_str" : "1020656654784909313",
-      "id" : 1020656654784909313,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DioZ0eIX0AEFL0i.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 560
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 560
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 560
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 560
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/beg4Q05ghT"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1020809284593045505",
-  "text" : "RT @fireh9lly: i think about the hairy heart emoji all the time https:\/\/t.co\/beg4Q05ghT",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/fireh9lly\/status\/1020656704785211392\/photo\/1",
-        "indices" : [ 49, 72 ],
-        "url" : "https:\/\/t.co\/beg4Q05ghT",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DioZ0eIX0AEFL0i.jpg",
-        "id_str" : "1020656654784909313",
-        "id" : 1020656654784909313,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DioZ0eIX0AEFL0i.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 300,
-          "resize" : "fit",
-          "w" : 560
-        }, {
-          "h" : 300,
-          "resize" : "fit",
-          "w" : 560
-        }, {
-          "h" : 300,
-          "resize" : "fit",
-          "w" : 560
-        }, {
-          "h" : 300,
-          "resize" : "fit",
-          "w" : 560
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/beg4Q05ghT"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "1020656704785211392",
-    "text" : "i think about the hairy heart emoji all the time https:\/\/t.co\/beg4Q05ghT",
-    "id" : 1020656704785211392,
-    "created_at" : "2018-07-21 13:08:15 +0000",
-    "user" : {
-      "name" : "Foundation for Ligma Awareness",
-      "screen_name" : "fireh9lly",
-      "protected" : false,
-      "id_str" : "150606645",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987505758727176192\/v4umu70s_normal.jpg",
-      "id" : 150606645,
-      "verified" : false
-    }
-  },
-  "id" : 1020809284593045505,
-  "created_at" : "2018-07-21 23:14:33 +0000",
   "user" : {
     "name" : "Adrian D. Alvarez",
     "screen_name" : "06b",
@@ -1803,7 +1690,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Q4-ryn \u2728",
+      "name" : "Snow-ryn \uD83E\uDD76",
       "screen_name" : "lourynstrampe",
       "indices" : [ 3, 17 ],
       "id_str" : "2996553343",
@@ -1898,7 +1785,7 @@ Grailbird.data.tweets_2018_07 =
     "id" : 1018936530398793728,
     "created_at" : "2018-07-16 19:12:54 +0000",
     "user" : {
-      "name" : "Q4-ryn \u2728",
+      "name" : "Snow-ryn \uD83E\uDD76",
       "screen_name" : "lourynstrampe",
       "protected" : false,
       "id_str" : "2996553343",
@@ -2017,7 +1904,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "ava",
       "protected" : false,
       "id_str" : "14982804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034692034190299136\/F4wDq64O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1076494377726300160\/sMB-Hnyh_normal.jpg",
       "id" : 14982804,
       "verified" : true
     }
@@ -2186,7 +2073,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "BettyBowers",
       "protected" : false,
       "id_str" : "46775436",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055591381308268544\/gNMQKhyG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067474623908868097\/UcsygzIR_normal.jpg",
       "id" : 46775436,
       "verified" : false
     }
@@ -2800,7 +2687,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicole is no longer spooky",
+      "name" : "today we are all nicole",
       "screen_name" : "nerionaya",
       "indices" : [ 3, 13 ],
       "id_str" : "484192857",
@@ -2844,7 +2731,7 @@ Grailbird.data.tweets_2018_07 =
     "in_reply_to_screen_name" : "mcclure111",
     "in_reply_to_user_id_str" : "312426579",
     "user" : {
-      "name" : "nicole is no longer spooky",
+      "name" : "today we are all nicole",
       "screen_name" : "nerionaya",
       "protected" : false,
       "id_str" : "484192857",
@@ -3077,7 +2964,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meth lab for cutie",
+      "name" : "Beto al-Assad",
       "screen_name" : "AliceAvizandum",
       "indices" : [ 3, 18 ],
       "id_str" : "20770892",
@@ -3104,7 +2991,7 @@ Grailbird.data.tweets_2018_07 =
     "id" : 1015988289642299392,
     "created_at" : "2018-07-08 15:57:39 +0000",
     "user" : {
-      "name" : "meth lab for cutie",
+      "name" : "rahaf mohammed al-qanon",
       "screen_name" : "AliceAvizandum",
       "protected" : false,
       "id_str" : "20770892",
@@ -3263,89 +3150,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Clint Falin",
-      "screen_name" : "ClintFalin",
-      "indices" : [ 3, 14 ],
-      "id_str" : "390396654",
-      "id" : 390396654
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1015435174522380288",
-  "text" : "RT @ClintFalin: hey i don\u2019t know if you noticed but my food bowl is completely empty.\n\nLOOK AT IT KAREN.\n\n                               (m\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ClintFalin\/status\/1014676625311584259\/video\/1",
-        "indices" : [ 139, 162 ],
-        "url" : "https:\/\/t.co\/APSZ0HMwQr",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1014676596664479744\/pu\/img\/Zu282pKsM5J8sAuY.jpg",
-        "id_str" : "1014676596664479744",
-        "id" : 1014676596664479744,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1014676596664479744\/pu\/img\/Zu282pKsM5J8sAuY.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/APSZ0HMwQr"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "1014676625311584259",
-    "text" : "hey i don\u2019t know if you noticed but my food bowl is completely empty.\n\nLOOK AT IT KAREN.\n\n                               (marutheshiba IG) https:\/\/t.co\/APSZ0HMwQr",
-    "id" : 1014676625311584259,
-    "created_at" : "2018-07-05 01:05:33 +0000",
-    "user" : {
-      "name" : "Clint Falin",
-      "screen_name" : "ClintFalin",
-      "protected" : false,
-      "id_str" : "390396654",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037056332183035905\/SFk7yERK_normal.jpg",
-      "id" : 390396654,
-      "verified" : false
-    }
-  },
-  "id" : 1015435174522380288,
-  "created_at" : "2018-07-07 03:19:46 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jeremy Parish",
+      "name" : "The Jeremy Parish Advent Calendar",
       "screen_name" : "gamespite",
       "indices" : [ 3, 13 ],
       "id_str" : "17052055",
@@ -3377,7 +3182,7 @@ Grailbird.data.tweets_2018_07 =
     "id" : 1015245279241613314,
     "created_at" : "2018-07-06 14:45:11 +0000",
     "user" : {
-      "name" : "Jeremy Parish",
+      "name" : "Jeremy Parish will never leave Eurasia alive",
       "screen_name" : "gamespite",
       "protected" : false,
       "id_str" : "17052055",
@@ -3633,88 +3438,6 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u039Eric M. \u039Esquivel",
-      "screen_name" : "ericMesquivel",
-      "indices" : [ 3, 17 ],
-      "id_str" : "15166776",
-      "id" : 15166776
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1014265063925010435",
-  "text" : "RT @ericMesquivel: I did it. I found the best image to use as a response to people who tweet racist junk to me on Twitter. https:\/\/t.co\/wgC\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ericMesquivel\/status\/1013913175056502785\/photo\/1",
-        "indices" : [ 104, 127 ],
-        "url" : "https:\/\/t.co\/wgCnXLCQAI",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DhIkhCYUYAApZUl.jpg",
-        "id_str" : "1013913016104935424",
-        "id" : 1013913016104935424,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DhIkhCYUYAApZUl.jpg",
-        "sizes" : [ {
-          "h" : 337,
-          "resize" : "fit",
-          "w" : 337
-        }, {
-          "h" : 337,
-          "resize" : "fit",
-          "w" : 337
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 337,
-          "resize" : "fit",
-          "w" : 337
-        }, {
-          "h" : 337,
-          "resize" : "fit",
-          "w" : 337
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/wgCnXLCQAI"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "1013913175056502785",
-    "text" : "I did it. I found the best image to use as a response to people who tweet racist junk to me on Twitter. https:\/\/t.co\/wgCnXLCQAI",
-    "id" : 1013913175056502785,
-    "created_at" : "2018-07-02 22:31:53 +0000",
-    "user" : {
-      "name" : "\u039Eric M. \u039Esquivel",
-      "screen_name" : "ericMesquivel",
-      "protected" : false,
-      "id_str" : "15166776",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775197674488279040\/XuYJz99P_normal.jpg",
-      "id" : 15166776,
-      "verified" : true
-    }
-  },
-  "id" : 1014265063925010435,
-  "created_at" : "2018-07-03 21:50:10 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "\u13A0\u13CCN\u13AC\u13B7Y\u13A2\u13BB\u13AAN\u13E9\u2122\uFE0F",
       "screen_name" : "Kris_Sacrebleu",
       "indices" : [ 3, 18 ],
@@ -3803,7 +3526,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "tonyposnanski",
       "protected" : false,
       "id_str" : "17642747",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015059361847304192\/lEikp3xO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084524732081410049\/vRcmLVCN_normal.jpg",
       "id" : 17642747,
       "verified" : true
     }

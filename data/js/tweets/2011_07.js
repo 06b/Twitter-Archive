@@ -936,7 +936,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "larabanker",
       "protected" : false,
       "id_str" : "36577080",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969434470859268097\/3XLKo7oR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1083394178128564224\/ryoXgqn6_normal.jpg",
       "id" : 36577080,
       "verified" : false
     }
@@ -1158,7 +1158,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96985354053238784,
     "created_at" : "2011-07-29 16:48:04 +0000",
     "user" : {
-      "name" : "\uD835\uDE8A\uD835\uDE95\uD835\uDE8A\uD835\uDE97 \uD835\uDE91\uD835\uDE98\uD835\uDE9E\uD835\uDE9C\uD835\uDE8E\uD835\uDE9B \uD835\uDE8F\uD835\uDE9B\uD835\uDE98\uD835\uDE96 \uD835\uDE9D\uD835\uDEA0\uD835\uDE92\uD835\uDE9D\uD835\uDE9D\uD835\uDE8E\uD835\uDE9B",
+      "name" : "\uD835\uDD1E\uD835\uDD29\uD835\uDD1E\uD835\uDD2B\uD835\uDD25\uD835\uDD2C\uD835\uDD32\uD835\uDD30\uD835\uDD22\uD835\uDD2F \uD835\uDD2C\uD835\uDD23 \uD835\uDD31\uD835\uDD34\uD835\uDD26\uD835\uDD31\uD835\uDD31\uD835\uDD22\uD835\uDD2F\uD835\uDD30\uD835\uDD25\uD835\uDD26\uD835\uDD2F\uD835\uDD22",
       "screen_name" : "pixelmelter",
       "protected" : false,
       "id_str" : "15020422",
@@ -1605,13 +1605,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dan Nuttall",
-      "screen_name" : "dandoesdesign",
-      "indices" : [ 3, 17 ],
-      "id_str" : "955791048239874048",
-      "id" : 955791048239874048
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "rebuild2011",
@@ -2138,7 +2132,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "kendallmiller",
       "protected" : false,
       "id_str" : "18351635",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023913180412694528\/je58W9Im_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1073408804115619841\/LHcnA-rT_normal.jpg",
       "id" : 18351635,
       "verified" : false
     }
@@ -6901,12 +6895,6 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 71, 85 ],
       "id_str" : "30206462",
       "id" : 30206462
-    }, {
-      "name" : "Five Dot Design",
-      "screen_name" : "fivedot",
-      "indices" : [ 86, 94 ],
-      "id_str" : "18749783",
-      "id" : 18749783
     }, {
       "name" : "Crowdbooster",
       "screen_name" : "Crowdbooster",

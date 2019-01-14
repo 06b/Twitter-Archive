@@ -826,57 +826,6 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "indices" : [ 3, 12 ],
-      "id_str" : "13524672",
-      "id" : 13524672
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "283269972459933697",
-  "text" : "RT @taestell: \u201CDo you even know what Viagra does?\u201D My nephew: \u201CI don\u2019t know exactly, but judging from the commercials, it makes old guys ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "283005923469959170",
-    "text" : "\u201CDo you even know what Viagra does?\u201D My nephew: \u201CI don\u2019t know exactly, but judging from the commercials, it makes old guys cool again.\u201D",
-    "id" : 283005923469959170,
-    "created_at" : "2012-12-24 00:27:24 +0000",
-    "user" : {
-      "name" : "Travis",
-      "screen_name" : "taestell",
-      "protected" : false,
-      "id_str" : "13524672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956052306423959552\/-kO5yNLW_normal.jpg",
-      "id" : 13524672,
-      "verified" : false
-    }
-  },
-  "id" : 283269972459933697,
-  "created_at" : "2012-12-24 17:56:38 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "\u269C\uFE0F Dave Hogue \u269C\uFE0F",
       "screen_name" : "DaveHogue",
       "indices" : [ 3, 13 ],
@@ -1879,7 +1828,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "chunwui",
       "protected" : false,
       "id_str" : "20237160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900715588556791809\/AfcDIqD6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071719359876259843\/A7OMn46V_normal.jpg",
       "id" : 20237160,
       "verified" : false
     }
@@ -2024,7 +1973,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "leemunroe",
       "protected" : false,
       "id_str" : "9445012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000299563742\/6e88d6bc0a0a627fd4866edc25015975_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074151412303572993\/m_wdSACy_normal.jpg",
       "id" : 9445012,
       "verified" : false
     }
@@ -2326,40 +2275,14 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "266791973",
       "id" : 266791973
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
       "indices" : [ 53, 73 ],
       "url" : "http:\/\/t.co\/vdr355Nf",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
-      "id_str" : "278583748650479618",
-      "id" : 278583748650479618,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
-      "sizes" : [ {
-        "h" : 697,
-        "resize" : "fit",
-        "w" : 400
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 697,
-        "resize" : "fit",
-        "w" : 400
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 390
-      }, {
-        "h" : 697,
-        "resize" : "fit",
-        "w" : 400
-      } ],
-      "media_alt" : "",
+      "expanded_url" : "https:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
       "display_url" : "pic.twitter.com\/vdr355Nf"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    } ]
   },
   "geo" : { },
   "id_str" : "278677279889047552",
@@ -2374,40 +2297,14 @@ Grailbird.data.tweets_2012_12 =
         "id_str" : "266791973",
         "id" : 266791973
       } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
         "indices" : [ 38, 58 ],
         "url" : "http:\/\/t.co\/vdr355Nf",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
-        "id_str" : "278583748650479618",
-        "id" : 278583748650479618,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A926cYKCMAILs-e.jpg",
-        "sizes" : [ {
-          "h" : 697,
-          "resize" : "fit",
-          "w" : 400
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 697,
-          "resize" : "fit",
-          "w" : 400
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 390
-        }, {
-          "h" : 697,
-          "resize" : "fit",
-          "w" : 400
-        } ],
-        "media_alt" : "",
+        "expanded_url" : "https:\/\/twitter.com\/ExtraGrumpyCat\/status\/278583748650479616\/photo\/1",
         "display_url" : "pic.twitter.com\/vdr355Nf"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
+      } ]
     },
     "geo" : { },
     "id_str" : "278666795567706112",
@@ -3489,7 +3386,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "chunwui",
       "protected" : false,
       "id_str" : "20237160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900715588556791809\/AfcDIqD6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071719359876259843\/A7OMn46V_normal.jpg",
       "id" : 20237160,
       "verified" : false
     }

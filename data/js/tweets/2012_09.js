@@ -576,7 +576,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "jmspool",
       "protected" : false,
       "id_str" : "849101",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866315684673748993\/N_qMCtMo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079844148797165568\/h7rSvsMN_normal.jpg",
       "id" : 849101,
       "verified" : false
     }
@@ -2726,67 +2726,6 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke Lewis",
-      "screen_name" : "lukelewis",
-      "indices" : [ 3, 13 ],
-      "id_str" : "18309653",
-      "id" : 18309653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 110, 130 ],
-      "url" : "http:\/\/t.co\/4WN39qg9",
-      "expanded_url" : "http:\/\/i.imgur.com\/Z8WpH.jpg",
-      "display_url" : "i.imgur.com\/Z8WpH.jpg"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "244088257137213440",
-  "text" : "RT @lukelewis: When the name of your magazine is 'Where', you really ought to be more careful with the layout http:\/\/t.co\/4WN39qg9",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 95, 115 ],
-        "url" : "http:\/\/t.co\/4WN39qg9",
-        "expanded_url" : "http:\/\/i.imgur.com\/Z8WpH.jpg",
-        "display_url" : "i.imgur.com\/Z8WpH.jpg"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "241963390187237377",
-    "text" : "When the name of your magazine is 'Where', you really ought to be more careful with the layout http:\/\/t.co\/4WN39qg9",
-    "id" : 241963390187237377,
-    "created_at" : "2012-09-01 18:19:02 +0000",
-    "user" : {
-      "name" : "Luke Lewis",
-      "screen_name" : "lukelewis",
-      "protected" : false,
-      "id_str" : "18309653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674981315343548417\/nxxzn9o7_normal.jpg",
-      "id" : 18309653,
-      "verified" : true
-    }
-  },
-  "id" : 244088257137213440,
-  "created_at" : "2012-09-07 15:02:30 +0000",
-  "user" : {
-    "name" : "Adrian D. Alvarez",
-    "screen_name" : "06b",
-    "protected" : false,
-    "id_str" : "30257040",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844958438778175489\/bevbcB6H_normal.jpg",
-    "id" : 30257040,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Hacker News",
       "screen_name" : "newsycombinator",
       "indices" : [ 3, 19 ],
@@ -2873,7 +2812,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Ritchie",
+      "name" : "Peter Ritchie \u2699",
       "screen_name" : "peterritchie",
       "indices" : [ 3, 16 ],
       "id_str" : "14216544",
@@ -2900,7 +2839,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 243805100689223681,
     "created_at" : "2012-09-06 20:17:20 +0000",
     "user" : {
-      "name" : "Peter Ritchie",
+      "name" : "Peter Ritchie \u2699",
       "screen_name" : "peterritchie",
       "protected" : false,
       "id_str" : "14216544",
@@ -3689,7 +3628,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "15663083",
       "id" : 15663083
     }, {
-      "name" : "Tom+Chee",
+      "name" : "TOM & CHEE",
       "screen_name" : "TomAndChee",
       "indices" : [ 27, 38 ],
       "id_str" : "94027031",
